@@ -10360,7 +10360,7 @@ You create a magical zone that guards against deception in a 15-foot radius sphe
 An affected creature is aware of the spell and can thus avoid answering questions to which it would normally respond with a lie. Such a creature can be evasive in its answers as long as it remains within the boundaries of the truth.
 
 
-#MONSTERS
+# MONSTERS
 
 # Monster Statistics
 
