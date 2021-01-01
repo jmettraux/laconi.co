@@ -142,11 +142,11 @@ def make_monsters(path, morales=MORALES)
 
   c = File.read(path)
 
-  morales.each do |n, m|
-
+  morales
+    .sort_by { |k, _| k }
+    .each { |n, m|
 #$stderr.puts("    * #{n} => #{m}")
-    puts(extract_md_monster(c, n, m))
-  end
+      puts(extract_md_monster(c, n, m)) }
 
   puts
 end
