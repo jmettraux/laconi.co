@@ -54,6 +54,7 @@ md_monsters:
         >> mds/monsters.md
 	ruby ${LI} -e "puts extract_md_monster('${SRC_M}', 'Animated Armor', 12)" \
       >> mds/monsters.md
+	#
 	ruby ${LI} -e "puts extract_md_monster('${SRC_M}', 'Basilisk', 9)" \
       >> mds/monsters.md
 	ruby ${LI} -e "puts extract_md_monster('${SRC_M}', 'Behir', 9)" \
@@ -78,7 +79,29 @@ md_monsters:
       >> mds/monsters.md
 	ruby ${LI} -e "puts extract_md_monster('${SRC_M}', 'Lemure', 5)" \
       >> mds/monsters.md
-	ruby ${LI} -e "puts extract_md_monster('${SRC_M}', 'Doppelganger', 10)" \
+	#
+	ruby ${LI} -e "puts extract_md_monster('${SRC_M}', 'Black Dragon', 8)" \
+      >> mds/monsters.md
+	ruby ${LI} -e "puts extract_md_monster('${SRC_M}', 'Blue Dragon', 9)" \
+      >> mds/monsters.md
+	ruby ${LI} -e "puts extract_md_monster('${SRC_M}', 'Green Dragon', 9)" \
+      >> mds/monsters.md
+	ruby ${LI} -e "puts extract_md_monster('${SRC_M}', 'Red Dragon', 10)" \
+      >> mds/monsters.md
+	ruby ${LI} -e "puts extract_md_monster('${SRC_M}', 'White Dragon', 8)" \
+      >> mds/monsters.md
+	ruby ${LI} -e "puts extract_md_monster('${SRC_M}', 'Brass Dragon', 9)" \
+      >> mds/monsters.md
+	ruby ${LI} -e "puts extract_md_monster('${SRC_M}', 'Bronze Dragon', 9)" \
+      >> mds/monsters.md
+	ruby ${LI} -e "puts extract_md_monster('${SRC_M}', 'Copper Dragon', 9)" \
+      >> mds/monsters.md
+	ruby ${LI} -e "puts extract_md_monster('${SRC_M}', 'Gold Dragon', 10)" \
+      >> mds/monsters.md
+	ruby ${LI} -e "puts extract_md_monster('${SRC_M}', 'Silver Dragon', 10)" \
+      >> mds/monsters.md
+	#
+	ruby ${LI} -e "puts extract_md_monster('${SRC_M}', 'Dragon Turtle', 10)" \
       >> mds/monsters.md
 
 .PHONY: md md_clear md_rules md_spells md_monsters
