@@ -347,111 +347,7 @@ If a legendary creature has lair actions, it can use them to harness the ambient
 ### Regional Effects
 
 The mere presence of a legendary creature can have strange and wondrous effects on its environment, as noted in this section. Regional effects end abruptly or dissipate over time when the legendary creature dies.
-## Animated Objects
 
-### Animated Armor
-
-*Medium construct, unaligned*
-
-**Armor Class** 18 (natural armor)
-
-**Hit Points** 33 (6d8+6)
-
-**Speed** 25 ft.
-
-| STR     | DEX     | CON     | INT    | WIS    | CHA    |
-|---------|---------|---------|--------|--------|--------|
-| 14 (+2) | 11 (+0) | 13 (+1) | 1 (-5) | 3 (-4) | 1 (-5) |
-
-**Damage Immunities** poison, psychic
-
-**Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned
-
-**Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 6
-
-**Languages** -
-
-**Challenge** 1 (200 XP)
-
-***Antimagic Susceptibility***. The armor is incapacitated while in the area of an *antimagic field*. If targeted by *dispel magic*, the armor must succeed on a
-
-Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.
-
-***False Appearance***. While the armor remains motionless, it is indistinguishable from a normal suit of armor.
-
-###### Actions
-
-***Multiattack***. The armor makes two melee attacks.
-
-***Slam***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6+2) bludgeoning damage.
-
-### Flying Sword
-
-*Small construct, unaligned*
-
-**Armor Class** 17 (natural armor)
-
-**Hit Points** 17 (5d6)
-
-**Speed** 0 ft., fly 50 ft. (hover)
-
-| STR     | DEX     | CON     | INT    | WIS    | CHA    |
-|---------|---------|---------|--------|--------|--------|
-| 12 (+1) | 15 (+2) | 11 (+0) | 1 (-5) | 5 (-3) | 1 (-5) |
-
-**Saving Throws** Dex +4
-
-**Damage Immunities** poison, psychic
-
-**Condition Immunities** blinded, charmed, deafened, frightened, paralyzed, petrified, poisoned
-
-**Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 7
-
-**Languages** -
-
-**Challenge** 1/4 (50 XP)
-
-***Antimagic Susceptibility***. The sword is incapacitated while in the area of an *antimagic field*. If targeted by *dispel magic*, the sword must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.
-
-***False Appearance***. While the sword remains motionless and isn't flying, it is indistinguishable from a normal sword.
-
-###### Actions
-
-***Longsword***. *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 5 (1d8+1) slashing damage.
-
-### Rug of Smothering
-
-*Large construct, unaligned*
-
-**Armor Class** 12
-
-**Hit Points** 33 (6d10)
-
-**Speed** 10 ft.
-
-| STR     | DEX     | CON     | INT    | WIS    | CHA    |
-|---------|---------|---------|--------|--------|--------|
-| 17 (+3) | 14 (+2) | 10 (+0) | 1 (-5) | 3 (-4) | 1 (-5) |
-
-**Damage Immunities** poison, psychic
-
-**Condition Immunities** blinded, charmed, deafened, frightened, paralyzed, petrified, poisoned
-
-**Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 6
-
-**Languages** -
-
-**Challenge** 2 (450 XP)
-
-***Antimagic Susceptibility***. The rug is incapacitated while in the area of an *antimagic field*. If targeted by *dispel magic*, the rug must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.
-
-***Damage Transfer***. While it is grappling a creature, the rug takes only half the damage dealt to it, and the creature grappled by the rug takes the other half.
-
-***False Appearance***. While the rug remains motionless, it is indistinguishable from a normal rug.
-
-###### Actions
-
-***Smother***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one Medium or smaller creature. *Hit:* The creature is grappled (escape DC 13). Until this grapple ends, the target is restrained, blinded, and at risk of suffocating, and the rug can't smother another target. In addition, at the start of each of the target's turns, the target takes 10 (2d6+3) bludgeoning damage.
 ## Basilisk
 
 *Medium monstrosity, unaligned*
@@ -459,6 +355,8 @@ Constitution saving throw against the caster's spell save DC or fall unconscious
 **Armor Class** 15 (natural armor)
 
 **Hit Points** 52 (8d8+16)
+
+**Morale** 9
 
 **Speed** 20 ft.
 
@@ -481,6 +379,7 @@ If the basilisk sees its reflection within 30 feet of it in bright light, it mis
 ###### Actions
 
 ***Bite***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6+3) piercing damage plus 7 (2d6) poison damage.
+
 ## Behir
 
 *Huge monstrosity, neutral evil*
@@ -488,6 +387,8 @@ If the basilisk sees its reflection within 30 feet of it in bright light, it mis
 **Armor Class** 17 (natural armor)
 
 **Hit Points** 168 (16d12+64)
+
+**Morale** 9
 
 **Speed** 50 ft., climb 40 ft.
 
@@ -518,3 +419,73 @@ If the basilisk sees its reflection within 30 feet of it in bright light, it mis
 ***Swallow***. The behir makes one bite attack against a Medium or smaller target it is grappling. If the attack hits, the target is also swallowed, and the grapple ends. While swallowed, the target is blinded and restrained, it has total cover against attacks and other effects outside the behir, and it takes 21 (6d6) acid damage at the start of each of the behir's turns. A behir can have only one creature swallowed at a time.
 
 If the behir takes 30 damage or more on a single turn from the swallowed creature, the behir must succeed on a DC 14 Constitution saving throw at the end of that turn or regurgitate the creature, which falls prone in a space within 10 feet of the behir. If the behir dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 15 feet of movement, exiting prone.
+
+## Bugbear
+
+*Medium humanoid (goblinoid), chaotic evil*
+
+**Armor Class** 16 (hide armor, shield)
+
+**Hit Points** 27 (5d8+5)
+
+**Morale** 9
+
+**Speed** 30 ft.
+
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+|---------|---------|---------|--------|---------|--------|
+| 15 (+2) | 14 (+2) | 13 (+1) | 8 (-1) | 11 (+0) | 9 (-1) |
+
+**Skills** Stealth +6, Survival +2
+
+**Senses** darkvision 60 ft., passive Perception 10
+
+**Languages** Common, Goblin
+
+**Challenge** 1 (200 XP)
+
+***Brute***. A melee weapon deals one extra die of its damage when the bugbear hits with it (included in the attack).
+
+***Surprise Attack***. If the bugbear surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 7 (2d6) damage from the attack.
+
+###### Actions
+
+***Morningstar***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 11 (2d8+2) piercing damage.
+
+***Javelin***. *Melee or Ranged Weapon Attack:* +4 to hit, reach 5 ft. or range 30/120 ft., one target. *Hit:* 9 (2d6+2) piercing damage in melee or 5 (1d6+2) piercing damage at range.
+
+## Centaur
+
+*Large monstrosity, neutral good*
+
+**Armor Class** 12
+
+**Hit Points** 45 (6d10+12)
+
+**Morale** 8
+
+**Speed** 50 ft.
+
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+|---------|---------|---------|--------|---------|---------|
+| 18 (+4) | 14 (+2) | 14 (+2) | 9 (-1) | 13 (+1) | 11 (+0) |
+
+**Skills** Athletics +6, Perception +3, Survival +3
+
+**Senses** passive Perception 13
+
+**Languages** Elvish, Sylvan
+
+**Challenge** 2 (450 XP)
+
+***Charge***. If the centaur moves at least 30 feet straight toward a target and then hits it with a pike attack on the same turn, the target takes an extra 10 (3d6) piercing damage.
+
+###### Actions
+
+***Multiattack***. The centaur makes two attacks: one with its pike and one with its hooves or two with its longbow.
+
+***Pike***. *Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:* 9 (1d10+4) piercing damage.
+
+***Hooves***. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 11 (2d6+4) bludgeoning damage.
+
+***Longbow***. *Ranged Weapon Attack:* +4 to hit, range 150/600 ft., one target. *Hit:* 6 (1d8+2) piercing damage.

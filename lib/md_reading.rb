@@ -11,3 +11,15 @@ def extract_md_section(path, level, title)
   s[i..j - 1].rstrip + "\n"
 end
 
+def extract_md_monster(path, name, morale=nil)
+
+  s = extract_md_section(path, 2, name)
+
+  if morale
+    i = s.index(/^\*\*Speed\*\* /)
+    s.insert(i, "**Morale** #{morale}\n\n")
+  end
+
+  "\n" + s
+end
+

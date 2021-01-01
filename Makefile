@@ -51,14 +51,20 @@ md_monsters:
 	ruby -Ilib -rlaconico \
       -e "puts extract_md_section('${SRC_M}', 1, 'Legendary Creatures')" \
         >> mds/monsters.md
-	ruby -Ilib -rlaconico \
-      -e "puts extract_md_section('${SRC_M}', 2, 'Animated Objects')" \
+	#ruby -Ilib -rlaconico \
+    #  -e "puts extract_md_section('${SRC_M}', 2, 'Animated Objects')" \
+    #    >> mds/monsters.md
+	ruby -Ilib -rlaconico -e \
+      "puts extract_md_monster('${SRC_M}', 'Basilisk', 9)" \
         >> mds/monsters.md
 	ruby -Ilib -rlaconico -e \
-      "puts; puts extract_md_section('${SRC_M}', 2, 'Basilisk')" \
+      "puts extract_md_monster('${SRC_M}', 'Behir', 9)" \
         >> mds/monsters.md
 	ruby -Ilib -rlaconico -e \
-      "puts; puts extract_md_section('${SRC_M}', 2, 'Behir')" \
+      "puts extract_md_monster('${SRC_M}', 'Bugbear', 9)" \
+        >> mds/monsters.md
+	ruby -Ilib -rlaconico -e \
+      "puts extract_md_monster('${SRC_M}', 'Centaur', 8)" \
         >> mds/monsters.md
 
 .PHONY: md md_clear md_rules md_spells md_monsters
