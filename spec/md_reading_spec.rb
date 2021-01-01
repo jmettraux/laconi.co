@@ -22,6 +22,15 @@ describe 'md_reading.rb' do
       expect(s).to match(/\n\z/)
       expect(s.length).to eq(2940)
     end
+
+    it 'stops when the section ends' do
+
+      s = extract_md_section('../ogl_srd5/13.monsters.md', 2, 'Azer')
+
+      expect(s).to match(/\A## Azer\n/)
+      expect(s).to match(/plus 3 \(1d6\) fire damage\.\n\z/)
+      expect(s.length).to eq(1116)
+    end
   end
 end
 
