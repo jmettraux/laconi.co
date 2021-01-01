@@ -34,7 +34,6 @@ By virtue of your race, your character can speak, read, and write certain langua
 Some races have subraces. Members of a subrace have the traits of the parent race in addition to the traits specified for their subrace. Relationships among subraces vary significantly from race to race and world to world.
 
 
-
 #CLASSES
 
 # Fighter
@@ -185,7 +184,6 @@ Starting at 15th level, your weapon attacks score a critical hit on a roll of 18
 #### Survivor
 
 At 18th level, you attain the pinnacle of resilience in battle. At the start of each of your turns, you regain hit points equal to 5 + your Constitution modifier if you have no more than half of your hit points left. You don't gain this benefit if you have 0 hit points.
-
 # Rogue
 
 ### Class Features
@@ -338,7 +336,6 @@ By 13th level, you have learned enough about the workings of magic that you can 
 #### Thief's Reflexes
 
 When you reach 17th level, you have become adept at laying ambushes and quickly escaping danger. You can take two turns during the first round of any combat. You take your first turn at your normal initiative and your second turn at your initiative minus 10. You can't use this feature when you are surprised.
-
 # Wizard
 
 ### Class Features
@@ -516,7 +513,7 @@ The first time you do so, you suffer no adverse effect. If you use this feature 
 >
 >*If you lose your spellbook, you can use the same procedure to transcribe the spells that you have prepared into a new spellbook. Filling out the remainder of your spellbook requires you to find new spells to do so, as normal. For this reason, many wizards keep backup spellbooks in a safe place.
 >
->***The Book's Appearance***. Your spellbook is a unique compilation of spells, with its own decorative flourishes and margin notes. It might be a plain, functional leather volume that you received as a gift from your master, a finely bound gilt-edged tome you found in an ancient library, or even a loose collection of notes scrounged together after you lost your previous spellbook in a mishap.
+>***The Book's Appearance***. Your spellbook is a unique compilation of spells, with its own decorative flourishes and margin notes. It might be a plain, functional leather volume that you received as a gift from your master, a finely bound gilt-edged tome you found in an ancient library, or even a loose collection of notes scrounged together after you lost your previous spellbook in a mishap
 
 
 # EQUIPMENT

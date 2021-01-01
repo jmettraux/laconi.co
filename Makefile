@@ -9,6 +9,7 @@ md_clear:
 	echo "" > mds/rules.md
 	echo "" > mds/spells.md
 	echo "" > mds/monsters.md
+
 md_rules:
 	ruby -Ilib -rlaconico \
       -e "puts extract_md_section('${SRC}/01.races.md', 1, 'RACES')" \
@@ -36,9 +37,11 @@ md_rules:
 	cat ${SRC}/09.spellcasting.md >> mds/rules.md
 	echo "\n" >> mds/rules.md
 	cat ${SRC}/11.gamemastering.md >> mds/rules.md
+
 md_spells:
 	echo "\n" >> mds/spells.md
 	cat ${SRC}/10.spells.md >> mds/spells.md
+
 md_monsters:
 	echo "\n" >> mds/monsters.md
 	echo "#MONSTERS\n" >> mds/monsters.md
@@ -51,8 +54,11 @@ md_monsters:
 	ruby -Ilib -rlaconico \
       -e "puts extract_md_section('${SRC_M}', 2, 'Animated Objects')" \
         >> mds/monsters.md
-	ruby -Ilib -rlaconico \
-      -e "puts extract_md_section('${SRC_M}', 2, 'Basilisk')" \
+	ruby -Ilib -rlaconico -e \
+      "puts; puts extract_md_section('${SRC_M}', 2, 'Basilisk')" \
+        >> mds/monsters.md
+	ruby -Ilib -rlaconico -e \
+      "puts; puts extract_md_section('${SRC_M}', 2, 'Behir')" \
         >> mds/monsters.md
 
 .PHONY: md md_clear md_rules md_spells md_monsters
