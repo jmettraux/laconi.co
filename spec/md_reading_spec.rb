@@ -19,7 +19,8 @@ describe 'md_reading.rb' do
       s = extract_md_section('../ogl_srd5/01.races.md', 1, 'Elf')
 
       expect(s).to match(/\A# Elf\n/)
-      expect(s.length).to eq(2941)
+      expect(s).to match(/\n\z/)
+      expect(s.length).to eq(2940)
     end
   end
 end
