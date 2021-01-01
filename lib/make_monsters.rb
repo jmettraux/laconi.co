@@ -97,6 +97,45 @@ MORALES = {
   'Nightmare' => 11,
   'Ogre' => 10,
   'Oni' => 11,
+  #'Black Pudding' => 12,
+  #'Gelatinous Cube' => 12,
+  #'Gray Ooze' => 12,
+  #'Ochre Jelly' => 12,
+  'Orc' => '6 (8 with leader)',
+  'Pegasus' => 8,
+  'Pseudodragon' => 11,
+  'Purple Worm' => 10,
+  'Rakshasa' => 11,
+  #'Remorhaz' => 9,
+  'Roc' => '10 (12 in lair)',
+  #'Roper' => 10,
+  #'Rust Monster' => 7,
+  #'Sahuagin' => 7,
+  'Salamander' => 8,
+  'Satyr' => 8,
+  'Shadow' => 12,
+  'Shambling Mound' => 9,
+  #'Shield Guardian' => 12,
+  'Skeleton' => 12,
+  #'Minotaur Skeleton' => 12,
+  'Warhorse Skeleton' => 12,
+  'Specter' => 11,
+  'Androsphinx' => 12,
+  'Gynosphinx' => 12,
+  'Sprite' => 7,
+  #'Stirge' => 9,
+  'Succubus/Incubus' => 10,
+  'Tarrasque' => 10,
+  'Treant' => 9,
+  'Troll' => '10 (8 fear of fire)',
+  'Unicorn' => 7,
+  'Vampire' => 11,
+  'Vampire Spawn' => 9,
+  'Wight' => 12,
+  'Will-o\'-Wisp' => 12,
+  'Wraith' => 12,
+  'Wyvern' => 9,
+  'Zombie' => 12,
     }
 
 def make_monsters(path, morales=MORALES)
@@ -108,5 +147,7 @@ def make_monsters(path, morales=MORALES)
 #$stderr.puts("    * #{n} => #{m}")
     puts(extract_md_monster(c, n, m))
   end
+
+  puts
 end
 

@@ -4823,3 +4823,1203 @@ At will: *darkness*, *invisibility*
 ***Glaive***. *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 15 (2d10+4) slashing damage, or 9 (1d10+4) slashing damage in Small or Medium form.
 
 ***Change Shape***. The oni magically polymorphs into a Small or Medium humanoid, into a Large giant, or back into its true form. Other than its size, its statistics are the same in each form. The only equipment that is transformed is its glaive, which shrinks so that it can be wielded in humanoid form. If the oni dies, it reverts to its true form, and its glaive reverts to its normal size.
+
+## Orc
+
+*Medium humanoid (orc), chaotic evil*
+
+**Armor Class** 13 (hide armor)
+
+**Hit Points** 15 (2d8+6)
+
+**Morale** 6 (8 with leader)
+
+**Speed** 30 ft.
+
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+|---------|---------|---------|--------|---------|---------|
+| 16 (+3) | 12 (+1) | 16 (+3) | 7 (-2) | 11 (+0) | 10 (+0) |
+
+**Skills** Intimidation +2
+
+**Senses** darkvision 60 ft., passive Perception 10
+
+**Languages** Common, Orc
+
+**Challenge** 1/2 (100 XP)
+
+***Aggressive***. As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.
+
+###### Actions
+
+***Greataxe***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 9 (1d12+3) slashing damage.
+
+***Javelin***. *Melee or Ranged Weapon Attack:* +5 to hit, reach 5 ft. or range 30/120 ft., one target. *Hit:* 6 (1d6+3) piercing damage.
+
+## Pegasus
+
+*Large celestial, chaotic good*
+
+**Armor Class** 12
+
+**Hit Points** 59 (7d10+21)
+
+**Morale** 8
+
+**Speed** 60 ft., fly 90 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 18 (+4) | 15 (+2) | 16 (+3) | 10 (+0) | 15 (+2) | 13 (+1) |
+
+**Saving Throws** Dex +4, Wis +4, Cha +3
+
+**Skills** Perception +6
+
+**Senses** passive Perception 16
+
+**Languages** understands Celestial, Common, Elvish, and Sylvan but can't speak
+
+**Challenge** 2 (450 XP)
+
+###### Actions
+
+***Hooves***. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 11 (2d6+4) bludgeoning damage.
+
+## Pseudodragon
+
+*Tiny dragon, neutral good*
+
+**Armor Class** 13 (natural armor)
+
+**Hit Points** 7 (2d4+2)
+
+**Morale** 11
+
+**Speed** 15 ft., fly 60 ft.
+
+| STR    | DEX     | CON     | INT     | WIS     | CHA     |
+|--------|---------|---------|---------|---------|---------|
+| 6 (-2) | 15 (+2) | 13 (+1) | 10 (+0) | 12 (+1) | 10 (+0) |
+
+**Skills** Perception +3, Stealth +4
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 13
+
+**Languages** understands Common and Draconic but can't speak
+
+**Challenge** 1/4 (50 XP)
+
+***Keen Senses***. The pseudodragon has advantage on Wisdom (Perception) checks that rely on sight, hearing, or smell.
+
+***Magic Resistance***. The pseudodragon has advantage on saving throws against spells and other magical effects.
+
+***Limited Telepathy***. The pseudodragon can magically communicate simple ideas, emotions, and images telepathically with any creature within 100 feet of it that can understand a language.
+
+###### Actions
+
+***Bite***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4+2) piercing damage.
+
+***Sting***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 4 (1d4+2) piercing damage, and the target must succeed on a DC 11 Constitution saving throw or become poisoned for 1 hour. If the saving throw fails by 5 or more, the target falls unconscious for the same duration, or until it takes damage or another creature uses an action to shake it awake.
+
+## Purple Worm
+
+*Gargantuan monstrosity, unaligned*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 247 (15d20+90)
+
+**Morale** 10
+
+**Speed** 50 ft., burrow 30 ft.
+
+| STR     | DEX    | CON     | INT    | WIS    | CHA    |
+|---------|--------|---------|--------|--------|--------|
+| 28 (+9) | 7 (-2) | 22 (+6) | 1 (-5) | 8 (-1) | 4 (-3) |
+
+**Saving Throws** Con +11, Wis +4
+
+**Senses** blindsight 30 ft., tremorsense 60 ft., passive Perception 9
+
+**Languages** -
+
+**Challenge** 15 (13,000 XP)
+
+***Tunneler***. The worm can burrow through solid rock at half its burrow speed and leaves a 10-foot diameter tunnel in its wake.
+
+###### Actions
+
+***Multiattack***. The worm makes two attacks: one with its bite and one with its stinger.
+
+***Bite***. *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 22 (3d8+9) piercing damage. If the target is a Large or smaller creature, it must succeed on a DC 19 Dexterity saving throw or be swallowed by the worm. A swallowed creature is blinded and restrained, it has total cover against attacks and other effects outside the worm, and it takes 21 (6d6) acid damage at the start of each of the worm's turns.
+
+If the worm takes 30 damage or more on a single turn from a creature inside it, the worm must succeed on a DC 21 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the worm. If the worm dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 20 feet of movement, exiting prone.
+
+***Tail Stinger***. *Melee Weapon Attack:* +14 to hit, reach 10 ft., one creature. *Hit:* 19 (3d6+9) piercing damage, and the target must make a DC 19 Constitution saving throw, taking 42 (12d6) poison damage on a failed save, or half as much damage on a successful one.
+
+## Rakshasa
+
+*Medium fiend, lawful evil*
+
+**Armor Class** 16 (natural armor)
+
+**Hit Points** 110 (13d8+52)
+
+**Morale** 11
+
+**Speed** 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 14 (+2) | 17 (+3) | 18 (+4) | 13 (+1) | 16 (+3) | 20 (+5) |
+
+**Skills** Deception +10, Insight +8
+
+**Damage Vulnerabilities** piercing from magic weapons wielded by good creatures
+
+**Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks
+
+**Senses** darkvision 60 ft., passive Perception 13
+
+**Languages** Common, Infernal
+
+**Challenge** 13 (10,000 XP)
+
+***Limited Magic Immunity***. The rakshasa can't be affected or detected by spells of 6th level or lower unless it wishes to be. It has advantage on saving throws against all other spells and magical effects.
+
+***Innate Spellcasting***. The rakshasa's innate spellcasting ability is Charisma (spell save DC 18, +10 to hit with spell attacks). The rakshasa can innately cast the following spells, requiring no material Components
+
+At will: *detect thoughts*, *disguise self*, *mage hand*, *minor illusion*
+
+3/day each: *charm person*, *detect magic*, *invisibility*, *major image*, *suggestion*
+
+1/day each: *dominate person*, *fly*, *plane shift*, *true seeing*
+
+###### Actions
+
+***Multiattack***. The rakshasa makes two claw attacks.
+
+***Claw***. *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 9 (2d6+2) slashing damage, and the target is cursed if it is a creature. The magical curse takes effect whenever the target takes a short or long rest, filling the target's thoughts with horrible images and dreams. The cursed target gains no benefit from finishing a short or long rest. The curse lasts until it is lifted by a *remove curse* spell or similar magic.
+
+## Roc
+
+*Gargantuan monstrosity, unaligned*
+
+**Armor Class** 15 (natural armor)
+
+**Hit Points** 248 (16d20+80)
+
+**Morale** 10 (12 in lair)
+
+**Speed** 20 ft., fly 120 ft.
+
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+|---------|---------|---------|--------|---------|--------|
+| 28 (+9) | 10 (+0) | 20 (+5) | 3 (-4) | 10 (+0) | 9 (-1) |
+
+**Saving Throws** Dex +4, Con +9, Wis +4, Cha +3
+
+**Skills** Perception +4
+
+**Senses** passive Perception 14
+
+**Languages** -
+
+**Challenge** 11 (7,200 XP)
+
+***Keen Sight***. The roc has advantage on Wisdom (Perception) checks that rely on sight.
+
+###### Actions
+
+***Multiattack***. The roc makes two attacks: one with its beak and one with its talons.
+
+***Beak***. *Melee Weapon Attack:* +13 to hit, reach 10 ft., one target. *Hit:* 27 (4d8+9) piercing damage.
+
+***Talons***. *Melee Weapon Attack:* +13 to hit, reach 5 ft., one target. *Hit:* 23 (4d6+9) slashing damage, and the target is grappled (escape DC 19). Until this grapple ends, the target is restrained, and the roc can't use its talons on another target.
+
+## Salamander
+
+*Large elemental, neutral evil*
+
+**Armor Class** 15 (natural armor)
+
+**Hit Points** 90 (12d10+24)
+
+**Morale** 8
+
+**Speed** 30 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 18 (+4) | 14 (+2) | 15 (+2) | 11 (+0) | 10 (+0) | 12 (+1) |
+
+**Damage Vulnerabilities** cold
+
+**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
+
+**Damage Immunities** fire
+
+**Sense**s darkvision 60 ft., passive Perception 10
+
+**Languages** Ignan
+
+**Challenge** 5 (1,800 XP)
+
+***Heated Body***. A creature that touches the salamander or hits it with a melee attack while within 5 feet of it takes 7 (2d6) fire damage.
+
+***Heated Weapons***. Any metal melee weapon the salamander wields deals an extra 3 (1d6) fire damage on a hit (included in the attack).
+
+###### Actions
+
+***Multiattack***. The salamander makes two attacks: one with its spear and one with its tail.
+
+***Spear***. *Melee or Ranged Weapon Attack:* +7 to hit, reach 5 ft. or range 20 ft./60 ft., one target. *Hit:* 11 (2d6+4) piercing damage, or 13 (2d8+4) piercing damage if used with two hands to make a melee attack, plus 3 (1d6) fire damage.
+
+***Tail***. *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 11 (2d6+4) bludgeoning damage plus 7 (2d6) fire damage, and the target is grappled (escape DC 14). Until this grapple ends, the target is restrained, the salamander can automatically hit the target with its tail, and the salamander can't make tail attacks against other targets.
+
+## Satyr
+
+*Medium fey, chaotic neutral*
+
+**Armor Class** 14 (leather armor)
+
+**Hit Points** 31 (7d8)
+
+**Morale** 8
+
+**Speed** 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 12 (+1) | 16 (+3) | 11 (+0) | 12 (+1) | 10 (+0) | 14 (+2) |
+
+**Skills** Perception +2, Performance +6, Stealth +5
+
+**Sense**s passive Perception 12
+
+**Languages** Common, Elvish, Sylvan
+
+**Challenge** 1/2 (100 XP)
+
+***Magic Resistance***. The satyr has advantage on saving throws against spells and other magical effects.
+
+###### Actions
+
+***Ram***. *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 6 (2d4+1) bludgeoning damage.
+
+***Shortsword***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6+3) piercing damage.
+
+***Shortbow***. *Ranged Weapon Attack:* +5 to hit, range 80/320 ft., one target. *Hit:* 6 (1d6+3) piercing damage.
+
+## Shadow
+
+*Medium undead, chaotic evil*
+
+**Armor Class** 12
+
+**Hit Points** 16 (3d8+3)
+
+**Morale** 12
+
+**Speed** 40 ft.
+
+| STR    | DEX     | CON     | INT    | WIS     | CHA    |
+|--------|---------|---------|--------|---------|--------|
+| 6 (-2) | 14 (+2) | 13 (+1) | 6 (-2) | 10 (+0) | 8 (-1) |
+
+**Skills** Stealth +4 (+6 in dim light or darkness)
+
+**Damage Vulnerabilities** radiant
+
+**Damage Resistances** acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
+
+**Damage Immunities** necrotic, poison
+
+**Condition Immunities** exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
+
+**Senses** darkvision 60 ft., passive Perception 10
+
+**Languages** -
+
+**Challenge** 1/2 (100 XP)
+
+***Amorphous***. The shadow can move through a space as narrow as 1 inch wide without squeezing.
+
+***Shadow Stealth***. While in dim light or darkness, the shadow can take the Hide action as a bonus action.
+
+***Sunlight Weakness***. While in sunlight, the shadow has disadvantage on attack rolls, ability checks, and saving throws.
+
+###### Actions
+
+***Strength Drain***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 9 (2d6+2) necrotic damage, and the target's Strength score is reduced by 1d4. The target dies if this reduces its Strength to 0. Otherwise, the reduction lasts until the target finishes a short or long rest.
+
+If a non-evil humanoid dies from this attack, a new shadow rises from the corpse 1d4 hours later.
+
+## Shambling Mound
+
+*Large plant, unaligned*
+
+**Armor Class** 15 (natural armor)
+
+**Hit Points** 136 (16d10+48)
+
+**Morale** 9
+
+**Speed** 20 ft., swim 20 ft.
+
+| STR     | DEX    | CON     | INT    | WIS     | CHA    |
+|---------|--------|---------|--------|---------|--------|
+| 18 (+4) | 8 (-1) | 16 (+3) | 5 (-3) | 10 (+0) | 5 (-3) |
+
+**Skills** Stealth +2
+
+**Damage Resistances** cold, fire
+
+**Damage Immunities** lightning
+
+**Condition Immunities** blinded, deafened, exhaustion
+
+**Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 10
+
+**Languages** -
+
+**Challenge** 5 (1,800 XP)
+
+***Lightning Absorption***. Whenever the shambling mound is subjected to lightning damage, it takes no damage and regains a number of hit points equal to the lightning damage dealt.
+
+###### Actions
+
+***Multiattack***. The shambling mound makes two slam attacks. If both attacks hit a Medium or smaller target, the target is grappled (escape DC 14), and the shambling mound uses its Engulf on it.
+
+***Slam***. *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 13 (2d8+4) bludgeoning damage.
+
+***Engulf***. The shambling mound engulfs a Medium or smaller creature grappled by it. The engulfed target is blinded, restrained, and unable to breathe, and it must succeed on a DC 14 Constitution saving throw at the start of each of the mound's turns or take 13 (2d8+4) bludgeoning damage. If the mound moves, the engulfed target moves with it. The mound can have only one creature engulfed at a time.
+
+## Skeleton
+
+*Medium undead, lawful evil*
+
+**Armor Class** 13 (armor scraps)
+
+**Hit Points** 13 (2d8+4)
+
+**Morale** 12
+
+**Speed** 30 ft.
+
+| STR     | DEX     | CON     | INT    | WIS    | CHA    |
+|---------|---------|---------|--------|--------|--------|
+| 10 (+0) | 14 (+2) | 15 (+2) | 6 (-2) | 8 (-1) | 5 (-3) |
+
+**Damage Vulnerabilities** bludgeoning
+
+**Damage Immunities** poison
+
+**Condition Immunities** exhaustion, poisoned
+
+**Senses** darkvision 60 ft., passive Perception 9
+
+**Languages** understands all languages it knew in life but can't speak
+
+**Challenge** 1/4 (50 XP)
+
+###### Actions
+
+***Shortsword***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6+2) piercing damage.
+
+***Shortbow***. *Ranged Weapon Attack:* +4 to hit, range 80/320 ft., one target. *Hit:* 5 (1d6+2) piercing damage.
+
+## Warhorse Skeleton
+
+*Large undead, lawful evil*
+
+**Armor Class** 13 (barding scraps)
+
+**Hit Points** 22 (3d10+6)
+
+**Morale** 12
+
+**Speed** 60 ft.
+
+| STR     | DEX     | CON     | INT    | WIS    | CHA    |
+|---------|---------|---------|--------|--------|--------|
+| 18 (+4) | 12 (+1) | 15 (+2) | 2 (-4) | 8 (-1) | 5 (-3) |
+
+**Damage Vulnerabilities** bludgeoning
+
+**Damage Immunities** poison
+
+**Condition Immunities** exhaustion, poisoned
+
+**Senses** darkvision 60 ft., passive Perception 9
+
+**Languages** -
+
+**Challenge** 1/2 (100 XP)
+
+###### Actions
+
+***Hooves***. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 11 (2d6+4) bludgeoning damage.
+
+## Specter
+
+*Medium undead, chaotic evil*
+
+**Armor Class** 12
+
+**Hit Points** 22 (5d8)
+
+**Morale** 11
+
+**Speed** 0 ft., fly 50 ft. (hover)
+
+| STR    | DEX     | CON     | INT     | WIS     | CHA     |
+|--------|---------|---------|---------|---------|---------|
+| 1 (-5) | 14 (+2) | 11 (+0) | 10 (+0) | 10 (+0) | 11 (+0) |
+
+**Damage Resistances** acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
+
+**Damage Immunities** necrotic, poison
+
+**Condition Immunities** charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
+
+**Senses** darkvision 60 ft., passive Perception 10
+
+**Languages** understands all languages it knew in life but can't speak
+
+**Challenge** 1 (200 XP)
+
+***Incorporeal Movement***. The specter can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
+
+***Sunlight Sensitivity***. While in sunlight, the specter has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+
+###### Actions
+
+***Life Drain***. *Melee Spell Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 10 (3d6) necrotic damage. The target must succeed on a DC 10 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the creature finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
+
+## Androsphinx
+
+*Large monstrosity, lawful neutral*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 199 (19d10+95)
+
+**Morale** 12
+
+**Speed** 40 ft., fly 60 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 22 (+6) | 10 (+0) | 20 (+5) | 16 (+3) | 18 (+4) | 23 (+6) |
+
+**Saving Throws** Dex +6, Con +11, Int +9, Wis +10
+
+**Skills** Arcana +9, Perception +10, Religion +15
+
+**Damage Immunities** psychic; bludgeoning, piercing, and slashing from nonmagical attacks
+
+**Condition Immunities** charmed, frightened
+
+**Senses** truesight 120 ft., passive Perception 20
+
+**Languages** Common, Sphinx
+
+**Challenge** 17 (18,000 XP)
+
+***Inscrutable***. The sphinx is immune to any effect that would sense its emotions or read its thoughts, as well as any divination spell that it refuses. Wisdom (Insight) checks made to ascertain the sphinx's intentions or sincerity have disadvantage.
+
+***Magic Weapons***. The sphinx's weapon attacks are magical.
+
+***Spellcasting***. The sphinx is a 12th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 18, +10 to hit with spell attacks). It requires no material components to cast its spells. The sphinx has the following cleric spells prepared:
+
+Cantrips (at will): *sacred flame*, *spare the dying*, *thaumaturgy*
+1st level (4 slots): *command*, *detect evil and good*, *detect magic*
+2nd level (3 slots): *lesser restoration*, *zone of truth*
+3rd level (3 slots): *dispel magic*, *tongues*
+4th level (3 slots): *banishment*, *freedom of movement*
+5th level (2 slots): *flame strike*, *greater restoration*
+6th level (1 slot): *heroes' feast*
+
+###### Actions
+
+***Multiattack***. The sphinx makes two claw attacks.
+
+***Claw***. *Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:* 17 (2d10+6) slashing damage.
+
+***Roar (3/Day)***. The sphinx emits a magical roar. Each time it roars before finishing a long rest, the roar is louder and the effect is different, as detailed below. Each creature within 500 feet of the sphinx and able to hear the roar must make a saving throw.
+
+**First Roar**. Each creature that fails a DC 18 Wisdom saving throw is frightened for 1 minute. A frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+**Second Roar**. Each creature that fails a DC 18 Wisdom saving throw is deafened and frightened for 1 minute. A frightened creature is paralyzed and can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+**Third Roar**. Each creature makes a DC 18 Constitution saving throw. On a failed save, a creature takes 44 (8d10) thunder damage and is knocked prone. On a successful save, the creature takes half as much damage and isn't knocked prone.
+
+###### Legendary Actions
+
+The sphinx can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The sphinx regains spent legendary actions at the start of its turn.
+
+**Claw Attack**. The sphinx makes one claw attack.
+
+**Teleport (Costs 2 Actions)**. The sphinx magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
+
+**Cast a Spell (Costs 3 Actions)**. The sphinx casts a spell from its list of prepared spells, using a spell slot as normal.
+
+## Gynosphinx
+
+*Large monstrosity, lawful neutral*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 136 (16d10+48)
+
+**Morale** 12
+
+**Speed** 40 ft., fly 60 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 18 (+4) | 15 (+2) | 16 (+3) | 18 (+4) | 18 (+4) | 18 (+4) |
+
+**Skills** Arcana +12, History +12, Perception +8, Religion +8
+
+**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
+
+**Damage Immunities** psychic
+
+**Condition Immunities** charmed, frightened
+
+**Senses** truesight 120 ft., passive Perception 18
+
+**Languages** Common, Sphinx
+
+**Challenge** 11 (7,200 XP)
+
+***Inscrutable***. The sphinx is immune to any effect that would sense its emotions or read its thoughts, as well as any divination spell that it refuses. Wisdom (Insight) checks made to ascertain the sphinx's intentions or sincerity have disadvantage.
+
+***Magic Weapons***. The sphinx's weapon attacks are magical.
+
+***Spellcasting***. The sphinx is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 16, +8 to hit with spell attacks). It requires no material components to cast its spells. The sphinx has the following wizard spells prepared:
+
+Cantrips (at will): *mage hand*, *minor illusion*, *prestidigitation*
+1st level (4 slots): *detect magic*, *identify*, *shield*
+2nd level (3 slots): *darkness*, *locate object*, *suggestion*
+3rd level (3 slots): *dispel magic*, *remove curse*, *tongues*
+4th level (3 slots): *banishment*, *greater invisibility*
+5th level (1 slot): *legend lore*
+
+###### Actions
+
+***Multiattack***. The sphinx makes two claw attacks.
+
+***Claw***. *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 13 (2d8+4) slashing damage.
+
+###### Legendary Actions
+
+The sphinx can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The sphinx regains spent legendary actions at the start of its turn.
+
+**Claw Attack**. The sphinx makes one claw attack.
+
+**Teleport (Costs 2 Actions)**. The sphinx magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
+
+**Cast a Spell (Costs 3 Actions)**. The sphinx casts a spell from its list of prepared spells, using a spell slot as normal.
+
+## Sprite
+
+*Tiny fey, neutral good*
+
+**Armor Class** 15 (leather armor)
+
+**Hit Points** 2 (1d4)
+
+**Morale** 7
+
+**Speed** 10 ft., fly 40 ft.
+
+| STR    | DEX     | CON     | INT     | WIS     | CHA     |
+|--------|---------|---------|---------|---------|---------|
+| 3 (-4) | 18 (+4) | 10 (+0) | 14 (+2) | 13 (+1) | 11 (+0) |
+
+**Skills** Perception +3, Stealth +8
+
+**Senses** passive Perception 13
+
+**Languages** Common, Elvish, Sylvan
+
+**Challenge** 1/4 (50 XP)
+
+###### Actions
+
+***Longsword***. *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 1 slashing damage.
+
+***Shortbow***. *Ranged Weapon Attack:* +6 to hit, range 40/160 ft., one target. *Hit:* 1 piercing damage, and the target must succeed on a DC 10 Constitution saving throw or become poisoned for 1 minute. If its saving throw result is 5 or lower, the poisoned target falls unconscious for the same duration, or until it takes damage or another creature takes an action to shake it awake.
+
+***Heart Sight***. The sprite touches a creature and magically knows the creature's current emotional state. If the target fails a DC 10 Charisma saving throw, the sprite also knows the creature's alignment. Celestials, fiends, and undead automatically fail the saving throw.
+
+***Invisibility***. The sprite magically turns invisible until it attacks or casts a spell, or until its concentration ends (as if concentrating on a spell). Any equipment the sprite wears or carries is invisible with it.
+
+## Succubus/Incubus
+
+*Medium fiend (shapechanger), neutral evil*
+
+**Armor Class** 15 (natural armor)
+
+**Hit Points** 66 (12d8+12)
+
+**Morale** 10
+
+**Speed** 30 ft., fly 60 ft.
+
+| STR    | DEX     | CON     | INT     | WIS     | CHA     |
+|--------|---------|---------|---------|---------|---------|
+| 8 (-1) | 17 (+3) | 13 (+1) | 15 (+2) | 12 (+1) | 20 (+5) |
+
+**Skills** Deception +9, Insight +5, Perception +5, Persuasion +9, Stealth +7
+
+**Damage Resistances** cold, fire, lightning, poison; bludgeoning, piercing, and slashing from nonmagical attacks
+
+**Senses** darkvision 60 ft., passive Perception 15
+
+**Languages** Abyssal, Common, Infernal, telepathy 60 ft.
+
+**Challenge** 4 (1,100 XP)
+
+***Telepathic Bond***. The fiend ignores the range restriction on its telepathy when communicating with a creature it has charmed. The two don't even need to be on the same plane of existence.
+
+***Shapechanger***. The fiend can use its action to polymorph into a Small or Medium humanoid, or back into its true form. Without wings, the fiend loses its flying speed. Other than its size and speed, its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
+
+###### Actions
+
+***Claw (Fiend Form Only)***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6+3) slashing damage.
+
+***Charm***. One humanoid the fiend can see within 30 feet of it must succeed on a DC 15 Wisdom saving throw or be magically charmed for 1 day. The charmed target obeys the fiend's verbal or telepathic commands. If the target suffers any harm or receives a suicidal command, it can repeat the saving throw, ending the effect on a success. If the target successfully saves against the effect, or if the effect on it ends, the target is immune to this fiend's Charm for the next 24 hours.
+
+The fiend can have only one target charmed at a time. If it charms another, the effect on the previous target ends.
+
+***Draining Kiss***. The fiend kisses a creature charmed by it or a willing creature. The target must make a DC 15
+
+Constitution saving throw against this magic, taking 32 (5d10+5) psychic damage on a failed save, or half as much damage on a successful one. The target's hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
+
+***Etherealness***. The fiend magically enters the Ethereal Plane from the Material Plane, or vice versa.
+
+## Tarrasque
+
+*Gargantuan monstrosity (titan), unaligned*
+
+**Armor Class** 25 (natural armor)
+
+**Hit Points** 676 (33d20+330)
+
+**Morale** 10
+
+**Speed** 40 ft.
+
+| STR      | DEX     | CON      | INT    | WIS     | CHA     |
+|----------|---------|----------|--------|---------|---------|
+| 30 (+10) | 11 (+0) | 30 (+10) | 3 (-4) | 11 (+0) | 11 (+0) |
+
+**Saving Throws** Int +5, Wis +9, Cha +9
+
+**Damage Immunities** fire, poison; bludgeoning, piercing, and slashing from nonmagical attacks
+
+**Condition Immunities** charmed, frightened, paralyzed, poisoned
+
+**Senses** blindsight 120 ft., passive Perception 10
+
+**Languages** -
+
+**Challenge** 30 (155,000 XP)
+
+***Legendary Resistance (3/Day)***. If the tarrasque fails a saving throw, it can choose to succeed instead.
+
+***Magic Resistance***. The tarrasque has advantage on saving throws against spells and other magical effects.
+
+***Reflective Carapace***. Any time the tarrasque is targeted by a *magic missile* spell, a line spell, or a spell that requires a ranged attack roll, roll a d6. On a 1 to 5, the tarrasque is unaffected. On a 6, the tarrasque is unaffected, and the effect is reflected back at the caster as though it originated from the tarrasque, turning the caster into the target.
+
+***Siege Monster***. The tarrasque deals double damage to objects and structures.
+
+###### Actions
+
+***Multiattack***. The tarrasque can use its Frightful Presence. It then makes five attacks: one with its bite, two with its claws, one with its horns, and one with its tail. It can use its Swallow instead of its bite.
+
+***Bite***. *Melee Weapon Attack:* +19 to hit, reach 10 ft., one target. *Hit:* 36 (4d12+10) piercing damage. If the target is a creature, it is grappled (escape DC 20). Until this grapple ends, the target is restrained, and the tarrasque can't bite another target.
+
+***Claw***. *Melee Weapon Attack:* +19 to hit, reach 15 ft., one target. *Hit:* 28 (4d8+10) slashing damage.
+
+***Horns***. *Melee Weapon Attack:* +19 to hit, reach 10 ft., one target. *Hit:* 32 (4d10+10) piercing damage.
+
+***Tail***. *Melee Weapon Attack:* +19 to hit, reach 20 ft., one target. *Hit:* 24 (4d6+10) bludgeoning damage. If the target is a creature, it must succeed on a DC 20 Strength saving throw or be knocked prone.
+
+***Frightful Presence***. Each creature of the tarrasque's choice within 120 feet of it and aware of it must succeed on a DC 17 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, with disadvantage if the tarrasque is within line of sight, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the tarrasque's Frightful Presence for the next 24 hours.
+
+***Swallow***. The tarrasque makes one bite attack against a Large or smaller creature it is grappling. If the attack hits, the target takes the bite's damage, the target is swallowed, and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside the tarrasque, and it takes 56 (16d6) acid damage at the start of each of the tarrasque's turns.
+
+If the tarrasque takes 60 damage or more on a single turn from a creature inside it, the tarrasque must succeed on a DC 20 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the tarrasque. If the tarrasque dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 30 feet of movement, exiting prone.
+
+###### Legendary Actions
+
+The tarrasque can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The tarrasque regains spent legendary actions at the start of its turn.
+
+**Attack**. The tarrasque makes one claw attack or tail attack.
+
+**Move**. The tarrasque moves up to half its speed.
+
+**Chomp (Costs 2 Actions)**. The tarrasque makes one bite attack or uses its Swallow.
+
+## Treant
+
+*Huge plant, chaotic good*
+
+**Armor Class** 16 (natural armor)
+
+**Hit Points** 138 (12d12+60)
+
+**Morale** 9
+
+**Speed** 30 ft.
+
+| STR     | DEX    | CON     | INT     | WIS     | CHA     |
+|---------|--------|---------|---------|---------|---------|
+| 23 (+6) | 8 (-1) | 21 (+5) | 12 (+1) | 16 (+3) | 12 (+1) |
+
+**Damage Resistances** bludgeoning, piercing
+
+**Damage Vulnerabilities** fire
+
+**Senses** passive Perception 13
+
+**Languages** Common, Druidic, Elvish, Sylvan
+
+**Challenge** 9 (5,000 XP)
+
+***False Appearance***. While the treant remains motionless, it is indistinguishable from a normal tree.
+
+***Siege Monster***. The treant deals double damage to objects and structures.
+
+###### Actions
+
+***Multiattack***. The treant makes two slam attacks.
+
+***Slam***. *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 16 (3d6+6) bludgeoning damage.
+
+***Rock***. *Ranged Weapon Attack:* +10 to hit, range 60/180 ft., one target. *Hit:* 28 (4d10+6) bludgeoning damage.
+
+***Animate Trees (1/Day)***. The treant magically animates one or two trees it can see within 60 feet of it. These trees have the same statistics as a treant, except they have Intelligence and Charisma scores of 1, they can't speak, and they have only the Slam action option. An animated tree acts as an ally of the treant. The tree remains animate for 1 day or until it dies; until the treant dies or is more than 120 feet from the tree; or until the treant takes a bonus action to turn it back into an inanimate tree. The tree then takes root if possible.
+
+## Troll
+
+*Large giant, chaotic evil*
+
+**Armor Class** 15 (natural armor)
+
+**Hit Points** 84 (8d10+40)
+
+**Morale** 10 (8 fear of fire)
+
+**Speed** 30 ft.
+
+| STR     | DEX     | CON     | INT    | WIS    | CHA    |
+|---------|---------|---------|--------|--------|--------|
+| 18 (+4) | 13 (+1) | 20 (+5) | 7 (-2) | 9 (-1) | 7 (-2) |
+
+**Skills** Perception +2
+
+**Senses** darkvision 60 ft., passive Perception 12
+
+**Languages** Giant
+
+**Challenge** 5 (1,800 XP)
+
+***Keen Smell***. The troll has advantage on Wisdom (Perception) checks that rely on smell.
+
+***Regeneration***. The troll regains 10 hit points at the start of its turn. If the troll takes acid or fire damage, this trait doesn't function at the start of the troll's next turn. The troll dies only if it starts its turn with 0 hit points and doesn't regenerate.
+
+###### Actions
+
+***Multiattack***. The troll makes three attacks: one with its bite and two with its claws.
+
+***Bite***. *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 7 (1d6+4) piercing damage.
+
+***Claw***. *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6+4) slashing damage.
+
+## Unicorn
+
+*Large celestial, lawful good*
+
+**Armor Class** 12
+
+**Hit Points** 67 (9d10+18)
+
+**Morale** 7
+
+**Speed** 50 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 18 (+4) | 14 (+2) | 15 (+2) | 11 (+0) | 17 (+3) | 16 (+3) |
+
+**Damage Immunities** poison
+
+**Condition Immunities** charmed, paralyzed, poisoned
+
+**Senses** darkvision 60 ft., passive Perception 13
+
+**Languages** Celestial, Elvish, Sylvan, telepathy 60 ft.
+
+**Challenge** 5 (1,800 XP)
+
+***Charge***. If the unicorn moves at least 20 feet straight toward a target and then hits it with a horn attack on the same turn, the target takes an extra 9 (2d8) piercing damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.
+
+***Innate Spellcasting***. The unicorn's innate spellcasting ability is Charisma (spell save DC 14). The unicorn can innately cast the following spells, requiring no Components
+
+At will: *detect evil and good*, *druidcraft*, *pass without trace*
+
+1/day each: *calm emotions*, *dispel evil and good*, *entangle*
+
+***Magic Resistance***. The unicorn has advantage on saving throws against spells and other magical effects.
+
+***Magic Weapons***. The unicorn's weapon attacks are magical.
+
+###### Actions
+
+***Multiattack***. The unicorn makes two attacks: one with its hooves and one with its horn.
+
+***Hooves***. *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6+4) bludgeoning damage.
+
+***Horn***. *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 8 (1d8+4) piercing damage.
+
+***Healing Touch (3/Day)***. The unicorn touches another creature with its horn. The target magically regains 11 (2d8+2) hit points. In addition, the touch removes all diseases and neutralizes all poisons afflicting the target.
+
+***Teleport (1/Day)***. The unicorn magically teleports itself and up to three willing creatures it can see within 5 feet of it, along with any equipment they are wearing or carrying, to a location the unicorn is familiar with, up to 1 mile away.
+
+###### Legendary Actions
+
+The unicorn can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The unicorn regains spent legendary actions at the start of its turn.
+
+**Hooves**. The unicorn makes one attack with its hooves.
+
+**Shimmering Shield (Costs 2 Actions)**. The unicorn creates a shimmering, magical field around itself or another creature it can see within 60 feet of it. The target gains a +2 bonus to AC until the end of the unicorn's next turn.
+
+**Heal Self (Costs 3 Actions)**. The unicorn magically regains 11 (2d8+2) hit points.
+
+## Vampire
+
+*Medium undead (shapechanger), lawful evil*
+
+**Armor Class** 16 (natural armor)
+
+**Hit Points** 144 (17d8+68)
+
+**Morale** 11
+
+**Speed** 30 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 18 (+4) | 18 (+4) | 18 (+4) | 17 (+3) | 15 (+2) | 18 (+4) |
+
+**Saving Throws** Dex +9, Wis +7, Cha +9
+
+**Skills** Perception +7, Stealth +9
+
+**Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
+
+**Senses** darkvision 120 ft., passive Perception 17
+
+**Languages** the languages it knew in life
+
+**Challenge** 13 (10,000 XP)
+
+***Shapechanger***. If the vampire isn't in sunlight or running water, it can use its action to polymorph into a Tiny bat or a Medium cloud of mist, or back into its true form.
+
+While in bat form, the vampire can't speak, its walking speed is 5 feet, and it has a flying speed of 30 feet. Its statistics, other than its size and speed, are unchanged. Anything it is wearing transforms with it, but nothing it is carrying does. It reverts to its true form if it dies.
+
+While in mist form, the vampire can't take any actions, speak, or manipulate objects. It is weightless, has a flying speed of 20 feet, can hover, and can enter a hostile creature's space and stop there. In addition, if air can pass through a space, the mist can do so without squeezing, and it can't pass through water. It has advantage on Strength, Dexterity, and Constitution saving throws, and it is immune to all nonmagical damage, except the damage it takes from sunlight.
+
+***Legendary Resistance (3/Day)***. If the vampire fails a saving throw, it can choose to succeed instead.
+
+***Misty Escape***. When it drops to 0 hit points outside its resting place, the vampire transforms into a cloud of mist (as in the Shapechanger trait) instead of falling unconscious, provided that it isn't in sunlight or running water. If it can't transform, it is destroyed.
+
+While it has 0 hit points in mist form, it can't revert to its vampire form, and it must reach its resting place within 2 hours or be destroyed. Once in its resting place, it reverts to its vampire form. It is then paralyzed until it regains at least 1 hit point. After spending 1 hour in its resting place with 0 hit points, it regains 1 hit point.
+
+***Regeneration***. The vampire regains 20 hit points at the start of its turn if it has at least 1 hit point and isn't in sunlight or running water. If the vampire takes radiant damage or damage from holy water, this trait doesn't function at the start of the vampire's next turn.
+
+***Spider Climb***. The vampire can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
+
+***Vampire Weaknesses***. The vampire has the following flaws:
+
+*Forbiddance*. The vampire can't enter a residence without an invitation from one of the occupants.
+
+*Harmed by Running Water*. The vampire takes 20 acid damage if it ends its turn in running water.
+
+*Stake to the Heart*. If a piercing weapon made of wood is driven into the vampire's heart while the vampire is incapacitated in its resting place, the vampire is paralyzed until the stake is removed.
+
+*Sunlight Hypersensitivity*. The vampire takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.
+
+###### Actions
+
+***Multiattack (Vampire Form Only)***. The vampire makes two attacks, only one of which can be a bite attack.
+
+***Unarmed Strike (Vampire Form Only)***. *Melee Weapon Attack:* +9 to hit, reach 5 ft., one creature. *Hit:* 8 (1d8+4) bludgeoning damage. Instead of dealing damage, the vampire can grapple the target (escape DC 18).
+
+***Bite (Bat or Vampire Form Only)***. *Melee Weapon Attack:* +9 to hit, reach 5 ft., one willing creature, or a creature that is grappled by the vampire, incapacitated, or restrained. *Hit:* 7 (1d6+4) piercing damage plus 10 (3d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0. A humanoid slain in this way and then buried in the ground rises the following night as a vampire spawn under the vampire's control.
+
+***Charm***. The vampire targets one humanoid it can see within 30 feet of it. If the target can see the vampire, the target must succeed on a DC 17 Wisdom saving throw against this magic or be charmed by the vampire. The charmed target regards the vampire as a trusted friend to be heeded and protected. Although the target isn't under the vampire's control, it takes the vampire's requests or actions in the most favorable way it can, and it is a willing target for the vampire's bite attack.
+
+Each time the vampire or the vampire's companions do anything harmful to the target, it can repeat the saving throw, ending the effect on itself on a success. Otherwise, the effect lasts 24 hours or until the vampire is destroyed, is on a different plane of existence than the target, or takes a bonus action to end the effect.
+
+***Children of the Night (1/Day)***. The vampire magically calls 2d4 swarms of bats or rats, provided that the sun isn't up. While outdoors, the vampire can call 3d6 wolves instead. The called creatures arrive in 1d4 rounds, acting as allies of the vampire and obeying its spoken commands. The beasts remain for 1 hour, until the vampire dies, or until the vampire dismisses them as a bonus action.
+
+###### Legendary Actions
+
+The vampire can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The vampire regains spent legendary actions at the start of its turn.
+
+**Move**. The vampire moves up to its speed without provoking opportunity attacks.
+
+**Unarmed Strike**. The vampire makes one unarmed strike.
+
+**Bite (Costs 2 Actions)**. The vampire makes one bite attack.
+
+## Vampire Spawn
+
+*Medium undead, neutral evil*
+
+**Armor Class** 15 (natural armor)
+
+**Hit Points** 82 (11d8+33)
+
+**Morale** 9
+
+**Speed** 30 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 16 (+3) | 16 (+3) | 16 (+3) | 11 (+0) | 10 (+0) | 12 (+1) |
+
+**Saving Throws** Dex +6, Wis +3
+
+**Skills** Perception +3, Stealth +6
+
+**Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
+
+**Senses** darkvision 60 ft., passive Perception 13
+
+**Languages** the languages it knew in life
+
+**Challenge** 5 (1,800 XP)
+
+***Regeneration***. The vampire regains 10 hit points at the start of its turn if it has at least 1 hit point and isn't in sunlight or running water. If the vampire takes radiant damage or damage from holy water, this trait doesn't function at the start of the vampire's next turn.
+
+***Spider Climb***. The vampire can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
+
+***Vampire Weaknesses***. The vampire has the following flaws:
+
+*Forbiddance*. The vampire can't enter a residence without an invitation from one of the occupants.
+
+*Harmed by Running Water*. The vampire takes 20 acid damage when it ends its turn in running water.
+
+*Stake to the Heart*. The vampire is destroyed if a piercing weapon made of wood is driven into its heart while it is incapacitated in its resting place.
+
+*Sunlight Hypersensitivity*. The vampire takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.
+
+###### Actions
+
+***Multiattack***. The vampire makes two attacks, only one of which can be a bite attack.
+
+***Claws.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one creature. *Hit:* 8 (2d4+3) slashing damage. Instead of dealing damage, the vampire can grapple the target (escape DC 13).
+
+***Bite***. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one willing creature, or a creature that is grappled by the vampire, incapacitated, or restrained. *Hit:* 6 (1d6+3) piercing damage plus 7 (2d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
+
+## Wight
+
+*Medium undead, neutral evil*
+
+**Armor Class** 14 (studded leather)
+
+**Hit Points** 45 (6d8+18)
+
+**Morale** 12
+
+**Speed** 30 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 15 (+2) | 14 (+2) | 16 (+3) | 10 (+0) | 13 (+1) | 15 (+2) |
+
+**Skills** Perception +3, Stealth +4
+
+**Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+
+**Damage Immunities** poison
+
+**Condition Immunities** exhaustion, poisoned
+
+**Senses** darkvision 60 ft., passive Perception 13
+
+**Languages** the languages it knew in life
+
+**Challenge** 3 (700 XP)
+
+***Sunlight Sensitivity***. While in sunlight, the wight has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+
+###### Actions
+
+***Multiattack***. The wight makes two longsword attacks or two longbow attacks. It can use its Life Drain in place of one longsword attack.
+
+***Life Drain***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 5 (1d6+2) necrotic damage. The target must succeed on a DC 13 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
+
+A humanoid slain by this attack rises 24 hours later as a zombie under the wight's control, unless the humanoid is restored to life or its body is destroyed. The wight can have no more than twelve zombies under its control at one time.
+
+***Longsword***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8+2) slashing damage, or 7 (1d10+2) slashing damage if used with two hands.
+
+***Longbow***. *Ranged Weapon Attack:* +4 to hit, range 150/600 ft., one target. *Hit:* 6 (1d8+2) piercing damage.
+
+## Will-o'-Wisp
+
+*Tiny undead, chaotic evil*
+
+**Armor Class** 19
+
+**Hit Points** 22 (9d4)
+
+**Morale** 12
+
+**Speed** 0 ft., fly 50 ft. (hover)
+
+| STR    | DEX     | CON     | INT     | WIS     | CHA     |
+|--------|---------|---------|---------|---------|---------|
+| 1 (-5) | 28 (+9) | 10 (+0) | 13 (+1) | 14 (+2) | 11 (+0) |
+
+**Damage Immunities** lightning, poison
+
+**Damage Resistances** acid, cold, fire, necrotic, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
+
+**Condition Immunities** exhaustion, grappled, paralyzed, poisoned, prone, restrained, unconscious
+
+**Senses** darkvision 120 ft., passive Perception 12
+
+**Languages** the languages it knew in life
+
+**Challenge** 2 (450 XP)
+
+***Consume Life***. As a bonus action, the will-o'-wisp can target one creature it can see within 5 feet of it that has 0 hit points and is still alive. The target must succeed on a DC 10 Constitution saving throw against this magic or die. If the target dies, the will-o'-wisp regains 10 (3d6) hit points.
+
+***Ephemeral***. The will-o'-wisp can't wear or carry anything.
+
+***Incorporeal Movement***. The will-o'-wisp can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
+
+***Variable Illumination***. The will-o'-wisp sheds bright light in a 5- to 20-foot radius and dim light for an additional number of feet equal to the chosen radius. The will-o'-wisp can alter the radius as a bonus action.
+
+###### Actions
+
+***Shock***. *Melee Spell Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 9 (2d8) lightning damage.
+
+***Invisibility***. The will-o'-wisp and its light magically become invisible until it attacks or uses its Consume Life, or until its concentration ends (as if concentrating on a spell).
+
+## Wraith
+
+*Medium undead, neutral evil*
+
+**Armor Class** 13
+
+**Hit Points** 67 (9d8+27)
+
+**Morale** 12
+
+**Speed** 0 ft., fly 60 ft. (hover)
+
+| STR    | DEX     | CON     | INT     | WIS     | CHA     |
+|--------|---------|---------|---------|---------|---------|
+| 6 (-2) | 16 (+3) | 16 (+3) | 12 (+1) | 14 (+2) | 15 (+2) |
+
+**Damage Resistances** acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+
+**Damage Immunities** necrotic, poison
+
+**Condition Immunities** charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained
+
+**Senses** darkvision 60 ft., passive Perception 12
+
+**Languages** the languages it knew in life
+
+**Challenge** 5 (1,800 XP)
+
+***Incorporeal Movement***. The wraith can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
+
+***Sunlight Sensitivity***. While in sunlight, the wraith has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+
+###### Actions
+
+***Life Drain***. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one creature. *Hit:* 21 (4d8+3) necrotic damage. The target must succeed on a DC 14 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
+
+***Create Specter***. The wraith targets a humanoid within 10 feet of it that has been dead for no longer than 1 minute and died violently. The target's spirit rises as a specter in the space of its corpse or in the nearest unoccupied space. The specter is under the wraith's control. The wraith can have no more than seven specters under its control at one time.
+
+## Wyvern
+
+*Large dragon, unaligned*
+
+**Armor Class** 13 (natural armor)
+
+**Hit Points** 110 (13d10+39)
+
+**Morale** 9
+
+**Speed** 20 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+|---------|---------|---------|--------|---------|--------|
+| 19 (+4) | 10 (+0) | 16 (+3) | 5 (-3) | 12 (+1) | 6 (-2) |
+
+**Skills** Perception +4
+
+**Senses** darkvision 60 ft., passive Perception 14
+
+**Languages** -
+
+**Challenge** 6 (2,300 XP)
+
+###### Actions
+
+***Multiattack***. The wyvern makes two attacks: one with its bite and one with its stinger. While flying, it can use its claws in place of one other attack.
+
+***Bite***. *Melee Weapon Attack:* +7 to hit, reach 10 ft., one creature. *Hit:* 11 (2d6+4) piercing damage.
+
+***Claws.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 13 (2d8+4) slashing damage.
+
+***Stinger***. *Melee Weapon Attack:* +7 to hit, reach 10 ft., one creature. *Hit:* 11 (2d6+4) piercing damage. The target must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.
+
+## Zombie
+
+*Medium undead, neutral evil*
+
+**Armor Class** 8
+
+**Hit Points** 22 (3d8+9)
+
+**Morale** 12
+
+**Speed** 20 ft.
+
+| STR     | DEX    | CON     | INT    | WIS    | CHA    |
+|---------|--------|---------|--------|--------|--------|
+| 13 (+1) | 6 (-2) | 16 (+3) | 3 (-4) | 6 (-2) | 5 (-3) |
+
+Saving Throws Wis +0
+
+**Damage Immunities** poison
+
+**Condition Immunities** poisoned
+
+**Senses** darkvision 60 ft., passive Perception 8
+
+**Languages** understands the languages it knew in life but can't speak
+
+**Challenge** 1/4 (50 XP)
+
+***Undead Fortitude***. If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5+the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.
+
+###### Actions
+
+***Slam***. *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6+1) bludgeoning damage.
+
