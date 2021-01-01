@@ -348,6 +348,44 @@ If a legendary creature has lair actions, it can use them to harness the ambient
 
 The mere presence of a legendary creature can have strange and wondrous effects on its environment, as noted in this section. Regional effects end abruptly or dissipate over time when the legendary creature dies.
 
+## Animated Armor
+
+*Medium construct, unaligned*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 33 (6d8+6)
+
+**Morale** 12
+
+**Speed** 25 ft.
+
+| STR     | DEX     | CON     | INT    | WIS    | CHA    |
+|---------|---------|---------|--------|--------|--------|
+| 14 (+2) | 11 (+0) | 13 (+1) | 1 (-5) | 3 (-4) | 1 (-5) |
+
+**Damage Immunities** poison, psychic
+
+**Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned
+
+**Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 6
+
+**Languages** -
+
+**Challenge** 1 (200 XP)
+
+***Antimagic Susceptibility***. The armor is incapacitated while in the area of an *antimagic field*. If targeted by *dispel magic*, the armor must succeed on a
+
+Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.
+
+***False Appearance***. While the armor remains motionless, it is indistinguishable from a normal suit of armor.
+
+###### Actions
+
+***Multiattack***. The armor makes two melee attacks.
+
+***Slam***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6+2) bludgeoning damage.
+
 ## Basilisk
 
 *Medium monstrosity, unaligned*
@@ -489,3 +527,65 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 ***Hooves***. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 11 (2d6+4) bludgeoning damage.
 
 ***Longbow***. *Ranged Weapon Attack:* +4 to hit, range 150/600 ft., one target. *Hit:* 6 (1d8+2) piercing damage.
+
+## Chimera
+
+*Large monstrosity, chaotic evil*
+
+**Armor Class** 14 (natural armor)
+
+**Hit Points** 114 (12d10+48)
+
+**Morale** 9
+
+**Speed** 30 ft., fly 60 ft.
+
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+|---------|---------|---------|--------|---------|---------|
+| 19 (+4) | 11 (+0) | 19 (+4) | 3 (-4) | 14 (+2) | 10 (+0) |
+
+**Skills** Perception +8
+
+**Senses** darkvision 60 ft., passive Perception 18
+
+**Languages** understands Draconic but can't speak
+
+**Challenge** 6 (2,300 XP)
+
+###### Actions
+
+***Multiattack***. The chimera makes three attacks: one with its bite, one with its horns, and one with its claws. When its fire breath is available, it can use the breath in place of its bite or horns.
+
+***Bite***. *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6+4) piercing damage.
+
+***Horns***. *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 10 (1d12+4) bludgeoning damage.
+
+***Claws.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6+4) slashing damage.
+
+***Fire Breath (Recharge 5-6)***. The dragon head exhales fire in a 15-foot cone. Each creature in that area must make a DC 15 Dexterity saving throw, taking 31 (7d8) fire damage on a failed save, or half as much damage on a successful one.
+
+## Cockatrice
+
+*Small monstrosity, unaligned*
+
+**Armor Class** 11
+
+**Hit Points** 27 (6d6+6)
+
+**Morale** 7
+
+**Speed** 20 ft., fly 40 ft.
+
+| STR    | DEX     | CON     | INT    | WIS     | CHA    |
+|--------|---------|---------|--------|---------|--------|
+| 6 (-2) | 12 (+1) | 12 (+1) | 2 (-4) | 13 (+1) | 5 (-3) |
+
+**Senses** darkvision 60 ft., passive Perception 11
+
+**Languages** -
+
+**Challenge** 1/2 (100 XP)
+
+###### Actions
+
+***Bite***. *Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature. *Hit:* 3 (1d4+1) piercing damage, and the target must succeed on a DC 11 Constitution saving throw against being magically petrified. On a failed save, the creature begins to turn to stone and is restrained. It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is petrified for 24 hours.
