@@ -66,6 +66,20 @@ md_monsters:
       >> mds/monsters.md
 	ruby ${LI} -e "puts extract_md_monster('${SRC_M}', 'Cockatrice', 7)" \
       >> mds/monsters.md
+	ruby ${LI} -e "puts extract_md_monster('${SRC_M}', 'Couatl', 12)" \
+      >> mds/monsters.md
+	ruby ${LI} -e "puts extract_md_monster('${SRC_M}', 'Barbed Devil', 10)" \
+      >> mds/monsters.md
+	ruby ${LI} -e "puts extract_md_monster('${SRC_M}', 'Erinyes', 10)" \
+      >> mds/monsters.md
+	ruby ${LI} -e "puts extract_md_monster('${SRC_M}', 'Horned Devil', 10)" \
+      >> mds/monsters.md
+	ruby ${LI} -e "puts extract_md_monster('${SRC_M}', 'Imp', 7)" \
+      >> mds/monsters.md
+	ruby ${LI} -e "puts extract_md_monster('${SRC_M}', 'Lemure', 5)" \
+      >> mds/monsters.md
+	ruby ${LI} -e "puts extract_md_monster('${SRC_M}', 'Doppelganger', 10)" \
+      >> mds/monsters.md
 
 .PHONY: md md_clear md_rules md_spells md_monsters
 

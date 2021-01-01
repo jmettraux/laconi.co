@@ -589,3 +589,309 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 ###### Actions
 
 ***Bite***. *Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature. *Hit:* 3 (1d4+1) piercing damage, and the target must succeed on a DC 11 Constitution saving throw against being magically petrified. On a failed save, the creature begins to turn to stone and is restrained. It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is petrified for 24 hours.
+
+## Couatl
+
+*Medium celestial, lawful good*
+
+**Armor Class** 19 (natural armor)
+
+**Hit Points** 97 (13d8+39)
+
+**Morale** 12
+
+**Speed** 30 ft., fly 90 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 16 (+3) | 20 (+5) | 17 (+3) | 18 (+4) | 20 (+5) | 18 (+4) |
+
+**Saving Throws** Con +5, Wis +7, Cha +6
+
+**Damage Resistances** radiant
+
+**Damage Immunities** psychic; bludgeoning, piercing, and slashing from nonmagical attacks
+
+**Senses** truesight 120 ft., passive Perception 15
+
+**Languages** all, telepathy 120 ft.
+
+**Challenge** 4 (1,100 XP)
+
+***Innate Spellcasting***. The couatl's spellcasting ability is Charisma (spell save DC 14). It can innately cast the following spells, requiring only verbal Components
+
+At will: *detect evil and good*, *detect magic*, *detect thoughts*
+
+3/day each: *bless*, *create food and water*, *cure wounds*, *lesser restoration*, *protection from poison*, *sanctuary*, *shield*
+
+1/day each: *dream*, *greater restoration*, *scrying*
+
+***Magic Weapons***. The couatl's weapon attacks are magical.
+
+***Shielded Mind***. The couatl is immune to scrying and to any effect that would sense its emotions, read its thoughts, or detect its location.
+
+###### Actions
+
+***Bite***. *Melee Weapon Attack:* +8 to hit, reach 5 ft., one creature. *Hit:* 8 (1d6+5) piercing damage, and the target must succeed on a DC 13 Constitution saving throw or be poisoned for 24 hours. Until this poison ends, the target is unconscious. Another creature can use an action to shake the target awake.
+
+***Constrict***. *Melee Weapon Attack:* +6 to hit, reach 10 ft., one Medium or smaller creature. *Hit:* 10 (2d6+3) bludgeoning damage, and the target is grappled (escape DC 15). Until this grapple ends, the target is restrained, and the couatl can't constrict another target.
+
+***Change Shape***. The couatl magically polymorphs into a humanoid or beast that has a challenge rating equal to or less than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the couatl's choice).
+
+In a new form, the couatl retains its game statistics and ability to speak, but its AC, movement modes, Strength, Dexterity, and other actions are replaced by those of the new form, and it gains any statistics and capabilities (except class features, legendary actions, and lair actions) that the new form has but that it lacks. If the new form has a bite attack, the couatl can use its bite in that form.
+
+## Barbed Devil
+
+*Medium fiend (devil), lawful evil*
+
+**Armor Class** 15 (natural armor)
+
+**Hit Points** 110 (13d8+52)
+
+**Morale** 10
+
+**Speed** 30 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 16 (+3) | 17 (+3) | 18 (+4) | 12 (+1) | 14 (+2) | 14 (+2) |
+
+**Saving Throws** Str +6, Con +7, Wis +5, Cha +5
+
+**Skills** Deception +5, Insight +5, Perception +8
+
+**Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+
+**Damage Immunities** fire, poison
+
+**Condition Immunities** poisoned
+
+**Senses** darkvision 120 ft., passive Perception 18
+
+**Languages** Infernal, telepathy 120 ft.
+
+**Challenge** 5 (1,800 XP)
+
+***Barbed Hide***. At the start of each of its turns, the barbed devil deals 5 (1d10) piercing damage to any creature grappling it.
+
+***Devil's Sight***. Magical darkness doesn't impede the devil's darkvision.
+
+***Magic Resistance***. The devil has advantage on saving throws against spells and other magical effects.
+
+###### Actions
+
+***Multiattack***. The devil makes three melee attacks: one with its tail and two with its claws. Alternatively, it can use Hurl Flame twice.
+
+***Claw***. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 6 (1d6+3) piercing damage.
+
+***Tail***. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 10 (2d6+3) piercing damage.
+
+***Hurl Flame***. *Ranged Spell Attack:* +5 to hit, range 150 ft., one target. *Hit:* 10 (3d6) fire damage. If the target is a flammable object that isn't being worn or carried, it also catches fire.
+
+## Erinyes
+
+*Medium fiend (devil), lawful evil*
+
+**Armor Class** 18 (plate)
+
+**Hit Points** 153 (18d8+72)
+
+**Morale** 10
+
+**Speed** 30 ft., fly 60 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 18 (+4) | 16 (+3) | 18 (+4) | 14 (+2) | 14 (+2) | 18 (+4) |
+
+**Saving Throws** Dex +7, Con +8, Wis +6, Cha +8
+
+**Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+
+**Damage Immunities** fire, poison
+
+**Condition Immunities** poisoned
+
+**Senses** truesight 120 ft., passive Perception 12
+
+**Languages** Infernal, telepathy 120 ft.
+
+**Challenge** 12 (8,400 XP)
+
+***Hellish Weapons***. The erinyes's weapon attacks are magical and deal an extra 13 (3d8) poison damage on a hit (included in the attacks).
+
+***Magic Resistance***. The erinyes has advantage on saving throws against spells and other magical effects.
+
+###### Actions
+
+***Multiattack***. The erinyes makes three attacks.
+
+***Longsword***. *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 8 (1d8+4) slashing damage, or 9 (1d10+4) slashing damage if used with two hands, plus 13 (3d8) poison damage.
+
+***Longbow***. *Ranged Weapon Attack:* +7 to hit, range 150/600 ft., one target. *Hit:* 7 (1d8+3) piercing damage plus 13 (3d8) poison damage, and the target must succeed on a DC 14 Constitution saving throw or be poisoned. The poison lasts until it is removed by the *lesser restoration* spell or similar magic.
+
+###### Reactions
+
+***Parry***. The erinyes adds 4 to its AC against one melee attack that would hit it. To do so, the erinyes must see the attacker and be wielding a melee weapon.
+
+## Horned Devil
+
+*Large fiend (devil), lawful evil*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 148 (17d10+55)
+
+**Morale** 10
+
+**Speed** 20 ft., fly 60 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 22 (+6) | 17 (+3) | 21 (+5) | 12 (+1) | 16 (+3) | 17 (+3) |
+
+**Saving Throws** Str +10, Dex +7, Wis +7, Cha +7
+
+**Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
+
+**Damage Immunities** fire, poison
+
+**Condition Immunities** poisoned
+
+**Senses** darkvision 120 ft., passive Perception 13
+
+**Languages** Infernal, telepathy 120 ft.
+
+**Challenge** 11 (7,200 XP)
+
+***Devil's Sight***. Magical darkness doesn't impede the devil's darkvision.
+
+***Magic Resistance***. The devil has advantage on saving throws against spells and other magical effects.
+
+###### Actions
+
+***Multiattack***. The devil makes three melee attacks: two with its fork and one with its tail. It can use Hurl Flame in place of any melee attack.
+
+***Fork***. *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 15 (2d8+6) piercing damage.
+
+***Tail***. *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 10 (1d8+6) piercing damage. If the target is a creature other than an undead or a construct, it must succeed on a DC 17 Constitution saving throw or lose 10 (3d6) hit points at the start of each of its turns due to an infernal wound. Each time the devil hits the wounded target with this attack, the damage dealt by the wound increases by 10 (3d6). Any creature can take an action to stanch the wound with a successful DC 12 Wisdom (Medicine) check. The wound also closes if the target receives magical healing.
+
+***Hurl Flame***. *Ranged Spell Attack:* +7 to hit, range 150 ft., one target. *Hit:* 14 (4d6) fire damage. If the target is a flammable object that isn't being worn or carried, it also catches fire.
+
+## Imp
+
+*Tiny fiend (devil, shapechanger), lawful evil*
+
+**Armor Class** 13
+
+**Hit Points** 10 (3d4+3)
+
+**Morale** 7
+
+**Speed** 20 ft., fly 40 ft.
+
+| STR    | DEX     | CON     | INT     | WIS     | CHA     |
+|--------|---------|---------|---------|---------|---------|
+| 6 (-2) | 17 (+3) | 13 (+1) | 11 (+0) | 12 (+1) | 14 (+2) |
+
+**Skills** Deception +4, Insight +3, Persuasion +4, Stealth +5
+
+**Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
+
+**Damage Immunities** fire, poison
+
+**Condition Immunities** poisoned
+
+**Senses** darkvision 120 ft., passive Perception 11
+
+**Languages** Infernal, Common
+
+**Challenge** 1 (200 XP)
+
+***Shapechanger***. The imp can use its action to polymorph into a beast form that resembles a rat (speed 20 ft.), a raven (20 ft., fly 60 ft.), or a spider (20 ft., climb 20 ft.), or back into its true form. Its statistics are the same in each form, except for the speed changes noted. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
+
+***Devil's Sight***. Magical darkness doesn't impede the imp's darkvision.
+
+***Magic Resistance***. The imp has advantage on saving throws against spells and other magical effects.
+
+###### Actions
+
+***Sting (Bite in Beast Form)***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (1d4+3) piercing damage, and the target must make on a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.
+
+***Invisibility***. The imp magically turns invisible until it attacks or until its concentration ends (as if concentrating on a spell). Any equipment the imp wears or carries is invisible with it.
+
+## Lemure
+
+*Medium fiend (devil), lawful evil*
+
+**Armor Class** 7
+
+**Hit Points** 13 (3d8)
+
+**Morale** 5
+
+**Speed** 15 ft.
+
+| STR     | DEX    | CON     | INT    | WIS     | CHA    |
+|---------|--------|---------|--------|---------|--------|
+| 10 (+0) | 5 (-3) | 11 (+0) | 1 (-5) | 11 (+0) | 3 (-4) |
+
+**Damage Resistances** cold
+
+**Damage Immunities** fire, poison
+
+**Condition Immunities** charmed, frightened, poisoned
+
+**Senses** darkvision 120 ft., passive Perception 10
+
+**Languages** understands Infernal but can't speak
+
+**Challenge** 0 (10 XP)
+
+***Devil's Sight***. Magical darkness doesn't impede the lemure's darkvision.
+
+***Hellish Rejuvenation***. A lemure that dies in the Nine Hells comes back to life with all its hit points in 1d10 days unless it is killed by a good-aligned creature with a *bless* spell cast on that creature or its remains are sprinkled with holy water.
+
+###### Actions
+
+***Fist***. *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 2 (1d4) bludgeoning damage.
+
+## Doppelganger
+
+*Medium monstrosity (shapechanger), neutral*
+
+**Armor Class** 14
+
+**Hit Points** 52 (8d8+16)
+
+**Morale** 10
+
+**Speed** 30 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 11 (+0) | 18 (+4) | 14 (+2) | 11 (+0) | 12 (+1) | 14 (+2) |
+
+**Skills** Deception +6, Insight +3
+
+**Condition Immunities** charmed
+
+**Senses** darkvision 60 ft., passive Perception 11
+
+**Languages** Common
+
+**Challenge** 3 (700 XP)
+
+***Shapechanger***. The doppelganger can use its action to polymorph into a Small or Medium humanoid it has seen, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
+
+***Ambusher***. The doppelganger has advantage on attack rolls against any creature it has surprised.
+
+***Surprise Attack***. If the doppelganger surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 10 (3d6) damage from the attack.
+
+###### Actions
+
+***Multiattack***. The doppelganger makes two melee attacks.
+
+***Slam***. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7 (1d6+4) bludgeoning damage.
+
+***Read Thoughts***. The doppelganger magically reads the surface thoughts of one creature within 60 feet of it. The effect can penetrate barriers, but 3 feet of wood or dirt, 2 feet of stone, 2 inches of metal, or a thin sheet of lead blocks it. While the target is in range, the doppelganger can continue reading its thoughts, as long as the doppelganger's concentration isn't broken (as if concentrating on a spell). While reading the target's mind, the doppelganger has advantage on Wisdom (Insight) and Charisma (Deception, Intimidation, and Persuasion) checks against the target.
