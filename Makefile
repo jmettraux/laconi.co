@@ -103,6 +103,14 @@ md_monsters:
 	#
 	ruby ${LI} -e "puts extract_md_monster('${SRC_M}', 'Dragon Turtle', 10)" \
       >> mds/monsters.md
+	ruby ${LI} -e "puts extract_md_monster('${SRC_M}', 'Dryad', 6)" \
+      >> mds/monsters.md
+	ruby ${LI} -e "puts extract_md_monster('${SRC_M}', 'Duergar', 8)" \
+      >> mds/monsters.md
+	ruby ${LI} -e "puts extract_md_monster('${SRC_M}', 'Elf, Drow', 8)" \
+      >> mds/monsters.md
+	ruby ${LI} -e "puts extract_md_monster('${SRC_M}', 'Ettin', 11)" \
+      >> mds/monsters.md
 
 .PHONY: md md_clear md_rules md_spells md_monsters
 

@@ -13116,3 +13116,165 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 ***Tail***. *Melee Weapon Attack:* +13 to hit, reach 15 ft., one target. *Hit:* 26 (3d12+7) bludgeoning damage. If the target is a creature, it must succeed on a DC 20 Strength saving throw or be pushed up to 10 feet away from the dragon turtle and knocked prone.
 
 ***Steam Breath (Recharge 5-6)***. The dragon turtle exhales scalding steam in a 60-foot cone. Each creature in that area must make a DC 18 Constitution saving throw, taking 52 (15d6) fire damage on a failed save, or half as much damage on a successful one. Being underwater doesn't grant resistance against this damage.
+
+## Dryad
+
+*Medium fey, neutral*
+
+**Armor Class** 11 (16 with *barkskin*)
+
+**Hit Points** 22 (5d8)
+
+**Morale** 6
+
+**Speed** 30 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 10 (+0) | 12 (+1) | 11 (+0) | 14 (+2) | 15 (+2) | 18 (+4) |
+
+**Skills** Perception +4, Stealth +5
+
+**Senses** darkvision 60 ft., passive Perception 14
+
+**Languages** Elvish, Sylvan
+
+**Challenge** 1 (200 XP)
+
+***Innate Spellcasting***. The dryad's innate spellcasting ability is Charisma (spell save DC 14). The dryad can innately cast the following spells, requiring no material Components
+
+At will: *druidcraft*
+
+3/day each: *entangle*, *goodberry*
+
+1/day each: *barkskin*, *pass without trace*, *shillelagh*
+
+***Magic Resistance***. The dryad has advantage on saving throws against spells and other magical effects.
+
+***Speak with Beasts and Plants***. The dryad can communicate with beasts and plants as if they shared a language.
+
+***Tree Stride***. Once on her turn, the dryad can use 10 feet of her movement to step magically into one living tree within her reach and emerge from a second living tree within 60 feet of the first tree, appearing in an unoccupied space within 5 feet of the second tree. Both trees must be Large or bigger.
+
+###### Actions
+
+***Club***. *Melee Weapon Attack:* +2 to hit (+6 to hit with *shillelagh*), reach 5 ft., one target. *Hit:* 2 (1d4) bludgeoning damage, or 8 (1d8+4) bludgeoning damage with *shillelagh*.
+
+***Fey Charm***. The dryad targets one humanoid or beast that she can see within 30 feet of her. If the target can see the dryad, it must succeed on a DC 14 Wisdom saving throw or be magically charmed. The charmed creature regards the dryad as a trusted friend to be heeded and protected. Although the target isn't under the dryad's control, it takes the dryad's requests or actions in the most favorable way it can.
+
+Each time the dryad or its allies do anything harmful to the target, it can repeat the saving throw, ending the effect on itself on a success. Otherwise, the effect lasts 24 hours or until the dryad dies, is on a different plane of existence from the target, or ends the effect as a bonus action. If a target's saving throw is successful, the target is immune to the dryad's Fey Charm for the next 24 hours.
+
+The dryad can have no more than one humanoid and up to three beasts charmed at a time.
+
+## Duergar
+
+*Medium humanoid (dwarf), lawful evil*
+
+**Armor Class** 16 (scale mail, shield)
+
+**Hit Points** 26 (4d8+8)
+
+**Morale** 8
+
+**Speed** 25 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA    |
+|---------|---------|---------|---------|---------|--------|
+| 14 (+2) | 11 (+0) | 14 (+2) | 11 (+0) | 10 (+0) | 9 (-1) |
+
+**Damage Resistances** poison
+
+**Senses** darkvision 120 ft., passive Perception 10
+
+**Languages** Dwarvish, Undercommon
+
+**Challenge** 1 (200 XP)
+
+***Duergar Resilience***. The duergar has advantage on saving throws against poison, spells, and illusions, as well as to resist being charmed or paralyzed.
+
+***Sunlight Sensitivity***. While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+
+###### Actions
+
+***Enlarge (Recharges after a Short or Long Rest)***. For 1 minute, the duergar magically increases in size, along with anything it is wearing or carrying. While enlarged, the duergar is Large, doubles its damage dice on Strength-based weapon attacks (included in the attacks), and makes Strength checks and Strength saving throws with advantage. If the duergar lacks the room to become Large, it attains the maximum size possible in the space available.
+
+***War Pick***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8+2) piercing damage, or 11 (2d8+2) piercing damage while enlarged.
+
+***Javelin***. *Melee or Ranged Weapon Attack:* +4 to hit, reach 5 ft. or range 30/120 ft., one target. *Hit:* 5 (1d6+2) piercing damage, or 9 (2d6+2) piercing damage while enlarged.
+
+***Invisibility (Recharges after a Short or Long Rest)***. The duergar magically turns invisible until it attacks, casts a spell, or uses its Enlarge, or until its concentration is broken, up to 1 hour (as if concentrating on a spell). Any equipment the duergar wears or carries is invisible with it.
+
+## Elf, Drow
+
+*Medium humanoid (elf), neutral evil*
+
+**Armor Class** 15 (chain shirt)
+
+**Hit Points** 13 (3d8)
+
+**Morale** 8
+
+**Speed** 30 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 10 (+0) | 14 (+2) | 10 (+0) | 11 (+0) | 11 (+0) | 12 (+1) |
+
+**Skills** Perception +2, Stealth +4
+
+**Senses** darkvision 120 ft., passive Perception 12
+
+**Languages** Elvish, Undercommon
+
+**Challenge** 1/4 (50 XP)
+
+***Fey Ancestry***. The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.
+
+***Innate Spellcasting***. The drow's spellcasting ability is Charisma (spell save DC 11). It can innately cast the following spells, requiring no material Components
+
+At will: *dancing lights*
+
+1/day each: *darkness*, *faerie fire*
+
+***Sunlight Sensitivity***. While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+
+###### Actions
+
+***Shortsword***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6+2) piercing damage.
+
+***Hand Crossbow***. *Ranged Weapon Attack:* +4 to hit, range 30/120 ft., one target. *Hit:* 5 (1d6+2) piercing damage, and the target must succeed on a DC 13 Constitution saving throw or be poisoned for 1 hour. If the saving throw fails by 5 or more, the target is also unconscious while poisoned in this way. The target wakes up if it takes damage or if another creature takes an action to shake it awake.
+
+## Ettin
+
+*Large giant, chaotic evil*
+
+**Armor Class** 12 (natural armor)
+
+**Hit Points** 85 (10d10+30)
+
+**Morale** 11
+
+**Speed** 40 ft.
+
+| STR     | DEX    | CON     | INT    | WIS     | CHA    |
+|---------|--------|---------|--------|---------|--------|
+| 21 (+5) | 8 (-1) | 17 (+3) | 6 (-2) | 10 (+0) | 8 (-1) |
+
+**Skills** Perception +4
+
+**Senses** darkvision 60 ft., passive Perception 14
+
+**Languages** Giant, Orc
+
+**Challenge** 4 (1,100 XP)
+
+***Two Heads***. The ettin has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned, and knocked unconscious.
+
+***Wakeful***. When one of the ettin's heads is asleep, its other head is awake.
+
+###### Actions
+
+***Multiattack***. The ettin makes two attacks: one with its battleaxe and one with its morningstar.
+
+***Battleaxe***. *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 14 (2d8+5) slashing damage.
+
+***Morningstar***. *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 14 (2d8+5) piercing damage.
