@@ -2,7 +2,9 @@
 class HtmlRender < Redcarpet::Render::HTML
 
   def initialize(opts)
+
     super
+
     @in_article = false
     @in_section = false
   end
@@ -11,8 +13,7 @@ class HtmlRender < Redcarpet::Render::HTML
 
     a = []
 
-    case level
-    when 1
+    if level == 1 && title.match(/^[A-Z]+$/)
       a << "\n</section>" if @in_section; @in_section = false
       a << "\n</article>" if @in_article; @in_article = true
       a << "\n<article>"
@@ -21,8 +22,6 @@ class HtmlRender < Redcarpet::Render::HTML
       a << "\n</section>" if @in_section; @in_section = true
       a << "\n<section>"
       a << "<h#{level}>#{title}</h#{level}>"
-    #else
-    #  a << "<h#{level}>#{title}</h#{level}>"
     end
 
     a.join
