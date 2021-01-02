@@ -13,6 +13,8 @@ def extract_md_monster(path_or_content, name, morale=nil)
     s.insert(i, "**Morale** #{morale}\n\n")
   end
 
+  s.gsub(/^(#+) /) { |m| m[1..-1] }
+
   "\n" + s
 end
 
@@ -136,7 +138,7 @@ MORALES = {
   'Wraith' => 12,
   'Wyvern' => 9,
   'Zombie' => 12,
-    }
+    }.sort_by { |k, _| k }
 
 def make_monsters(src_dir, morales=MORALES)
 
@@ -146,10 +148,16 @@ def make_monsters(src_dir, morales=MORALES)
   puts; puts extract_md_section(monsters, 1, 'Monster Statistics')
   puts; puts extract_md_section(monsters, 1, 'Legendary Creatures')
 
-  puts; puts '# Monsters'
+  puts; puts '# Index'
+
+  puts; puts '<ul>'
+  morales
+    .each { |n, _|
+      puts "<li><a href=\"##{neutralize_name(n)}\">#{n}</a></li>" }
+  puts '</ul>'
+  puts
 
   morales
-    .sort_by { |k, _| k }
     .each { |n, m|
 #$stderr.puts("    * #{n} => #{m}")
       puts(extract_md_monster(monsters, n, m)) }

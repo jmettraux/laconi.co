@@ -9895,7 +9895,115 @@ If a legendary creature has lair actions, it can use them to harness the ambient
 
 The mere presence of a legendary creature can have strange and wondrous effects on its environment, as noted in this section. Regional effects end abruptly or dissipate over time when the legendary creature dies.
 
-# Monsters
+# Index
+
+<ul>
+<li><a href="#Androsphinx">Androsphinx</a></li>
+<li><a href="#Animated_Armor">Animated Armor</a></li>
+<li><a href="#Barbed_Devil">Barbed Devil</a></li>
+<li><a href="#Basilisk">Basilisk</a></li>
+<li><a href="#Behir">Behir</a></li>
+<li><a href="#Black_Dragon">Black Dragon</a></li>
+<li><a href="#Blue_Dragon">Blue Dragon</a></li>
+<li><a href="#Brass_Dragon">Brass Dragon</a></li>
+<li><a href="#Bronze_Dragon">Bronze Dragon</a></li>
+<li><a href="#Bugbear">Bugbear</a></li>
+<li><a href="#Centaur">Centaur</a></li>
+<li><a href="#Chimera">Chimera</a></li>
+<li><a href="#Clay_Golem">Clay Golem</a></li>
+<li><a href="#Cloud_Giant">Cloud Giant</a></li>
+<li><a href="#Cockatrice">Cockatrice</a></li>
+<li><a href="#Copper_Dragon">Copper Dragon</a></li>
+<li><a href="#Couatl">Couatl</a></li>
+<li><a href="#Djinni">Djinni</a></li>
+<li><a href="#Dragon_Turtle">Dragon Turtle</a></li>
+<li><a href="#Dryad">Dryad</a></li>
+<li><a href="#Duergar">Duergar</a></li>
+<li><a href="#Efreeti">Efreeti</a></li>
+<li><a href="#Elf__Drow">Elf, Drow</a></li>
+<li><a href="#Erinyes">Erinyes</a></li>
+<li><a href="#Ettin">Ettin</a></li>
+<li><a href="#Fire_Giant">Fire Giant</a></li>
+<li><a href="#Flesh_Golem">Flesh Golem</a></li>
+<li><a href="#Frost_Giant">Frost Giant</a></li>
+<li><a href="#Gargoyle">Gargoyle</a></li>
+<li><a href="#Ghast">Ghast</a></li>
+<li><a href="#Ghost">Ghost</a></li>
+<li><a href="#Ghoul">Ghoul</a></li>
+<li><a href="#Gnome__Deep__Svirfneblin_">Gnome, Deep (Svirfneblin)</a></li>
+<li><a href="#Goblin">Goblin</a></li>
+<li><a href="#Gold_Dragon">Gold Dragon</a></li>
+<li><a href="#Gorgon">Gorgon</a></li>
+<li><a href="#Green_Dragon">Green Dragon</a></li>
+<li><a href="#Green_Hag">Green Hag</a></li>
+<li><a href="#Griffon">Griffon</a></li>
+<li><a href="#Guardian_Naga">Guardian Naga</a></li>
+<li><a href="#Gynosphinx">Gynosphinx</a></li>
+<li><a href="#Harpy">Harpy</a></li>
+<li><a href="#Hell_Hound">Hell Hound</a></li>
+<li><a href="#Hill_Giant">Hill Giant</a></li>
+<li><a href="#Hippogriff">Hippogriff</a></li>
+<li><a href="#Hobgoblin">Hobgoblin</a></li>
+<li><a href="#Homunculus">Homunculus</a></li>
+<li><a href="#Horned_Devil">Horned Devil</a></li>
+<li><a href="#Hydra">Hydra</a></li>
+<li><a href="#Imp">Imp</a></li>
+<li><a href="#Invisible_Stalker">Invisible Stalker</a></li>
+<li><a href="#Iron_Golem">Iron Golem</a></li>
+<li><a href="#Kobold">Kobold</a></li>
+<li><a href="#Kraken">Kraken</a></li>
+<li><a href="#Lamia">Lamia</a></li>
+<li><a href="#Lemure">Lemure</a></li>
+<li><a href="#Lich">Lich</a></li>
+<li><a href="#Lizardfolk">Lizardfolk</a></li>
+<li><a href="#Manticore">Manticore</a></li>
+<li><a href="#Medusa">Medusa</a></li>
+<li><a href="#Merfolk">Merfolk</a></li>
+<li><a href="#Minotaur">Minotaur</a></li>
+<li><a href="#Mummy">Mummy</a></li>
+<li><a href="#Nightmare">Nightmare</a></li>
+<li><a href="#Ogre">Ogre</a></li>
+<li><a href="#Oni">Oni</a></li>
+<li><a href="#Orc">Orc</a></li>
+<li><a href="#Pegasus">Pegasus</a></li>
+<li><a href="#Pseudodragon">Pseudodragon</a></li>
+<li><a href="#Purple_Worm">Purple Worm</a></li>
+<li><a href="#Rakshasa">Rakshasa</a></li>
+<li><a href="#Red_Dragon">Red Dragon</a></li>
+<li><a href="#Roc">Roc</a></li>
+<li><a href="#Salamander">Salamander</a></li>
+<li><a href="#Satyr">Satyr</a></li>
+<li><a href="#Shadow">Shadow</a></li>
+<li><a href="#Shambling_Mound">Shambling Mound</a></li>
+<li><a href="#Silver_Dragon">Silver Dragon</a></li>
+<li><a href="#Skeleton">Skeleton</a></li>
+<li><a href="#Specter">Specter</a></li>
+<li><a href="#Spirit_Naga">Spirit Naga</a></li>
+<li><a href="#Sprite">Sprite</a></li>
+<li><a href="#Stone_Giant">Stone Giant</a></li>
+<li><a href="#Stone_Golem">Stone Golem</a></li>
+<li><a href="#Storm_Giant">Storm Giant</a></li>
+<li><a href="#Succubus_Incubus">Succubus/Incubus</a></li>
+<li><a href="#Tarrasque">Tarrasque</a></li>
+<li><a href="#Treant">Treant</a></li>
+<li><a href="#Troll">Troll</a></li>
+<li><a href="#Unicorn">Unicorn</a></li>
+<li><a href="#Vampire">Vampire</a></li>
+<li><a href="#Vampire_Spawn">Vampire Spawn</a></li>
+<li><a href="#Warhorse_Skeleton">Warhorse Skeleton</a></li>
+<li><a href="#Werebear">Werebear</a></li>
+<li><a href="#Wereboar">Wereboar</a></li>
+<li><a href="#Wererat">Wererat</a></li>
+<li><a href="#Weretiger">Weretiger</a></li>
+<li><a href="#Werewolf">Werewolf</a></li>
+<li><a href="#White_Dragon">White Dragon</a></li>
+<li><a href="#Wight">Wight</a></li>
+<li><a href="#Will_o__Wisp">Will-o'-Wisp</a></li>
+<li><a href="#Wraith">Wraith</a></li>
+<li><a href="#Wyvern">Wyvern</a></li>
+<li><a href="#Zombie">Zombie</a></li>
+</ul>
+
 
 ## Androsphinx
 
