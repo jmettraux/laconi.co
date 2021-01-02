@@ -56,5 +56,12 @@ md_monsters:
       -e "make_monsters('${SRC_M}')" \
         >> mds/monsters.md
 
-.PHONY: md md_clear md_rules md_spells md_monsters
+html_rules:
+	ruby ${LI} -e "make_html('rules.md')" > htmls/rules.html
+html: html_rules
+
+s:
+	ruby -run -ehttpd htmls/ -p7003
+
+.PHONY: md md_clear md_rules md_spells md_monsters html
 

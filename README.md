@@ -4,6 +4,9 @@
 https://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf
 https://github.com/Umbyology/OGL-SRD5
 
+https://github.com/vmg/redcarpet
+https://github.com/edwardtufte/tufte-css
+
 
 ## license
 
