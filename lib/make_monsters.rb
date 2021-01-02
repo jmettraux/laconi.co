@@ -146,6 +146,8 @@ def make_monsters(src_dir, morales=MORALES)
   puts; puts extract_md_section(monsters, 1, 'Monster Statistics')
   puts; puts extract_md_section(monsters, 1, 'Legendary Creatures')
 
+  puts; puts '# Monsters'
+
   morales
     .sort_by { |k, _| k }
     .each { |n, m|

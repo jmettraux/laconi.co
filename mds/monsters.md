@@ -347,6 +347,8 @@ If a legendary creature has lair actions, it can use them to harness the ambient
 
 The mere presence of a legendary creature can have strange and wondrous effects on its environment, as noted in this section. Regional effects end abruptly or dissipate over time when the legendary creature dies.
 
+# Monsters
+
 ## Androsphinx
 
 *Large monstrosity, lawful neutral*

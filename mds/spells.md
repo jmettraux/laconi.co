@@ -1,6 +1,3 @@
-
-
-
 # SPELLS
 
 ## Bard Spells

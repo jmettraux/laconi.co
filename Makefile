@@ -14,10 +14,12 @@ md_spells:
 md_monsters:
 	ruby ${LI} -e "make_monsters('${SRC}')" > mds/monsters.md
 
+html_monsters:
+	ruby ${LI} -e "make_html('monsters.md')" > htmls/monsters.html
 html_rules:
 	ruby ${LI} -e "make_html('rules.md')" > htmls/rules.html
 
-html: html_rules
+html: html_rules html_monsters
 
 s:
 	ruby -run -ehttpd htmls/ -p7003
