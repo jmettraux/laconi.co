@@ -9957,7 +9957,7 @@ Constitution saving throw against the caster's spell save DC or fall unconscious
 
 ***False Appearance***. While the armor remains motionless, it is indistinguishable from a normal suit of armor.
 
-##Actions
+## Actions
 
 ***Multiattack***. The armor makes two melee attacks.
 
@@ -9987,7 +9987,7 @@ Constitution saving throw against the caster's spell save DC or fall unconscious
 
 **Challenge** 1/2 (100 XP)
 
-##Actions
+## Actions
 
 ***Multiattack***. The ape makes two fist attacks.
 
@@ -10019,7 +10019,7 @@ Constitution saving throw against the caster's spell save DC or fall unconscious
 
 **Challenge** 7 (2,900 XP)
 
-##Actions
+## Actions
 
 ***Multiattack***. The ape makes two fist attacks.
 
@@ -10049,7 +10049,7 @@ Constitution saving throw against the caster's spell save DC or fall unconscious
 
 **Challenge** 1/4 (50 XP)
 
-##Actions
+## Actions
 
 ***Beak***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8+2) slashing damage.
 
@@ -10079,7 +10079,7 @@ An **axe beak** is a tall flightless bird with strong legs and a heavy, wedge-sh
 
 ***Pack Tactics***. The baboon has advantage on an attack roll against a creature if at least one of the baboon's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
-##Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +1 to hit, reach 5 ft., one target. *Hit:* 1 (1d4-1) piercing damage.
 
@@ -10107,7 +10107,7 @@ An **axe beak** is a tall flightless bird with strong legs and a heavy, wedge-sh
 
 ***Keen Smell***. The badger has advantage on Wisdom (Perception) checks that rely on smell.
 
-##Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 1 piercing damage.
 
@@ -10135,7 +10135,7 @@ An **axe beak** is a tall flightless bird with strong legs and a heavy, wedge-sh
 
 ***Keen Smell***. The badger has advantage on Wisdom (Perception) checks that rely on smell.
 
-##Actions
+## Actions
 
 ***Multiattack***. The badger makes two attacks: one with its bite and one with its claws.
 
@@ -10171,7 +10171,7 @@ A creature that isn't surprised can avert its eyes to avoid the saving throw at 
 
 If the basilisk sees its reflection within 30 feet of it in bright light, it mistakes itself for a rival and targets itself with its gaze.
 
-##Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6+3) piercing damage plus 7 (2d6) poison damage.
 
@@ -10201,7 +10201,7 @@ If the basilisk sees its reflection within 30 feet of it in bright light, it mis
 
 ***Keen Hearing***. The bat has advantage on Wisdom (Perception) checks that rely on hearing.
 
-##Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +0 to hit, reach 5 ft., one creature. *Hit:* 1 piercing damage.
 
@@ -10231,7 +10231,7 @@ If the basilisk sees its reflection within 30 feet of it in bright light, it mis
 
 ***Keen Hearing***. The bat has advantage on Wisdom (Perception) checks that rely on hearing.
 
-##Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 5 (1d6+2) piercing damage.
 
@@ -10267,7 +10267,7 @@ If the basilisk sees its reflection within 30 feet of it in bright light, it mis
 
 ***Swarm***. The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny bat. The swarm can't regain hit points or gain temporary hit points.
 
-##Actions
+## Actions
 
 ***Bites***. *Melee Weapon Attack:* +4 to hit, reach 0 ft., one creature in the swarm's space. *Hit:* 5 (2d4) piercing damage, or 2 (1d4) piercing damage if the swarm has half of its hit points or fewer.
 
@@ -10297,7 +10297,7 @@ If the basilisk sees its reflection within 30 feet of it in bright light, it mis
 
 ***Keen Smell***. The bear has advantage on Wisdom (Perception) checks that rely on smell.
 
-##Actions
+## Actions
 
 ***Multiattack***. The bear makes two attacks: one with its bite and one with its claws.
 
@@ -10331,7 +10331,7 @@ If the basilisk sees its reflection within 30 feet of it in bright light, it mis
 
 ***Keen Smell***. The bear has advantage on Wisdom (Perception) checks that rely on smell.
 
-##Actions
+## Actions
 
 ***Multiattack***. The bear makes two attacks: one with its bite and one with its claws.
 
@@ -10365,7 +10365,7 @@ If the basilisk sees its reflection within 30 feet of it in bright light, it mis
 
 ***Keen Smell***. The bear has advantage on Wisdom (Perception) checks that rely on smell.
 
-##Actions
+## Actions
 
 ***Multiattack***. The bear makes two attacks: one with its bite and one with its claws.
 
@@ -10399,7 +10399,7 @@ If the basilisk sees its reflection within 30 feet of it in bright light, it mis
 
 **Challenge** 11 (7,200 XP)
 
-##Actions
+## Actions
 
 ***Multiattack***. The behir makes two attacks: one with its bite and one to constrict.
 
@@ -10439,7 +10439,7 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 
 ***Relentless (Recharges after a Short or Long Rest)***. If the boar takes 7 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead.
 
-##Actions
+## Actions
 
 ***Tusk***. *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6+1) slashing damage.
 
@@ -10469,7 +10469,7 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 
 ***Relentless (Recharges after a Short or Long Rest)***. If the boar takes 10 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead.
 
-##Actions
+## Actions
 
 ***Tusk***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6+3) slashing damage.
 
@@ -10501,7 +10501,7 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 
 ***Surprise Attack***. If the bugbear surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 7 (2d6) damage from the attack.
 
-##Actions
+## Actions
 
 ***Morningstar***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 11 (2d8+2) piercing damage.
 
@@ -10529,7 +10529,7 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 
 **Challenge** 1/8 (25 XP)
 
-##Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 2 (1d4) bludgeoning damage.
 
@@ -10559,7 +10559,7 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 
 ***Keen Smell***. The cat has advantage on Wisdom (Perception) checks that rely on smell.
 
-##Actions
+## Actions
 
 ***Claws.*** *Melee Weapon Attack:* +0 to hit, reach 5 ft., one target. *Hit:* 1 slashing damage.
 
@@ -10589,7 +10589,7 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 
 ***Charge***. If the centaur moves at least 30 feet straight toward a target and then hits it with a pike attack on the same turn, the target takes an extra 10 (3d6) piercing damage.
 
-##Actions
+## Actions
 
 ***Multiattack***. The centaur makes two attacks: one with its pike and one with its hooves or two with its longbow.
 
@@ -10621,7 +10621,7 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 
 **Challenge** 1/4 (50 XP)
 
-##Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 4 (1d4+2) piercing damage, and the target must succeed on a DC 11 Constitution saving throw or take 10 (3d6) poison damage. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
 
@@ -10649,7 +10649,7 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 
 **Challenge** 6 (2,300 XP)
 
-##Actions
+## Actions
 
 ***Multiattack***. The chimera makes three attacks: one with its bite, one with its horns, and one with its claws. When its fire breath is available, it can use the breath in place of its bite or horns.
 
@@ -10683,7 +10683,7 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 
 **Challenge** 1/2 (100 XP)
 
-##Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature. *Hit:* 3 (1d4+1) piercing damage, and the target must succeed on a DC 11 Constitution saving throw against being magically petrified. On a failed save, the creature begins to turn to stone and is restrained. It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is petrified for 24 hours.
 
@@ -10727,7 +10727,7 @@ At will: *detect evil and good*, *detect magic*, *detect thoughts*
 
 ***Shielded Mind***. The couatl is immune to scrying and to any effect that would sense its emotions, read its thoughts, or detect its location.
 
-##Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +8 to hit, reach 5 ft., one creature. *Hit:* 8 (1d6+5) piercing damage, and the target must succeed on a DC 13 Constitution saving throw or be poisoned for 24 hours. Until this poison ends, the target is unconscious. Another creature can use an action to shake the target awake.
 
@@ -10763,7 +10763,7 @@ In a new form, the couatl retains its game statistics and ability to speak, but 
 
 ***Amphibious***. The crab can breathe air and water.
 
-##Actions
+## Actions
 
 ***Claw***. *Melee Weapon Attack:* +0 to hit, reach 5 ft., one target. *Hit:* 1 bludgeoning damage.
 
@@ -10793,7 +10793,7 @@ In a new form, the couatl retains its game statistics and ability to speak, but 
 
 ***Amphibious***. The crab can breathe air and water.
 
-##Actions
+## Actions
 
 ***Claw***. *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6+1) bludgeoning damage, and the target is grappled (escape DC 11). The crab has two claws, each of which can grapple only one target.
 
@@ -10823,7 +10823,7 @@ In a new form, the couatl retains its game statistics and ability to speak, but 
 
 ***Hold Breath***. The crocodile can hold its breath for 15 minutes.
 
-##Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 7 (1d10+2) piercing damage, and the target is grappled (escape DC 12). Until this grapple ends, the target is restrained, and the crocodile can't bite another target.
 
@@ -10851,7 +10851,7 @@ In a new form, the couatl retains its game statistics and ability to speak, but 
 
 ***Hold Breath***. The crocodile can hold its breath for 30 minutes.
 
-##Actions
+## Actions
 
 ***Multiattack***. The crocodile makes two attacks: one with its bite and one with its tail.
 
@@ -10881,7 +10881,7 @@ In a new form, the couatl retains its game statistics and ability to speak, but 
 
 **Challenge** 0 (10 XP)
 
-##Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2 (1d4) piercing damage.
 
@@ -10923,7 +10923,7 @@ In a new form, the couatl retains its game statistics and ability to speak, but 
 
 ***Magic Resistance***. The devil has advantage on saving throws against spells and other magical effects.
 
-##Actions
+## Actions
 
 ***Multiattack***. The devil makes three melee attacks: one with its tail and two with its claws. Alternatively, it can use Hurl Flame twice.
 
@@ -10967,7 +10967,7 @@ In a new form, the couatl retains its game statistics and ability to speak, but 
 
 ***Magic Resistance***. The devil has advantage on saving throws against spells and other magical effects.
 
-##Actions
+## Actions
 
 ***Multiattack***. The devil makes three melee attacks: two with its fork and one with its tail. It can use Hurl Flame in place of any melee attack.
 
@@ -11013,7 +11013,7 @@ At will: *detect evil and good*, *detect magic*, *thunderwave*
 
 1/day each: *conjure elemental* (air elemental only), *creation*, *gaseous form*, *invisibility*, *major image*, *plane shift*
 
-##Actions
+## Actions
 
 ***Multiattack***. The djinni makes three scimitar attacks.
 
@@ -11045,7 +11045,7 @@ A creature can use its action to free a creature restrained by the whirlwind, in
 
 **Challenge** 1/4 (50 XP)
 
-##Actions
+## Actions
 
 ***Hooves***. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (2d4+4) bludgeoning damage.
 
@@ -11081,7 +11081,7 @@ Huge dragon, chaotic evil
 
 ***Legendary Resistance (3/Day)***. If the dragon fails a saving throw, it can choose to succeed instead.
 
-##Actions
+## Actions
 
 ***Multiattack***. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -11095,7 +11095,7 @@ Huge dragon, chaotic evil
 
 ***Acid Breath (Recharge 5-6)***. The dragon exhales acid in a 60-foot line that is 5 feet wide. Each creature in that line must make a DC 18 Dexterity saving throw, taking 54 (12d8) acid damage on a failed save, or half as much damage on a successful one.
 
-##Legendary Actions
+## Legendary Actions
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -11137,7 +11137,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 ***Legendary Resistance (3/Day)***. If the dragon fails a saving throw, it can choose to succeed instead.
 
-##Actions
+## Actions
 
 ***Multiattack***. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -11151,7 +11151,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 ***Acid Breath (Recharge 5-6)***. The dragon exhales acid in a 90-foot line that is 10 feet wide. Each creature in that line must make a DC 22 Dexterity saving throw, taking 67 (15d8) acid damage on a failed save, or half as much damage on a successful one.
 
-##Legendary Actions
+## Legendary Actions
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -11191,7 +11191,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 ***Amphibious***. The dragon can breathe air and water.
 
-##Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10+2) piercing damage plus 2 (1d4) acid damage.
 
@@ -11227,7 +11227,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 ***Amphibious***. The dragon can breathe air and water.
 
-##Actions
+## Actions
 
 ***Multiattack***. The dragon makes three attacks: one with its bite and two with its claws.
 
@@ -11267,7 +11267,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 ***Legendary Resistance (3/Day)***. If the dragon fails a saving throw, it can choose to succeed instead.
 
-##Actions
+## Actions
 
 ***Multiattack***. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -11281,7 +11281,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 ***Lightning Breath (Recharge 5-6)***. The dragon exhales lightning in a 90-foot line that is 5 feet wide. Each creature in that line must make a DC 19 Dexterity saving throw, taking 66 (12d10) lightning damage on a failed save, or half as much damage on a successful one.
 
-##Legendary Actions
+## Legendary Actions
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -11321,7 +11321,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 ***Legendary Resistance (3/Day)***. If the dragon fails a saving throw, it can choose to succeed instead.
 
-##Actions
+## Actions
 
 ***Multiattack***. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -11335,7 +11335,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 ***Lightning Breath (Recharge 5-6)***. The dragon exhales lightning in a 120-foot line that is 10 feet wide. Each creature in that line must make a DC 23 Dexterity saving throw, taking 88 (16d10) lightning damage on a failed save, or half as much damage on a successful one.
 
-##Legendary Actions
+## Legendary Actions
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -11373,7 +11373,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Challenge** 3 (700 XP)
 
-##Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (1d10+3) piercing damage plus 3 (1d6) lightning damage.
 
@@ -11407,7 +11407,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Challenge** 9 (5,000 XP)
 
-##Actions
+## Actions
 
 ***Multiattack***. The dragon makes three attacks: one with its bite and two with its claws.
 
@@ -11447,7 +11447,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 ***Legendary Resistance (3/Day)***. If the dragon fails a saving throw, it can choose to succeed instead.
 
-##Actions
+## Actions
 
 ***Multiattack***. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -11465,7 +11465,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Sleep Breath**. The dragon exhales sleep gas in a 60-foot cone. Each creature in that area must succeed on a DC 18 Constitution saving throw or fall unconscious for 10 minutes. This effect ends for a creature if the creature takes damage or someone uses an action to wake it.
 
-##Legendary Actions
+## Legendary Actions
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -11505,7 +11505,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 ***Legendary Resistance (3/Day)***. If the dragon fails a saving throw, it can choose to succeed instead.
 
-##Actions
+## Actions
 
 ***Multiattack***. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -11527,7 +11527,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
 
-##Legendary Actions
+## Legendary Actions
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -11565,7 +11565,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Challenge** 1 (200 XP)
 
-##Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10+2) piercing damage.
 
@@ -11603,7 +11603,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Challenge** 6 (2,300 XP)
 
-##Actions
+## Actions
 
 ***Multiattack***. The dragon makes three attacks: one with its bite and two with its claws.
 
@@ -11649,7 +11649,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 ***Legendary Resistance (3/Day)***. If the dragon fails a saving throw, it can choose to succeed instead.
 
-##Actions
+## Actions
 
 ***Multiattack***. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -11671,7 +11671,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
 
-##Legendary Actions
+## Legendary Actions
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -11713,7 +11713,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 ***Legendary Resistance (3/Day)***. If the dragon fails a saving throw, it can choose to succeed instead.
 
-##Actions
+## Actions
 
 ***Multiattack***. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -11735,7 +11735,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
 
-##Legendary Actions
+## Legendary Actions
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -11775,7 +11775,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 ***Amphibious***. The dragon can breathe air and water.
 
-##Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (1d10+3) piercing damage.
 
@@ -11815,7 +11815,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 ***Amphibious***. The dragon can breathe air and water.
 
-##Actions
+## Actions
 
 ***Multiattack***. The dragon makes three attacks: one with its bite and two with its claws.
 
@@ -11859,7 +11859,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 ***Legendary Resistance (3/Day)***. If the dragon fails a saving throw, it can choose to succeed instead.
 
-##Actions
+## Actions
 
 ***Multiattack***. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -11877,7 +11877,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Slowing Breath**. The dragon exhales gas in a 60-foot cone. Each creature in that area must succeed on a DC 18 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
 
-##Legendary Actions
+## Legendary Actions
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -11917,7 +11917,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 ***Legendary Resistance (3/Day)***. If the dragon fails a saving throw, it can choose to succeed instead.
 
-##Actions
+## Actions
 
 ***Multiattack***. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -11939,7 +11939,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
 
-##Legendary Actions
+## Legendary Actions
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -11977,7 +11977,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Challenge** 1 (200 XP)
 
-##Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10+2) piercing damage.
 
@@ -12015,7 +12015,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Challenge** 7 (2,900 XP)
 
-##Actions
+## Actions
 
 ***Multiattack***. The dragon makes three attacks: one with its bite and two with its claws.
 
@@ -12061,7 +12061,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 ***Legendary Resistance (3/Day)***. If the dragon fails a saving throw, it can choose to succeed instead.
 
-##Actions
+## Actions
 
 ***Multiattack***. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -12083,7 +12083,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
 
-##Legendary Actions
+## Legendary Actions
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -12125,7 +12125,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 ***Legendary Resistance (3/Day)***. If the dragon fails a saving throw, it can choose to succeed instead.
 
-##Actions
+## Actions
 
 ***Multiattack***. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -12147,7 +12147,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
 
-##Legendary Actions
+## Legendary Actions
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -12187,7 +12187,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 ***Amphibious***. The dragon can breathe air and water.
 
-##Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (1d10+4) piercing damage.
 
@@ -12227,7 +12227,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 ***Amphibious***. The dragon can breathe air and water.
 
-##Actions
+## Actions
 
 ***Multiattack***. The dragon makes three attacks: one with its bite and two with its claws.
 
@@ -12275,7 +12275,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 ***Legendary Resistance (3/Day)***. If the dragon fails a saving throw, it can choose to succeed instead.
 
-##Actions
+## Actions
 
 ***Multiattack***. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -12289,7 +12289,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 ***Poison Breath (Recharge 5-6)***. The dragon exhales poisonous gas in a 60-foot cone. Each creature in that area must make a DC 18 Constitution saving throw, taking 56 (16d6) poison damage on a failed save, or half as much damage on a successful one.
 
-##Legendary Actions
+## Legendary Actions
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -12345,7 +12345,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 ***Poison Breath (Recharge 5-6)***. The dragon exhales poisonous gas in a 90-foot cone. Each creature in that area must make a DC 22 Constitution saving throw, taking 77 (22d6) poison damage on a failed save, or half as much damage on a successful one.
 
-##Legendary Actions
+## Legendary Actions
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -12387,7 +12387,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 ***Amphibious***. The dragon can breathe air and water.
 
-##Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10+2) piercing damage plus 3 (1d6) poison damage.
 
@@ -12425,7 +12425,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 ***Amphibious***. The dragon can breathe air and water.
 
-##Actions
+## Actions
 
 ***Multiattack***. The dragon makes three attacks: one with its bite and two with its claws.
 
@@ -12465,7 +12465,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 ***Legendary Resistance (3/Day)***. If the dragon fails a saving throw, it can choose to succeed instead.
 
-##Actions
+## Actions
 
 ***Multiattack***. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -12479,7 +12479,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 ***Fire Breath (Recharge 5-6)***. The dragon exhales fire in a 60-foot cone. Each creature in that area must make a DC 21 Dexterity saving throw, taking 63 (18d6) fire damage on a failed save, or half as much damage on a successful one.
 
-##Legendary Actions
+## Legendary Actions
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -12519,7 +12519,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 ***Legendary Resistance (3/Day)***. If the dragon fails a saving throw, it can choose to succeed instead.
 
-##Actions
+## Actions
 
 ***Multiattack***. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -12533,7 +12533,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 ***Fire Breath (Recharge 5-6)***. The dragon exhales fire in a 90-foot cone. Each creature in that area must make a DC 24 Dexterity saving throw, taking 91 (26d6) fire damage on a failed save, or half as much damage on a successful one.
 
-##Legendary Actions
+## Legendary Actions
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -12571,7 +12571,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Challenge** 4 (1,100 XP)
 
-##Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (1d10+4) piercing damage plus 3 (1d6) fire damage.
 
@@ -12605,7 +12605,7 @@ Large dragon, chaotic evil
 
 **Challenge** 10 (5,900 XP)
 
-##Actions
+## Actions
 
 ***Multiattack***. The dragon makes three attacks: one with its bite and two with its claws.
 
@@ -12645,7 +12645,7 @@ Large dragon, chaotic evil
 
 ***Legendary Resistance (3/Day)***. If the dragon fails a saving throw, it can choose to succeed instead.
 
-##Actions
+## Actions
 
 ***Multiattack***. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -12667,7 +12667,7 @@ Large dragon, chaotic evil
 
 In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
 
-##Legendary Actions
+## Legendary Actions
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -12707,7 +12707,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 ***Legendary Resistance (3/Day)***. If the dragon fails a saving throw, it can choose to succeed instead.
 
-##Actions
+## Actions
 
 ***Multiattack***. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -12729,7 +12729,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
 
-##Legendary Actions
+## Legendary Actions
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -12767,7 +12767,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Challenge** 2 (450 XP)
 
-##Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (1d10+4) piercing damage.
 
@@ -12805,7 +12805,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Challenge** 9 (5,000 XP)
 
-##Actions
+## Actions
 
 ***Multiattack***. The dragon makes three attacks: one with its bite and two with its claws.
 
@@ -12847,7 +12847,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 ***Amphibious***. The dragon turtle can breathe air and water.
 
-##Actions
+## Actions
 
 ***Multiattack***. The dragon turtle makes three attacks: one with its bite and two with its claws. It can make one tail attack in place of its two claw attacks.
 
@@ -12891,7 +12891,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 ***Legendary Resistance (3/Day)***. If the dragon fails a saving throw, it can choose to succeed instead.
 
-##Actions
+## Actions
 
 ***Multiattack***. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -12905,7 +12905,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 ***Cold Breath (Recharge 5-6)***. The dragon exhales an icy blast in a 60-foot cone. Each creature in that area must make a DC 19 Constitution saving throw, taking 54 (12d8) cold damage on a failed save, or half as much damage on a successful one.
 
-##Legendary Actions
+## Legendary Actions
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -12947,7 +12947,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 ***Legendary Resistance (3/Day)***. If the dragon fails a saving throw, it can choose to succeed instead.
 
-##Actions
+## Actions
 
 ***Multiattack***. The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -12961,7 +12961,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 ***Cold Breath (Recharge 5-6)***. The dragon exhales an icy blast in a 90-foot cone. Each creature in that area must make a DC 22 Constitution saving throw, taking 72 (16d8) cold damage on a failed save, or half as much damage on a successful one.
 
-##Legendary Actions
+## Legendary Actions
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 
@@ -12999,7 +12999,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Challenge** 2 (450 XP)
 
-##Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10+2) piercing damage plus 2 (1d4) cold damage.
 
@@ -13035,7 +13035,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 ***Ice Walk***. The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
 
-##Actions
+## Actions
 
 ***Multiattack***. The dragon makes three attacks: one with its bite and two with its claws.
 
@@ -13083,7 +13083,7 @@ At will: *druidcraft*
 
 ***Tree Stride***. Once on her turn, the dryad can use 10 feet of her movement to step magically into one living tree within her reach and emerge from a second living tree within 60 feet of the first tree, appearing in an unoccupied space within 5 feet of the second tree. Both trees must be Large or bigger.
 
-##Actions
+## Actions
 
 ***Club***. *Melee Weapon Attack:* +2 to hit (+6 to hit with *shillelagh*), reach 5 ft., one target. *Hit:* 2 (1d4) bludgeoning damage, or 8 (1d8+4) bludgeoning damage with *shillelagh*.
 
@@ -13121,7 +13121,7 @@ The dryad can have no more than one humanoid and up to three beasts charmed at a
 
 ***Sunlight Sensitivity***. While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-##Actions
+## Actions
 
 ***Enlarge (Recharges after a Short or Long Rest)***. For 1 minute, the duergar magically increases in size, along with anything it is wearing or carrying. While enlarged, the duergar is Large, doubles its damage dice on Strength-based weapon attacks (included in the attacks), and makes Strength checks and Strength saving throws with advantage. If the duergar lacks the room to become Large, it attains the maximum size possible in the space available.
 
@@ -13157,7 +13157,7 @@ The dryad can have no more than one humanoid and up to three beasts charmed at a
 
 ***Keen Sight***. The eagle has advantage on Wisdom (Perception) checks that rely on sight.
 
-##Actions
+## Actions
 
 ***Talons***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4+2) slashing damage.
 
@@ -13187,7 +13187,7 @@ The dryad can have no more than one humanoid and up to three beasts charmed at a
 
 ***Keen Sight***. The eagle has advantage on Wisdom (Perception) checks that rely on sight.
 
-##Actions
+## Actions
 
 ***Multiattack***. The eagle makes two attacks: one with its beak and one with its talons.
 
@@ -13233,7 +13233,7 @@ At will: *detect magic*
 
 1/day each: *conjure elemental* (fire elemental only), *gaseous form*, *invisibility*, *major image*, *plane shift*, *wall of fire*
 
-##Actions
+## Actions
 
 ***Multiattack***. The efreeti makes two scimitar attacks or uses its Hurl Flame twice.
 
@@ -13265,7 +13265,7 @@ At will: *detect magic*
 
 ***Trampling Charge***. If the elephant moves at least 20 feet straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 12 Strength saving throw or be knocked prone. If the target is prone, the elephant can make one stomp attack against it as a bonus action.
 
-##Actions
+## Actions
 
 ***Gore***. *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 19 (3d8+6) piercing damage.
 
@@ -13305,7 +13305,7 @@ At will: *dancing lights*
 
 ***Sunlight Sensitivity***. While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-##Actions
+## Actions
 
 ***Shortsword***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6+2) piercing damage.
 
@@ -13335,7 +13335,7 @@ At will: *dancing lights*
 
 ***Charge***. If the elk moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
 
-##Actions
+## Actions
 
 ***Ram***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6+3) bludgeoning damage.
 
@@ -13367,7 +13367,7 @@ At will: *dancing lights*
 
 ***Charge***. If the elk moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked prone.
 
-##Actions
+## Actions
 
 ***Ram***. *Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:* 11 (2d6+4) bludgeoning damage.
 
@@ -13409,7 +13409,7 @@ The majestic **giant elk** is rare to the point that its appearance is often tak
 
 ***Magic Resistance***. The erinyes has advantage on saving throws against spells and other magical effects.
 
-##Actions
+## Actions
 
 ***Multiattack***. The erinyes makes three attacks.
 
@@ -13417,7 +13417,7 @@ The majestic **giant elk** is rare to the point that its appearance is often tak
 
 ***Longbow***. *Ranged Weapon Attack:* +7 to hit, range 150/600 ft., one target. *Hit:* 7 (1d8+3) piercing damage plus 13 (3d8) poison damage, and the target must succeed on a DC 14 Constitution saving throw or be poisoned. The poison lasts until it is removed by the *lesser restoration* spell or similar magic.
 
-##Reactions
+## Reactions
 
 ***Parry***. The erinyes adds 4 to its AC against one melee attack that would hit it. To do so, the erinyes must see the attacker and be wielding a melee weapon.
 
@@ -13449,7 +13449,7 @@ The majestic **giant elk** is rare to the point that its appearance is often tak
 
 ***Wakeful***. When one of the ettin's heads is asleep, its other head is awake.
 
-##Actions
+## Actions
 
 ***Multiattack***. The ettin makes two attacks: one with its battleaxe and one with its morningstar.
 
@@ -13481,7 +13481,7 @@ The majestic **giant elk** is rare to the point that its appearance is often tak
 
 ***Illumination***. The beetle sheds bright light in a 10-foot radius and dim light for an additional 10 feet.
 
-##Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +1 to hit, reach 5 ft., one target. *Hit:* 2 (1d6-1) slashing damage.
 
@@ -13545,7 +13545,7 @@ A **frog** has no effective attacks. It feeds on small insects and typically dwe
 
 ***Standing Leap***. The frog's long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start.
 
-##Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6+1) piercing damage, and the target is grappled (escape DC 11). Until this grapple ends, the target is restrained, and the frog can't bite another target.
 
@@ -13583,7 +13583,7 @@ If the frog dies, a swallowed creature is no longer restrained by it and can esc
 
 ***False Appearance***. While the gargoyle remains motionless, it is indistinguishable from an inanimate statue.
 
-##Actions
+## Actions
 
 ***Multiattack***. The gargoyle makes two attacks: one with its bite and one with its claws.
 
@@ -13623,7 +13623,7 @@ If the frog dies, a swallowed creature is no longer restrained by it and can esc
 
 ***Turning Defiance***. The ghast and any ghouls within 30 feet of it have advantage on saving throws against effects that turn undead.
 
-##Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature. *Hit:* 12 (2d8+3) piercing damage.
 
@@ -13661,7 +13661,7 @@ If the frog dies, a swallowed creature is no longer restrained by it and can esc
 
 ***Incorporeal Movement***. The ghost can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
 
-##Actions
+## Actions
 
 ***Withering Touch***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 17 (4d6+3) necrotic damage.
 
@@ -13699,7 +13699,7 @@ The possession lasts until the body drops to 0 hit points, the ghost ends it as 
 
 **Challenge** 1 (200 XP)
 
-##Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +2 to hit, reach 5 ft., one creature. *Hit:* 9 (2d6+2) piercing damage.
 
@@ -13741,7 +13741,7 @@ At will: *detect magic*, *fog cloud*, *light*
 
 1/day each: *control weather*, *gaseous form*
 
-##Actions
+## Actions
 
 ***Multiattack***. The giant makes two morningstar attacks.
 
@@ -13777,7 +13777,7 @@ At will: *detect magic*, *fog cloud*, *light*
 
 **Challenge** 9 (5,000 XP)
 
-##Actions
+## Actions
 
 ***Multiattack***. The giant makes two greatsword attacks.
 
@@ -13813,7 +13813,7 @@ At will: *detect magic*, *fog cloud*, *light*
 
 **Challenge** 8 (3,900 XP)
 
-##Actions
+## Actions
 
 ***Multiattack***. The giant makes two greataxe attacks.
 
@@ -13845,7 +13845,7 @@ At will: *detect magic*, *fog cloud*, *light*
 
 **Challenge** 5 (1,800 XP)
 
-##Actions
+## Actions
 
 ***Multiattack***. The giant makes two greatclub attacks.
 
@@ -13881,7 +13881,7 @@ At will: *detect magic*, *fog cloud*, *light*
 
 ***Stone Camouflage.*** The giant has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
 
-##Actions
+## Actions
 
 ***Multiattack***. The giant makes two greatclub attacks.
 
@@ -13889,7 +13889,7 @@ At will: *detect magic*, *fog cloud*, *light*
 
 ***Rock***. *Ranged Weapon Attack:* +9 to hit, range 60/240 ft., one target. *Hit:* 28 (4d10+6) bludgeoning damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be knocked prone.
 
-##Reactions
+## Reactions
 
 ***Rock Catching***. If a rock or similar object is hurled at the giant, the giant can, with a successful DC 10 Dexterity saving throw, catch the missile and take no bludgeoning damage from it.
 
@@ -13931,7 +13931,7 @@ At will: *detect magic*, *feather fall*, *levitate*, *light*
 
 3/day each: *control weather*, *water breathing*
 
-##Actions
+## Actions
 
 ***Multiattack***. The giant makes two greatsword attacks.
 
@@ -13967,7 +13967,7 @@ At will: *detect magic*, *feather fall*, *levitate*, *light*
 
 ***Sure-Footed***. The goat has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.
 
-##Actions
+## Actions
 
 ***Ram***. *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4+1) bludgeoning damage.
 
@@ -13997,7 +13997,7 @@ At will: *detect magic*, *feather fall*, *levitate*, *light*
 
 ***Sure-Footed***. The goat has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.
 
-##Actions
+## Actions
 
 ***Ram***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (2d4+3) bludgeoning damage.
 
@@ -14027,7 +14027,7 @@ At will: *detect magic*, *feather fall*, *levitate*, *light*
 
 ***Nimble Escape***. The goblin can take the Disengage or Hide action as a bonus action on each of its turns.
 
-##Actions
+## Actions
 
 ***Scimitar***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6+2) slashing damage.
 
@@ -14069,7 +14069,7 @@ At will: *detect magic*, *feather fall*, *levitate*, *light*
 
 ***Magic Weapons***. The golem's weapon attacks are magical.
 
-##Actions
+## Actions
 
 ***Multiattack***. The golem makes two slam attacks.
 
@@ -14117,7 +14117,7 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 
 ***Magic Weapons***. The golem's weapon attacks are magical.
 
-##Actions
+## Actions
 
 ***Multiattack***. The golem makes two slam attacks.
 
@@ -14157,7 +14157,7 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 
 ***Magic Weapons***. The golem's weapon attacks are magical.
 
-##Actions
+## Actions
 
 ***Multiattack***. The golem makes two melee attacks.
 
@@ -14199,7 +14199,7 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 
 ***Magic Weapons***. The golem's weapon attacks are magical.
 
-##Actions
+## Actions
 
 ***Multiattack***. The golem makes two slam attacks.
 
@@ -14235,7 +14235,7 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 
 ***Trampling Charge***. If the gorgon moves at least 20 feet straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 16 Strength saving throw or be knocked prone. If the target is prone, the gorgon can make one attack with its hooves against it as a bonus action.
 
-##Actions
+## Actions
 
 ***Gore***. *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 18 (2d12+5) piercing damage.
 
@@ -14269,7 +14269,7 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 
 ***Keen Sight***. The griffon has advantage on Wisdom (Perception) checks that rely on sight.
 
-##Actions
+## Actions
 
 ***Multiattack***. The griffon makes two attacks: one with its beak and one with its claws.
 
@@ -14309,7 +14309,7 @@ At will: *dancing lights*, *minor illusion*, *vicious mockery*
 
 ***Mimicry***. The hag can mimic animal sounds and humanoid voices. A creature that hears the sounds can tell they are imitations with a successful DC 14 Wisdom (Insight) check.
 
-##Actions
+## Actions
 
 ***Claws.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13 (2d8+4) slashing damage.
 
@@ -14341,7 +14341,7 @@ The changes wrought by this effect fail to hold up to physical inspection. For e
 
 **Challenge** 1 (200 XP)
 
-##Actions
+## Actions
 
 ***Multiattack***. The harpy makes two attacks: one with its claws and one with its club.
 
@@ -14381,7 +14381,7 @@ A target that successfully saves is immune to this harpy's song for the next 24 
 
 ***Keen Sight***. The hawk has advantage on Wisdom (Perception) checks that rely on sight.
 
-##Actions
+## Actions
 
 ***Talons***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 1 slashing damage.
 
@@ -14415,7 +14415,7 @@ A target that successfully saves is immune to this harpy's song for the next 24 
 
 ***Pack Tactics***. The hound has advantage on an attack roll against a creature if at least one of the hound's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
-##Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8+3) piercing damage plus 7 (2d6) fire damage.
 
@@ -14447,7 +14447,7 @@ A target that successfully saves is immune to this harpy's song for the next 24 
 
 ***Keen Sight***. The hippogriff has advantage on Wisdom (Perception) checks that rely on sight.
 
-##Actions
+## Actions
 
 ***Multiattack***. The hippogriff makes two attacks: one with its beak and one with its claws.
 
@@ -14479,7 +14479,7 @@ A target that successfully saves is immune to this harpy's song for the next 24 
 
 ***Martial Advantage***. Once per turn, the hobgoblin can deal an extra 7 (2d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the hobgoblin that isn't incapacitated.
 
-##Actions
+## Actions
 
 ***Longsword***. *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 5 (1d8+1) slashing damage, or 6 (1d10+1) slashing damage if used with two hands.
 
@@ -14513,7 +14513,7 @@ A target that successfully saves is immune to this harpy's song for the next 24 
 
 ***Telepathic Bond***. While the homunculus is on the same plane of existence as its master, it can magically convey what it senses to its master, and the two can communicate telepathically.
 
-##Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 1 piercing damage, and the target must succeed on a DC 10 Constitution saving throw or be poisoned for 1 minute. If the saving throw fails by 5 or more, the target is instead poisoned for 5 (1d10) minutes and unconscious while poisoned in this way.
 
@@ -14553,7 +14553,7 @@ At the end of its turn, it grows two heads for each of its heads that died since
 
 ***Wakeful***. While the hydra sleeps, at least one of its heads is awake.
 
-##Actions
+## Actions
 
 ***Multiattack***. The hydra makes as many bite attacks as it has heads.
 
@@ -14585,7 +14585,7 @@ At the end of its turn, it grows two heads for each of its heads that died since
 
 ***Pack Tactics***. The hyena has advantage on an attack roll against a creature if at least one of the hyena's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
-##Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 3 (1d6) piercing damage.
 
@@ -14615,7 +14615,7 @@ At the end of its turn, it grows two heads for each of its heads that died since
 
 ***Rampage***. When the hyena reduces a creature to 0 hit points with a melee attack on its turn, the hyena can take a bonus action to move up to half its speed and make a bite attack.
 
-##Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6+3) piercing damage.
 
@@ -14655,7 +14655,7 @@ At the end of its turn, it grows two heads for each of its heads that died since
 
 ***Magic Resistance***. The imp has advantage on saving throws against spells and other magical effects.
 
-##Actions
+## Actions
 
 ***Sting (Bite in Beast Form)***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (1d4+3) piercing damage, and the target must make on a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.
 
@@ -14689,7 +14689,7 @@ At the end of its turn, it grows two heads for each of its heads that died since
 
 ***Swarm***. The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny insect. The swarm can't regain hit points or gain temporary hit points.
 
-##Actions
+## Actions
 
 ***Bites***. *Melee Weapon Attack:* +3 to hit, reach 0 ft., one target in the swarm's space. *Hit:* 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer.
 
@@ -14745,7 +14745,7 @@ At the end of its turn, it grows two heads for each of its heads that died since
 
 ***Faultless Tracker***. The stalker is given a quarry by its summoner. The stalker knows the direction and distance to its quarry as long as the two of them are on the same plane of existence. The stalker also knows the location of its summoner.
 
-##Actions
+## Actions
 
 ***Multiattack***. The stalker makes two slam attacks.
 
@@ -14779,7 +14779,7 @@ At the end of its turn, it grows two heads for each of its heads that died since
 
 ***Pack Tactics***. The jackal has advantage on an attack roll against a creature if at least one of the jackal's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
-##Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +1 to hit, reach 5 ft., one target. *Hit:* 1 (1d4-1) piercing damage.
 
@@ -14809,7 +14809,7 @@ At the end of its turn, it grows two heads for each of its heads that died since
 
 ***Pack Tactics***. The kobold has advantage on an attack roll against a creature if at least one of the kobold's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
-##Actions
+## Actions
 
 ***Dagger***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4+2) piercing damage.
 
@@ -14849,7 +14849,7 @@ At the end of its turn, it grows two heads for each of its heads that died since
 
 ***Siege Monster***. The kraken deals double damage to objects and structures.
 
-##Actions
+## Actions
 
 ***Multiattack***. The kraken makes three tentacle attacks, each of which it can replace with one use of Fling.
 
@@ -14863,7 +14863,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 
 ***Lightning Storm***. The kraken magically creates three bolts of lightning, each of which can strike a target the kraken can see within 120 feet of it. A target must make a DC 23 Dexterity saving throw, taking 22 (4d10) lightning damage on a failed save, or half as much damage on a successful one.
 
-##Legendary Actions
+## Legendary Actions
 
 The kraken can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The kraken regains spent legendary actions at the start of its turn.
 
@@ -14905,7 +14905,7 @@ At will: *disguise self* (any humanoid form), *major image*
 
 1/day: *geas*
 
-##Actions
+## Actions
 
 ***Multiattack***. The lamia makes two attacks: one with its claws and one with its dagger or Intoxicating Touch.
 
@@ -14947,7 +14947,7 @@ At will: *disguise self* (any humanoid form), *major image*
 
 ***Hellish Rejuvenation***. A lemure that dies in the Nine Hells comes back to life with all its hit points in 1d10 days unless it is killed by a good-aligned creature with a *bless* spell cast on that creature or its remains are sprinkled with holy water.
 
-##Actions
+## Actions
 
 ***Fist***. *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 2 (1d4) bludgeoning damage.
 
@@ -15002,11 +15002,11 @@ Cantrips (at will): *mage hand*, *prestidigitation*, *ray of frost*
 
 ***Turn Resistance***. The lich has advantage on saving throws against any effect that turns undead.
 
-##Actions
+## Actions
 
 ***Paralyzing Touch***. *Melee Spell Attack:* +12 to hit, reach 5 ft., one creature. *Hit:* 10 (3d6) cold damage. The target must succeed on a DC 18 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-##Legendary Actions
+## Legendary Actions
 
 The lich can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The lich regains spent legendary actions at the start of its turn.
 
@@ -15050,7 +15050,7 @@ The lich can take 3 legendary actions, choosing from the options below. Only one
 
 ***Running Leap***. With a 10-foot running start, the lion can long jump up to 25 feet.
 
-##Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8+3) piercing damage.
 
@@ -15078,7 +15078,7 @@ The lich can take 3 legendary actions, choosing from the options below. Only one
 
 **Challenge** 0 (10 XP)
 
-##Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +0 to hit, reach 5 ft., one target. *Hit:* 1 piercing damage.
 
@@ -15104,7 +15104,7 @@ The lich can take 3 legendary actions, choosing from the options below. Only one
 
 **Challenge** 1/4 (50 XP)
 
-##Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8+2) piercing damage.
 
@@ -15136,7 +15136,7 @@ A **giant lizard** can be ridden or used as a draft animal. Lizardfolk also keep
 
 ***Hold Breath***. The lizardfolk can hold its breath for 15 minutes.
 
-##Actions
+## Actions
 
 ***Multiattack***. The lizardfolk makes two melee attacks, each one with a different weapon.
 
@@ -15172,7 +15172,7 @@ A **giant lizard** can be ridden or used as a draft animal. Lizardfolk also keep
 
 ***Trampling Charge***. If the mammoth moves at least 20 feet straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 18 Strength saving throw or be knocked prone. If the target is prone, the mammoth can make one stomp attack against it as a bonus action.
 
-##Actions
+## Actions
 
 ***Gore***. *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 25 (4d8+7) piercing damage.
 
@@ -15204,7 +15204,7 @@ A **mammoth** is an elephantine creature with thick fur and long tusks. Stockier
 
 ***Tail Spike Regrowth***. The manticore has twenty-four tail spikes. Used spikes regrow when the manticore finishes a long rest.
 
-##Actions
+## Actions
 
 ***Multiattack***. The manticore makes three attacks: one with its bite and two with its claws or three with its tail spikes.
 
@@ -15244,7 +15244,7 @@ Unless surprised, a creature can avert its eyes to avoid the saving throw at the
 
 If the medusa sees itself reflected on a polished surface within 30 feet of it and in an area of bright light, the medusa is, due to its curse, affected by its own gaze.
 
-##Actions
+## Actions
 
 ***Multiattack***. The medusa makes either three melee attacks-one with its snake hair and two with its shortsword-or two ranged attacks with its longbow.
 
@@ -15280,7 +15280,7 @@ If the medusa sees itself reflected on a polished surface within 30 feet of it a
 
 ***Amphibious***. The merfolk can breathe air and water.
 
-##Actions
+## Actions
 
 ***Spear***. *Melee or Ranged Weapon Attack:* +2 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 3 (1d6) piercing damage, or 4 (1d8) piercing damage if used with two hands to make a melee attack.
 
@@ -15314,7 +15314,7 @@ If the medusa sees itself reflected on a polished surface within 30 feet of it a
 
 ***Reckless***. At the start of its turn, the minotaur can gain advantage on all melee weapon attack rolls it makes during that turn, but attack rolls against it have advantage until the start of its next turn.
 
-##Actions
+## Actions
 
 ***Greataxe***. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 17 (2d12+4) slashing damage.
 
@@ -15346,7 +15346,7 @@ If the medusa sees itself reflected on a polished surface within 30 feet of it a
 
 ***Sure-Footed***. The mule has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.
 
-##Actions
+## Actions
 
 ***Hooves***. *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 4 (1d4+2) bludgeoning damage.
 
@@ -15382,7 +15382,7 @@ Saving Throws Wis +2
 
 **Challenge** 3 (700 XP)
 
-##Actions
+## Actions
 
 ***Multiattack***. The mummy can use its Dreadful Glare and makes one attack with its rotting fist.
 
@@ -15432,7 +15432,7 @@ Cantrips (at will): *mending*, *sacred flame*, *thaumaturgy*
 5th level (2 slots): *flame strike*, *geas*
 6th level (1 slot): *true seeing*
 
-##Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +8 to hit, reach 10 ft., one creature. *Hit:* 8 (1d8+4) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one.
 
@@ -15475,7 +15475,7 @@ Cantrips (at will): *mage hand*, *minor illusion*, *ray of frost*
 4th level (3 slots): *blight*, *dimension door*
 5th level (2 slots): *dominate person*
 
-##Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +7 to hit, reach 10 ft., one creature. *Hit:* 7 (1d6+4) piercing damage, and the target must make a DC 13 Constitution saving throw, taking 31 (7d8) poison damage on a failed save, or half as much damage on a successful one.
 
@@ -15507,7 +15507,7 @@ Cantrips (at will): *mage hand*, *minor illusion*, *ray of frost*
 
 ***Illumination***. The nightmare sheds bright light in a 10- foot radius and dim light for an additional 10 feet.
 
-##Actions
+## Actions
 
 ***Hooves***. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13 (2d8+4) bludgeoning damage plus 7 (2d6) fire damage.
 
@@ -15543,7 +15543,7 @@ Cantrips (at will): *mage hand*, *minor illusion*, *ray of frost*
 
 ***Water Breathing***. The octopus can breathe only underwater.
 
-##Actions
+## Actions
 
 ***Tentacles***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 1 bludgeoning damage, and the target is grappled (escape DC 10). Until this grapple ends, the octopus can't use its tentacles on another target.
 
@@ -15579,7 +15579,7 @@ Cantrips (at will): *mage hand*, *minor illusion*, *ray of frost*
 
 ***Water Breathing***. The octopus can breathe only underwater.
 
-##Actions
+## Actions
 
 ***Tentacles***. *Melee Weapon Attack:* +5 to hit, reach 15 ft., one target. *Hit:* 10 (2d6+3) bludgeoning damage. If the target is a creature, it is grappled (escape DC 16). Until this grapple ends, the target is restrained, and the octopus can't use its tentacles on another target.
 
@@ -15607,7 +15607,7 @@ Cantrips (at will): *mage hand*, *minor illusion*, *ray of frost*
 
 **Challenge** 2 (450 XP)
 
-##Actions
+## Actions
 
 ***Greatclub***. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13 (2d8+4) bludgeoning damage.
 
@@ -15649,7 +15649,7 @@ At will: *darkness*, *invisibility*
 
 ***Regeneration***. The oni regains 10 hit points at the start of its turn if it has at least 1 hit point.
 
-##Actions
+## Actions
 
 ***Multiattack***. The oni makes two attacks, either with its claws or its glaive.
 
@@ -15685,7 +15685,7 @@ At will: *darkness*, *invisibility*
 
 ***Aggressive***. As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.
 
-##Actions
+## Actions
 
 ***Greataxe***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 9 (1d12+3) slashing damage.
 
@@ -15719,7 +15719,7 @@ At will: *darkness*, *invisibility*
 
 ***Keen Hearing and Sight***. The owl has advantage on Wisdom (Perception) checks that rely on hearing or sight.
 
-##Actions
+## Actions
 
 ***Talons***. *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 1 slashing damage.
 
@@ -15751,7 +15751,7 @@ At will: *darkness*, *invisibility*
 
 ***Keen Hearing and Sight***. The owl has advantage on Wisdom (Perception) checks that rely on hearing or sight.
 
-##Actions
+## Actions
 
 ***Talons***. *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 8 (2d6+1) slashing damage.
 
@@ -15785,7 +15785,7 @@ At will: *darkness*, *invisibility*
 
 ***Pounce***. If the panther moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 12 Strength saving throw or be knocked prone. If the target is prone, the panther can make one bite attack against it as a bonus action.
 
-##Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6+2) piercing damage.
 
@@ -15817,7 +15817,7 @@ At will: *darkness*, *invisibility*
 
 **Challenge** 2 (450 XP)
 
-##Actions
+## Actions
 
 ***Hooves***. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 11 (2d6+4) bludgeoning damage.
 
@@ -15849,7 +15849,7 @@ At will: *darkness*, *invisibility*
 
 ***Swarm***. The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny snake. The swarm can't regain hit points or gain temporary hit points.
 
-##Actions
+## Actions
 
 ***Bites***. *Melee Weapon Attack:* +6 to hit, reach 0 ft., one creature in the swarm's space. *Hit:* 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer. The target must make a DC 10 Constitution saving throw, taking 14 (4d6) poison damage on a failed save, or half as much damage on a successful one.
 
@@ -15875,7 +15875,7 @@ At will: *darkness*, *invisibility*
 
 **Challenge** 1/8 (25 XP)
 
-##Actions
+## Actions
 
 ***Hooves***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d4+2) bludgeoning damage.
 
@@ -15909,7 +15909,7 @@ At will: *darkness*, *invisibility*
 
 ***Limited Telepathy***. The pseudodragon can magically communicate simple ideas, emotions, and images telepathically with any creature within 100 feet of it that can understand a language.
 
-##Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4+2) piercing damage.
 
@@ -15941,7 +15941,7 @@ At will: *darkness*, *invisibility*
 
 ***Water Breathing***. The quipper can breathe only underwater.
 
-##Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 1 piercing damage.
 
@@ -15979,7 +15979,7 @@ A **quipper** is a carnivorous fish with sharp teeth. Quippers can adapt to any 
 
 ***Water Breathing***. The swarm can breathe only underwater.
 
-##Actions
+## Actions
 
 ***Bites***. *Melee Weapon Attack:* +5 to hit, reach 0 ft., one creature in the swarm's space. *Hit:* 14 (4d6) piercing damage, or 7 (2d6) piercing damage if the swarm has half of its hit points or fewer.
 
@@ -16021,7 +16021,7 @@ At will: *detect thoughts*, *disguise self*, *mage hand*, *minor illusion*
 
 1/day each: *dominate person*, *fly*, *plane shift*, *true seeing*
 
-##Actions
+## Actions
 
 ***Multiattack***. The rakshasa makes two claw attacks.
 
@@ -16051,7 +16051,7 @@ At will: *detect thoughts*, *disguise self*, *mage hand*, *minor illusion*
 
 ***Keen Smell***. The rat has advantage on Wisdom (Perception) checks that rely on smell.
 
-##Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +0 to hit, reach 5 ft., one target. *Hit:* 1 piercing damage.
 
@@ -16081,7 +16081,7 @@ At will: *detect thoughts*, *disguise self*, *mage hand*, *minor illusion*
 
 ***Pack Tactics***. The rat has advantage on an attack roll against a creature if at least one of the rat's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
-##Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4+2) piercing damage.
 
@@ -16121,7 +16121,7 @@ At will: *detect thoughts*, *disguise self*, *mage hand*, *minor illusion*
 
 ***Swarm***. The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny rat. The swarm can't regain hit points or gain temporary hit points.
 
-##Actions
+## Actions
 
 ***Bites***. *Melee Weapon Attack:* +2 to hit, reach 0 ft., one target in the swarm's space. *Hit:* 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer.
 
@@ -16151,7 +16151,7 @@ At will: *detect thoughts*, *disguise self*, *mage hand*, *minor illusion*
 
 ***Mimicry***. The raven can mimic simple sounds it has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check.
 
-##Actions
+## Actions
 
 ***Beak***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 1 piercing damage.
 
@@ -16185,7 +16185,7 @@ At will: *detect thoughts*, *disguise self*, *mage hand*, *minor illusion*
 
 ***Swarm***. The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny raven. The swarm can't regain hit points or gain temporary hit points.
 
-##Actions
+## Actions
 
 ***Beaks***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target in the swarm's space. *Hit:* 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer.
 
@@ -16213,7 +16213,7 @@ At will: *detect thoughts*, *disguise self*, *mage hand*, *minor illusion*
 
 ***Charge***. If the rhinoceros moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (2d8) bludgeoning damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.
 
-##Actions
+## Actions
 
 ***Gore***. *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 14 (2d8+5) bludgeoning damage.
 
@@ -16239,7 +16239,7 @@ At will: *detect thoughts*, *disguise self*, *mage hand*, *minor illusion*
 
 **Challenge** 1/4 (50 XP)
 
-##Actions
+## Actions
 
 ***Hooves***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (2d4+3) bludgeoning damage.
 
@@ -16271,7 +16271,7 @@ At will: *detect thoughts*, *disguise self*, *mage hand*, *minor illusion*
 
 ***Keen Sight***. The roc has advantage on Wisdom (Perception) checks that rely on sight.
 
-##Actions
+## Actions
 
 ***Multiattack***. The roc makes two attacks: one with its beak and one with its talons.
 
@@ -16307,7 +16307,7 @@ At will: *detect thoughts*, *disguise self*, *mage hand*, *minor illusion*
 
 ***Pounce***. If the tiger moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the tiger can make one bite attack against it as a bonus action.
 
-##Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 10 (1d10+5) piercing damage.
 
@@ -16345,7 +16345,7 @@ At will: *detect thoughts*, *disguise self*, *mage hand*, *minor illusion*
 
 ***Heated Weapons***. Any metal melee weapon the salamander wields deals an extra 3 (1d6) fire damage on a hit (included in the attack).
 
-##Actions
+## Actions
 
 ***Multiattack***. The salamander makes two attacks: one with its spear and one with its tail.
 
@@ -16379,7 +16379,7 @@ At will: *detect thoughts*, *disguise self*, *mage hand*, *minor illusion*
 
 ***Magic Resistance***. The satyr has advantage on saving throws against spells and other magical effects.
 
-##Actions
+## Actions
 
 ***Ram***. *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 6 (2d4+1) bludgeoning damage.
 
@@ -16409,7 +16409,7 @@ At will: *detect thoughts*, *disguise self*, *mage hand*, *minor illusion*
 
 **Challenge** 0 (10 XP)
 
-##Actions
+## Actions
 
 ***Sting***. *Melee Weapon Attack:* +2 to hit, reach 5 ft., one creature. *Hit:* 1 piercing damage, and the target must make a DC 9 Constitution saving throw, taking 4 (1d8) poison damage on a failed save, or half as much damage on a successful one.
 
@@ -16435,7 +16435,7 @@ At will: *detect thoughts*, *disguise self*, *mage hand*, *minor illusion*
 
 **Challenge** 3 (700 XP)
 
-##Actions
+## Actions
 
 ***Multiattack***. The scorpion makes three attacks: two with its claws and one with its sting.
 
@@ -16493,7 +16493,7 @@ At will: *detect thoughts*, *disguise self*, *mage hand*, *minor illusion*
 
 ***Water Breathing***. The sea horse can breathe only underwater.
 
-##Actions
+## Actions
 
 ***Ram***. *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6+1) bludgeoning damage.
 
@@ -16537,7 +16537,7 @@ Like their smaller kin, **giant sea horses** are shy, colorful fish with elongat
 
 ***Sunlight Weakness***. While in sunlight, the shadow has disadvantage on attack rolls, ability checks, and saving throws.
 
-##Actions
+## Actions
 
 ***Strength Drain***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 9 (2d6+2) necrotic damage, and the target's Strength score is reduced by 1d4. The target dies if this reduces its Strength to 0. Otherwise, the reduction lasts until the target finishes a short or long rest.
 
@@ -16575,7 +16575,7 @@ If a non-evil humanoid dies from this attack, a new shadow rises from the corpse
 
 ***Lightning Absorption***. Whenever the shambling mound is subjected to lightning damage, it takes no damage and regains a number of hit points equal to the lightning damage dealt.
 
-##Actions
+## Actions
 
 ***Multiattack***. The shambling mound makes two slam attacks. If both attacks hit a Medium or smaller target, the target is grappled (escape DC 14), and the shambling mound uses its Engulf on it.
 
@@ -16611,7 +16611,7 @@ If a non-evil humanoid dies from this attack, a new shadow rises from the corpse
 
 ***Water Breathing***. The shark can breathe only underwater.
 
-##Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 22 (3d10+6) piercing damage.
 
@@ -16645,7 +16645,7 @@ A **giant shark** is 30 feet long and normally found in deep oceans. Utterly fea
 
 ***Water Breathing***. The shark can breathe only underwater.
 
-##Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13 (2d8+4) piercing damage.
 
@@ -16679,7 +16679,7 @@ Smaller than a giant shark but larger and fiercer than a reef shark, a **hunter 
 
 ***Water Breathing***. The shark can breathe only underwater.
 
-##Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8+2) piercing damage.
 
@@ -16713,7 +16713,7 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 
 **Challenge** 1/4 (50 XP)
 
-##Actions
+## Actions
 
 ***Shortsword***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6+2) piercing damage.
 
@@ -16747,7 +16747,7 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 
 **Challenge** 1/2 (100 XP)
 
-##Actions
+## Actions
 
 ***Hooves***. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 11 (2d6+4) bludgeoning damage.
 
@@ -16773,7 +16773,7 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 
 **Challenge** 1/4 (50 XP)
 
-##Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 5 (1d6+2) piercing damage.
 
@@ -16803,7 +16803,7 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 
 **Challenge** 2 (450 XP)
 
-##Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +6 to hit, reach 10 ft., one creature. *Hit:* 11 (2d6+4) piercing damage.
 
@@ -16833,7 +16833,7 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 
 **Challenge** 1/4 (50 XP)
 
-##Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:* 6 (1d4+4) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.
 
@@ -16859,7 +16859,7 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 
 **Challenge** 1/8 (25 XP)
 
-##Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 1 piercing damage, and the target must make a DC 10 Constitution saving throw, taking 5 (2d4) poison damage on a failed save, or half as much damage on a successful one.
 
@@ -16895,7 +16895,7 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 
 ***Sunlight Sensitivity***. While in sunlight, the specter has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-##Actions
+## Actions
 
 ***Life Drain***. *Melee Spell Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 10 (3d6) necrotic damage. The target must succeed on a DC 10 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the creature finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
 
@@ -16943,7 +16943,7 @@ Cantrips (at will): *sacred flame*, *spare the dying*, *thaumaturgy*
 5th level (2 slots): *flame strike*, *greater restoration*
 6th level (1 slot): *heroes' feast*
 
-##Actions
+## Actions
 
 ***Multiattack***. The sphinx makes two claw attacks.
 
@@ -16957,7 +16957,7 @@ Cantrips (at will): *sacred flame*, *spare the dying*, *thaumaturgy*
 
 **Third Roar**. Each creature makes a DC 18 Constitution saving throw. On a failed save, a creature takes 44 (8d10) thunder damage and is knocked prone. On a successful save, the creature takes half as much damage and isn't knocked prone.
 
-##Legendary Actions
+## Legendary Actions
 
 The sphinx can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The sphinx regains spent legendary actions at the start of its turn.
 
@@ -17010,13 +17010,13 @@ Cantrips (at will): *mage hand*, *minor illusion*, *prestidigitation*
 4th level (3 slots): *banishment*, *greater invisibility*
 5th level (1 slot): *legend lore*
 
-##Actions
+## Actions
 
 ***Multiattack***. The sphinx makes two claw attacks.
 
 ***Claw***. *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 13 (2d8+4) slashing damage.
 
-##Legendary Actions
+## Legendary Actions
 
 The sphinx can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The sphinx regains spent legendary actions at the start of its turn.
 
@@ -17056,7 +17056,7 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 
 ***Web Walker***. The spider ignores movement restrictions caused by webbing.
 
-##Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 1 piercing damage, and the target must succeed on a DC 9 Constitution saving throw or take 2 (1d4) poison damage.
 
@@ -17090,7 +17090,7 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 
 ***Web Walker***. The spider ignores movement restrictions caused by webbing.
 
-##Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* 7 (1d8+3) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 9 (2d8) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
 
@@ -17128,7 +17128,7 @@ To snare its prey, a **giant spider** spins elaborate webs or shoots sticky stra
 
 ***Web Walker***. The spider ignores movement restrictions caused by webbing.
 
-##Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature. *Hit:* 4 (1d6+1) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 7 (2d6) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
 
@@ -17158,7 +17158,7 @@ Smaller than a giant spider, a **giant wolf spider** hunts prey across open grou
 
 **Challenge** 1/4 (50 XP)
 
-##Actions
+## Actions
 
 ***Longsword***. *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 1 slashing damage.
 
@@ -17198,7 +17198,7 @@ Smaller than a giant spider, a **giant wolf spider** hunts prey across open grou
 
 ***Shapechanger***. The fiend can use its action to polymorph into a Small or Medium humanoid, or back into its true form. Without wings, the fiend loses its flying speed. Other than its size and speed, its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 
-##Actions
+## Actions
 
 ***Claw (Fiend Form Only)***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6+3) slashing damage.
 
@@ -17246,7 +17246,7 @@ At will: *nondetection* (self only)
 
 1/day each: *blindness/deafness*, *blur*, *disguise self*
 
-##Actions
+## Actions
 
 ***War Pick***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8+2) piercing damage.
 
@@ -17288,7 +17288,7 @@ At will: *nondetection* (self only)
 
 ***Siege Monster***. The tarrasque deals double damage to objects and structures.
 
-##Actions
+## Actions
 
 ***Multiattack***. The tarrasque can use its Frightful Presence. It then makes five attacks: one with its bite, two with its claws, one with its horns, and one with its tail. It can use its Swallow instead of its bite.
 
@@ -17306,7 +17306,7 @@ At will: *nondetection* (self only)
 
 If the tarrasque takes 60 damage or more on a single turn from a creature inside it, the tarrasque must succeed on a DC 20 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the tarrasque. If the tarrasque dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 30 feet of movement, exiting prone.
 
-##Legendary Actions
+## Legendary Actions
 
 The tarrasque can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The tarrasque regains spent legendary actions at the start of its turn.
 
@@ -17344,7 +17344,7 @@ The tarrasque can take 3 legendary actions, choosing from the options below. Onl
 
 ***Pounce***. If the tiger moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is prone, the tiger can make one bite attack against it as a bonus action.
 
-##Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (1d10+3) piercing damage.
 
@@ -17376,7 +17376,7 @@ The tarrasque can take 3 legendary actions, choosing from the options below. Onl
 
 ***Standing Leap***. The toad's long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start.
 
-##Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10+2) piercing damage plus 5 (1d10) poison damage, and the target is grappled (escape DC 13). Until this grapple ends, the target is restrained, and the toad can't bite another target.
 
@@ -17414,7 +17414,7 @@ If the toad dies, a swallowed creature is no longer restrained by it and can esc
 
 ***Siege Monster***. The treant deals double damage to objects and structures.
 
-##Actions
+## Actions
 
 ***Multiattack***. The treant makes two slam attacks.
 
@@ -17452,7 +17452,7 @@ If the toad dies, a swallowed creature is no longer restrained by it and can esc
 
 ***Regeneration***. The troll regains 10 hit points at the start of its turn. If the troll takes acid or fire damage, this trait doesn't function at the start of the troll's next turn. The troll dies only if it starts its turn with 0 hit points and doesn't regenerate.
 
-##Actions
+## Actions
 
 ***Multiattack***. The troll makes three attacks: one with its bite and two with its claws.
 
@@ -17498,7 +17498,7 @@ At will: *detect evil and good*, *druidcraft*, *pass without trace*
 
 ***Magic Weapons***. The unicorn's weapon attacks are magical.
 
-##Actions
+## Actions
 
 ***Multiattack***. The unicorn makes two attacks: one with its hooves and one with its horn.
 
@@ -17510,7 +17510,7 @@ At will: *detect evil and good*, *druidcraft*, *pass without trace*
 
 ***Teleport (1/Day)***. The unicorn magically teleports itself and up to three willing creatures it can see within 5 feet of it, along with any equipment they are wearing or carrying, to a location the unicorn is familiar with, up to 1 mile away.
 
-##Legendary Actions
+## Legendary Actions
 
 The unicorn can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The unicorn regains spent legendary actions at the start of its turn.
 
@@ -17574,7 +17574,7 @@ While it has 0 hit points in mist form, it can't revert to its vampire form, and
 
 *Sunlight Hypersensitivity*. The vampire takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.
 
-##Actions
+## Actions
 
 ***Multiattack (Vampire Form Only)***. The vampire makes two attacks, only one of which can be a bite attack.
 
@@ -17588,7 +17588,7 @@ Each time the vampire or the vampire's companions do anything harmful to the tar
 
 ***Children of the Night (1/Day)***. The vampire magically calls 2d4 swarms of bats or rats, provided that the sun isn't up. While outdoors, the vampire can call 3d6 wolves instead. The called creatures arrive in 1d4 rounds, acting as allies of the vampire and obeying its spoken commands. The beasts remain for 1 hour, until the vampire dies, or until the vampire dismisses them as a bonus action.
 
-##Legendary Actions
+## Legendary Actions
 
 The vampire can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The vampire regains spent legendary actions at the start of its turn.
 
@@ -17640,7 +17640,7 @@ The vampire can take 3 legendary actions, choosing from the options below. Only 
 
 *Sunlight Hypersensitivity*. The vampire takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.
 
-##Actions
+## Actions
 
 ***Multiattack***. The vampire makes two attacks, only one of which can be a bite attack.
 
@@ -17676,7 +17676,7 @@ The vampire can take 3 legendary actions, choosing from the options below. Only 
 
 ***Pack Tactics***. The vulture has advantage on an attack roll against a creature if at least one of the vulture's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
-##Actions
+## Actions
 
 ***Beak***. *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2 (1d4) piercing damage.
 
@@ -17708,7 +17708,7 @@ The vampire can take 3 legendary actions, choosing from the options below. Only 
 
 ***Pack Tactics***. The vulture has advantage on an attack roll against a creature if at least one of the vulture's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
-##Actions
+## Actions
 
 ***Multiattack***. The vulture makes two attacks: one with its beak and one with its talons.
 
@@ -17742,7 +17742,7 @@ A **giant vulture** has advanced intelligence and a malevolent bent. Unlike its 
 
 ***Trampling Charge***. If the horse moves at least 20 feet straight toward a creature and then hits it with a hooves attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the horse can make another attack with its hooves against it as a bonus action.
 
-##Actions
+## Actions
 
 ***Hooves***. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 11 (2d6+4) bludgeoning damage.
 
@@ -17768,7 +17768,7 @@ A **giant vulture** has advanced intelligence and a malevolent bent. Unlike its 
 
 **Challenge** 1/2 (100 XP)
 
-##Actions
+## Actions
 
 ***Sting***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 5 (1d6+2) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
 
@@ -17798,7 +17798,7 @@ A **giant vulture** has advanced intelligence and a malevolent bent. Unlike its 
 
 ***Keen Hearing and Smell***. The weasel has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 
-##Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 1 piercing damage.
 
@@ -17828,7 +17828,7 @@ A **giant vulture** has advanced intelligence and a malevolent bent. Unlike its 
 
 ***Keen Hearing and Smell***. The weasel has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 
-##Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (1d4+3) piercing damage.
 
@@ -17862,7 +17862,7 @@ A **giant vulture** has advanced intelligence and a malevolent bent. Unlike its 
 
 ***Keen Smell***. The werebear has advantage on Wisdom (Perception) checks that rely on smell.
 
-##Actions
+## Actions
 
 ***Multiattack***. In bear form, the werebear makes two claw attacks. In humanoid form, it makes two greataxe attacks. In hybrid form, it can attack like a bear or a humanoid.
 
@@ -17904,7 +17904,7 @@ A **giant vulture** has advanced intelligence and a malevolent bent. Unlike its 
 
 ***Relentless (Recharges after a Short or Long Rest)***. If the wereboar takes 14 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead.
 
-##Actions
+## Actions
 
 ***Multiattack (Humanoid or Hybrid Form Only)***. The wereboar makes two attacks, only one of which can be with its tusks.
 
@@ -17942,7 +17942,7 @@ A **giant vulture** has advanced intelligence and a malevolent bent. Unlike its 
 
 ***Keen Smell***. The wererat has advantage on Wisdom (Perception) checks that rely on smell.
 
-##Actions
+## Actions
 
 ***Multiattack (Humanoid or Hybrid Form Only)***. The wererat makes two attacks, only one of which can be a bite.
 
@@ -17984,7 +17984,7 @@ A **giant vulture** has advanced intelligence and a malevolent bent. Unlike its 
 
 ***Pounce (Tiger or Hybrid Form Only)***. If the weretiger moves at least 15 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the weretiger can make one bite attack against it as a bonus action.
 
-##Actions
+## Actions
 
 ***Multiattack (Humanoid or Hybrid Form Only)***. In humanoid form, the weretiger makes two scimitar attacks or two longbow attacks. In hybrid form, it can attack like a humanoid or make two claw attacks.
 
@@ -18026,7 +18026,7 @@ A **giant vulture** has advanced intelligence and a malevolent bent. Unlike its 
 
 ***Keen Hearing and Smell***. The werewolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 
-##Actions
+## Actions
 
 ***Multiattack (Humanoid or Hybrid Form Only)***. The werewolf makes two attacks: two with its spear (humanoid form) or one with its bite and one with its claws (hybrid form).
 
@@ -18066,7 +18066,7 @@ A **giant vulture** has advanced intelligence and a malevolent bent. Unlike its 
 
 ***Keen Hearing***. The whale has advantage on Wisdom (Perception) checks that rely on hearing.
 
-##Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 21 (5d6+4) piercing damage.
 
@@ -18102,7 +18102,7 @@ A **giant vulture** has advanced intelligence and a malevolent bent. Unlike its 
 
 ***Sunlight Sensitivity***. While in sunlight, the wight has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-##Actions
+## Actions
 
 ***Multiattack***. The wight makes two longsword attacks or two longbow attacks. It can use its Life Drain in place of one longsword attack.
 
@@ -18150,7 +18150,7 @@ A humanoid slain by this attack rises 24 hours later as a zombie under the wight
 
 ***Variable Illumination***. The will-o'-wisp sheds bright light in a 5- to 20-foot radius and dim light for an additional number of feet equal to the chosen radius. The will-o'-wisp can alter the radius as a bonus action.
 
-##Actions
+## Actions
 
 ***Shock***. *Melee Spell Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 9 (2d8) lightning damage.
 
@@ -18184,7 +18184,7 @@ A humanoid slain by this attack rises 24 hours later as a zombie under the wight
 
 ***Pack Tactics***. The wolf has advantage on attack rolls against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
-##Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d4+2) piercing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.
 
@@ -18216,7 +18216,7 @@ A humanoid slain by this attack rises 24 hours later as a zombie under the wight
 
 ***Pack Tactics***. The wolf has advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
-##Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6+3) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
 
@@ -18252,7 +18252,7 @@ A humanoid slain by this attack rises 24 hours later as a zombie under the wight
 
 ***Snow Camouflage***. The wolf has advantage on Dexterity (Stealth) checks made to hide in snowy terrain.
 
-##Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 11 (2d6+4) piercing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked prone.
 
@@ -18286,7 +18286,7 @@ The arctic-dwelling **winter wolf** is as large as a dire wolf but has snow-whit
 
 ***Keen Hearing and Smell***. The worg has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 
-##Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6+3) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
 
@@ -18318,7 +18318,7 @@ A **worg** is an evil predator that delights in hunting and devouring creatures 
 
 ***Tunneler***. The worm can burrow through solid rock at half its burrow speed and leaves a 10-foot diameter tunnel in its wake.
 
-##Actions
+## Actions
 
 ***Multiattack***. The worm makes two attacks: one with its bite and one with its stinger.
 
@@ -18360,7 +18360,7 @@ If the worm takes 30 damage or more on a single turn from a creature inside it, 
 
 ***Sunlight Sensitivity***. While in sunlight, the wraith has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-##Actions
+## Actions
 
 ***Life Drain***. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one creature. *Hit:* 21 (4d8+3) necrotic damage. The target must succeed on a DC 14 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
 
@@ -18390,7 +18390,7 @@ If the worm takes 30 damage or more on a single turn from a creature inside it, 
 
 **Challenge** 6 (2,300 XP)
 
-##Actions
+## Actions
 
 ***Multiattack***. The wyvern makes two attacks: one with its bite and one with its stinger. While flying, it can use its claws in place of one other attack.
 
@@ -18430,7 +18430,7 @@ Saving Throws Wis +0
 
 ***Undead Fortitude***. If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5+the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.
 
-##Actions
+## Actions
 
 ***Slam***. *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6+1) bludgeoning damage.
 

@@ -4,27 +4,36 @@ LI=-Ilib -rlaconico
 
 all: md html
 
-md_rules:
-	ruby ${LI} -e "make_rules('${SRC}')" > mds/rules.md
-md_spells:
-	cat ${SRC}/10.spells.md > mds/spells.md
 md_monsters:
 	ruby ${LI} -e "make_monsters('${SRC}')" > mds/monsters.md
+md_spells:
+	cat ${SRC}/10.spells.md > mds/spells.md
+md_classes:
+	ruby ${LI} -e "make_classes('${SRC}')" > mds/classes.md
+md_races:
+	ruby ${LI} -e "make_races('${SRC}')" > mds/races.md
+md_rules:
+	ruby ${LI} -e "make_rules('${SRC}')" > mds/rules.md
 
-md: md_rules md_spells md_monsters
-	cat mds/rules.md mds/spells.md mds/monsters.md > mds/srd.md
+md: md_races md_classes md_rules md_spells md_monsters
+	cat \
+      mds/races.md mds/classes.md \
+      mds/rules.md mds/spells.md mds/monsters.md \
+        > mds/srd.md
 
-html_rules:
-	ruby ${LI} -e "make_html('rules.md')" \
-      > htmls/rules.html
-html_spells:
-	ruby ${LI} -e "make_html('spells.md')" \
-      > htmls/spells.html
 html_monsters:
 	ruby ${LI} -e "make_html('monsters.md', MonsterHtmlRender)" \
       > htmls/monsters.html
+html_spells:
+	ruby ${LI} -e "make_html('spells.md')" > htmls/spells.html
+html_classes:
+	ruby ${LI} -e "make_html('classes.md')" > htmls/classes.html
+html_races:
+	ruby ${LI} -e "make_html('races.md')" > htmls/races.html
+html_rules:
+	ruby ${LI} -e "make_html('rules.md')" > htmls/rules.html
 
-html: html_rules html_spells html_monsters
+html: html_races html_classes html_rules html_spells html_monsters
 	ruby ${LI} -e "make_html('srd.md')" > htmls/srd.html
 
 s:

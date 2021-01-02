@@ -1,22 +1,30 @@
 
-def make_rules(source_dir)
+def make_races(source_dir)
 
   races = File.read(File.join(source_dir, '01.races.md'))
+
+  puts; puts extract_md_section(races, 1, 'RACES')
+  puts; puts extract_md_section(races, 1, 'Human')
+end
+
+def make_classes(source_dir)
+
   classes = File.read(File.join(source_dir, '02.classes.md'))
+
+  puts; puts extract_md_section(classes, 1, 'CLASSES')
+  puts; puts extract_md_section(classes, 1, 'Fighter')
+  puts; puts extract_md_section(classes, 1, 'Rogue')
+  puts; puts extract_md_section(classes, 1, 'Wizard')
+end
+
+def make_rules(source_dir)
+
   equipment = File.read(File.join(source_dir, '05.equipment.md'))
   abilities = File.read(File.join(source_dir, '06.abilities.md'))
   adventuring = File.read(File.join(source_dir, '07.adventuring.md'))
   combat = File.read(File.join(source_dir, '08.combat.md'))
   spellcasting = File.read(File.join(source_dir, '09.spellcasting.md'))
   mastering = File.read(File.join(source_dir, '11.gamemastering.md'))
-
-  puts; puts extract_md_section(races, 1, 'RACES')
-  puts; puts extract_md_section(races, 1, 'Human')
-
-  puts; puts extract_md_section(classes, 1, 'CLASSES')
-  puts; puts extract_md_section(classes, 1, 'Fighter')
-  puts; puts extract_md_section(classes, 1, 'Rogue')
-  puts; puts extract_md_section(classes, 1, 'Wizard')
 
   puts; puts abilities
 
