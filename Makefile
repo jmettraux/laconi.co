@@ -15,6 +15,9 @@ md_rules:
 	ruby ${LI} \
       -e "puts extract_md_section('${SRC}/01.races.md', 1, 'RACES')" \
         >> mds/rules.md
+	ruby ${LI} \
+      -e "puts extract_md_section('${SRC}/01.races.md', 1, 'Human')" \
+        >> mds/rules.md
 	echo "\n" >> mds/rules.md
 	echo "# CLASSES\n" >> mds/rules.md
 	ruby ${LI} \
