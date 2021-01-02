@@ -18,9 +18,12 @@ class HtmlRender < Redcarpet::Render::HTML
       a << "\n</article>" if @in_article; @in_article = true
       a << "\n<article>"
       a << "<h#{level}>#{title}</h#{level}>"
-    else
+    elsif level == 1
       a << "\n</section>" if @in_section; @in_section = true
       a << "\n<section>"
+      a << "<h#{level}>#{title}</h#{level}>"
+    else
+      a << "\n<section>" if ! @in_section; @in_section = true
       a << "<h#{level}>#{title}</h#{level}>"
     end
 
