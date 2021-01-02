@@ -138,15 +138,19 @@ MORALES = {
   'Zombie' => 12,
     }
 
-def make_monsters(path, morales=MORALES)
+def make_monsters(src_dir, morales=MORALES)
 
-  c = File.read(path)
+  monsters = File.read(File.join(src_dir, '13.monsters.md'))
+
+  puts; puts '# MONSTERS'
+  puts; puts extract_md_section(monsters, 1, 'Monster Statistics')
+  puts; puts extract_md_section(monsters, 1, 'Legendary Creatures')
 
   morales
     .sort_by { |k, _| k }
     .each { |n, m|
 #$stderr.puts("    * #{n} => #{m}")
-      puts(extract_md_monster(c, n, m)) }
+      puts(extract_md_monster(monsters, n, m)) }
 
   puts
 end

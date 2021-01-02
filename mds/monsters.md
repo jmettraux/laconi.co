@@ -1,6 +1,4 @@
 
-
-
 # MONSTERS
 
 # Monster Statistics
@@ -326,6 +324,7 @@ A stat block rarely refers to equipment, other than armor or weapons used by a m
 You can equip monsters with additional gear and trinkets however you like, and you decide how much of a monster's equipment is recoverable after the creature is slain and whether any of that equipment is still usable. A battered suit of armor made for a monster is rarely usable by someone else, for instance.
 
 If a spellcasting monster needs material components to cast its spells, assume that it has the material components it needs to cast the spells in its stat block.
+
 # Legendary Creatures
 
 A legendary creature can do things that ordinary creatures can't. It can take special actions outside its turn, and it might exert magical influence for miles around.
