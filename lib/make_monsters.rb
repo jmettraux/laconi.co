@@ -150,10 +150,19 @@ def make_monsters(src_dir, morales=MORALES)
 
   puts; puts '# Index'
 
+  mazs = morales.inject({}) { |h, (k, _)|
+    a = k[0]; a = 'S' if k.match?(/Svirfneblin/)
+    (h[a] ||= []) << k
+    h }
+
   puts; puts '<ul>'
-  morales
-    .each { |n, _|
-      puts "<li><a href=\"##{neutralize_name(n)}\">#{n}</a></li>" }
+  mazs
+    .each { |k, ns|
+      #puts "<li><a href=\"##{neutralize_name(n)}\">#{n}</a></li>" }
+      print "<p>"
+      #print "<span class=\"alpha\">#{k}</span>"
+      ns.each { |n| print "<a href=\"##{neutralize_name(n)}\">#{n}</a> " }
+      puts "</p>" }
   puts '</ul>'
   puts
 
