@@ -31,6 +31,16 @@ class HtmlRender < Redcarpet::Render::HTML
     a.join
   end
 
+  def paragraph(text)
+
+    a = []
+
+    a << "\n<section>\n" if ! @in_section; @in_section = true
+    a << "<p>#{text}</p>\n"
+
+    a.join
+  end
+
   def doc_footer
 
     a = []
