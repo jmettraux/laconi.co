@@ -71,15 +71,19 @@ class MonsterHtmlRender < HtmlRender
 
     @post_index = true if level == 1 && title == 'Index'
 
-    return super unless @post_index && level == 2
+    return super unless @post_index# && level == 2
 
     a = []
 
-    level = 3 if level > 3
-    a << "\n<section>" if ! @in_section; @in_section = true
-    a << "<h#{level} id=\"#{neutralize_name(title)}\" class=\"monster\">"
-    a << title
-    a << "</h#{level}>"
+    if level == 1
+      a << "\n</section>" if @in_section; @in_section = true
+      a << "\n<section class=\"monster\">"
+      a << "<h1 id=\"#{neutralize_name(title)}\" class=\"monster\">"
+      a << title
+      a << "</h1>\n"
+    else
+      a << "<h2>#{title}</h2>\n"
+    end
 
     a.join
   end
