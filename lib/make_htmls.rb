@@ -23,6 +23,7 @@ class HtmlRender < Redcarpet::Render::HTML
       a << "\n<section>"
       a << "<h#{level}>#{title}</h#{level}>"
     else
+      level = 3 if level > 3
       a << "\n<section>" if ! @in_section; @in_section = true
       a << "<h#{level}>#{title}</h#{level}>"
     end
