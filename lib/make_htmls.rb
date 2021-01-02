@@ -87,6 +87,31 @@ class MonsterHtmlRender < HtmlRender
 
     a.join
   end
+
+  def table(header, body)
+
+    c = header.match?(/<th>STR<\/th>/) ? 'abilities' : ''
+
+    a = []
+
+    a << "<table class=\"#{c}\">"
+    a << "<thead>#{header}</thead>"
+    a << "<tbody>#{body}</tbody>"
+    a << "</table>\n"
+
+    a.join
+  end
+
+  def paragraph(text)
+
+    if m = text.match(/\A<strong>(.+)<\/strong>(.+)\z/)
+      "<p class=\"entry\"><strong>#{m[1]}</strong>" +
+      "<span class=\"post-strong\">#{m[2]}</span>" +
+      "</p>"
+    else
+      "<p>#{text}</p>"
+    end
+  end
 end
 
 def make_html(md, render=HtmlRender)

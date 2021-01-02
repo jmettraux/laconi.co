@@ -11,7 +11,10 @@ def extract_md_monster(path_or_content, name, key, morale)
     s.index("\n")
   s =
     "# #{key}\n" +
-    s[i + 1..-1].gsub(/^(#+) /) { |m| m[1, 2] + ' ' }
+    s[i + 1..-1]
+      .gsub(/^(#+) /) { |m| m[1, 2] + ' ' }
+      .gsub(/\*\*\*\./, '.***')
+      .gsub(/\*\*\./, '.**')
 
   i = s.index(/^\*\*Speed\*\* /)
   s.insert(i, "**Morale** #{morale}\n\n")

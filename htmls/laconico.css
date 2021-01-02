@@ -1,3 +1,18 @@
 
 /* laconico.css */
 
+th {
+  text-align: left;
+}
+
+.monster p.entry  {
+  display: flex;
+}
+.monster p.entry > strong {
+  min-width: 25%;
+  display: inline-block;
+}
+.monster p.entry > .post-strong {
+  display: inline-block;
+}
+
