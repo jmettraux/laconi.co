@@ -22,6 +22,8 @@ def make_rules(source_dir)
 
   puts; puts combat
 
+  puts; puts extract_md_section(mastering, 1, 'Conditions')
+
   puts; puts adventuring # short and long rest...
 
   puts; puts extract_md_section(equipment, 1, 'EQUIPMENT')
@@ -32,13 +34,13 @@ def make_rules(source_dir)
 
   puts; puts spellcasting
 
-  puts; puts extract_md_section(mastering, 1, 'GAMEMASTERING')
-  puts; puts extract_md_section(mastering, 1, 'Conditions')
-  #puts; puts extract_md_section(mastering, 1, 'Situational Rules')
-  puts; puts '# Situational Rules'
-  s = extract_md_section(mastering, 2, 'Traps')
-  i = s.index("\n### Sample Traps")
-  puts; puts s[0..i]
-  puts; puts extract_md_section(mastering, 2, 'Objects')
+  #puts; puts extract_md_section(mastering, 1, 'GAMEMASTERING')
+  #puts; puts extract_md_section(mastering, 1, 'Conditions')
+  ##puts; puts extract_md_section(mastering, 1, 'Situational Rules')
+  #puts; puts '# Situational Rules'
+  #s = extract_md_section(mastering, 2, 'Traps')
+  #i = s.index("\n### Sample Traps")
+  #puts; puts s[0..i]
+  #puts; puts extract_md_section(mastering, 2, 'Objects')
 end
 

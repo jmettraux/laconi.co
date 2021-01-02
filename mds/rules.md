@@ -1418,6 +1418,121 @@ A **ranged weapon attack** automatically misses a target beyond the weapon's nor
 
 Creatures and objects that are fully immersed in water have resistance to fire damage.
 
+# Conditions
+
+Conditions alter a creature's capabilities in a variety of ways and can arise as a result of a spell, a class feature, a monster's attack, or other effect. Most conditions, such as blinded, are impairments, but a few, such as invisible, can be advantageous.
+
+A condition lasts either until it is countered (the prone condition is countered by standing up, for example) or for a duration specified by the effect that imposed the condition.
+
+If multiple effects impose the same condition on a creature, each instance of the condition has its own duration, but the condition's effects don't get worse. A creature either has a condition or doesn't.
+
+The following definitions specify what happens to a creature while it is subjected to a condition.
+
+## Blinded
+
+- A blinded creature can't see and automatically fails any ability check that requires sight.
+- Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage.
+
+## Charmed
+
+- A charmed creature can't attack the charmer or target the charmer with harmful abilities or magical effects.
+- The charmer has advantage on any ability check to interact socially with the creature.
+
+## Deafened
+
+- A deafened creature can't hear and automatically fails any ability check that requires hearing.
+
+## Exhaustion
+
+Some special abilities and environmental hazards, such as starvation and the long-term effects of freezing or scorching temperatures, can lead to a special condition called exhaustion. Exhaustion is measured in six levels. An effect can give a creature one or more levels of exhaustion, as specified in the effect's description.
+
+**Table- Exhaustion Effects**
+
+| Level | Effect                                         |
+|-------|------------------------------------------------|
+| 1     | Disadvantage on ability checks                 |
+| 2     | Speed halved                                   |
+| 3     | Disadvantage on attack rolls and saving throws |
+| 4     | Hit point maximum halved                       |
+| 5     | Speed reduced to 0                             |
+| 6     | Death                                          |
+|       |                                                |
+
+If an already exhausted creature suffers another effect that causes exhaustion, its current level of exhaustion increases by the amount specified in the effect's description.
+
+A creature suffers the effect of its current level of exhaustion as well as all lower levels. For example, a creature suffering level 2 exhaustion has its speed halved and has disadvantage on ability checks.
+
+An effect that removes exhaustion reduces its level as specified in the effect's description, with all exhaustion effects ending if a creature's exhaustion level is reduced below 1.
+
+Finishing a long rest reduces a creature's exhaustion level by 1, provided that the creature has also ingested some food and drink. Also, being raised from the dead reduces a creature's exhaustion level by 1.
+
+## Frightened
+
+- A frightened creature has disadvantage on ability checks and attack rolls while the source of its fear is within line of sight.
+- The creature can't willingly move closer to the source of its fear.
+
+## Grappled
+
+- A grappled creature's speed becomes 0, and it can't benefit from any bonus to its speed.
+- The condition ends if the grappler is incapacitated (see the condition).
+- The condition also ends if an effect removes the grappled creature from the reach of the grappler or grappling effect, such as when a creature is hurled away by the *thunder-wave* spell.
+
+## Incapacitated
+
+- An incapacitated creature can't take actions or reactions.
+
+## Invisible
+
+- An invisible creature is impossible to see without the aid of magic or a special sense. For the purpose of hiding, the creature is heavily obscured. The creature's location can be detected by any noise it makes or any tracks it leaves.
+
+- Attack rolls against the creature have disadvantage, and the creature's attack rolls have advantage.
+
+## Paralyzed
+
+- A paralyzed creature is incapacitated (see the condition) and can't move or speak.
+- The creature automatically fails Strength and Dexterity saving throws.
+- Attack rolls against the creature have advantage.
+- Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.
+
+## Petrified
+
+- A petrified creature is transformed, along with any nonmagical object it is wearing or carrying, into a solid inanimate substance (usually stone). Its weight increases by a factor of ten, and it ceases aging.
+- The creature is incapacitated (see the condition), can't move or speak, and is unaware of its surroundings.
+- Attack rolls against the creature have advantage.
+- The creature automatically fails Strength and Dexterity saving throws.
+- The creature has resistance to all damage.
+- The creature is immune to poison and disease, although a poison or disease already in its system is suspended, not neutralized.
+
+## Poisoned
+
+- A poisoned creature has disadvantage on attack rolls and ability checks.
+
+## Prone
+
+- A prone creature's only movement option is to crawl, unless it stands up and thereby ends the condition.
+- The creature has disadvantage on attack rolls.
+- An attack roll against the creature has advantage if the attacker is within 5 feet of the creature. Otherwise, the attack roll has disadvantage.
+
+## Restrained
+
+- A restrained creature's speed becomes 0, and it can't benefit from any bonus to its speed.
+- Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage.
+- The creature has disadvantage on Dexterity saving throws.
+
+## Stunned
+
+- A stunned creature is incapacitated (see the condition), can't move, and can speak only falteringly.
+- The creature automatically fails Strength and Dexterity saving throws.
+- Attack rolls against the creature have advantage.
+
+## Unconscious
+
+- An unconscious creature is incapacitated (see the condition), can't move or speak, and is unaware of its surroundings
+- The creature drops whatever it's holding and falls prone.
+- The creature automatically fails Strength and Dexterity saving throws.
+- Attack rolls against the creature have advantage.
+- Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.
+
 # ADVENTURING
 
 # Time
@@ -2375,231 +2490,3 @@ Most spells that require attack rolls involve ranged attacks. Remember that you 
 The effects of different spells add together while the durations of those spells overlap. The effects of the same spell cast multiple times don't combine, however. Instead, the most potent effect-such as the highest bonus-from those castings applies while their durations overlap.
 
 For example, if two clerics cast *bless* on the same target, that character gains the spell's benefit only once; he or she doesn't get to roll two bonus dice.
-
-# GAMEMASTERING
-
-# Conditions
-
-Conditions alter a creature's capabilities in a variety of ways and can arise as a result of a spell, a class feature, a monster's attack, or other effect. Most conditions, such as blinded, are impairments, but a few, such as invisible, can be advantageous.
-
-A condition lasts either until it is countered (the prone condition is countered by standing up, for example) or for a duration specified by the effect that imposed the condition.
-
-If multiple effects impose the same condition on a creature, each instance of the condition has its own duration, but the condition's effects don't get worse. A creature either has a condition or doesn't.
-
-The following definitions specify what happens to a creature while it is subjected to a condition.
-
-## Blinded
-
-- A blinded creature can't see and automatically fails any ability check that requires sight.
-- Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage.
-
-## Charmed
-
-- A charmed creature can't attack the charmer or target the charmer with harmful abilities or magical effects.
-- The charmer has advantage on any ability check to interact socially with the creature.
-
-## Deafened
-
-- A deafened creature can't hear and automatically fails any ability check that requires hearing.
-
-## Exhaustion
-
-Some special abilities and environmental hazards, such as starvation and the long-term effects of freezing or scorching temperatures, can lead to a special condition called exhaustion. Exhaustion is measured in six levels. An effect can give a creature one or more levels of exhaustion, as specified in the effect's description.
-
-**Table- Exhaustion Effects**
-
-| Level | Effect                                         |
-|-------|------------------------------------------------|
-| 1     | Disadvantage on ability checks                 |
-| 2     | Speed halved                                   |
-| 3     | Disadvantage on attack rolls and saving throws |
-| 4     | Hit point maximum halved                       |
-| 5     | Speed reduced to 0                             |
-| 6     | Death                                          |
-|       |                                                |
-
-If an already exhausted creature suffers another effect that causes exhaustion, its current level of exhaustion increases by the amount specified in the effect's description.
-
-A creature suffers the effect of its current level of exhaustion as well as all lower levels. For example, a creature suffering level 2 exhaustion has its speed halved and has disadvantage on ability checks.
-
-An effect that removes exhaustion reduces its level as specified in the effect's description, with all exhaustion effects ending if a creature's exhaustion level is reduced below 1.
-
-Finishing a long rest reduces a creature's exhaustion level by 1, provided that the creature has also ingested some food and drink. Also, being raised from the dead reduces a creature's exhaustion level by 1.
-
-## Frightened
-
-- A frightened creature has disadvantage on ability checks and attack rolls while the source of its fear is within line of sight.
-- The creature can't willingly move closer to the source of its fear.
-
-## Grappled
-
-- A grappled creature's speed becomes 0, and it can't benefit from any bonus to its speed.
-- The condition ends if the grappler is incapacitated (see the condition).
-- The condition also ends if an effect removes the grappled creature from the reach of the grappler or grappling effect, such as when a creature is hurled away by the *thunder-wave* spell.
-
-## Incapacitated
-
-- An incapacitated creature can't take actions or reactions.
-
-## Invisible
-
-- An invisible creature is impossible to see without the aid of magic or a special sense. For the purpose of hiding, the creature is heavily obscured. The creature's location can be detected by any noise it makes or any tracks it leaves.
-
-- Attack rolls against the creature have disadvantage, and the creature's attack rolls have advantage.
-
-## Paralyzed
-
-- A paralyzed creature is incapacitated (see the condition) and can't move or speak.
-- The creature automatically fails Strength and Dexterity saving throws.
-- Attack rolls against the creature have advantage.
-- Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.
-
-## Petrified
-
-- A petrified creature is transformed, along with any nonmagical object it is wearing or carrying, into a solid inanimate substance (usually stone). Its weight increases by a factor of ten, and it ceases aging.
-- The creature is incapacitated (see the condition), can't move or speak, and is unaware of its surroundings.
-- Attack rolls against the creature have advantage.
-- The creature automatically fails Strength and Dexterity saving throws.
-- The creature has resistance to all damage.
-- The creature is immune to poison and disease, although a poison or disease already in its system is suspended, not neutralized.
-
-## Poisoned
-
-- A poisoned creature has disadvantage on attack rolls and ability checks.
-
-## Prone
-
-- A prone creature's only movement option is to crawl, unless it stands up and thereby ends the condition.
-- The creature has disadvantage on attack rolls.
-- An attack roll against the creature has advantage if the attacker is within 5 feet of the creature. Otherwise, the attack roll has disadvantage.
-
-## Restrained
-
-- A restrained creature's speed becomes 0, and it can't benefit from any bonus to its speed.
-- Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage.
-- The creature has disadvantage on Dexterity saving throws.
-
-## Stunned
-
-- A stunned creature is incapacitated (see the condition), can't move, and can speak only falteringly.
-- The creature automatically fails Strength and Dexterity saving throws.
-- Attack rolls against the creature have advantage.
-
-## Unconscious
-
-- An unconscious creature is incapacitated (see the condition), can't move or speak, and is unaware of its surroundings
-- The creature drops whatever it's holding and falls prone.
-- The creature automatically fails Strength and Dexterity saving throws.
-- Attack rolls against the creature have advantage.
-- Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.
-
-# Situational Rules
-
-## Traps
-
-Traps can be found almost anywhere. One wrong step in an ancient tomb might trigger a series of scything blades, which cleave through armor and bone. The seemingly innocuous vines that hang over a cave entrance might grasp and choke anyone who pushes through them. A net hidden among the trees might drop on travelers who pass underneath. In a fantasy game, unwary adventurers can fall to their deaths, be burned alive, or fall under a fusillade of poisoned darts.
-
-A trap can be either mechanical or magical in nature. **Mechanical traps** include pits, arrow traps, falling blocks, water-filled rooms, whirling blades, and anything else that depends on a mechanism to operate. **Magic traps** are either magical device traps or spell traps. Magical device traps initiate spell effects when activated. Spell traps are spells such as *glyph of warding* and *symbol* that function as traps.
-
-### Traps in Play
-
-When adventurers come across a trap, you need to know how the trap is triggered and what it does, as well as the possibility for the characters to detect the trap and to disable or avoid it.
-
-#### Triggering a Trap
-
-Most traps are triggered when a creature goes somewhere or touches something that the trap's creator wanted to protect. Common triggers include stepping on a pressure plate or a false section of floor, pulling a trip wire, turning a doorknob, and using the wrong key in a lock. Magic traps are often set to go off when a creature enters an area or touches an object. Some magic traps (such as the *glyph of warding* spell) have more complicated trigger conditions, including a password that prevents the trap from activating.
-
-#### Detecting and Disabling a Trap
-
-Usually, some element of a trap is visible to careful inspection. Characters might notice an uneven flagstone that conceals a pressure plate, spot the gleam of light off a trip wire, notice small holes in the walls from which jets of flame will erupt, or otherwise detect something that points to a trap's presence.
-
-A trap's description specifies the checks and DCs needed to detect it, disable it, or both. A character actively looking for a trap can attempt a Wisdom (Perception) check against the trap's DC. You can also compare the DC to detect the trap with each character's passive Wisdom (Perception) score to determine whether anyone in the party notices the trap in passing. If the adventurers detect a trap before triggering it, they might be able to disarm it, either permanently or long enough to move past it. You might call for an Intelligence (Investigation) check for a character to deduce what needs to be done, followed by a Dexterity check using thieves' tools to perform the necessary sabotage.
-
-Any character can attempt an Intelligence (Arcana) check to detect or disarm a magic trap, in addition to any other checks noted in the trap's description. The DCs are the same regardless of the check used. In addition, *dispel magic* has a chance of disabling most magic traps. A magic trap's description provides the DC for the ability check made when you use *dispel magic*.
-
-In most cases, a trap's description is clear enough that you can adjudicate whether a character's actions locate or foil the trap. As with many situations, you shouldn't allow die rolling to override clever play and good planning. Use your common sense, drawing on the trap's description to determine what happens. No trap's design can anticipate every possible action that the characters might attempt.
-
-You should allow a character to discover a trap without making an ability check if an action would clearly reveal the trap's presence. For example, if a character lifts a rug that conceals a pressure plate, the character has found the trigger and no check is required.
-
-Foiling traps can be a little more complicated. Consider a trapped treasure chest. If the chest is opened without first pulling on the two handles set in its sides, a mechanism inside fires a hail of poison needles toward anyone in front of it. After inspecting the chest and making a few checks, the characters are still unsure if it's trapped. Rather than simply open the chest, they prop a shield in front of it and push the chest open at a distance with an iron rod. In this case, the trap still triggers, but the hail of needles fires harmlessly into the shield.
-
-Traps are often designed with mechanisms that allow them to be disarmed or bypassed. Intelligent monsters that place traps in or around their lairs need ways to get past those traps without harming themselves. Such traps might have hidden levers that disable their triggers, or a secret door might conceal a passage that goes around the trap.
-
-#### Trap Effects
-
-The effects of traps can range from inconvenient to deadly, making use of elements such as arrows, spikes, blades, poison, toxic gas, blasts of fire, and deep pits. The deadliest traps combine multiple elements to kill, injure, contain, or drive off any creature unfortunate enough to trigger them. A trap's description specifies what happens when it is triggered.
-
-The attack bonus of a trap, the save DC to resist its effects, and the damage it deals can vary depending on the trap's severity. Use the Trap Save DCs and Attack Bonuses table and the Damage Severity by Level table for suggestions based on three levels of trap severity.
-
-A trap intended to be a **setback** is unlikely to kill or seriously harm characters of the indicated levels, whereas a **dangerous** trap is likely to seriously injure (and potentially kill) characters of the indicated levels. A **deadly** trap is likely to kill characters of the indicated levels.
-
-**Table- Trap Dangers**
-
-| Trap Danger | Save DC | Attack Bonus |
-|-------------|---------|--------------|
-| Setback     | 10-11   | +3 to +5     |
-| Dangerous   | 12-15   | +6 to +8     |
-| Deadly      | 16-20   | +9 to +12    |
-|             |         |              |
-
-**Table- Trap Severity**
-
-| Character Level | Setback | Dangerous | Deadly |
-|-----------------|---------|-----------|--------|
-| 1st-4th         | 1d10    | 2d10      | 4d10   |
-| 5th-10th        | 2d10    | 4d10      | 10d10  |
-| 11th-16th       | 4d10    | 10d10     | 18d10  |
-| 17th-20th       | 10d10   | 18d10     | 24d10  |
-|                 |         |           |        |
-
-#### Complex Traps
-
-Complex traps work like standard traps, except once activated they execute a series of actions each round. A complex trap turns the process of dealing with a trap into something more like a combat encounter.
-
-When a complex trap activates, it rolls initiative. The trap's description includes an initiative bonus. On its turn, the trap activates again, often taking an action. It might make successive attacks against intruders, create an effect that changes over time, or otherwise produce a dynamic challenge. Otherwise, the complex trap can be detected and disabled or bypassed in the usual ways.
-
-For example, a trap that causes a room to slowly flood works best as a complex trap. On the trap's turn, the water level rises. After several rounds, the room is completely flooded.
-
-
-## Objects
-
-When characters need to saw through ropes, shatter a window, or smash a vampire's coffin, the only hard and fast rule is this: given enough time and the right tools, characters can destroy any destructible object. Use common sense when determining a character's success at damaging an object. Can a fighter cut through a section of a stone wall with a sword? No, the sword is likely to break before the wall does.
-
-For the purpose of these rules, an object is a discrete, inanimate item like a window, door, sword, book, table, chair, or stone, not a building or a vehicle that is composed of many other objects.
-
-### Statistics for Objects
-
-When time is a factor, you can assign an Armor Class and hit points to a destructible object. You can also give it immunities, resistances, and vulnerabilities to specific types of damage.
-
-***Armor Class***. An object's Armor Class is a measure of how difficult it is to deal damage to the object when striking it (because the object has no chance of dodging out of the way). The Object Armor Class table provides suggested AC values for various substances.
-
-**Table- Object's Armor Class**
-
-| Substance           | AC |
-|---------------------|----|
-| Cloth, paper, rope  | 11 |
-| Crystal, glass, ice | 13 |
-| Wood, bone          | 15 |
-| Stone               | 17 |
-| Iron, steel         | 19 |
-| Mithral             | 21 |
-| Adamantine          | 23 |
-|                     |    |
-
-***Hit Points***. An object's hit points measure how much damage it can take before losing its structural integrity. Resilient objects have more hit points than fragile ones. Large objects also tend to have more hit points than small ones, unless breaking a small part of the object is just as effective as breaking the whole thing. The Object Hit Points table provides suggested hit points for fragile and resilient objects that are Large or smaller.
-
-**Table- Object's Hit Points**
-
-| Size                                | Fragile  | Resilient |
-|-------------------------------------|----------|-----------|
-| Tiny (bottle, lock)                 | 2 (1d4)  | 5 (2d4)   |
-| Small (chest, lute)                 | 3 (1d6)  | 10 (3d6)  |
-| Medium (barrel, chandelier)         | 4 (1d8)  | 18 (4d8)  |
-| Large (cart, 10-ft-by-10-ft window) | 5 (1d10) | 27 (5d10) |
-|                                     |          |           |
-
-***Huge and Gargantuan Objects***. Normal weapons are of little use against many Huge and Gargantuan objects, such as a colossal statue, towering column of stone, or massive boulder. That said, one torch can burn a Huge tapestry, and an *earthquake* spell can reduce a colossus to rubble. You can track a Huge or Gargantuan object's hit points if you like, or you can simply decide how long the object can withstand whatever weapon or force is acting against it. If you track hit points for the object, divide it into Large or smaller sections, and track each section's hit points separately. Destroying one of those sections could ruin the entire object. For example, a Gargantuan statue of a human might topple over when one of its Large legs is reduced to 0 hit points.
-
-***Objects and Damage Types***. Objects are immune to poison and psychic damage. You might decide that some damage types are more effective against a particular object or substance than others. For example, bludgeoning damage works well for smashing things but not for cutting through rope or leather. Paper or cloth objects might be vulnerable to fire and lightning damage. A pick can chip away stone but can't effectively cut down a tree. As always, use your best judgment.
-
-***Damage Threshold***. Big objects such as castle walls often have extra resilience represented by a damage threshold. An object with a damage threshold has immunity to all damage unless it takes an amount of damage from a single attack or effect equal to or greater than its damage threshold, in which case it takes damage as normal. Any damage that fails to meet or exceed the object's damage threshold is considered superficial and doesn't reduce the object's hit points.
