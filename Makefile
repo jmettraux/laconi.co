@@ -14,8 +14,11 @@ md_races:
 	ruby ${LI} -e "make_races('${SRC}')" > mds/races.md
 md_rules:
 	ruby ${LI} -e "make_rules('${SRC}')" > mds/rules.md
+md_ogl:
+	echo "## Legal Information" > mds/ogl.md
+	tail -52 ${SRC}/legal.md >> mds/ogl.md
 
-md: md_races md_classes md_rules md_spells md_monsters
+md: md_ogl md_races md_classes md_rules md_spells md_monsters
 	cat \
       mds/races.md mds/classes.md \
       mds/rules.md mds/spells.md mds/monsters.md \
