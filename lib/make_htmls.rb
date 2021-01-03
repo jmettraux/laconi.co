@@ -90,11 +90,13 @@ class MonsterHtmlRender < HtmlRender
 
   def table(header, body)
 
-    c = header.match?(/<th>STR<\/th>/) ? 'abilities' : ''
+    c = header.match?(/<th>STR<\/th>/) ? 'abilities' : nil
 
     a = []
 
-    a << "<table class=\"#{c}\">"
+    #a << "<p><strong>Abilities</strong><span class=\"post-strong\"><span></p>\n" if c
+
+    a << (c ? "<table class=\"#{c}\">" : '<table>')
     a << "<thead>#{header}</thead>"
     a << "<tbody>#{body}</tbody>"
     a << "</table>\n"
@@ -104,12 +106,17 @@ class MonsterHtmlRender < HtmlRender
 
   def paragraph(text)
 
+    return super unless @post_index
+
     if m = text.match(/\A<strong>(.+)<\/strong>(.+)\z/)
       "<p class=\"entry\"><strong>#{m[1]}</strong>" +
-      "<span class=\"post-strong\">#{m[2]}</span>" +
+      "<span class=\"post-key\">#{m[2]}</span>" +
       "</p>"
-    else
+    elsif text.match(/\A<em>.+<\/em>\z/)
       "<p>#{text}</p>"
+    else
+      "<p class=\"entry\"><strong></strong>" +
+      "<span class=\"post-key\">#{text}</span></p>"
     end
   end
 end

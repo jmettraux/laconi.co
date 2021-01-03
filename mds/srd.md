@@ -11051,7 +11051,7 @@ A creature can use its action to free a creature restrained by the whirlwind, in
 
 # Dragon Black Adult
 
-Huge dragon, chaotic evil
+*Huge dragon, chaotic evil*
 
 **Armor Class** 19 (natural armor)
 

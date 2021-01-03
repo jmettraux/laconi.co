@@ -9,10 +9,17 @@ th {
   display: flex;
 }
 .monster p.entry > strong {
-  min-width: 25%;
+  min-width: 29%;
+  display: inline-block;
+  margin-right: 0.35em;
+}
+.monster p.entry > .post-key {
   display: inline-block;
 }
-.monster p.entry > .post-strong {
-  display: inline-block;
+
+.monster table.abilities {
+  padding: 0.14em;
+  border-top: 1px solid lightgrey;
+  border-bottom: 1px solid lightgrey;
 }
 
