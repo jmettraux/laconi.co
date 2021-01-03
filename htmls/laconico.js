@@ -25,7 +25,6 @@ function onDocumentReady(f) {
 function fillClientWidth() {
 
   elt('#client-width').textContent = '' + document.body.clientWidth + 'px';
-clog('' + document.body.clientWidth + 'px');
 };
 
 onDocumentReady(function() {

@@ -17,6 +17,7 @@
 <a class="major" href="spells.html">Spells</a>
 
 <a class="major" href="monsters.html">Monsters</a>
+<a class="major" href="monster_statistics.html">Monster Statistics</a>
 
 
 <br />

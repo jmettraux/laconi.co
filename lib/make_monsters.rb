@@ -287,14 +287,6 @@ def make_monsters(src_dir)
   creatures = File.read(File.join(src_dir, '14.creatures.md'))
   characters = File.read(File.join(src_dir, '15.npcs.md'))
 
-  puts; puts '# MONSTERS'
-
-  puts; puts(
-    '[Monster Statistics](#Monster_Statistics) ' +
-    '[Legendary Creatures](#Legendary_Creatures)')
-
-  puts; puts '# Index'
-
   MONSTERS.each { |k, v| v << monsters }
   CREATURES.each { |k, v| v << creatures }
   CHARACTERS.each { |k, v| v << characters }
@@ -307,26 +299,33 @@ def make_monsters(src_dir)
     .select { |k, v|
       v.any? }
 
-  puts#; puts '<ul>'
-  azs
-    .each { |k, ns|
-      print "**#{k}** "
-      ns.each { |n| print "[#{n}](##{neutralize_name(n)}) " }
-      puts; puts }
-  #puts '</ul>'
-  puts
+  File.open('mds/monsters.md', 'wb') do |f|
 
-  azs
-    .each { |k, ns|
+    f.puts '# MONSTERS'
+
+    f.puts "\n## Index"
+
+    f.puts "\n"
+    azs
+      .each { |k, ns|
+        f.print "\n**#{k}** "
+        ns.each { |n| f.print "[#{n}](##{neutralize_name(n)}) " }
+        f.puts "\n" }
+    f.puts
+
+    azs
+      .each { |k, ns|
 #$stderr.puts("* #{k} => #{ns[0, 2]}")
-      ns.each { |n|
-        k, m, s = cs[n]
+        ns.each { |n|
+          k, m, s = cs[n]
 #$stderr.puts([ n, k, m ].inspect)
-        puts(extract_md_monster(s, k, n, m)) } }
+          f.puts(extract_md_monster(s, k, n, m)) } }
+  end
 
-  puts
+  File.open('mds/monster_statisticss.md', 'wb') do |f|
 
-  puts; puts extract_md_section(monsters, 1, 'Monster Statistics')
-  puts; puts extract_md_section(monsters, 1, 'Legendary Creatures')
+    f.puts extract_md_section(monsters, 1, 'Monster Statistics')
+    f.puts extract_md_section(monsters, 1, 'Legendary Creatures')
+  end
 end
 

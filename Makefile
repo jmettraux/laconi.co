@@ -9,7 +9,7 @@ md_spells:
 	#cat ${SRC}/10.spells.md > mds/spells.md
 	ruby ${LI} -e "make_spells('${SRC}')"
 md_monsters:
-	ruby ${LI} -e "make_monsters('${SRC}')" > mds/monsters.md
+	ruby ${LI} -e "make_monsters('${SRC}')"
 md_classes:
 	ruby ${LI} -e "make_class('${SRC}', 'Fighter')" > mds/fighter.md
 	ruby ${LI} -e "make_class('${SRC}', 'Rogue')" > mds/rogue.md
@@ -29,6 +29,8 @@ md: md_ogl md_races md_classes md_rules md_spells md_monsters
 html_monsters:
 	ruby ${LI} -e "make_html('Monsters', 'monsters.md', MonsterHtmlRender)" \
       > htmls/monsters.html
+	ruby ${LI} -e "make_html('Monsters Statistics', 'monster_statisticss.md')" \
+      > htmls/monster_statistics.html
 html_spells:
 	ruby ${LI} -e "make_html('Spells', 'spells.md')" > htmls/spells.html
 html_classes:
