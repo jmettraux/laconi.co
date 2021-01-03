@@ -50,3 +50,7 @@ th {
   line-height: 1.4rem;
 }
 
+#LEGAL_INFORMATION {
+  cursor: pointer;
+}
+

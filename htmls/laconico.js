@@ -26,6 +26,13 @@ onDocumentReady(function() {
 
   on(
     '#article-monsters h1', 'click',
-    function() { window.location.href = '#Index'; });
+    function() {
+      window.location.href = '#Index'; });
+
+  on(
+    '#LEGAL_INFORMATION', 'click',
+    function() {
+      var e = elt('#article-legal-information section');
+      e.style.display = (e.style.display === 'none') ? 'block' : 'none'; });
 });
 
