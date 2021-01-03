@@ -3,6 +3,7 @@ SRC=../ogl_srd5
 LI=-Ilib -rlaconico
 
 all: md html
+c: all
 
 md_monsters:
 	ruby ${LI} -e "make_monsters('${SRC}')" > mds/monsters.md
