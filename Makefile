@@ -15,7 +15,9 @@ md_classes:
 	ruby ${LI} -e "make_class('${SRC}', 'Rogue')" > mds/rogue.md
 	ruby ${LI} -e "make_class('${SRC}', 'Wizard')" > mds/wizard.md
 md_races:
-	ruby ${LI} -e "make_races('${SRC}')" > mds/races.md
+	ruby ${LI} -e "make_race('${SRC}', 'Human')" > mds/human.md
+	ruby ${LI} -e "make_race('${SRC}', 'Elf')" > mds/elf.md
+	ruby ${LI} -e "make_race('${SRC}', 'Dwarf')" > mds/dwarf.md
 md_rules:
 	ruby ${LI} -e "make_rules('${SRC}')" > mds/rules.md
 md_ogl:
@@ -34,7 +36,9 @@ html_classes:
 	ruby ${LI} -e "make_html('Rogue', 'rogue.md')" > htmls/rogue.html
 	ruby ${LI} -e "make_html('Wizard', 'wizard.md')" > htmls/wizard.html
 html_races:
-	ruby ${LI} -e "make_html('Races', 'races.md')" > htmls/races.html
+	ruby ${LI} -e "make_html('Human', 'human.md')" > htmls/human.html
+	ruby ${LI} -e "make_html('Elf', 'elf.md')" > htmls/elf.html
+	ruby ${LI} -e "make_html('Dwarf', 'dwarf.md')" > htmls/dwarf.html
 html_rules:
 	ruby ${LI} -e "make_html('Rules', 'rules.md')" > htmls/rules.html
 html_ogl:

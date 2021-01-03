@@ -1,10 +1,9 @@
 
-def make_races(source_dir)
+def make_race(source_dir, name)
 
   races = File.read(File.join(source_dir, '01.races.md'))
 
-  puts; puts extract_md_section(races, 1, 'RACES')
-  puts; puts extract_md_section(races, 1, 'Human')
+  puts extract_md_section(races, 1, name)
 end
 
 def make_class(source_dir, name)
