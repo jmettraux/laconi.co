@@ -288,8 +288,10 @@ def make_monsters(src_dir)
   characters = File.read(File.join(src_dir, '15.npcs.md'))
 
   puts; puts '# MONSTERS'
-  puts; puts extract_md_section(monsters, 1, 'Monster Statistics')
-  puts; puts extract_md_section(monsters, 1, 'Legendary Creatures')
+
+  puts; puts(
+    '[Monster Statistics](#Monster_Statistics) ' +
+    '[Legendary Creatures](#Legendary_Creatures)')
 
   puts; puts '# Index'
 
@@ -305,14 +307,13 @@ def make_monsters(src_dir)
     .select { |k, v|
       v.any? }
 
-  puts; puts '<ul>'
+  puts#; puts '<ul>'
   azs
     .each { |k, ns|
-      print "<p>"
-      #print "<span class=\"alpha\">#{k}</span>"
-      ns.each { |n| print "<a href=\"##{neutralize_name(n)}\">#{n}</a> " }
-      puts "</p>" }
-  puts '</ul>'
+      print "**#{k}** "
+      ns.each { |n| print "[#{n}](##{neutralize_name(n)}) " }
+      puts; puts }
+  #puts '</ul>'
   puts
 
   azs
@@ -324,5 +325,8 @@ def make_monsters(src_dir)
         puts(extract_md_monster(s, k, n, m)) } }
 
   puts
+
+  puts; puts extract_md_section(monsters, 1, 'Monster Statistics')
+  puts; puts extract_md_section(monsters, 1, 'Legendary Creatures')
 end
 

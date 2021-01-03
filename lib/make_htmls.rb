@@ -21,7 +21,7 @@ class HtmlRender < Redcarpet::Render::HTML
       a << "<h#{level} id=\"#{t}\">#{title}</h#{level}>"
     elsif level == 1
       a << "\n</section>" if @in_section; @in_section = true
-      a << "\n<section>"
+      a << "\n<section class=\"section-#{t.downcase}\">"
       a << "<h#{level} id=\"#{t}\">#{title}</h#{level}>"
     else
       level = 3 if level > 3
@@ -69,7 +69,14 @@ class MonsterHtmlRender < HtmlRender
 
   def header(title, level)
 
-    @post_index = true if level == 1 && title == 'Index'
+    if level == 1 && title == 'Index'
+      @post_index = true
+      return super
+    end
+    if level == 1 && title == 'Monster Statistics'
+      @post_index = false
+      return super
+    end
 
     return super unless @post_index# && level == 2
 

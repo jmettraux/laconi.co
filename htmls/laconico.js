@@ -23,7 +23,9 @@ function onDocumentReady(f) {
     // from https://github.com/jmettraux/h.js
 
 onDocumentReady(function() {
-  on('#MONSTERS', 'click', function() { window.location.href = '#Index'; });
-  on('h1.monster', 'click', function() { window.location.href = '#Index'; });
+
+  on(
+    '#article-monsters h1', 'click',
+    function() { window.location.href = '#Index'; });
 });
 
