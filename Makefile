@@ -39,5 +39,11 @@ html: html_ogl html_races html_classes html_rules html_spells html_monsters
 s:
 	ruby -run -ehttpd htmls/ -p7003
 
+publish:
+	rsync -azv --delete --delete-excluded \
+      --exclude *.swp \
+      htmls/ shooto:/var/www/htdocs/laconi.co/
+p: publish
+
 .PHONY: md md_clear md_rules md_spells md_monsters html
 
