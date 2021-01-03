@@ -54,3 +54,17 @@ th {
   cursor: pointer;
 }
 
+@media (min-width: 760px) {
+}
+@media (max-width: 760px) {
+  .monster p.entry  {
+    display: block;
+  }
+  .monster p.entry > strong {
+    display: block;
+  }
+  .monster p.entry > .post-key {
+    display: block;
+  }
+}
+
