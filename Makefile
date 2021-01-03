@@ -15,13 +15,13 @@ md_races:
 md_rules:
 	ruby ${LI} -e "make_rules('${SRC}')" > mds/rules.md
 md_ogl:
-	echo "## Legal Information" > mds/ogl.md
+	echo "# LEGAL INFORMATION" > mds/ogl.md
 	tail -52 ${SRC}/legal.md >> mds/ogl.md
 
 md: md_ogl md_races md_classes md_rules md_spells md_monsters
 	cat \
-      mds/races.md mds/classes.md \
-      mds/rules.md mds/spells.md mds/monsters.md \
+      mds/races.md mds/classes.md mds/rules.md mds/spells.md mds/monsters.md \
+      mds/ogl.md \
         > mds/srd.md
 
 html_monsters:
@@ -35,8 +35,10 @@ html_races:
 	ruby ${LI} -e "make_html('Races', 'races.md')" > htmls/races.html
 html_rules:
 	ruby ${LI} -e "make_html('Rules', 'rules.md')" > htmls/rules.html
+html_ogl:
+	ruby ${LI} -e "make_html('Legal Information', 'ogl.md')" > htmls/ogl.html
 
-html: html_races html_classes html_rules html_spells html_monsters
+html: html_ogl html_races html_classes html_rules html_spells html_monsters
 	ruby ${LI} -e "make_html('SRD', 'srd.md')" > htmls/srd.html
 
 s:

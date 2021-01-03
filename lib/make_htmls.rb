@@ -14,10 +14,10 @@ class HtmlRender < Redcarpet::Render::HTML
     a = []
     t = neutralize_name(title)
 
-    if level == 1 && title.match(/^[A-Z]+$/)
+    if level == 1 && title.match(/^[A-Z ]+$/)
       a << "\n</section>" if @in_section; @in_section = false
       a << "\n</article>" if @in_article; @in_article = true
-      a << "\n<article>"
+      a << "\n<article id=\"article-#{title.downcase.gsub(/ /, '-')}\">"
       a << "<h#{level} id=\"#{t}\">#{title}</h#{level}>"
     elsif level == 1
       a << "\n</section>" if @in_section; @in_section = true
