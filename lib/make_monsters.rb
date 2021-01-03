@@ -5,7 +5,8 @@ def extract_md_monster(path_or_content, name, key, morale)
   s =
     extract_md_section(path_or_content, 2, name) ||
     extract_md_section(path_or_content, 3, name) ||
-    extract_md_section(path_or_content, 4, name)
+    extract_md_section(path_or_content, 4, name) ||
+    extract_md_section(path_or_content, 1, name)
 
   i =
     s.index("\n")
@@ -261,6 +262,20 @@ CREATURES = cs
     h }
 
 cs = {
+  'Archmage' => 10,
+  'Bandit' => 8,
+  'Bandit Captain' => 9,
+  'Commoner' => 6,
+  'Druid' => 9,
+  'Gladiator' => 10,
+  'Guard' => 8,
+  'Knight' => 10,
+  'Mage' => 9,
+  'Noble' => 7,
+  'Scout' => 6,
+  'Thug' => 7,
+  'Tribal Warrior' => 8,
+  'Veteran' => 8,
     }
 CHARACTERS = cs
   .inject({}) { |h, (k, v)|
@@ -303,9 +318,9 @@ def make_monsters(src_dir)
   azs
     .each { |k, ns|
 #$stderr.puts("* #{k} => #{ns[0, 2]}")
-#ns.each { |n| $stderr.puts("    #{n}: #{cs[n].inspect}") }
       ns.each { |n|
         k, m, s = cs[n]
+#$stderr.puts([ n, k, m ].inspect)
         puts(extract_md_monster(s, k, n, m)) } }
 
   puts

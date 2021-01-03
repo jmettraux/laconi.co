@@ -350,28 +350,28 @@ The mere presence of a legendary creature can have strange and wondrous effects 
 # Index
 
 <ul>
-<p><a href="#Animated_Armor">Animated Armor</a> <a href="#Ape">Ape</a> <a href="#Ape__Giant">Ape, Giant</a> <a href="#Axe_Beak">Axe Beak</a> </p>
-<p><a href="#Baboon">Baboon</a> <a href="#Badger">Badger</a> <a href="#Badger__Giant">Badger, Giant</a> <a href="#Basilisk">Basilisk</a> <a href="#Bat">Bat</a> <a href="#Bat__Giant">Bat, Giant</a> <a href="#Bats__Swarm">Bats, Swarm</a> <a href="#Bear__Black">Bear, Black</a> <a href="#Bear__Brown">Bear, Brown</a> <a href="#Bear__Polar">Bear, Polar</a> <a href="#Behir">Behir</a> <a href="#Boar">Boar</a> <a href="#Boar__Giant">Boar, Giant</a> <a href="#Bugbear">Bugbear</a> </p>
-<p><a href="#Camel">Camel</a> <a href="#Cat">Cat</a> <a href="#Centaur">Centaur</a> <a href="#Centipede__Giant">Centipede, Giant</a> <a href="#Chimera">Chimera</a> <a href="#Cockatrice">Cockatrice</a> <a href="#Couatl">Couatl</a> <a href="#Crab">Crab</a> <a href="#Crab__Giant">Crab, Giant</a> <a href="#Crocodile">Crocodile</a> <a href="#Crocodile__Giant">Crocodile, Giant</a> </p>
-<p><a href="#Deer">Deer</a> <a href="#Devil__Barbed">Devil, Barbed</a> <a href="#Devil__Horned">Devil, Horned</a> <a href="#Djinni">Djinni</a> <a href="#Draft_Horse">Draft Horse</a> <a href="#Dragon_Black_Adult">Dragon Black Adult</a> <a href="#Dragon_Black_Ancient">Dragon Black Ancient</a> <a href="#Dragon_Black_Wyrmling">Dragon Black Wyrmling</a> <a href="#Dragon_Black_Young">Dragon Black Young</a> <a href="#Dragon_Blue_Adult">Dragon Blue Adult</a> <a href="#Dragon_Blue_Ancient">Dragon Blue Ancient</a> <a href="#Dragon_Blue_Wyrmling">Dragon Blue Wyrmling</a> <a href="#Dragon_Blue_Young">Dragon Blue Young</a> <a href="#Dragon_Brass_Adult">Dragon Brass Adult</a> <a href="#Dragon_Brass_Ancient">Dragon Brass Ancient</a> <a href="#Dragon_Brass_Wyrmling">Dragon Brass Wyrmling</a> <a href="#Dragon_Brass_Young">Dragon Brass Young</a> <a href="#Dragon_Bronze_Adult">Dragon Bronze Adult</a> <a href="#Dragon_Bronze_Ancient">Dragon Bronze Ancient</a> <a href="#Dragon_Bronze_Wyrmling">Dragon Bronze Wyrmling</a> <a href="#Dragon_Bronze_Young">Dragon Bronze Young</a> <a href="#Dragon_Copper_Adult">Dragon Copper Adult</a> <a href="#Dragon_Copper_Ancient">Dragon Copper Ancient</a> <a href="#Dragon_Copper_Wyrmling">Dragon Copper Wyrmling</a> <a href="#Dragon_Copper_Young">Dragon Copper Young</a> <a href="#Dragon_Gold_Adult">Dragon Gold Adult</a> <a href="#Dragon_Gold_Ancient">Dragon Gold Ancient</a> <a href="#Dragon_Gold_Wyrmling">Dragon Gold Wyrmling</a> <a href="#Dragon_Gold_Young">Dragon Gold Young</a> <a href="#Dragon_Green_Adult">Dragon Green Adult</a> <a href="#Dragon_Green_Ancient">Dragon Green Ancient</a> <a href="#Dragon_Green_Wyrmling">Dragon Green Wyrmling</a> <a href="#Dragon_Green_Young">Dragon Green Young</a> <a href="#Dragon_Red_Adult">Dragon Red Adult</a> <a href="#Dragon_Red_Ancient">Dragon Red Ancient</a> <a href="#Dragon_Red_Wyrmling">Dragon Red Wyrmling</a> <a href="#Dragon_Red_Young">Dragon Red Young</a> <a href="#Dragon_Silver_Adult">Dragon Silver Adult</a> <a href="#Dragon_Silver_Ancient">Dragon Silver Ancient</a> <a href="#Dragon_Silver_Wyrmling">Dragon Silver Wyrmling</a> <a href="#Dragon_Silver_Young">Dragon Silver Young</a> <a href="#Dragon_Turtle">Dragon Turtle</a> <a href="#Dragon_White_Adult">Dragon White Adult</a> <a href="#Dragon_White_Ancient">Dragon White Ancient</a> <a href="#Dragon_White_Wyrmling">Dragon White Wyrmling</a> <a href="#Dragon_White_Young">Dragon White Young</a> <a href="#Dryad">Dryad</a> <a href="#Duergar">Duergar</a> </p>
+<p><a href="#Animated_Armor">Animated Armor</a> <a href="#Ape">Ape</a> <a href="#Ape__Giant">Ape, Giant</a> <a href="#Archmage">Archmage</a> <a href="#Axe_Beak">Axe Beak</a> </p>
+<p><a href="#Baboon">Baboon</a> <a href="#Badger">Badger</a> <a href="#Badger__Giant">Badger, Giant</a> <a href="#Bandit">Bandit</a> <a href="#Bandit_Captain">Bandit Captain</a> <a href="#Basilisk">Basilisk</a> <a href="#Bat">Bat</a> <a href="#Bat__Giant">Bat, Giant</a> <a href="#Bats__Swarm">Bats, Swarm</a> <a href="#Bear__Black">Bear, Black</a> <a href="#Bear__Brown">Bear, Brown</a> <a href="#Bear__Polar">Bear, Polar</a> <a href="#Behir">Behir</a> <a href="#Boar">Boar</a> <a href="#Boar__Giant">Boar, Giant</a> <a href="#Bugbear">Bugbear</a> </p>
+<p><a href="#Camel">Camel</a> <a href="#Cat">Cat</a> <a href="#Centaur">Centaur</a> <a href="#Centipede__Giant">Centipede, Giant</a> <a href="#Chimera">Chimera</a> <a href="#Cockatrice">Cockatrice</a> <a href="#Commoner">Commoner</a> <a href="#Couatl">Couatl</a> <a href="#Crab">Crab</a> <a href="#Crab__Giant">Crab, Giant</a> <a href="#Crocodile">Crocodile</a> <a href="#Crocodile__Giant">Crocodile, Giant</a> </p>
+<p><a href="#Deer">Deer</a> <a href="#Devil__Barbed">Devil, Barbed</a> <a href="#Devil__Horned">Devil, Horned</a> <a href="#Djinni">Djinni</a> <a href="#Draft_Horse">Draft Horse</a> <a href="#Dragon_Black_Adult">Dragon Black Adult</a> <a href="#Dragon_Black_Ancient">Dragon Black Ancient</a> <a href="#Dragon_Black_Wyrmling">Dragon Black Wyrmling</a> <a href="#Dragon_Black_Young">Dragon Black Young</a> <a href="#Dragon_Blue_Adult">Dragon Blue Adult</a> <a href="#Dragon_Blue_Ancient">Dragon Blue Ancient</a> <a href="#Dragon_Blue_Wyrmling">Dragon Blue Wyrmling</a> <a href="#Dragon_Blue_Young">Dragon Blue Young</a> <a href="#Dragon_Brass_Adult">Dragon Brass Adult</a> <a href="#Dragon_Brass_Ancient">Dragon Brass Ancient</a> <a href="#Dragon_Brass_Wyrmling">Dragon Brass Wyrmling</a> <a href="#Dragon_Brass_Young">Dragon Brass Young</a> <a href="#Dragon_Bronze_Adult">Dragon Bronze Adult</a> <a href="#Dragon_Bronze_Ancient">Dragon Bronze Ancient</a> <a href="#Dragon_Bronze_Wyrmling">Dragon Bronze Wyrmling</a> <a href="#Dragon_Bronze_Young">Dragon Bronze Young</a> <a href="#Dragon_Copper_Adult">Dragon Copper Adult</a> <a href="#Dragon_Copper_Ancient">Dragon Copper Ancient</a> <a href="#Dragon_Copper_Wyrmling">Dragon Copper Wyrmling</a> <a href="#Dragon_Copper_Young">Dragon Copper Young</a> <a href="#Dragon_Gold_Adult">Dragon Gold Adult</a> <a href="#Dragon_Gold_Ancient">Dragon Gold Ancient</a> <a href="#Dragon_Gold_Wyrmling">Dragon Gold Wyrmling</a> <a href="#Dragon_Gold_Young">Dragon Gold Young</a> <a href="#Dragon_Green_Adult">Dragon Green Adult</a> <a href="#Dragon_Green_Ancient">Dragon Green Ancient</a> <a href="#Dragon_Green_Wyrmling">Dragon Green Wyrmling</a> <a href="#Dragon_Green_Young">Dragon Green Young</a> <a href="#Dragon_Red_Adult">Dragon Red Adult</a> <a href="#Dragon_Red_Ancient">Dragon Red Ancient</a> <a href="#Dragon_Red_Wyrmling">Dragon Red Wyrmling</a> <a href="#Dragon_Red_Young">Dragon Red Young</a> <a href="#Dragon_Silver_Adult">Dragon Silver Adult</a> <a href="#Dragon_Silver_Ancient">Dragon Silver Ancient</a> <a href="#Dragon_Silver_Wyrmling">Dragon Silver Wyrmling</a> <a href="#Dragon_Silver_Young">Dragon Silver Young</a> <a href="#Dragon_Turtle">Dragon Turtle</a> <a href="#Dragon_White_Adult">Dragon White Adult</a> <a href="#Dragon_White_Ancient">Dragon White Ancient</a> <a href="#Dragon_White_Wyrmling">Dragon White Wyrmling</a> <a href="#Dragon_White_Young">Dragon White Young</a> <a href="#Druid">Druid</a> <a href="#Dryad">Dryad</a> <a href="#Duergar">Duergar</a> </p>
 <p><a href="#Eagle">Eagle</a> <a href="#Eagle__Giant">Eagle, Giant</a> <a href="#Efreeti">Efreeti</a> <a href="#Elephant">Elephant</a> <a href="#Elf__Drow">Elf, Drow</a> <a href="#Elk">Elk</a> <a href="#Elk__Giant">Elk, Giant</a> <a href="#Erinyes">Erinyes</a> <a href="#Ettin">Ettin</a> </p>
 <p><a href="#Fire_Beetle__Giant">Fire Beetle, Giant</a> <a href="#Frog">Frog</a> <a href="#Frog__Giant">Frog, Giant</a> </p>
-<p><a href="#Gargoyle">Gargoyle</a> <a href="#Ghast">Ghast</a> <a href="#Ghost">Ghost</a> <a href="#Ghoul">Ghoul</a> <a href="#Giant__Cloud">Giant, Cloud</a> <a href="#Giant__Fire">Giant, Fire</a> <a href="#Giant__Frost">Giant, Frost</a> <a href="#Giant__Hill">Giant, Hill</a> <a href="#Giant__Stone">Giant, Stone</a> <a href="#Giant__Storm">Giant, Storm</a> <a href="#Goat">Goat</a> <a href="#Goat__Giant">Goat, Giant</a> <a href="#Goblin">Goblin</a> <a href="#Golem__Clay">Golem, Clay</a> <a href="#Golem__Flesh">Golem, Flesh</a> <a href="#Golem__Iron">Golem, Iron</a> <a href="#Golem__Stone">Golem, Stone</a> <a href="#Gorgon">Gorgon</a> <a href="#Griffon">Griffon</a> </p>
+<p><a href="#Gargoyle">Gargoyle</a> <a href="#Ghast">Ghast</a> <a href="#Ghost">Ghost</a> <a href="#Ghoul">Ghoul</a> <a href="#Giant__Cloud">Giant, Cloud</a> <a href="#Giant__Fire">Giant, Fire</a> <a href="#Giant__Frost">Giant, Frost</a> <a href="#Giant__Hill">Giant, Hill</a> <a href="#Giant__Stone">Giant, Stone</a> <a href="#Giant__Storm">Giant, Storm</a> <a href="#Gladiator">Gladiator</a> <a href="#Goat">Goat</a> <a href="#Goat__Giant">Goat, Giant</a> <a href="#Goblin">Goblin</a> <a href="#Golem__Clay">Golem, Clay</a> <a href="#Golem__Flesh">Golem, Flesh</a> <a href="#Golem__Iron">Golem, Iron</a> <a href="#Golem__Stone">Golem, Stone</a> <a href="#Gorgon">Gorgon</a> <a href="#Griffon">Griffon</a> <a href="#Guard">Guard</a> </p>
 <p><a href="#Hag__Green">Hag, Green</a> <a href="#Harpy">Harpy</a> <a href="#Hawk">Hawk</a> <a href="#Hell_Hound">Hell Hound</a> <a href="#Hippogriff">Hippogriff</a> <a href="#Hobgoblin">Hobgoblin</a> <a href="#Homunculus">Homunculus</a> <a href="#Hydra">Hydra</a> <a href="#Hyena">Hyena</a> <a href="#Hyena__Giant">Hyena, Giant</a> </p>
 <p><a href="#Imp">Imp</a> <a href="#Insects__Swarm">Insects, Swarm</a> <a href="#Invisible_Stalker">Invisible Stalker</a> </p>
 <p><a href="#Jackal">Jackal</a> </p>
-<p><a href="#Kobold">Kobold</a> <a href="#Kraken">Kraken</a> </p>
+<p><a href="#Knight">Knight</a> <a href="#Kobold">Kobold</a> <a href="#Kraken">Kraken</a> </p>
 <p><a href="#Lamia">Lamia</a> <a href="#Lemure">Lemure</a> <a href="#Lich">Lich</a> <a href="#Lion">Lion</a> <a href="#Lizard">Lizard</a> <a href="#Lizard__Giant">Lizard, Giant</a> <a href="#Lizardfolk">Lizardfolk</a> </p>
-<p><a href="#Mammoth">Mammoth</a> <a href="#Manticore">Manticore</a> <a href="#Medusa">Medusa</a> <a href="#Merfolk">Merfolk</a> <a href="#Minotaur">Minotaur</a> <a href="#Mule">Mule</a> <a href="#Mummy">Mummy</a> </p>
-<p><a href="#Naga__Guardian">Naga, Guardian</a> <a href="#Naga__Spirit">Naga, Spirit</a> <a href="#Nightmare">Nightmare</a> </p>
+<p><a href="#Mage">Mage</a> <a href="#Mammoth">Mammoth</a> <a href="#Manticore">Manticore</a> <a href="#Medusa">Medusa</a> <a href="#Merfolk">Merfolk</a> <a href="#Minotaur">Minotaur</a> <a href="#Mule">Mule</a> <a href="#Mummy">Mummy</a> </p>
+<p><a href="#Naga__Guardian">Naga, Guardian</a> <a href="#Naga__Spirit">Naga, Spirit</a> <a href="#Nightmare">Nightmare</a> <a href="#Noble">Noble</a> </p>
 <p><a href="#Octopus">Octopus</a> <a href="#Octopus__Giant">Octopus, Giant</a> <a href="#Ogre">Ogre</a> <a href="#Oni">Oni</a> <a href="#Orc">Orc</a> <a href="#Owl">Owl</a> <a href="#Owl__Giant">Owl, Giant</a> </p>
 <p><a href="#Panther">Panther</a> <a href="#Pegasus">Pegasus</a> <a href="#Poisonous_Snakes__Swarm">Poisonous Snakes, Swarm</a> <a href="#Pony">Pony</a> <a href="#Pseudodragon">Pseudodragon</a> </p>
 <p><a href="#Quipper">Quipper</a> <a href="#Quippers__Swarm">Quippers, Swarm</a> </p>
 <p><a href="#Rakshasa">Rakshasa</a> <a href="#Rat">Rat</a> <a href="#Rat__Giant">Rat, Giant</a> <a href="#Rats__Swarm">Rats, Swarm</a> <a href="#Raven">Raven</a> <a href="#Ravens__Swarm">Ravens, Swarm</a> <a href="#Rhinoceros">Rhinoceros</a> <a href="#Riding_Horse">Riding Horse</a> <a href="#Roc">Roc</a> </p>
-<p><a href="#Saber_Toothed_Tiger">Saber-Toothed Tiger</a> <a href="#Salamander">Salamander</a> <a href="#Satyr">Satyr</a> <a href="#Scorpion">Scorpion</a> <a href="#Scorpion__Giant">Scorpion, Giant</a> <a href="#Sea_Horse">Sea Horse</a> <a href="#Sea_Horse__Giant">Sea Horse, Giant</a> <a href="#Shadow">Shadow</a> <a href="#Shambling_Mound">Shambling Mound</a> <a href="#Shark__Giant">Shark, Giant</a> <a href="#Shark__Hunter">Shark, Hunter</a> <a href="#Shark__Reef">Shark, Reef</a> <a href="#Skeleton">Skeleton</a> <a href="#Skeleton__Warhorse">Skeleton, Warhorse</a> <a href="#Snake__Constrictor">Snake, Constrictor</a> <a href="#Snake__Giant_Constrictor">Snake, Giant Constrictor</a> <a href="#Snake__Giant_Poisonous">Snake, Giant Poisonous</a> <a href="#Snake__Poisonous">Snake, Poisonous</a> <a href="#Specter">Specter</a> <a href="#Sphinx__Androshpinx">Sphinx, Androshpinx</a> <a href="#Sphinx__Gynoshpinx">Sphinx, Gynoshpinx</a> <a href="#Spider">Spider</a> <a href="#Spider__Giant">Spider, Giant</a> <a href="#Spider__Giant_Wolf">Spider, Giant Wolf</a> <a href="#Sprite">Sprite</a> <a href="#Succubus_Incubus">Succubus/Incubus</a> <a href="#Svirfneblin">Svirfneblin</a> </p>
-<p><a href="#Tarrasque">Tarrasque</a> <a href="#Tiger">Tiger</a> <a href="#Toad__Giant">Toad, Giant</a> <a href="#Treant">Treant</a> <a href="#Troll">Troll</a> </p>
+<p><a href="#Saber_Toothed_Tiger">Saber-Toothed Tiger</a> <a href="#Salamander">Salamander</a> <a href="#Satyr">Satyr</a> <a href="#Scorpion">Scorpion</a> <a href="#Scorpion__Giant">Scorpion, Giant</a> <a href="#Scout">Scout</a> <a href="#Sea_Horse">Sea Horse</a> <a href="#Sea_Horse__Giant">Sea Horse, Giant</a> <a href="#Shadow">Shadow</a> <a href="#Shambling_Mound">Shambling Mound</a> <a href="#Shark__Giant">Shark, Giant</a> <a href="#Shark__Hunter">Shark, Hunter</a> <a href="#Shark__Reef">Shark, Reef</a> <a href="#Skeleton">Skeleton</a> <a href="#Skeleton__Warhorse">Skeleton, Warhorse</a> <a href="#Snake__Constrictor">Snake, Constrictor</a> <a href="#Snake__Giant_Constrictor">Snake, Giant Constrictor</a> <a href="#Snake__Giant_Poisonous">Snake, Giant Poisonous</a> <a href="#Snake__Poisonous">Snake, Poisonous</a> <a href="#Specter">Specter</a> <a href="#Sphinx__Androshpinx">Sphinx, Androshpinx</a> <a href="#Sphinx__Gynoshpinx">Sphinx, Gynoshpinx</a> <a href="#Spider">Spider</a> <a href="#Spider__Giant">Spider, Giant</a> <a href="#Spider__Giant_Wolf">Spider, Giant Wolf</a> <a href="#Sprite">Sprite</a> <a href="#Succubus_Incubus">Succubus/Incubus</a> <a href="#Svirfneblin">Svirfneblin</a> </p>
+<p><a href="#Tarrasque">Tarrasque</a> <a href="#Thug">Thug</a> <a href="#Tiger">Tiger</a> <a href="#Toad__Giant">Toad, Giant</a> <a href="#Treant">Treant</a> <a href="#Tribal_Warrior">Tribal Warrior</a> <a href="#Troll">Troll</a> </p>
 <p><a href="#Unicorn">Unicorn</a> </p>
-<p><a href="#Vampire">Vampire</a> <a href="#Vampire_Spawn">Vampire Spawn</a> <a href="#Vulture">Vulture</a> <a href="#Vulture__Giant">Vulture, Giant</a> </p>
+<p><a href="#Vampire">Vampire</a> <a href="#Vampire_Spawn">Vampire Spawn</a> <a href="#Veteran">Veteran</a> <a href="#Vulture">Vulture</a> <a href="#Vulture__Giant">Vulture, Giant</a> </p>
 <p><a href="#Warhorse">Warhorse</a> <a href="#Wasp__Giant">Wasp, Giant</a> <a href="#Weasel">Weasel</a> <a href="#Weasel__Giant">Weasel, Giant</a> <a href="#Werebear">Werebear</a> <a href="#Wereboar">Wereboar</a> <a href="#Wererat">Wererat</a> <a href="#Weretiger">Weretiger</a> <a href="#Werewolf">Werewolf</a> <a href="#Whale__Killer">Whale, Killer</a> <a href="#Wight">Wight</a> <a href="#Will_o__Wisp">Will-o'-Wisp</a> <a href="#Wolf">Wolf</a> <a href="#Wolf__Dire">Wolf, Dire</a> <a href="#Wolf__Winter">Wolf, Winter</a> <a href="#Worg">Worg</a> <a href="#Worm__Purple">Worm, Purple</a> <a href="#Wraith">Wraith</a> <a href="#Wyvern">Wyvern</a> </p>
 <p><a href="#Zombie">Zombie</a> </p>
 </ul>
@@ -478,6 +478,58 @@ Constitution saving throw against the caster's spell save DC or fall unconscious
 ***Fist.*** *Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 22 (3d10+6) bludgeoning damage.
 
 ***Rock.*** *Ranged Weapon Attack:* +9 to hit, range 50/100 ft., one target. *Hit:* 30 (7d6+6) bludgeoning damage.
+
+# Archmage
+
+*Medium humanoid (any race), any alignment*
+
+**Armor Class** 12 (15 with *mage armor*)
+
+**Hit Points** 99 (18d8 + 18)
+
+**Morale** 10
+
+**Speed** 30 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 10 (+0) | 14 (+2) | 12 (+1) | 20 (+5) | 15 (+2) | 16 (+3) |
+
+**Saving Throws** Int +9, Wis +6
+
+**Skills** Arcana +13, History +13
+
+**Damage Resistance** damage from spells; nonmagical bludgeoning, piercing, and slashing (from *stoneskin*)
+
+**Senses** passive Perception 12
+
+**Languages** any six languages
+
+**Challenge** 12 (8,400 XP)
+
+***Magic Resistance.*** The archmage has advantage on saving throws against spells and other magical effects.
+
+***Spellcasting.*** The archmage is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). The archmage can cast *disguise self* and *invisibility* at will and has the following wizard spells prepared:
+
+Cantrips (at will): *fire bolt*, *light*, *mage hand*, *prestidigitation*, *shocking grasp*
+1st level (4 slots): *detect magic*, *identify*, *mage armor*, *magic missile*
+2nd level (3 slots): *detect thoughts*, *mirror image*, *misty step*
+3rd level (3 slots): *counterspell*, *fly*, *lightning bolt*
+4th level (3 slots): *banishment*, *fire shield*, *stoneskin*
+5th level (3 slots): *cone of cold*, *scrying*, *wall of force*
+6th level (1 slot): *globe of invulnerability*
+7th level (1 slot): *teleport*
+8th level (1 slot): *mind blank**
+9th level (1 slot): *time stop*
+\* The archmage casts these spells on itself before combat.
+
+## Actions
+
+***Dagger.*** *Melee or Ranged Weapon Attack:* +6 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 4 (1d4 + 2) piercing damage.
+
+**Archmages** are powerful (and usually quite old) spellcasters dedicated to the study of the arcane arts. Benevolent ones counsel kings and queens, while evil ones rule as tyrants and pursue lichdom. Those who are neither good nor evil sequester themselves in remote towers to practice their magic without interruption.
+
+An archmage typically has one or more apprentice mages, and an archmage's abode has numerous magical wards and guardians to discourage interlopers.
 
 # Axe Beak
 
@@ -594,6 +646,82 @@ An **axe beak** is a tall flightless bird with strong legs and a heavy, wedge-sh
 ***Bite.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6+1) piercing damage.
 
 ***Claws.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 6 (2d4+1) slashing damage.
+
+# Bandit
+
+*Medium humanoid (any race), any non-lawful alignment*
+
+**Armor Class** 12 (leather armor)
+
+**Hit Points** 11 (2d8 + 2)
+
+**Morale** 8
+
+**Speed** 30 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 11 (+0) | 12 (+1) | 12 (+1) | 10 (+0) | 10 (+0) | 10 (+0) |
+
+**Senses** passive Perception 10
+
+**Languages** any one language (usually Common)
+
+**Challenge** 1/8 (25 XP)
+
+## Actions
+
+***Scimitar.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6 + 1) slashing damage.
+
+***Light Crossbow.*** *Ranged Weapon Attack:* +3 to hit, range 80 ft./320 ft., one target. *Hit:* 5 (1d8 + 1) piercing damage.
+
+**Bandits** rove in gangs and are sometimes led by thugs, veterans, or spellcasters. Not all bandits are evil. Oppression, drought, disease, or famine can often drive otherwise honest folk to a life of banditry.
+
+**Pirates** are bandits of the high seas. They might be freebooters interested only in treasure and murder, or they might be privateers sanctioned by the crown to attack and plunder an enemy nation's vessels.
+
+# Bandit Captain
+
+*Medium humanoid (any race), any non-lawful alignment*
+
+**Armor Class** 15 (studded leather)
+
+**Hit Points** 65 (10d8 + 20)
+
+**Morale** 9
+
+**Speed** 30 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 15 (+2) | 16 (+3) | 14 (+2) | 14 (+2) | 11 (+0) | 14 (+2) |
+
+**Saving Throws** Str +4, Dex +5, Wis +2
+
+**Skills** Athletics +4, Deception +4
+
+**Senses** passive Perception 10
+
+**Languages** any two languages
+
+**Challenge** 2 (450 XP)
+
+## Actions
+
+***Multiattack.*** The captain makes three melee attacks: two with its scimitar and one with its dagger. Or the captain makes two ranged attacks with its daggers.
+
+***Scimitar.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) slashing damage.
+
+***Dagger.*** *Melee or Ranged Weapon Attack:* +5 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 5 (1d4 + 2) piercing damage.
+
+## Reactions
+
+***Parry.*** The captain adds 2 to its AC against one melee attack that would hit it. To do so, the captain must see the attacker and be wielding a melee weapon.
+
+It takes a strong personality, ruthless cunning, and a silver tongue to keep a gang of bandits in line. The **bandit captain** has these qualities in spades.
+
+In addition to managing a crew of selfish malcontents, the **pirate captain** is a variation of the bandit captain, with a ship to protect and command. To keep the crew in line, the captain must mete out rewards and punishment on a regular basis.
+
+More than treasure, a bandit captain or pirate captain craves infamy. A prisoner who appeals to the captain's vanity or ego is more likely to be treated fairly than a prisoner who does not or claims not to know anything of the captain's colorful reputation.
 
 # Basilisk
 
@@ -1138,6 +1266,34 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 ## Actions
 
 ***Bite.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature. *Hit:* 3 (1d4+1) piercing damage, and the target must succeed on a DC 11 Constitution saving throw against being magically petrified. On a failed save, the creature begins to turn to stone and is restrained. It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is petrified for 24 hours.
+
+# Commoner
+
+*Medium humanoid (any race), any alignment*
+
+**Armor Class** 10
+
+**Hit Points** 4 (1d8)
+
+**Morale** 6
+
+**Speed** 30 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) |
+
+**Senses** passive Perception 10
+
+**Languages** any one language (usually Common)
+
+**Challenge** 0 (10 XP)
+
+## Actions
+
+***Club.*** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2 (1d4) bludgeoning damage.
+
+**Commoners** include peasants, serfs, slaves, servants, pilgrims, merchants, artisans, and hermits.
 
 # Couatl
 
@@ -3497,6 +3653,42 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 ***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast in a 30-foot cone. Each creature in that area must make a DC 15 Constitution saving throw, taking 45 (10d8) cold damage on a failed save, or half as much damage on a successful one.
 
+# Druid
+
+*Medium humanoid (any race), any alignment*
+
+**Armor Class** 11 (16 with *barkskin*)
+
+**Hit Points** 27 (5d8 + 5)
+
+**Morale** 9
+
+**Speed** 30 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 10 (+0) | 12 (+1) | 13 (+1) | 12 (+1) | 15 (+2) | 11 (+0) |
+
+**Skills** Medicine +4, Nature +3, Perception +4
+
+**Senses** passive Perception 14
+
+**Languages** Druidic plus any two languages
+
+**Challenge** 2 (450 XP)
+
+***Spellcasting.*** The druid is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following druid spells prepared:
+
+Cantrips (at will): *druidcraft*, *produce flame*, *shillelagh*
+1st level (4 slots): *entangle*, *longstrider*, *speak with animals*, *thunderwave*
+2nd level (3 slots): *animal messenger*, *barkskin*
+
+## Actions
+
+***Quarterstaff.*** *Melee Weapon Attack:* +2 to hit (+4 to hit with *shillelagh*), reach 5 ft., one target. *Hit:* 3 (1d6) bludgeoning damage, 4 (1d8) bludgeoning damage if wielded with two hands, or 6 (1d8 + 2) bludgeoning damage with *shillelagh*.
+
+**Druids** dwell in forests and other secluded wilderness locations, where they protect the natural world from monsters and the encroachment of civilization. Some are **tribal shamans** who heal the sick, pray to animal spirits, and provide spiritual guidance.
+
 # Dryad
 
 *Medium fey, neutral*
@@ -4393,6 +4585,50 @@ At will: *detect magic*, *feather fall*, *levitate*, *light*
 
 ***Lightning Strike (Recharge 5-6).*** The giant hurls a magical lightning bolt at a point it can see within 500 feet of it. Each creature within 10 feet of that point must make a DC 17 Dexterity saving throw, taking 54 (12d8) lightning damage on a failed save, or half as much damage on a successful one.
 
+# Gladiator
+
+*Medium humanoid (any race), any alignment*
+
+**Armor Class** 16 (studded leather, shield)
+
+**Hit Points** 112 (15d8 + 45)
+
+**Morale** 10
+
+**Speed** 30 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 18 (+4) | 15 (+2) | 16 (+3) | 10 (+0) | 12 (+1) | 15 (+2) |
+
+**Saving Throws** Str +7, Dex +5, Con +6
+
+**Skills** Athletics +10, Intimidation +5
+
+**Senses** passive Perception 11
+
+**Languages** any one language (usually Common)
+
+**Challenge** 5 (1,800 XP)
+
+***Brave.*** The gladiator has advantage on saving throws against being frightened.
+
+***Brute.*** A melee weapon deals one extra die of its damage when the gladiator hits with it (included in the attack).
+
+## Actions
+
+***Multiattack.*** The gladiator makes three melee attacks or two ranged attacks.
+
+***Spear.*** *Melee or Ranged Weapon Attack:* +7 to hit, reach 5 ft. and range 20/60 ft., one target. *Hit:* 11 (2d6 + 4) piercing damage, or 13 (2d8 + 4) piercing damage if used with two hands to make a melee attack.
+
+***Shield Bash.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one creature. *Hit:* 9 (2d4 + 4) bludgeoning damage. If the target is a Medium or smaller creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.
+
+## Reactions
+
+***Parry.*** The gladiator adds 3 to its AC against one melee attack that would hit it. To do so, the gladiator must see the attacker and be wielding a melee weapon.
+
+**Gladiators** battle for the entertainment of raucous crowds. Some gladiators are brutal pit fighters who treat each match as a life-or-death struggle, while others are professional duelists who command huge fees but rarely fight to the death.
+
 # Goat
 
 *Medium beast, unaligned*
@@ -4728,6 +4964,36 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 ***Beak.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 8 (1d8+4) piercing damage.
 
 ***Claws.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 11 (2d6+4) slashing damage.
+
+# Guard
+
+*Medium humanoid (any race), any alignment*
+
+**Armor Class** 16 (chain shirt, shield)
+
+**Hit Points** 11 (2d8 + 2)
+
+**Morale** 8
+
+**Speed** 30 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 13 (+1) | 12 (+1) | 12 (+1) | 10 (+0) | 11 (+0) | 10 (+0) |
+
+**Skills** Perception +2
+
+**Senses** passive Perception 12
+
+**Languages** any one language (usually Common)
+
+**Challenge** 1/8 (25 XP)
+
+## Actions
+
+***Spear.*** *Melee or Ranged Weapon Attack:* +3 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
+
+**Guards** include members of a city watch, sentries in a citadel or fortified town, and the bodyguards of merchants and nobles.
 
 # Hag, Green
 
@@ -5235,6 +5501,48 @@ At the end of its turn, it grows two heads for each of its heads that died since
 
 ***Bite.*** *Melee Weapon Attack:* +1 to hit, reach 5 ft., one target. *Hit:* 1 (1d4-1) piercing damage.
 
+# Knight
+
+*Medium humanoid (any race), any alignment*
+
+**Armor Class** 18 (plate)
+
+**Hit Points** 52 (8d8 + 16)
+
+**Morale** 10
+
+**Speed** 30 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 16 (+3) | 11 (+0) | 14 (+2) | 11 (+0) | 11 (+0) | 15 (+2) |
+
+**Saving Throws** Con +4, Wis +2
+
+**Senses** passive Perception 10
+
+**Languages** any one language (usually Common)
+
+**Challenge** 3 (700 XP)
+
+***Brave.*** The knight has advantage on saving throws against being frightened.
+
+## Actions
+
+***Multiattack.*** The knight makes two melee attacks.
+
+***Greatsword.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) slashing damage.
+
+***Heavy Crossbow.*** *Ranged Weapon Attack:* +2 to hit, range 100/400 ft., one target. *Hit:* 5 (1d10) piercing damage.
+
+***Leadership (Recharges after a Short or Long Rest).*** For 1 minute, the knight can utter a special command or warning whenever a nonhostile creature that it can see within 30 feet of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand the knight. A creature can benefit from only one Leadership die at a time. This effect ends if the knight is incapacitated.
+
+## Reactions
+
+***Parry.*** The knight adds 2 to its AC against one melee attack that would hit it. To do so, the knight must see the attacker and be wielding a melee weapon.
+
+**Knights** are warriors who pledge service to rulers, religious orders, and noble causes. A knight's alignment determines the extent to which a pledge is honored. Whether undertaking a quest or patrolling a realm, a knight often travels with an entourage that includes squires and hirelings who are commoners.
+
 # Kobold
 
 *Small humanoid (kobold), lawful evil*
@@ -5600,6 +5908,47 @@ A **giant lizard** can be ridden or used as a draft animal. Lizardfolk also keep
 
 ***Spiked Shield.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6+2) piercing damage.
 
+# Mage
+
+*Medium humanoid (any race), any alignment*
+
+**Armor Class** 12 (15 with *mage armor*)
+
+**Hit Points** 40 (9d8)
+
+**Morale** 9
+
+**Speed** 30 ft.
+
+| STR    | DEX     | CON     | INT     | WIS     | CHA     |
+|--------|---------|---------|---------|---------|---------|
+| 9 (-1) | 14 (+2) | 11 (+0) | 17 (+3) | 12 (+1) | 11 (+0) |
+
+**Saving Throws** Int +6, Wis +4
+
+**Skills** Arcana +6, History +6
+
+**Senses** passive Perception 11
+
+**Languages** any four languages
+
+**Challenge** 6 (2,300 XP)
+
+***Spellcasting.*** The mage is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The mage has the following wizard spells prepared:
+
+Cantrips (at will): *fire bolt*, *light*, *mage hand*, *prestidigitation*
+1st level (4 slots): *detect magic*, *mage armor*, *magic missile*, *shield*
+2nd level (3 slots): *misty step*, *suggestion*
+3rd level (3 slots): *counterspell*, *fireball*, *fly*
+4th level (3 slots): *greater invisibility*, *ice storm*
+5th level (1 slot): *cone of cold*
+
+## Actions
+
+***Dagger.*** *Melee or Ranged Weapon Attack:* +5 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 4 (1d4 + 1) piercing damage.
+
+**Mages** spend their lives in the study and practice of magic. Good-aligned mages offer counsel to nobles and others in power, while evil mages dwell in isolated sites to perform unspeakable experiments without interference.
+
 # Mammoth
 
 *Huge beast, unaligned*
@@ -5818,7 +6167,7 @@ If the medusa sees itself reflected on a polished surface within 30 feet of it a
 |---------|--------|---------|--------|---------|---------|
 | 16 (+3) | 8 (-1) | 15 (+2) | 6 (-2) | 10 (+0) | 12 (+1) |
 
-Saving Throws Wis +2
+**Saving Throws** Wis +2
 
 **Damage Vulnerabilities** fire
 
@@ -5964,6 +6313,42 @@ Cantrips (at will): *mage hand*, *minor illusion*, *ray of frost*
 ***Hooves.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13 (2d8+4) bludgeoning damage plus 7 (2d6) fire damage.
 
 ***Ethereal Stride.*** The nightmare and up to three willing creatures within 5 feet of it magically enter the Ethereal Plane from the Material Plane, or vice versa.
+
+# Noble
+
+*Medium humanoid (any race), any alignment*
+
+**Armor Class** 15 (breastplate)
+
+**Hit Points** 9 (2d8)
+
+**Morale** 7
+
+**Speed** 30 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 11 (+0) | 12 (+1) | 11 (+0) | 12 (+1) | 14 (+2) | 16 (+3) |
+
+**Skills** Deception +5, Insight +4, Persuasion +5
+
+**Senses** passive Perception 12
+
+**Languages** any two languages
+
+**Challenge** 1/8 (25 XP)
+
+## Actions
+
+***Rapier.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 5 (1d8 + 1) piercing damage.
+
+## Reactions
+
+***Parry.*** The noble adds 2 to its AC against one melee attack that would hit it. To do so, the noble must see the attacker and be wielding a melee weapon.
+
+**Nobles** wield great authority and influence as members of the upper class, possessing wealth and connections that can make them as powerful as monarchs and generals. A noble often travels in the company of guards, as well as servants who are commoners.
+
+The noble's statistics can also be used to represent **courtiers** who aren't of noble birth.
 
 # Octopus
 
@@ -6895,6 +7280,42 @@ At will: *detect thoughts*, *disguise self*, *mage hand*, *minor illusion*
 
 ***Sting.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 7 (1d10+2) piercing damage, and the target must make a DC 12 Constitution saving throw, taking 22 (4d10) poison damage on a failed save, or half as much damage on a successful one.
 
+# Scout
+
+*Medium humanoid (any race), any alignment*
+
+**Armor Class** 13 (leather armor)
+
+**Hit Points** 16 (3d8 + 3)
+
+**Morale** 6
+
+**Speed** 30 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 11 (+0) | 14 (+2) | 12 (+1) | 11 (+0) | 13 (+1) | 11 (+0) |
+
+**Skills** Nature +4, Perception +5, Stealth +6, Survival +5
+
+**Senses** passive Perception 15
+
+**Languages** any one language (usually Common)
+
+**Challenge** 1/2 (100 XP)
+
+***Keen Hearing and Sight.*** The scout has advantage on Wisdom (Perception) checks that rely on hearing or sight.
+
+## Actions
+
+***Multiattack.*** The scout makes two melee attacks or two ranged attacks.
+
+***Shortsword.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage.
+
+***Longbow.*** *Ranged Weapon Attack:* +4 to hit, ranged 150/600 ft., one target. *Hit:* 6 (1d8 + 2) piercing damage.
+
+**Scouts** are skilled hunters and trackers who offer their services for a fee. Most hunt wild game, but a few work as bounty hunters, serve as guides, or provide military reconnaissance.
+
 # Sea Horse
 
 *Tiny beast, unaligned*
@@ -7768,6 +8189,42 @@ The tarrasque can take 3 legendary actions, choosing from the options below. Onl
 
 **Chomp (Costs 2 Actions).** The tarrasque makes one bite attack or uses its Swallow.
 
+# Thug
+
+*Medium humanoid (any race), any non-good alignment*
+
+**Armor Class** 11 (leather armor)
+
+**Hit Points** 32 (5d8 + 10)
+
+**Morale** 7
+
+**Speed** 30 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 15 (+2) | 11 (+0) | 14 (+2) | 10 (+0) | 10 (+0) | 11 (+0) |
+
+**Skills** Intimidation +2
+
+**Senses** passive Perception 10
+
+**Languages** any one language (usually Common)
+
+**Challenge** 1/2 (100 XP)
+
+***Pack Tactics.*** The thug has advantage on an attack roll against a creature if at least one of the thug's allies is within 5 feet of the creature and the ally isn't incapacitated.
+
+## Actions
+
+***Multiattack.*** The thug makes two melee attacks.
+
+***Mace.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 5 (1d6 + 2) bludgeoning damage.
+
+***Heavy Crossbow.*** *Ranged Weapon Attack:* +2 to hit, range 100/400 ft., one target. *Hit:* 5 (1d10) piercing damage.
+
+**Thugs** are ruthless enforcers skilled at intimidation and violence. They work for money and have few scruples.
+
 # Tiger
 
 *Large beast, unaligned*
@@ -7875,6 +8332,36 @@ If the toad dies, a swallowed creature is no longer restrained by it and can esc
 ***Rock.*** *Ranged Weapon Attack:* +10 to hit, range 60/180 ft., one target. *Hit:* 28 (4d10+6) bludgeoning damage.
 
 ***Animate Trees (1/Day).*** The treant magically animates one or two trees it can see within 60 feet of it. These trees have the same statistics as a treant, except they have Intelligence and Charisma scores of 1, they can't speak, and they have only the Slam action option. An animated tree acts as an ally of the treant. The tree remains animate for 1 day or until it dies; until the treant dies or is more than 120 feet from the tree; or until the treant takes a bonus action to turn it back into an inanimate tree. The tree then takes root if possible.
+
+# Tribal Warrior
+
+*Medium humanoid (any race), any alignment*
+
+**Armor Class** 12 (hide armor)
+
+**Hit Points** 11 (2d8 + 2)
+
+**Morale** 8
+
+**Speed** 30 ft.
+
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+|---------|---------|---------|--------|---------|--------|
+| 13 (+1) | 11 (+0) | 12 (+1) | 8 (-1) | 11 (+0) | 8 (-1) |
+
+**Senses** passive Perception 10
+
+**Languages** any one language
+
+**Challenge** 1/8 (25 XP)
+
+***Pack Tactics.*** The warrior has advantage on an attack roll against a creature if at least one of the warrior's allies is within 5 feet of the creature and the ally isn't incapacitated.
+
+## Actions
+
+***Spear.*** *Melee or Ranged Weapon Attack:* +3 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
+
+**Tribal warriors** live beyond civilization, most often subsisting on fishing and hunting. Each tribe acts in accordance with the wishes of its chief, who is the greatest or oldest warrior of the tribe or a tribe member blessed by the gods.
 
 # Troll
 
@@ -8099,6 +8586,42 @@ The vampire can take 3 legendary actions, choosing from the options below. Only 
 ***Claws.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one creature. *Hit:* 8 (2d4+3) slashing damage. Instead of dealing damage, the vampire can grapple the target (escape DC 13).
 
 ***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one willing creature, or a creature that is grappled by the vampire, incapacitated, or restrained. *Hit:* 6 (1d6+3) piercing damage plus 7 (2d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
+
+# Veteran
+
+*Medium humanoid (any race), any alignment*
+
+**Armor Class** 17 (splint)
+
+**Hit Points** 58 (9d8 + 18)
+
+**Morale** 8
+
+**Speed** 30 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 16 (+3) | 13 (+1) | 14 (+2) | 10 (+0) | 11 (+0) | 10 (+0) |
+
+**Skills** Athletics +5, Perception +2
+
+**Senses** passive Perception 12
+
+**Languages** any one language (usually Common)
+
+**Challenge** 3 (700 XP)
+
+## Actions
+
+***Multiattack.*** The veteran makes two longsword attacks. If it has a shortsword drawn, it can also make a shortsword attack.
+
+***Longsword.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.
+
+***Shortsword.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) piercing damage.
+
+***Heavy Crossbow.*** *Ranged Weapon Attack:* +3 to hit, range 100/400 ft., one target. *Hit:* 6 (1d10 + 1) piercing damage.
+
+**Veterans** are professional fighters that take up arms for pay or to protect something they believe in or value. Their ranks include soldiers retired from long service and warriors who never served anyone but themselves
 
 # Vulture
 
@@ -8868,7 +9391,7 @@ If the worm takes 30 damage or more on a single turn from a creature inside it, 
 |---------|--------|---------|--------|--------|--------|
 | 13 (+1) | 6 (-2) | 16 (+3) | 3 (-4) | 6 (-2) | 5 (-3) |
 
-Saving Throws Wis +0
+**Saving Throws** Wis +0
 
 **Damage Immunities** poison
 
