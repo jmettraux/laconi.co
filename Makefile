@@ -5,10 +5,11 @@ LI=-Ilib -rlaconico
 all: md html
 c: all
 
+md_spells:
+	#cat ${SRC}/10.spells.md > mds/spells.md
+	ruby ${LI} -e "make_spells('${SRC}')"
 md_monsters:
 	ruby ${LI} -e "make_monsters('${SRC}')" > mds/monsters.md
-md_spells:
-	cat ${SRC}/10.spells.md > mds/spells.md
 md_classes:
 	ruby ${LI} -e "make_classes('${SRC}')" > mds/classes.md
 md_races:
