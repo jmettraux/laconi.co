@@ -121,14 +121,14 @@ class MonsterHtmlRender < HtmlRender
   end
 end
 
-def make_html(md, render=HtmlRender)
+def make_html(title, md, render=HtmlRender)
 
   c = File.read(File.join('mds', md))
 
   renderer =
     Redcarpet::Markdown.new(render.new({}), { tables: true })
 
-  puts make_html_head('rules')
+  puts make_html_head(title)
   puts renderer.render(c)
   puts make_html_foot
 end
