@@ -19,10 +19,6 @@ md_ogl:
 	tail -52 ${SRC}/legal.md >> mds/ogl.md
 
 md: md_ogl md_races md_classes md_rules md_spells md_monsters
-	cat \
-      mds/races.md mds/classes.md mds/rules.md mds/spells.md mds/monsters.md \
-      mds/ogl.md \
-        > mds/srd.md
 
 html_monsters:
 	ruby ${LI} -e "make_html('Monsters', 'monsters.md', MonsterHtmlRender)" \
@@ -39,7 +35,6 @@ html_ogl:
 	ruby ${LI} -e "make_html('Legal Information', 'ogl.md')" > htmls/ogl.html
 
 html: html_ogl html_races html_classes html_rules html_spells html_monsters
-	ruby ${LI} -e "make_html('SRD', 'srd.md')" > htmls/srd.html
 
 s:
 	ruby -run -ehttpd htmls/ -p7003
