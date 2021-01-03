@@ -1,22 +1,25 @@
 
 # LACONI.CO
 
-A trimmed down and split version of the [Systems Reference Document](https://dnd.wizards.com/articles/features/systems-reference-document-srd).
+<p class="subtitle">A trimmed down and split version of the <a href="https://dnd.wizards.com/articles/features/systems-reference-document-srd">Systems Reference Document</a></p>
 
-## Content
 
-[Races](races.html)
+<a class="major" href="races.html">Races</a>
 
-[Fighter](class_fighter.html)
-[Rogue](class_rogue.html)
-[Wizard](class_wizard.html)
+<a class="major" href="class_fighter.html">Races</a>
+<a class="major" href="class_rogue.html">Rogue</a>
+<a class="major" href="class_wizard.html">Wizard</a>
 
-[Rules](rules.html)
+<a class="major" href="rules.html">Rules</a>
 
-[Spells](spells.html)
+<a class="major" href="spells.html">Spells</a>
 
-[Monsters](monsters.html)
+<a class="major" href="monsters.html">Monsters</a>
 
-[colophon](colophon.html)
-[license](ogl.html)
+
+<br />
+
+<a href="motivation.html">motivation</a>
+<a href="colophon.html">colophon</a>
+<a href="ogl.html">license</a>
 

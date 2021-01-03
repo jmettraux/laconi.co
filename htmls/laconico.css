@@ -1,6 +1,11 @@
 
 /* laconico.css */
 
+#article-laconi-co a.major) {
+  font-size: 120%;
+  line-height: 120%;
+}
+
 th {
   text-align: left;
 }

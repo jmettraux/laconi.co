@@ -39,6 +39,8 @@ html_ogl:
 html_index:
 	ruby ${LI} -e "make_html('laconi.co', 'index.md')" \
       > htmls/index.html
+	ruby ${LI} -e "make_html('laconi.co - motivation', 'motivation.md')" \
+      > htmls/motivation.html
 	ruby ${LI} -e "make_html('laconi.co - colophon', 'colophon.md')" \
       > htmls/colophon.html
 
