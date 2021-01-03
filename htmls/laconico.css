@@ -21,6 +21,9 @@ th {
   border-top: 1px solid lightgrey;
   border-bottom: 1px solid lightgrey;
 }
+#article-monsters h1 {
+  cursor: pointer;
+}
 
 #article-legal-information h1 {
   font-size: 16pt;
