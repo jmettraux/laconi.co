@@ -14,7 +14,7 @@ class HtmlRender < Redcarpet::Render::HTML
     a = []
     t = neutralize_name(title)
 
-    if level == 1 && title.match(/^[A-Z ]+$/)
+    if level == 1 && title.match(/^[A-Z .]+$/)
       a << "\n</section>" if @in_section; @in_section = false
       a << "\n</article>" if @in_article; @in_article = true
       a << "\n<article id=\"article-#{title.downcase.gsub(/ /, '-')}\">"
@@ -131,7 +131,7 @@ def make_html(title, md, render=HtmlRender)
   puts make_html_head(title)
   puts renderer.render(c)
 
-  if md != 'ogl.md'
+  if md != 'ogl.md' && md != 'index.md'
     r = Redcarpet::Markdown.new(HtmlRender.new({}), { tables: true })
     puts
     puts r.render(File.read('mds/ogl.md'))

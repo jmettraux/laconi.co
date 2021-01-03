@@ -34,7 +34,13 @@ html_rules:
 html_ogl:
 	ruby ${LI} -e "make_html('Legal Information', 'ogl.md')" > htmls/ogl.html
 
-html: html_ogl html_races html_classes html_rules html_spells html_monsters
+html_index:
+	ruby ${LI} -e "make_html('laconi.co', 'index.md')" \
+      > htmls/index.html
+	ruby ${LI} -e "make_html('laconi.co - colophon', 'colophon.md')" \
+      > htmls/colophon.html
+
+html: html_index html_ogl html_races html_classes html_rules html_spells html_monsters
 
 s:
 	ruby -run -ehttpd htmls/ -p7003
