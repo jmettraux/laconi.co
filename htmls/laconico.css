@@ -16,10 +16,21 @@ th {
 .monster p.entry > .post-key {
   display: inline-block;
 }
-
 .monster table.abilities {
   padding: 0.14em;
   border-top: 1px solid lightgrey;
   border-bottom: 1px solid lightgrey;
+}
+
+#article-legal-information h1 {
+  font-size: 16pt;
+}
+#article-legal-information h3 {
+  font-size: 14pt;
+}
+#article-legal-information p {
+  margin: 0;
+  font-size: 12pt;
+  line-height: 1.4rem;
 }
 

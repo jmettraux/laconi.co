@@ -130,6 +130,14 @@ def make_html(title, md, render=HtmlRender)
 
   puts make_html_head(title)
   puts renderer.render(c)
+
+  if md != 'ogl.md'
+    r = Redcarpet::Markdown.new(HtmlRender.new({}), { tables: true })
+    puts
+    puts r.render(File.read('mds/ogl.md'))
+    puts
+  end
+
   puts make_html_foot
 end
 
