@@ -7,14 +7,11 @@ def make_races(source_dir)
   puts; puts extract_md_section(races, 1, 'Human')
 end
 
-def make_classes(source_dir)
+def make_class(source_dir, name)
 
   classes = File.read(File.join(source_dir, '02.classes.md'))
 
-  puts; puts extract_md_section(classes, 1, 'CLASSES')
-  puts; puts extract_md_section(classes, 1, 'Fighter')
-  puts; puts extract_md_section(classes, 1, 'Rogue')
-  puts; puts extract_md_section(classes, 1, 'Wizard')
+  puts extract_md_section(classes, 1, name)
 end
 
 def make_rules(source_dir)

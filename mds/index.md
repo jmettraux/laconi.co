@@ -6,9 +6,9 @@
 
 <a class="major" href="races.html">Races</a>
 
-<a class="major" href="class_fighter.html">Races</a>
-<a class="major" href="class_rogue.html">Rogue</a>
-<a class="major" href="class_wizard.html">Wizard</a>
+<a class="major" href="fighter.html">Fighter</a>
+<a class="major" href="rogue.html">Rogue</a>
+<a class="major" href="wizard.html">Wizard</a>
 
 <a class="major" href="rules.html">Rules</a>
 

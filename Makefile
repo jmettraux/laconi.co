@@ -11,7 +11,9 @@ md_spells:
 md_monsters:
 	ruby ${LI} -e "make_monsters('${SRC}')" > mds/monsters.md
 md_classes:
-	ruby ${LI} -e "make_classes('${SRC}')" > mds/classes.md
+	ruby ${LI} -e "make_class('${SRC}', 'Fighter')" > mds/fighter.md
+	ruby ${LI} -e "make_class('${SRC}', 'Rogue')" > mds/rogue.md
+	ruby ${LI} -e "make_class('${SRC}', 'Wizard')" > mds/wizard.md
 md_races:
 	ruby ${LI} -e "make_races('${SRC}')" > mds/races.md
 md_rules:
@@ -28,7 +30,9 @@ html_monsters:
 html_spells:
 	ruby ${LI} -e "make_html('Spells', 'spells.md')" > htmls/spells.html
 html_classes:
-	ruby ${LI} -e "make_html('Classes', 'classes.md')" > htmls/classes.html
+	ruby ${LI} -e "make_html('Fighter', 'fighter.md')" > htmls/fighter.html
+	ruby ${LI} -e "make_html('Rogue', 'rogue.md')" > htmls/rogue.html
+	ruby ${LI} -e "make_html('Wizard', 'wizard.md')" > htmls/wizard.html
 html_races:
 	ruby ${LI} -e "make_html('Races', 'races.md')" > htmls/races.html
 html_rules:
