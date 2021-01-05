@@ -32,7 +32,10 @@ html_monsters:
 	ruby ${LI} -e "make_html('Monsters Statistics', 'monster_statisticss.md')" \
       > htmls/monster_statistics.html
 html_spells:
-	ruby ${LI} -e "make_html('Spells', 'spells.md')" > htmls/spells.html
+	ruby ${LI} -e "make_html('Spell Lists', 'spell_lists.md')" \
+      > htmls/spell_lists.html
+	ruby ${LI} -e "make_html('Spells', 'spells.md')" \
+      > htmls/spells.html
 html_classes:
 	ruby ${LI} -e "make_html('Fighter', 'fighter.md')" > htmls/fighter.html
 	ruby ${LI} -e "make_html('Rogue', 'rogue.md')" > htmls/rogue.html

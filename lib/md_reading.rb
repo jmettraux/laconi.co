@@ -6,8 +6,7 @@ def extract_md_section(path_or_content, level, title)
     path_or_content :
     File.read(path_or_content)
 
-  t = title.sub(/\(/, '\(').sub(/\)/, '\)')
-  i = s.index(/^#{'#' * level} #{t}\n/)
+  i = s.index("#{'#' * level} #{title}\n")
   return nil unless i
 
   j = (1..level)

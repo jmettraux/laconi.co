@@ -90,6 +90,74 @@ Constitution saving throw against the caster's spell save DC or fall unconscious
 
 ***Slam.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6+2) bludgeoning damage.
 
+## Flying Sword
+
+*Small construct, unaligned*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 17 (5d6)
+
+**Speed** 0 ft., fly 50 ft. (hover)
+
+| STR     | DEX     | CON     | INT    | WIS    | CHA    |
+|---------|---------|---------|--------|--------|--------|
+| 12 (+1) | 15 (+2) | 11 (+0) | 1 (-5) | 5 (-3) | 1 (-5) |
+
+**Saving Throws** Dex +4
+
+**Damage Immunities** poison, psychic
+
+**Condition Immunities** blinded, charmed, deafened, frightened, paralyzed, petrified, poisoned
+
+**Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 7
+
+**Languages** -
+
+**Challenge** 1/4 (50 XP)
+
+***Antimagic Susceptibility.*** The sword is incapacitated while in the area of an *antimagic field*. If targeted by *dispel magic*, the sword must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.
+
+***False Appearance.*** While the sword remains motionless and isn't flying, it is indistinguishable from a normal sword.
+
+## Actions
+
+***Longsword.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 5 (1d8+1) slashing damage.
+
+## Rug of Smothering
+
+*Large construct, unaligned*
+
+**Armor Class** 12
+
+**Hit Points** 33 (6d10)
+
+**Speed** 10 ft.
+
+| STR     | DEX     | CON     | INT    | WIS    | CHA    |
+|---------|---------|---------|--------|--------|--------|
+| 17 (+3) | 14 (+2) | 10 (+0) | 1 (-5) | 3 (-4) | 1 (-5) |
+
+**Damage Immunities** poison, psychic
+
+**Condition Immunities** blinded, charmed, deafened, frightened, paralyzed, petrified, poisoned
+
+**Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 6
+
+**Languages** -
+
+**Challenge** 2 (450 XP)
+
+***Antimagic Susceptibility.*** The rug is incapacitated while in the area of an *antimagic field*. If targeted by *dispel magic*, the rug must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.
+
+***Damage Transfer.*** While it is grappling a creature, the rug takes only half the damage dealt to it, and the creature grappled by the rug takes the other half.
+
+***False Appearance.*** While the rug remains motionless, it is indistinguishable from a normal rug.
+
+## Actions
+
+***Smother.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one Medium or smaller creature. *Hit:* The creature is grappled (escape DC 13). Until this grapple ends, the target is restrained, blinded, and at risk of suffocating, and the rug can't smother another target. In addition, at the start of each of the target's turns, the target takes 10 (2d6+3) bludgeoning damage.
+
 # Ape
 
 *Medium beast, unaligned*
@@ -1216,6 +1284,396 @@ In a new form, the couatl retains its game statistics and ability to speak, but 
 
 ***Hurl Flame.*** *Ranged Spell Attack:* +5 to hit, range 150 ft., one target. *Hit:* 10 (3d6) fire damage. If the target is a flammable object that isn't being worn or carried, it also catches fire.
 
+## Bearded Devil
+
+*Medium fiend (devil), lawful evil*
+
+**Armor Class** 13 (natural armor)
+
+**Hit Points** 52 (8d8+16)
+
+**Speed** 30 ft.
+
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+|---------|---------|---------|--------|---------|---------|
+| 16 (+3) | 15 (+2) | 15 (+2) | 9 (-1) | 11 (+0) | 11 (+0) |
+
+**Saving Throws** Str +5, Con +4, Wis +2
+
+**Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+
+**Damage Immunities** fire, poison
+
+**Condition Immunities** poisoned
+
+**Senses** darkvision 120 ft., passive Perception 10
+
+**Languages** Infernal, telepathy 120 ft.
+
+**Challenge** 3 (700 XP)
+
+***Devil's Sight.*** Magical darkness doesn't impede the devil's darkvision.
+
+***Magic Resistance.*** The devil has advantage on saving throws against spells and other magical effects.
+
+***Steadfast.*** The devil can't be frightened while it can see an allied creature within 30 feet of it.
+
+## Actions
+
+***Multiattack.*** The devil makes two attacks: one with its beard and one with its glaive.
+
+***Beard.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* 6 (1d8+2) piercing damage, and the target must succeed on a DC 12 Constitution saving throw or be poisoned for 1 minute. While poisoned in this way, the target can't regain hit points. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+***Glaive.*** *Melee Weapon Attack:* +5 to hit, reach 10 ft., one target. *Hit:* 8 (1d10+3) slashing damage. If the target is a creature other than an undead or a construct, it must succeed on a DC 12 Constitution saving throw or lose 5 (1d10) hit points at the start of each of its turns due to an infernal wound. Each time the devil hits the wounded target with this attack, the damage dealt by the wound increases by 5 (1d10). Any creature can take an action to stanch the wound with a successful DC 12 Wisdom (Medicine) check. The wound also closes if the target receives magical healing.
+
+## Bone Devil
+
+*Large fiend (devil), lawful evil*
+
+**Armor Class** 19 (natural armor)
+
+**Hit Points** 142 (15d10+60)
+
+**Speed** 40 ft., fly 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 18 (+4) | 16 (+3) | 18 (+4) | 13 (+1) | 14 (+2) | 16 (+3) |
+
+**Saving Throws** Int +5, Wis +6, Cha +7
+
+**Skills** Deception +7, Insight +6
+
+**Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+
+**Damage Immunities** fire, poison
+
+**Condition Immunities** poisoned
+
+**Senses** darkvision 120 ft., passive Perception 12
+
+**Languages** Infernal, telepathy 120 ft.
+
+**Challenge** 9 (5,000 XP)
+
+***Devil's Sight.*** Magical darkness doesn't impede the devil's darkvision.
+
+***Magic Resistance.*** The devil has advantage on saving throws against spells and other magical effects.
+
+## Actions
+
+***Multiattack.*** The devil makes three attacks: two with its claws and one with its sting.
+
+***Claw.*** *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 8 (1d8+4) slashing damage.
+
+***Sting.*** *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 13 (2d8+4) piercing damage plus 17 (5d6) poison damage, and the target must succeed on a DC 14 Constitution saving throw or become poisoned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+## Chain Devil
+
+*Medium fiend (devil), lawful evil*
+
+**Armor Class** 16 (natural armor)
+
+**Hit Points** 85 (10d8+40)
+
+**Speed** 30 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 18 (+4) | 15 (+2) | 18 (+4) | 11 (+0) | 12 (+1) | 14 (+2) |
+
+**Saving Throws** Con +7, Wis +4, Cha +5
+
+**Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+
+**Damage Immunities** fire, poison
+
+**Condition Immunities** poisoned
+
+**Senses** darkvision 120 ft., passive Perception 11
+
+**Languages** Infernal, telepathy 120 ft.
+
+**Challenge** 8 (3,900 XP)
+
+***Devil's Sight.*** Magical darkness doesn't impede the devil's darkvision.
+
+***Magic Resistance.*** The devil has advantage on saving throws against spells and other magical effects.
+
+## Actions
+
+***Multiattack.*** The devil makes two attacks with its chains.
+
+***Chain.*** *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 11 (2d6+4) slashing damage. The target is grappled (escape DC 14) if the devil isn't already grappling a creature. Until this grapple ends, the target is restrained and takes 7 (2d6) piercing damage at the start of each of its turns.
+
+***Animate Chains (Recharges after a Short or Long Rest).*** Up to four chains the devil can see within 60 feet of it magically sprout razor-edged barbs and animate under the devil's control, provided that the chains aren't being worn or carried.
+
+Each animated chain is an object with AC 20, 20 hit points, resistance to piercing damage, and immunity to psychic and thunder damage. When the devil uses Multiattack on its turn, it can use each animated chain to make one additional chain attack. An animated chain can grapple one creature of its own but can't make attacks while grappling. An animated chain reverts to its inanimate state if reduced to 0 hit points or if the devil is incapacitated or dies.
+
+## Reactions
+
+***Unnerving Mask.*** When a creature the devil can see starts its turn within 30 feet of the devil, the devil can create the illusion that it looks like one of the creature's departed loved ones or bitter enemies. If the creature can see the devil, it must succeed on a DC 14 Wisdom saving throw or be frightened until the end of its turn.
+
+## Erinyes
+
+*Medium fiend (devil), lawful evil*
+
+**Armor Class** 18 (plate)
+
+**Hit Points** 153 (18d8+72)
+
+**Speed** 30 ft., fly 60 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 18 (+4) | 16 (+3) | 18 (+4) | 14 (+2) | 14 (+2) | 18 (+4) |
+
+**Saving Throws** Dex +7, Con +8, Wis +6, Cha +8
+
+**Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+
+**Damage Immunities** fire, poison
+
+**Condition Immunities** poisoned
+
+**Senses** truesight 120 ft., passive Perception 12
+
+**Languages** Infernal, telepathy 120 ft.
+
+**Challenge** 12 (8,400 XP)
+
+***Hellish Weapons.*** The erinyes's weapon attacks are magical and deal an extra 13 (3d8) poison damage on a hit (included in the attacks).
+
+***Magic Resistance.*** The erinyes has advantage on saving throws against spells and other magical effects.
+
+## Actions
+
+***Multiattack.*** The erinyes makes three attacks.
+
+***Longsword.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 8 (1d8+4) slashing damage, or 9 (1d10+4) slashing damage if used with two hands, plus 13 (3d8) poison damage.
+
+***Longbow.*** *Ranged Weapon Attack:* +7 to hit, range 150/600 ft., one target. *Hit:* 7 (1d8+3) piercing damage plus 13 (3d8) poison damage, and the target must succeed on a DC 14 Constitution saving throw or be poisoned. The poison lasts until it is removed by the *lesser restoration* spell or similar magic.
+
+## Reactions
+
+***Parry.*** The erinyes adds 4 to its AC against one melee attack that would hit it. To do so, the erinyes must see the attacker and be wielding a melee weapon.
+
+## Horned Devil
+
+*Large fiend (devil), lawful evil*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 148 (17d10+55)
+
+**Speed** 20 ft., fly 60 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 22 (+6) | 17 (+3) | 21 (+5) | 12 (+1) | 16 (+3) | 17 (+3) |
+
+**Saving Throws** Str +10, Dex +7, Wis +7, Cha +7
+
+**Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
+
+**Damage Immunities** fire, poison
+
+**Condition Immunities** poisoned
+
+**Senses** darkvision 120 ft., passive Perception 13
+
+**Languages** Infernal, telepathy 120 ft.
+
+**Challenge** 11 (7,200 XP)
+
+***Devil's Sight.*** Magical darkness doesn't impede the devil's darkvision.
+
+***Magic Resistance.*** The devil has advantage on saving throws against spells and other magical effects.
+
+## Actions
+
+***Multiattack.*** The devil makes three melee attacks: two with its fork and one with its tail. It can use Hurl Flame in place of any melee attack.
+
+***Fork.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 15 (2d8+6) piercing damage.
+
+***Tail.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 10 (1d8+6) piercing damage. If the target is a creature other than an undead or a construct, it must succeed on a DC 17 Constitution saving throw or lose 10 (3d6) hit points at the start of each of its turns due to an infernal wound. Each time the devil hits the wounded target with this attack, the damage dealt by the wound increases by 10 (3d6). Any creature can take an action to stanch the wound with a successful DC 12 Wisdom (Medicine) check. The wound also closes if the target receives magical healing.
+
+***Hurl Flame.*** *Ranged Spell Attack:* +7 to hit, range 150 ft., one target. *Hit:* 14 (4d6) fire damage. If the target is a flammable object that isn't being worn or carried, it also catches fire.
+
+## Ice Devil
+
+*Large fiend (devil), lawful evil*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 180 (19d10+76)
+
+**Speed** 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 21 (+5) | 14 (+2) | 18 (+4) | 18 (+4) | 15 (+2) | 18 (+4) |
+
+**Saving Throws** Dex +7, Con +9, Wis +7, Cha +9
+
+**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+
+**Damage Immunities** cold, fire, poison
+
+**Condition Immunities** poisoned
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 12
+
+**Languages** Infernal, telepathy 120 ft.
+
+**Challenge** 14 (11,500 XP)
+
+***Devil's Sight.*** Magical darkness doesn't impede the devil's darkvision.
+
+***Magic Resistance.*** The devil has advantage on saving throws against spells and other magical effects.
+
+## Actions
+
+***Multiattack.*** The devil makes three attacks: one with its bite, one with its claws, and one with its tail.
+
+***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 12 (2d6+5) piercing damage plus 10 (3d6) cold damage.
+
+***Claws.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 10 (2d4+5) slashing damage plus 10 (3d6) cold damage.
+
+***Tail.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 12 (2d6+5) bludgeoning damage plus 10 (3d6) cold damage.
+
+***Wall of Ice (Recharge 6).*** The devil magically forms an opaque wall of ice on a solid surface it can see within 60 feet of it. The wall is 1 foot thick and up to 30 feet long and 10 feet high, or it's a hemispherical dome up to 20 feet in diameter.
+
+When the wall appears, each creature in its space is pushed out of it by the shortest route. The creature chooses which side of the wall to end up on, unless the creature is incapacitated. The creature then makes a DC 17 Dexterity saving throw, taking 35 (10d6) cold damage on a failed save, or half as much damage on a successful one.
+
+The wall lasts for 1 minute or until the devil is incapacitated or dies. The wall can be damaged and breached; each 10-foot section has AC 5, 30 hit points, vulnerability to fire damage, and immunity to acid, cold, necrotic, poison, and psychic damage. If a section is destroyed, it leaves behind a sheet of frigid air in the space the wall occupied. Whenever a creature finishes moving through the frigid air on a turn, willingly or otherwise, the creature must make a DC 17 Constitution saving throw, taking 17 (5d6) cold damage on a failed save, or half as much damage on a successful one. The frigid air dissipates when the rest of the wall vanishes.
+
+## Imp
+
+*Tiny fiend (devil, shapechanger), lawful evil*
+
+**Armor Class** 13
+
+**Hit Points** 10 (3d4+3)
+
+**Speed** 20 ft., fly 40 ft.
+
+| STR    | DEX     | CON     | INT     | WIS     | CHA     |
+|--------|---------|---------|---------|---------|---------|
+| 6 (-2) | 17 (+3) | 13 (+1) | 11 (+0) | 12 (+1) | 14 (+2) |
+
+**Skills** Deception +4, Insight +3, Persuasion +4, Stealth +5
+
+**Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
+
+**Damage Immunities** fire, poison
+
+**Condition Immunities** poisoned
+
+**Senses** darkvision 120 ft., passive Perception 11
+
+**Languages** Infernal, Common
+
+**Challenge** 1 (200 XP)
+
+***Shapechanger.*** The imp can use its action to polymorph into a beast form that resembles a rat (speed 20 ft.), a raven (20 ft., fly 60 ft.), or a spider (20 ft., climb 20 ft.), or back into its true form. Its statistics are the same in each form, except for the speed changes noted. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
+
+***Devil's Sight.*** Magical darkness doesn't impede the imp's darkvision.
+
+***Magic Resistance.*** The imp has advantage on saving throws against spells and other magical effects.
+
+## Actions
+
+***Sting (Bite in Beast Form).*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (1d4+3) piercing damage, and the target must make on a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.
+
+***Invisibility.*** The imp magically turns invisible until it attacks or until its concentration ends (as if concentrating on a spell). Any equipment the imp wears or carries is invisible with it.
+
+## Lemure
+
+*Medium fiend (devil), lawful evil*
+
+**Armor Class** 7
+
+**Hit Points** 13 (3d8)
+
+**Speed** 15 ft.
+
+| STR     | DEX    | CON     | INT    | WIS     | CHA    |
+|---------|--------|---------|--------|---------|--------|
+| 10 (+0) | 5 (-3) | 11 (+0) | 1 (-5) | 11 (+0) | 3 (-4) |
+
+**Damage Resistances** cold
+
+**Damage Immunities** fire, poison
+
+**Condition Immunities** charmed, frightened, poisoned
+
+**Senses** darkvision 120 ft., passive Perception 10
+
+**Languages** understands Infernal but can't speak
+
+**Challenge** 0 (10 XP)
+
+***Devil's Sight.*** Magical darkness doesn't impede the lemure's darkvision.
+
+***Hellish Rejuvenation.*** A lemure that dies in the Nine Hells comes back to life with all its hit points in 1d10 days unless it is killed by a good-aligned creature with a *bless* spell cast on that creature or its remains are sprinkled with holy water.
+
+## Actions
+
+***Fist.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 2 (1d4) bludgeoning damage.
+
+## Pit Fiend
+
+*Large fiend (devil), lawful evil*
+
+**Armor Class** 19 (natural armor)
+
+**Hit Points** 300 (24d10+168)
+
+**Speed** 30 ft., fly 60 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 26 (+8) | 14 (+2) | 24 (+7) | 22 (+6) | 18 (+4) | 24 (+7) |
+
+**Saving Throws** Dex +8, Con +13, Wis +10
+
+**Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+
+**Damage Immunities** fire, poison
+
+**Condition Immunities** poisoned
+
+**Senses** truesight 120 ft., passive Perception 14
+
+**Languages** Infernal, telepathy 120 ft.
+
+**Challenge** 20 (25,000 XP)
+
+***Fear Aura.*** Any creature hostile to the pit fiend that starts its turn within 20 feet of the pit fiend must make a DC 21 Wisdom saving throw, unless the pit fiend is incapacitated. On a failed save, the creature is frightened until the start of its next turn. If a creature's saving throw is successful, the creature is immune to the pit fiend's Fear Aura for the next 24 hours.
+
+***Magic Resistance.*** The pit fiend has advantage on saving throws against spells and other magical effects.
+
+***Magic Weapons.*** The pit fiend's weapon attacks are magical.
+
+***Innate Spellcasting.*** The pit fiend's spellcasting ability is Charisma (spell save DC 21). The pit fiend can innately cast the following spells, requiring no material Components
+
+At will: *detect magic*, *fireball*
+
+3/day each: *hold monster*, *wall of fire*
+
+## Actions
+
+***Multiattack.*** The pit fiend makes four attacks: one with its bite, one with its claw, one with its mace, and one with its tail.
+
+***Bite.*** *Melee Weapon Attack:* +14 to hit, reach 5 ft., one target. *Hit:* 22 (4d6+8) piercing damage. The target must succeed on a DC 21 Constitution saving throw or become poisoned. While poisoned in this way, the target can't regain hit points, and it takes 21 (6d6) poison damage at the start of each of its turns. The poisoned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+***Claw.*** *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 17 (2d8+8) slashing damage.
+
+***Mace.*** *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 15 (2d6+8) bludgeoning damage plus 21 (6d6) fire damage.
+
+***Tail.*** *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 24 (3d10+8) bludgeoning damage.
+
 # Devil, Horned
 
 *Large fiend (devil), lawful evil*
@@ -1259,6 +1717,180 @@ In a new form, the couatl retains its game statistics and ability to speak, but 
 ***Tail.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 10 (1d8+6) piercing damage. If the target is a creature other than an undead or a construct, it must succeed on a DC 17 Constitution saving throw or lose 10 (3d6) hit points at the start of each of its turns due to an infernal wound. Each time the devil hits the wounded target with this attack, the damage dealt by the wound increases by 10 (3d6). Any creature can take an action to stanch the wound with a successful DC 12 Wisdom (Medicine) check. The wound also closes if the target receives magical healing.
 
 ***Hurl Flame.*** *Ranged Spell Attack:* +7 to hit, range 150 ft., one target. *Hit:* 14 (4d6) fire damage. If the target is a flammable object that isn't being worn or carried, it also catches fire.
+
+## Ice Devil
+
+*Large fiend (devil), lawful evil*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 180 (19d10+76)
+
+**Speed** 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 21 (+5) | 14 (+2) | 18 (+4) | 18 (+4) | 15 (+2) | 18 (+4) |
+
+**Saving Throws** Dex +7, Con +9, Wis +7, Cha +9
+
+**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+
+**Damage Immunities** cold, fire, poison
+
+**Condition Immunities** poisoned
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 12
+
+**Languages** Infernal, telepathy 120 ft.
+
+**Challenge** 14 (11,500 XP)
+
+***Devil's Sight.*** Magical darkness doesn't impede the devil's darkvision.
+
+***Magic Resistance.*** The devil has advantage on saving throws against spells and other magical effects.
+
+## Actions
+
+***Multiattack.*** The devil makes three attacks: one with its bite, one with its claws, and one with its tail.
+
+***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 12 (2d6+5) piercing damage plus 10 (3d6) cold damage.
+
+***Claws.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 10 (2d4+5) slashing damage plus 10 (3d6) cold damage.
+
+***Tail.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 12 (2d6+5) bludgeoning damage plus 10 (3d6) cold damage.
+
+***Wall of Ice (Recharge 6).*** The devil magically forms an opaque wall of ice on a solid surface it can see within 60 feet of it. The wall is 1 foot thick and up to 30 feet long and 10 feet high, or it's a hemispherical dome up to 20 feet in diameter.
+
+When the wall appears, each creature in its space is pushed out of it by the shortest route. The creature chooses which side of the wall to end up on, unless the creature is incapacitated. The creature then makes a DC 17 Dexterity saving throw, taking 35 (10d6) cold damage on a failed save, or half as much damage on a successful one.
+
+The wall lasts for 1 minute or until the devil is incapacitated or dies. The wall can be damaged and breached; each 10-foot section has AC 5, 30 hit points, vulnerability to fire damage, and immunity to acid, cold, necrotic, poison, and psychic damage. If a section is destroyed, it leaves behind a sheet of frigid air in the space the wall occupied. Whenever a creature finishes moving through the frigid air on a turn, willingly or otherwise, the creature must make a DC 17 Constitution saving throw, taking 17 (5d6) cold damage on a failed save, or half as much damage on a successful one. The frigid air dissipates when the rest of the wall vanishes.
+
+## Imp
+
+*Tiny fiend (devil, shapechanger), lawful evil*
+
+**Armor Class** 13
+
+**Hit Points** 10 (3d4+3)
+
+**Speed** 20 ft., fly 40 ft.
+
+| STR    | DEX     | CON     | INT     | WIS     | CHA     |
+|--------|---------|---------|---------|---------|---------|
+| 6 (-2) | 17 (+3) | 13 (+1) | 11 (+0) | 12 (+1) | 14 (+2) |
+
+**Skills** Deception +4, Insight +3, Persuasion +4, Stealth +5
+
+**Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
+
+**Damage Immunities** fire, poison
+
+**Condition Immunities** poisoned
+
+**Senses** darkvision 120 ft., passive Perception 11
+
+**Languages** Infernal, Common
+
+**Challenge** 1 (200 XP)
+
+***Shapechanger.*** The imp can use its action to polymorph into a beast form that resembles a rat (speed 20 ft.), a raven (20 ft., fly 60 ft.), or a spider (20 ft., climb 20 ft.), or back into its true form. Its statistics are the same in each form, except for the speed changes noted. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
+
+***Devil's Sight.*** Magical darkness doesn't impede the imp's darkvision.
+
+***Magic Resistance.*** The imp has advantage on saving throws against spells and other magical effects.
+
+## Actions
+
+***Sting (Bite in Beast Form).*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (1d4+3) piercing damage, and the target must make on a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.
+
+***Invisibility.*** The imp magically turns invisible until it attacks or until its concentration ends (as if concentrating on a spell). Any equipment the imp wears or carries is invisible with it.
+
+## Lemure
+
+*Medium fiend (devil), lawful evil*
+
+**Armor Class** 7
+
+**Hit Points** 13 (3d8)
+
+**Speed** 15 ft.
+
+| STR     | DEX    | CON     | INT    | WIS     | CHA    |
+|---------|--------|---------|--------|---------|--------|
+| 10 (+0) | 5 (-3) | 11 (+0) | 1 (-5) | 11 (+0) | 3 (-4) |
+
+**Damage Resistances** cold
+
+**Damage Immunities** fire, poison
+
+**Condition Immunities** charmed, frightened, poisoned
+
+**Senses** darkvision 120 ft., passive Perception 10
+
+**Languages** understands Infernal but can't speak
+
+**Challenge** 0 (10 XP)
+
+***Devil's Sight.*** Magical darkness doesn't impede the lemure's darkvision.
+
+***Hellish Rejuvenation.*** A lemure that dies in the Nine Hells comes back to life with all its hit points in 1d10 days unless it is killed by a good-aligned creature with a *bless* spell cast on that creature or its remains are sprinkled with holy water.
+
+## Actions
+
+***Fist.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 2 (1d4) bludgeoning damage.
+
+## Pit Fiend
+
+*Large fiend (devil), lawful evil*
+
+**Armor Class** 19 (natural armor)
+
+**Hit Points** 300 (24d10+168)
+
+**Speed** 30 ft., fly 60 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 26 (+8) | 14 (+2) | 24 (+7) | 22 (+6) | 18 (+4) | 24 (+7) |
+
+**Saving Throws** Dex +8, Con +13, Wis +10
+
+**Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+
+**Damage Immunities** fire, poison
+
+**Condition Immunities** poisoned
+
+**Senses** truesight 120 ft., passive Perception 14
+
+**Languages** Infernal, telepathy 120 ft.
+
+**Challenge** 20 (25,000 XP)
+
+***Fear Aura.*** Any creature hostile to the pit fiend that starts its turn within 20 feet of the pit fiend must make a DC 21 Wisdom saving throw, unless the pit fiend is incapacitated. On a failed save, the creature is frightened until the start of its next turn. If a creature's saving throw is successful, the creature is immune to the pit fiend's Fear Aura for the next 24 hours.
+
+***Magic Resistance.*** The pit fiend has advantage on saving throws against spells and other magical effects.
+
+***Magic Weapons.*** The pit fiend's weapon attacks are magical.
+
+***Innate Spellcasting.*** The pit fiend's spellcasting ability is Charisma (spell save DC 21). The pit fiend can innately cast the following spells, requiring no material Components
+
+At will: *detect magic*, *fireball*
+
+3/day each: *hold monster*, *wall of fire*
+
+## Actions
+
+***Multiattack.*** The pit fiend makes four attacks: one with its bite, one with its claw, one with its mace, and one with its tail.
+
+***Bite.*** *Melee Weapon Attack:* +14 to hit, reach 5 ft., one target. *Hit:* 22 (4d6+8) piercing damage. The target must succeed on a DC 21 Constitution saving throw or become poisoned. While poisoned in this way, the target can't regain hit points, and it takes 21 (6d6) poison damage at the start of each of its turns. The poisoned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+***Claw.*** *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 17 (2d8+8) slashing damage.
+
+***Mace.*** *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 15 (2d6+8) bludgeoning damage plus 21 (6d6) fire damage.
+
+***Tail.*** *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 24 (3d10+8) bludgeoning damage.
 
 # Djinni
 
@@ -1305,6 +1937,48 @@ At will: *detect evil and good*, *detect magic*, *thunderwave*
 ***Create Whirlwind.*** A 5-foot radius, 30-foot tall cylinder of swirling air magically forms on a point the djinni can see within 120 feet of it. The whirlwind lasts as long as the djinni maintains concentration (as if concentrating on a spell). Any creature but the djinni that enters the whirlwind must succeed on a DC 18 Strength saving throw or be restrained by it. The djinni can move the whirlwind up to 60 feet as an action, and creatures restrained by the whirlwind move with it. The whirlwind ends if the djinni loses sight of it.
 
 A creature can use its action to free a creature restrained by the whirlwind, including itself, by succeeding on a DC 18 Strength check. If the check succeeds, the creature is no longer restrained and moves to the nearest space outside the whirlwind.
+
+## Efreeti
+
+*Large elemental, lawful evil*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 200 (16d10+112)
+
+**Speed** 40 ft., fly 60 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 22 (+6) | 12 (+1) | 24 (+7) | 16 (+3) | 15 (+2) | 16 (+3) |
+
+**Saving Throws** Int +7, Wis +6, Cha +7
+
+**Damage Immunities** fire
+
+**Senses** darkvision 120 ft., passive Perception 12
+
+**Languages** Ignan
+
+**Challenge** 11 (7,200 XP)
+
+***Elemental Demise.*** If the efreeti dies, its body disintegrates in a flash of fire and puff of smoke, leaving behind only equipment the efreeti was wearing or carrying.
+
+***Innate Spellcasting.*** The efreeti's innate spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). It can innately cast the following spells, requiring no material Components
+
+At will: *detect magic*
+
+3/day each: *enlarge/reduce*, *tongues*
+
+1/day each: *conjure elemental* (fire elemental only), *gaseous form*, *invisibility*, *major image*, *plane shift*, *wall of fire*
+
+## Actions
+
+***Multiattack.*** The efreeti makes two scimitar attacks or uses its Hurl Flame twice.
+
+***Scimitar.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage plus 7 (2d6) fire damage.
+
+***Hurl Flame.*** *Ranged Spell Attack:* +7 to hit, range 120 ft., one target. *Hit:* 17 (5d6) fire damage.
 
 # Draft Horse
 
@@ -1388,6 +2062,795 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6+6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
+## Young Black Dragon
+
+*Large dragon, chaotic evil*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 127 (15d10+45)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 19 (+4) | 14 (+2) | 17 (+3) | 12 (+1) | 11 (+0) | 15 (+2) |
+
+**Saving Throws** Dex +5, Con +6, Wis +3, Cha +5
+
+**Skills** Perception +6, Stealth +5
+
+**Damage Immunities** acid
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 16
+
+**Languages** Common, Draconic
+
+**Challenge** 7 (2,900 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 15 (2d10+4) piercing damage plus 4 (1d8) acid damage.
+
+***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6+4) slashing damage.
+
+***Acid Breath (Recharge 5-6).*** The dragon exhales acid in a 30-foot line that is 5 feet wide. Each creature in that line must make a DC 14 Dexterity saving throw, taking 49 (11d8) acid damage on a failed save, or half as much damage on a successful one.
+
+## Black Dragon Wyrmling
+
+*Medium dragon, chaotic evil*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 33 (6d8+6)
+
+**Speed** 30 ft., fly 60 ft., swim 30 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 15 (+2) | 14 (+2) | 13 (+1) | 10 (+0) | 11 (+0) | 13 (+1) |
+
+**Saving Throws** Dex +4, Con +3, Wis +2, Cha +3
+
+**Skills** Perception +4, Stealth +4
+
+**Damage Immunities** acid
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 2 (450 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10+2) piercing damage plus 2 (1d4) acid damage.
+
+***Acid Breath (Recharge 5-6).*** The dragon exhales acid in a 15-foot line that is 5 feet wide. Each creature in that line must make a DC 11 Dexterity saving throw, taking 22 (5d8) acid damage on a failed save, or half as much damage on a successful one.
+
+## Blue Dragon
+
+## Ancient Blue Dragon
+
+*Gargantuan dragon, lawful evil*
+
+**Armor Class** 22 (natural armor)
+
+**Hit Points** 481 (26d20+208)
+
+**Speed** 40 ft., burrow 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 29 (+9) | 10 (+0) | 27 (+8) | 18 (+4) | 17 (+3) | 21 (+5) |
+
+**Saving Throws** Dex +7, Con +15, Wis +10, Cha +12
+
+**Skills** Perception +17, Stealth +7
+
+**Damage Immunities** lightning
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 27
+
+**Languages** Common, Draconic
+
+**Challenge** 23 (50,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +16 to hit, reach 15 ft., one target. *Hit:* 20 (2d10+9) piercing damage plus 11 (2d10) lightning damage.
+
+***Claw.*** *Melee Weapon Attack:* +16 to hit, reach 10 ft., one target. *Hit:* 16 (2d6+9) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +16 to hit, reach 20 ft., one target. *Hit:* 18 (2d8+9) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 20 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Lightning Breath (Recharge 5-6).*** The dragon exhales lightning in a 120-foot line that is 10 feet wide. Each creature in that line must make a DC 23 Dexterity saving throw, taking 88 (16d10) lightning damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 24 Dexterity saving throw or take 16 (2d6+9) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Adult Blue Dragon
+
+*Huge dragon, lawful evil*
+
+**Armor Class** 19 (natural armor)
+
+**Hit Points** 225 (18d12+108)
+
+**Speed** 40 ft., burrow 30 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 25 (+7) | 10 (+0) | 23 (+6) | 16 (+3) | 15 (+2) | 19 (+4) |
+
+**Saving Throws** Dex +5, Con +11, Wis +7, Cha +9
+
+**Skills** Perception +12, Stealth +5
+
+**Damage Immunities** lightning
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 22
+
+**Languages** Common, Draconic
+
+**Challenge** 16 (15,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +12 to hit, reach 10 ft., one target. *Hit:* 18 (2d10+7) piercing damage plus 5 (1d10) lightning damage.
+
+***Claw.*** *Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:* 14 (2d6+7) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +12 to hit, reach 15 ft., one target. *Hit:* 16 (2d8+7) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 17 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Lightning Breath (Recharge 5-6).*** The dragon exhales lightning in a 90-foot line that is 5 feet wide. Each creature in that line must make a DC 19 Dexterity saving throw, taking 66 (12d10) lightning damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 20 Dexterity saving throw or take 14 (2d6+7) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young Blue Dragon
+
+*Large dragon, lawful evil*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 152 (16d10+64)
+
+**Speed** 40 ft., burrow 20 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 21 (+5) | 10 (+0) | 19 (+4) | 14 (+2) | 13 (+1) | 17 (+3) |
+
+**Saving Throws** Dex +4, Con +8, Wis +5, Cha +7
+
+**Skills** Perception +9, Stealth +4
+
+**Damage Immunities** lightning
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 19
+
+**Languages** Common, Draconic
+
+**Challenge** 9 (5,000 XP)
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 16 (2d10+5) piercing damage plus 5 (1d10) lightning damage.
+
+***Claw.*** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 12 (2d6+5) slashing damage.
+
+***Lightning Breath (Recharge 5-6).*** The dragon exhales lightning in an 60-foot line that is 5 feet wide. Each creature in that line must make a DC 16 Dexterity saving throw, taking 55 (10d10) lightning damage on a failed save, or half as much damage on a successful one.
+
+## Blue Dragon Wyrmling
+
+*Medium dragon, lawful evil*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 52 (8d8+16)
+
+**Speed** 30 ft., burrow 15 ft., fly 60 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 17 (+3) | 10 (+0) | 15 (+2) | 12 (+1) | 11 (+0) | 15 (+2) |
+
+**Saving Throws** Dex +2, Con +4, Wis +2, Cha +4
+
+**Skills** Perception +4, Stealth +2
+
+**Damage Immunities** lightning
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 3 (700 XP)
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (1d10+3) piercing damage plus 3 (1d6) lightning damage.
+
+***Lightning Breath (Recharge 5-6).*** The dragon exhales lightning in a 30-foot line that is 5 feet wide. Each creature in that line must make a DC 12 Dexterity saving throw, taking 22 (4d10) lightning damage on a failed save, or half as much damage on a successful one.
+
+## Green Dragon
+
+## Ancient Green Dragon
+
+*Gargantuan dragon, lawful evil*
+
+**Armor Class** 21 (natural armor)
+
+**Hit Points** 385 (22d20 + 154)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 27 (+8) | 12 (+1) | 25 (+7) | 20 (+5) | 17 (+3) | 19 (+4) |
+
+**Saving Throws** Dex +8, Con +14, Wis +10, Cha +11
+
+**Skills** Deception +11, Insight +10, Perception +17, Persuasion +11, Stealth +8
+
+**Damage Immunities** poison
+
+**Condition Immunities** poisoned
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 27
+
+**Languages** Common, Draconic
+
+**Challenge** 22 (41,000 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +15 to hit, reach 15 ft., one target. *Hit:* 19 (2d10+8) piercing damage plus 10 (3d6) poison damage.
+
+***Claw.*** *Melee Weapon Attack:* +15 to hit, reach 10 ft., one target. *Hit:* 22 (4d6+8) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +15 to hit, reach 20 ft., one target. *Hit:* 17 (2d8+8) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 19 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Poison Breath (Recharge 5-6).*** The dragon exhales poisonous gas in a 90-foot cone. Each creature in that area must make a DC 22 Constitution saving throw, taking 77 (22d6) poison damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 23 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+
+## Adult Green Dragon
+
+*Huge dragon, lawful evil*
+
+**Armor Class** 19 (natural armor)
+
+**Hit Points** 207 (18d12+90)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 23 (+6) | 12 (+1) | 21 (+5) | 18 (+4) | 15 (+2) | 17 (+3) |
+
+**Saving Throws** Dex +6, Con +10, Wis +7, Cha +8
+
+**Skills** Deception +8, Insight +7, Perception +12, Persuasion +8, Stealth +6
+
+**Damage Immunities** poison
+
+**Condition Immunities** poisoned
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 22
+
+**Languages** Common, Draconic
+
+**Challenge** 15 (13,000 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage plus 7 (2d6) poison damage.
+
+***Claw.*** *Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +11 to hit, reach 15 ft., one target. *Hit:* 15 (2d8+6) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Poison Breath (Recharge 5-6).*** The dragon exhales poisonous gas in a 60-foot cone. Each creature in that area must make a DC 18 Constitution saving throw, taking 56 (16d6) poison damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6+6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young Green Dragon
+
+*Large dragon, lawful evil*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 136 (16d10+48)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 19 (+4) | 12 (+1) | 17 (+3) | 16 (+3) | 13 (+1) | 15 (+2) |
+
+**Saving Throws** Dex +4, Con +6, Wis +4, Cha +5
+
+**Skills** Deception +5, Perception +7, Stealth +4
+
+**Damage Immunities** poison
+
+**Condition Immunities** poisoned
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 17
+
+**Languages** Common, Draconic
+
+**Challenge** 8 (3,900 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 15 (2d10+4) piercing damage plus 7 (2d6) poison damage.
+
+***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6+4) slashing damage.
+
+***Poison Breath (Recharge 5-6).*** The dragon exhales poisonous gas in a 30-foot cone. Each creature in that area must make a DC 14 Constitution saving throw, taking 42 (12d6) poison damage on a failed save, or half as much damage on a successful one.
+
+## Green Dragon Wyrmling
+
+*Medium dragon, lawful evil*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 38 (7d8+7)
+
+**Speed** 30 ft., fly 60 ft., swim 30 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 15 (+2) | 12 (+1) | 13 (+1) | 14 (+2) | 11 (+0) | 13 (+1) |
+
+**Saving Throws** Dex +3, Con +3, Wis +2, Cha +3
+
+**Skills** Perception +4, Stealth +3
+
+**Damage Immunities** poison
+
+**Condition Immunities** poisoned
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 2 (450 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10+2) piercing damage plus 3 (1d6) poison damage.
+
+***Poison Breath (Recharge 5-6).*** The dragon exhales poisonous gas in a 15-foot cone. Each creature in that area must make a DC 11 Constitution saving throw, taking 21 (6d6) poison damage on a failed save, or half as much damage on a successful one.
+
+## Red Dragon
+
+## Ancient Red Dragon
+
+*Gargantuan dragon, chaotic evil*
+
+**Armor Class** 22 (natural armor)
+
+**Hit Points** 546 (28d20+252)
+
+**Speed** 40 ft., climb 40 ft., fly 80 ft.
+
+| STR      | DEX     | CON     | INT     | WIS     | CHA     |
+|----------|---------|---------|---------|---------|---------|
+| 30 (+10) | 10 (+0) | 29 (+9) | 18 (+4) | 15 (+2) | 23 (+6) |
+
+**Saving Throws** Dex +7, Con +16, Wis +9, Cha +13
+
+**Skills** Perception +16, Stealth +7
+
+**Damage Immunities** fire
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 26
+
+**Languages** Common, Draconic
+
+**Challenge** 24 (62,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +17 to hit, reach 15 ft., one target. *Hit:* 21 (2d10+10) piercing damage plus 14 (4d6) fire damage.
+
+***Claw.*** *Melee Weapon Attack:* +17 to hit, reach 10 ft., one target. *Hit:* 17 (2d6+10) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +17 to hit, reach 20 ft., one target. *Hit:* 19 (2d8+10) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 21 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Fire Breath (Recharge 5-6).*** The dragon exhales fire in a 90-foot cone. Each creature in that area must make a DC 24 Dexterity saving throw, taking 91 (26d6) fire damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6+10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Adult Red Dragon
+
+*Huge dragon, chaotic evil*
+
+**Armor Class** 19 (natural armor)
+
+**Hit Points** 256 (19d12+133)
+
+**Speed** 40 ft., climb 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 27 (+8) | 10 (+0) | 25 (+7) | 16 (+3) | 13 (+1) | 21 (+5) |
+
+**Saving Throws** Dex +6, Con +13, Wis +7, Cha +11
+
+**Skills** Perception +13, Stealth +6
+
+**Damage Immunities** fire
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 23
+
+**Languages** Common, Draconic
+
+**Challenge** 17 (18,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 19 (2d10+8) piercing damage plus 7 (2d6) fire damage.
+
+***Claw.*** *Melee Weapon Attack:* +14 to hit, reach 5 ft., one target. *Hit:* 15 (2d6+8) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +14 to hit, reach 15 ft., one target. *Hit:* 17 (2d8+8) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 19 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Fire Breath (Recharge 5-6).*** The dragon exhales fire in a 60-foot cone. Each creature in that area must make a DC 21 Dexterity saving throw, taking 63 (18d6) fire damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young Red Dragon
+
+Large dragon, chaotic evil
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 178 (17d10+85)
+
+**Speed** 40 ft., climb 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 23 (+6) | 10 (+0) | 21 (+5) | 14 (+2) | 11 (+0) | 19 (+4) |
+
+**Saving Throws** Dex +4, Con +9, Wis +4, Cha +8
+
+**Skills** Perception +8, Stealth +4
+
+**Damage Immunities** fire
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 18
+
+**Languages** Common, Draconic
+
+**Challenge** 10 (5,900 XP)
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage plus 3 (1d6) fire damage.
+
+***Claw.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Fire Breath (Recharge 5-6).*** The dragon exhales fire in a 30-foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 56 (16d6) fire damage on a failed save, or half as much damage on a successful one.
+
+## Red Dragon Wyrmling
+
+*Medium dragon, chaotic evil*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 75 (10d8+30)
+
+**Speed** 30 ft., climb 30 ft., fly 60 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 19 (+4) | 10 (+0) | 17 (+3) | 12 (+1) | 11 (+0) | 15 (+2) |
+
+**Saving Throws** Dex +2, Con +5, Wis +2, Cha +4
+
+**Skills** Perception +4, Stealth +2
+
+**Damage Immunities** fire
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 4 (1,100 XP)
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (1d10+4) piercing damage plus 3 (1d6) fire damage.
+
+***Fire Breath (Recharge 5-6).*** The dragon exhales fire in a 15-foot cone. Each creature in that area must make a DC 13 Dexterity saving throw, taking 24 (7d6) fire damage on a failed save, or half as much damage on a successful one.
+
+## White Dragon
+
+## Ancient White Dragon
+
+*Gargantuan dragon, chaotic evil*
+
+**Armor Class** 20 (natural armor)
+
+**Hit Points** 333 (18d20+144)
+
+**Speed** 40 ft., burrow 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 26 (+8) | 10 (+0) | 26 (+8) | 10 (+0) | 13 (+1) | 14 (+2) |
+
+**Saving Throws** Dex +6, Con +14, Wis +7, Cha +8
+
+**Skills** Perception +13, Stealth +6
+
+**Damage Immunities** cold
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 23
+
+**Languages** Common, Draconic
+
+**Challenge** 20 (25,000 XP)
+
+***Ice Walk.*** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +14 to hit, reach 15 ft., one target. *Hit:* 19 (2d10+8) piercing damage plus 9 (2d8) cold damage.
+
+***Claw.*** *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 15 (2d6+8) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +14 to hit, reach 20 ft., one target. *Hit:* 17 (2d8+8) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast in a 90-foot cone. Each creature in that area must make a DC 22 Constitution saving throw, taking 72 (16d8) cold damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Adult White Dragon
+
+*Huge dragon, chaotic evil*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 200 (16d12+96)
+
+**Speed** 40 ft., burrow 30 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+|---------|---------|---------|--------|---------|---------|
+| 22 (+6) | 10 (+0) | 22 (+6) | 8 (-1) | 12 (+1) | 12 (+1) |
+
+**Saving Throws** Dex +5, Con +11, Wis +6, Cha +6
+
+**Skills** Perception +11, Stealth +5
+
+**Damage Immunities** cold
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 21
+
+**Languages** Common, Draconic
+
+**Challenge** 13 (10,000 XP)
+
+***Ice Walk.*** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage plus 4 (1d8) cold damage.
+
+***Claw.*** *Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +11 to hit, reach 15 ft., one target. *Hit:* 15 (2d8+6) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 14 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast in a 60-foot cone. Each creature in that area must make a DC 19 Constitution saving throw, taking 54 (12d8) cold damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6+6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young White Dragon
+
+*Large dragon, chaotic evil*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 133 (14d10+56)
+
+**Speed** 40 ft., burrow 20 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+|---------|---------|---------|--------|---------|---------|
+| 18 (+4) | 10 (+0) | 18 (+4) | 6 (-2) | 11 (+0) | 12 (+1) |
+
+**Saving Throws** Dex +3, Con +7, Wis +3, Cha +4
+
+**Skills** Perception +6, Stealth +3
+
+**Damage Immunities** cold
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 16
+
+**Languages** Common, Draconic
+
+**Challenge** 6 (2,300 XP)
+
+***Ice Walk.*** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 15 (2d10+4) piercing damage plus 4 (1d8) cold damage.
+
+***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6+4) slashing damage.
+
+***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast in a 30-foot cone. Each creature in that area must make a DC 15 Constitution saving throw, taking 45 (10d8) cold damage on a failed save, or half as much damage on a successful one.
+
+## White Dragon Wyrmling
+
+*Medium dragon, chaotic evil*
+
+**Armor Class** 16 (natural armor)
+
+**Hit Points** 32 (5d8+10)
+
+**Speed** 30 ft., burrow 15 ft., fly 60 ft., swim 30 ft.
+
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+|---------|---------|---------|--------|---------|---------|
+| 14 (+2) | 10 (+0) | 14 (+2) | 5 (-3) | 10 (+0) | 11 (+0) |
+
+**Saving Throws** Dex +2, Con +4, Wis +2, Cha +2
+
+**Skills** Perception +4, Stealth +2
+
+**Damage Immunities** cold
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 2 (450 XP)
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10+2) piercing damage plus 2 (1d4) cold damage.
+
+***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast of hail in a 15-foot cone. Each creature in that area must make a DC 12 Constitution saving throw, taking 22 (5d8) cold damage on a failed save, or half as much damage on a successful one.
+
 # Dragon Black Ancient
 
 *Gargantuan dragon, chaotic evil*
@@ -1444,6 +2907,849 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 23 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
+## Adult Black Dragon
+
+*Huge dragon, chaotic evil*
+
+**Armor Class** 19 (natural armor)
+
+**Hit Points** 195 (17d12+85)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 23 (+6) | 14 (+2) | 21 (+5) | 14 (+2) | 13 (+1) | 17 (+3) |
+
+**Saving Throws** Dex +7, Con +10, Wis +6, Cha +8
+
+**Skills** Perception +11, Stealth +7
+
+**Damage Immunities** acid
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 21
+
+**Languages** Common, Draconic
+
+**Challenge** 14 (11,500 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage plus 4 (1d8) acid damage.
+
+***Claw.*** *Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +11 to hit, reach 15 ft., one target. *Hit:* 15 (2d8+6) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Acid Breath (Recharge 5-6).*** The dragon exhales acid in a 60-foot line that is 5 feet wide. Each creature in that line must make a DC 18 Dexterity saving throw, taking 54 (12d8) acid damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6+6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young Black Dragon
+
+*Large dragon, chaotic evil*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 127 (15d10+45)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 19 (+4) | 14 (+2) | 17 (+3) | 12 (+1) | 11 (+0) | 15 (+2) |
+
+**Saving Throws** Dex +5, Con +6, Wis +3, Cha +5
+
+**Skills** Perception +6, Stealth +5
+
+**Damage Immunities** acid
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 16
+
+**Languages** Common, Draconic
+
+**Challenge** 7 (2,900 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 15 (2d10+4) piercing damage plus 4 (1d8) acid damage.
+
+***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6+4) slashing damage.
+
+***Acid Breath (Recharge 5-6).*** The dragon exhales acid in a 30-foot line that is 5 feet wide. Each creature in that line must make a DC 14 Dexterity saving throw, taking 49 (11d8) acid damage on a failed save, or half as much damage on a successful one.
+
+## Black Dragon Wyrmling
+
+*Medium dragon, chaotic evil*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 33 (6d8+6)
+
+**Speed** 30 ft., fly 60 ft., swim 30 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 15 (+2) | 14 (+2) | 13 (+1) | 10 (+0) | 11 (+0) | 13 (+1) |
+
+**Saving Throws** Dex +4, Con +3, Wis +2, Cha +3
+
+**Skills** Perception +4, Stealth +4
+
+**Damage Immunities** acid
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 2 (450 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10+2) piercing damage plus 2 (1d4) acid damage.
+
+***Acid Breath (Recharge 5-6).*** The dragon exhales acid in a 15-foot line that is 5 feet wide. Each creature in that line must make a DC 11 Dexterity saving throw, taking 22 (5d8) acid damage on a failed save, or half as much damage on a successful one.
+
+## Blue Dragon
+
+## Ancient Blue Dragon
+
+*Gargantuan dragon, lawful evil*
+
+**Armor Class** 22 (natural armor)
+
+**Hit Points** 481 (26d20+208)
+
+**Speed** 40 ft., burrow 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 29 (+9) | 10 (+0) | 27 (+8) | 18 (+4) | 17 (+3) | 21 (+5) |
+
+**Saving Throws** Dex +7, Con +15, Wis +10, Cha +12
+
+**Skills** Perception +17, Stealth +7
+
+**Damage Immunities** lightning
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 27
+
+**Languages** Common, Draconic
+
+**Challenge** 23 (50,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +16 to hit, reach 15 ft., one target. *Hit:* 20 (2d10+9) piercing damage plus 11 (2d10) lightning damage.
+
+***Claw.*** *Melee Weapon Attack:* +16 to hit, reach 10 ft., one target. *Hit:* 16 (2d6+9) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +16 to hit, reach 20 ft., one target. *Hit:* 18 (2d8+9) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 20 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Lightning Breath (Recharge 5-6).*** The dragon exhales lightning in a 120-foot line that is 10 feet wide. Each creature in that line must make a DC 23 Dexterity saving throw, taking 88 (16d10) lightning damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 24 Dexterity saving throw or take 16 (2d6+9) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Adult Blue Dragon
+
+*Huge dragon, lawful evil*
+
+**Armor Class** 19 (natural armor)
+
+**Hit Points** 225 (18d12+108)
+
+**Speed** 40 ft., burrow 30 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 25 (+7) | 10 (+0) | 23 (+6) | 16 (+3) | 15 (+2) | 19 (+4) |
+
+**Saving Throws** Dex +5, Con +11, Wis +7, Cha +9
+
+**Skills** Perception +12, Stealth +5
+
+**Damage Immunities** lightning
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 22
+
+**Languages** Common, Draconic
+
+**Challenge** 16 (15,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +12 to hit, reach 10 ft., one target. *Hit:* 18 (2d10+7) piercing damage plus 5 (1d10) lightning damage.
+
+***Claw.*** *Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:* 14 (2d6+7) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +12 to hit, reach 15 ft., one target. *Hit:* 16 (2d8+7) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 17 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Lightning Breath (Recharge 5-6).*** The dragon exhales lightning in a 90-foot line that is 5 feet wide. Each creature in that line must make a DC 19 Dexterity saving throw, taking 66 (12d10) lightning damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 20 Dexterity saving throw or take 14 (2d6+7) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young Blue Dragon
+
+*Large dragon, lawful evil*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 152 (16d10+64)
+
+**Speed** 40 ft., burrow 20 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 21 (+5) | 10 (+0) | 19 (+4) | 14 (+2) | 13 (+1) | 17 (+3) |
+
+**Saving Throws** Dex +4, Con +8, Wis +5, Cha +7
+
+**Skills** Perception +9, Stealth +4
+
+**Damage Immunities** lightning
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 19
+
+**Languages** Common, Draconic
+
+**Challenge** 9 (5,000 XP)
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 16 (2d10+5) piercing damage plus 5 (1d10) lightning damage.
+
+***Claw.*** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 12 (2d6+5) slashing damage.
+
+***Lightning Breath (Recharge 5-6).*** The dragon exhales lightning in an 60-foot line that is 5 feet wide. Each creature in that line must make a DC 16 Dexterity saving throw, taking 55 (10d10) lightning damage on a failed save, or half as much damage on a successful one.
+
+## Blue Dragon Wyrmling
+
+*Medium dragon, lawful evil*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 52 (8d8+16)
+
+**Speed** 30 ft., burrow 15 ft., fly 60 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 17 (+3) | 10 (+0) | 15 (+2) | 12 (+1) | 11 (+0) | 15 (+2) |
+
+**Saving Throws** Dex +2, Con +4, Wis +2, Cha +4
+
+**Skills** Perception +4, Stealth +2
+
+**Damage Immunities** lightning
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 3 (700 XP)
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (1d10+3) piercing damage plus 3 (1d6) lightning damage.
+
+***Lightning Breath (Recharge 5-6).*** The dragon exhales lightning in a 30-foot line that is 5 feet wide. Each creature in that line must make a DC 12 Dexterity saving throw, taking 22 (4d10) lightning damage on a failed save, or half as much damage on a successful one.
+
+## Green Dragon
+
+## Ancient Green Dragon
+
+*Gargantuan dragon, lawful evil*
+
+**Armor Class** 21 (natural armor)
+
+**Hit Points** 385 (22d20 + 154)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 27 (+8) | 12 (+1) | 25 (+7) | 20 (+5) | 17 (+3) | 19 (+4) |
+
+**Saving Throws** Dex +8, Con +14, Wis +10, Cha +11
+
+**Skills** Deception +11, Insight +10, Perception +17, Persuasion +11, Stealth +8
+
+**Damage Immunities** poison
+
+**Condition Immunities** poisoned
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 27
+
+**Languages** Common, Draconic
+
+**Challenge** 22 (41,000 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +15 to hit, reach 15 ft., one target. *Hit:* 19 (2d10+8) piercing damage plus 10 (3d6) poison damage.
+
+***Claw.*** *Melee Weapon Attack:* +15 to hit, reach 10 ft., one target. *Hit:* 22 (4d6+8) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +15 to hit, reach 20 ft., one target. *Hit:* 17 (2d8+8) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 19 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Poison Breath (Recharge 5-6).*** The dragon exhales poisonous gas in a 90-foot cone. Each creature in that area must make a DC 22 Constitution saving throw, taking 77 (22d6) poison damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 23 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+
+## Adult Green Dragon
+
+*Huge dragon, lawful evil*
+
+**Armor Class** 19 (natural armor)
+
+**Hit Points** 207 (18d12+90)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 23 (+6) | 12 (+1) | 21 (+5) | 18 (+4) | 15 (+2) | 17 (+3) |
+
+**Saving Throws** Dex +6, Con +10, Wis +7, Cha +8
+
+**Skills** Deception +8, Insight +7, Perception +12, Persuasion +8, Stealth +6
+
+**Damage Immunities** poison
+
+**Condition Immunities** poisoned
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 22
+
+**Languages** Common, Draconic
+
+**Challenge** 15 (13,000 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage plus 7 (2d6) poison damage.
+
+***Claw.*** *Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +11 to hit, reach 15 ft., one target. *Hit:* 15 (2d8+6) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Poison Breath (Recharge 5-6).*** The dragon exhales poisonous gas in a 60-foot cone. Each creature in that area must make a DC 18 Constitution saving throw, taking 56 (16d6) poison damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6+6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young Green Dragon
+
+*Large dragon, lawful evil*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 136 (16d10+48)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 19 (+4) | 12 (+1) | 17 (+3) | 16 (+3) | 13 (+1) | 15 (+2) |
+
+**Saving Throws** Dex +4, Con +6, Wis +4, Cha +5
+
+**Skills** Deception +5, Perception +7, Stealth +4
+
+**Damage Immunities** poison
+
+**Condition Immunities** poisoned
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 17
+
+**Languages** Common, Draconic
+
+**Challenge** 8 (3,900 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 15 (2d10+4) piercing damage plus 7 (2d6) poison damage.
+
+***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6+4) slashing damage.
+
+***Poison Breath (Recharge 5-6).*** The dragon exhales poisonous gas in a 30-foot cone. Each creature in that area must make a DC 14 Constitution saving throw, taking 42 (12d6) poison damage on a failed save, or half as much damage on a successful one.
+
+## Green Dragon Wyrmling
+
+*Medium dragon, lawful evil*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 38 (7d8+7)
+
+**Speed** 30 ft., fly 60 ft., swim 30 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 15 (+2) | 12 (+1) | 13 (+1) | 14 (+2) | 11 (+0) | 13 (+1) |
+
+**Saving Throws** Dex +3, Con +3, Wis +2, Cha +3
+
+**Skills** Perception +4, Stealth +3
+
+**Damage Immunities** poison
+
+**Condition Immunities** poisoned
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 2 (450 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10+2) piercing damage plus 3 (1d6) poison damage.
+
+***Poison Breath (Recharge 5-6).*** The dragon exhales poisonous gas in a 15-foot cone. Each creature in that area must make a DC 11 Constitution saving throw, taking 21 (6d6) poison damage on a failed save, or half as much damage on a successful one.
+
+## Red Dragon
+
+## Ancient Red Dragon
+
+*Gargantuan dragon, chaotic evil*
+
+**Armor Class** 22 (natural armor)
+
+**Hit Points** 546 (28d20+252)
+
+**Speed** 40 ft., climb 40 ft., fly 80 ft.
+
+| STR      | DEX     | CON     | INT     | WIS     | CHA     |
+|----------|---------|---------|---------|---------|---------|
+| 30 (+10) | 10 (+0) | 29 (+9) | 18 (+4) | 15 (+2) | 23 (+6) |
+
+**Saving Throws** Dex +7, Con +16, Wis +9, Cha +13
+
+**Skills** Perception +16, Stealth +7
+
+**Damage Immunities** fire
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 26
+
+**Languages** Common, Draconic
+
+**Challenge** 24 (62,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +17 to hit, reach 15 ft., one target. *Hit:* 21 (2d10+10) piercing damage plus 14 (4d6) fire damage.
+
+***Claw.*** *Melee Weapon Attack:* +17 to hit, reach 10 ft., one target. *Hit:* 17 (2d6+10) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +17 to hit, reach 20 ft., one target. *Hit:* 19 (2d8+10) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 21 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Fire Breath (Recharge 5-6).*** The dragon exhales fire in a 90-foot cone. Each creature in that area must make a DC 24 Dexterity saving throw, taking 91 (26d6) fire damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6+10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Adult Red Dragon
+
+*Huge dragon, chaotic evil*
+
+**Armor Class** 19 (natural armor)
+
+**Hit Points** 256 (19d12+133)
+
+**Speed** 40 ft., climb 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 27 (+8) | 10 (+0) | 25 (+7) | 16 (+3) | 13 (+1) | 21 (+5) |
+
+**Saving Throws** Dex +6, Con +13, Wis +7, Cha +11
+
+**Skills** Perception +13, Stealth +6
+
+**Damage Immunities** fire
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 23
+
+**Languages** Common, Draconic
+
+**Challenge** 17 (18,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 19 (2d10+8) piercing damage plus 7 (2d6) fire damage.
+
+***Claw.*** *Melee Weapon Attack:* +14 to hit, reach 5 ft., one target. *Hit:* 15 (2d6+8) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +14 to hit, reach 15 ft., one target. *Hit:* 17 (2d8+8) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 19 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Fire Breath (Recharge 5-6).*** The dragon exhales fire in a 60-foot cone. Each creature in that area must make a DC 21 Dexterity saving throw, taking 63 (18d6) fire damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young Red Dragon
+
+Large dragon, chaotic evil
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 178 (17d10+85)
+
+**Speed** 40 ft., climb 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 23 (+6) | 10 (+0) | 21 (+5) | 14 (+2) | 11 (+0) | 19 (+4) |
+
+**Saving Throws** Dex +4, Con +9, Wis +4, Cha +8
+
+**Skills** Perception +8, Stealth +4
+
+**Damage Immunities** fire
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 18
+
+**Languages** Common, Draconic
+
+**Challenge** 10 (5,900 XP)
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage plus 3 (1d6) fire damage.
+
+***Claw.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Fire Breath (Recharge 5-6).*** The dragon exhales fire in a 30-foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 56 (16d6) fire damage on a failed save, or half as much damage on a successful one.
+
+## Red Dragon Wyrmling
+
+*Medium dragon, chaotic evil*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 75 (10d8+30)
+
+**Speed** 30 ft., climb 30 ft., fly 60 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 19 (+4) | 10 (+0) | 17 (+3) | 12 (+1) | 11 (+0) | 15 (+2) |
+
+**Saving Throws** Dex +2, Con +5, Wis +2, Cha +4
+
+**Skills** Perception +4, Stealth +2
+
+**Damage Immunities** fire
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 4 (1,100 XP)
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (1d10+4) piercing damage plus 3 (1d6) fire damage.
+
+***Fire Breath (Recharge 5-6).*** The dragon exhales fire in a 15-foot cone. Each creature in that area must make a DC 13 Dexterity saving throw, taking 24 (7d6) fire damage on a failed save, or half as much damage on a successful one.
+
+## White Dragon
+
+## Ancient White Dragon
+
+*Gargantuan dragon, chaotic evil*
+
+**Armor Class** 20 (natural armor)
+
+**Hit Points** 333 (18d20+144)
+
+**Speed** 40 ft., burrow 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 26 (+8) | 10 (+0) | 26 (+8) | 10 (+0) | 13 (+1) | 14 (+2) |
+
+**Saving Throws** Dex +6, Con +14, Wis +7, Cha +8
+
+**Skills** Perception +13, Stealth +6
+
+**Damage Immunities** cold
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 23
+
+**Languages** Common, Draconic
+
+**Challenge** 20 (25,000 XP)
+
+***Ice Walk.*** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +14 to hit, reach 15 ft., one target. *Hit:* 19 (2d10+8) piercing damage plus 9 (2d8) cold damage.
+
+***Claw.*** *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 15 (2d6+8) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +14 to hit, reach 20 ft., one target. *Hit:* 17 (2d8+8) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast in a 90-foot cone. Each creature in that area must make a DC 22 Constitution saving throw, taking 72 (16d8) cold damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Adult White Dragon
+
+*Huge dragon, chaotic evil*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 200 (16d12+96)
+
+**Speed** 40 ft., burrow 30 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+|---------|---------|---------|--------|---------|---------|
+| 22 (+6) | 10 (+0) | 22 (+6) | 8 (-1) | 12 (+1) | 12 (+1) |
+
+**Saving Throws** Dex +5, Con +11, Wis +6, Cha +6
+
+**Skills** Perception +11, Stealth +5
+
+**Damage Immunities** cold
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 21
+
+**Languages** Common, Draconic
+
+**Challenge** 13 (10,000 XP)
+
+***Ice Walk.*** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage plus 4 (1d8) cold damage.
+
+***Claw.*** *Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +11 to hit, reach 15 ft., one target. *Hit:* 15 (2d8+6) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 14 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast in a 60-foot cone. Each creature in that area must make a DC 19 Constitution saving throw, taking 54 (12d8) cold damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6+6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young White Dragon
+
+*Large dragon, chaotic evil*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 133 (14d10+56)
+
+**Speed** 40 ft., burrow 20 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+|---------|---------|---------|--------|---------|---------|
+| 18 (+4) | 10 (+0) | 18 (+4) | 6 (-2) | 11 (+0) | 12 (+1) |
+
+**Saving Throws** Dex +3, Con +7, Wis +3, Cha +4
+
+**Skills** Perception +6, Stealth +3
+
+**Damage Immunities** cold
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 16
+
+**Languages** Common, Draconic
+
+**Challenge** 6 (2,300 XP)
+
+***Ice Walk.*** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 15 (2d10+4) piercing damage plus 4 (1d8) cold damage.
+
+***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6+4) slashing damage.
+
+***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast in a 30-foot cone. Each creature in that area must make a DC 15 Constitution saving throw, taking 45 (10d8) cold damage on a failed save, or half as much damage on a successful one.
+
+## White Dragon Wyrmling
+
+*Medium dragon, chaotic evil*
+
+**Armor Class** 16 (natural armor)
+
+**Hit Points** 32 (5d8+10)
+
+**Speed** 30 ft., burrow 15 ft., fly 60 ft., swim 30 ft.
+
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+|---------|---------|---------|--------|---------|---------|
+| 14 (+2) | 10 (+0) | 14 (+2) | 5 (-3) | 10 (+0) | 11 (+0) |
+
+**Saving Throws** Dex +2, Con +4, Wis +2, Cha +2
+
+**Skills** Perception +4, Stealth +2
+
+**Damage Immunities** cold
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 2 (450 XP)
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10+2) piercing damage plus 2 (1d4) cold damage.
+
+***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast of hail in a 15-foot cone. Each creature in that area must make a DC 12 Constitution saving throw, taking 22 (5d8) cold damage on a failed save, or half as much damage on a successful one.
+
 # Dragon Black Wyrmling
 
 *Medium dragon, chaotic evil*
@@ -1479,6 +3785,723 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10+2) piercing damage plus 2 (1d4) acid damage.
 
 ***Acid Breath (Recharge 5-6).*** The dragon exhales acid in a 15-foot line that is 5 feet wide. Each creature in that line must make a DC 11 Dexterity saving throw, taking 22 (5d8) acid damage on a failed save, or half as much damage on a successful one.
+
+## Blue Dragon
+
+## Ancient Blue Dragon
+
+*Gargantuan dragon, lawful evil*
+
+**Armor Class** 22 (natural armor)
+
+**Hit Points** 481 (26d20+208)
+
+**Speed** 40 ft., burrow 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 29 (+9) | 10 (+0) | 27 (+8) | 18 (+4) | 17 (+3) | 21 (+5) |
+
+**Saving Throws** Dex +7, Con +15, Wis +10, Cha +12
+
+**Skills** Perception +17, Stealth +7
+
+**Damage Immunities** lightning
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 27
+
+**Languages** Common, Draconic
+
+**Challenge** 23 (50,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +16 to hit, reach 15 ft., one target. *Hit:* 20 (2d10+9) piercing damage plus 11 (2d10) lightning damage.
+
+***Claw.*** *Melee Weapon Attack:* +16 to hit, reach 10 ft., one target. *Hit:* 16 (2d6+9) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +16 to hit, reach 20 ft., one target. *Hit:* 18 (2d8+9) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 20 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Lightning Breath (Recharge 5-6).*** The dragon exhales lightning in a 120-foot line that is 10 feet wide. Each creature in that line must make a DC 23 Dexterity saving throw, taking 88 (16d10) lightning damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 24 Dexterity saving throw or take 16 (2d6+9) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Adult Blue Dragon
+
+*Huge dragon, lawful evil*
+
+**Armor Class** 19 (natural armor)
+
+**Hit Points** 225 (18d12+108)
+
+**Speed** 40 ft., burrow 30 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 25 (+7) | 10 (+0) | 23 (+6) | 16 (+3) | 15 (+2) | 19 (+4) |
+
+**Saving Throws** Dex +5, Con +11, Wis +7, Cha +9
+
+**Skills** Perception +12, Stealth +5
+
+**Damage Immunities** lightning
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 22
+
+**Languages** Common, Draconic
+
+**Challenge** 16 (15,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +12 to hit, reach 10 ft., one target. *Hit:* 18 (2d10+7) piercing damage plus 5 (1d10) lightning damage.
+
+***Claw.*** *Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:* 14 (2d6+7) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +12 to hit, reach 15 ft., one target. *Hit:* 16 (2d8+7) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 17 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Lightning Breath (Recharge 5-6).*** The dragon exhales lightning in a 90-foot line that is 5 feet wide. Each creature in that line must make a DC 19 Dexterity saving throw, taking 66 (12d10) lightning damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 20 Dexterity saving throw or take 14 (2d6+7) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young Blue Dragon
+
+*Large dragon, lawful evil*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 152 (16d10+64)
+
+**Speed** 40 ft., burrow 20 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 21 (+5) | 10 (+0) | 19 (+4) | 14 (+2) | 13 (+1) | 17 (+3) |
+
+**Saving Throws** Dex +4, Con +8, Wis +5, Cha +7
+
+**Skills** Perception +9, Stealth +4
+
+**Damage Immunities** lightning
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 19
+
+**Languages** Common, Draconic
+
+**Challenge** 9 (5,000 XP)
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 16 (2d10+5) piercing damage plus 5 (1d10) lightning damage.
+
+***Claw.*** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 12 (2d6+5) slashing damage.
+
+***Lightning Breath (Recharge 5-6).*** The dragon exhales lightning in an 60-foot line that is 5 feet wide. Each creature in that line must make a DC 16 Dexterity saving throw, taking 55 (10d10) lightning damage on a failed save, or half as much damage on a successful one.
+
+## Blue Dragon Wyrmling
+
+*Medium dragon, lawful evil*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 52 (8d8+16)
+
+**Speed** 30 ft., burrow 15 ft., fly 60 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 17 (+3) | 10 (+0) | 15 (+2) | 12 (+1) | 11 (+0) | 15 (+2) |
+
+**Saving Throws** Dex +2, Con +4, Wis +2, Cha +4
+
+**Skills** Perception +4, Stealth +2
+
+**Damage Immunities** lightning
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 3 (700 XP)
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (1d10+3) piercing damage plus 3 (1d6) lightning damage.
+
+***Lightning Breath (Recharge 5-6).*** The dragon exhales lightning in a 30-foot line that is 5 feet wide. Each creature in that line must make a DC 12 Dexterity saving throw, taking 22 (4d10) lightning damage on a failed save, or half as much damage on a successful one.
+
+## Green Dragon
+
+## Ancient Green Dragon
+
+*Gargantuan dragon, lawful evil*
+
+**Armor Class** 21 (natural armor)
+
+**Hit Points** 385 (22d20 + 154)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 27 (+8) | 12 (+1) | 25 (+7) | 20 (+5) | 17 (+3) | 19 (+4) |
+
+**Saving Throws** Dex +8, Con +14, Wis +10, Cha +11
+
+**Skills** Deception +11, Insight +10, Perception +17, Persuasion +11, Stealth +8
+
+**Damage Immunities** poison
+
+**Condition Immunities** poisoned
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 27
+
+**Languages** Common, Draconic
+
+**Challenge** 22 (41,000 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +15 to hit, reach 15 ft., one target. *Hit:* 19 (2d10+8) piercing damage plus 10 (3d6) poison damage.
+
+***Claw.*** *Melee Weapon Attack:* +15 to hit, reach 10 ft., one target. *Hit:* 22 (4d6+8) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +15 to hit, reach 20 ft., one target. *Hit:* 17 (2d8+8) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 19 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Poison Breath (Recharge 5-6).*** The dragon exhales poisonous gas in a 90-foot cone. Each creature in that area must make a DC 22 Constitution saving throw, taking 77 (22d6) poison damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 23 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+
+## Adult Green Dragon
+
+*Huge dragon, lawful evil*
+
+**Armor Class** 19 (natural armor)
+
+**Hit Points** 207 (18d12+90)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 23 (+6) | 12 (+1) | 21 (+5) | 18 (+4) | 15 (+2) | 17 (+3) |
+
+**Saving Throws** Dex +6, Con +10, Wis +7, Cha +8
+
+**Skills** Deception +8, Insight +7, Perception +12, Persuasion +8, Stealth +6
+
+**Damage Immunities** poison
+
+**Condition Immunities** poisoned
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 22
+
+**Languages** Common, Draconic
+
+**Challenge** 15 (13,000 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage plus 7 (2d6) poison damage.
+
+***Claw.*** *Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +11 to hit, reach 15 ft., one target. *Hit:* 15 (2d8+6) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Poison Breath (Recharge 5-6).*** The dragon exhales poisonous gas in a 60-foot cone. Each creature in that area must make a DC 18 Constitution saving throw, taking 56 (16d6) poison damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6+6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young Green Dragon
+
+*Large dragon, lawful evil*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 136 (16d10+48)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 19 (+4) | 12 (+1) | 17 (+3) | 16 (+3) | 13 (+1) | 15 (+2) |
+
+**Saving Throws** Dex +4, Con +6, Wis +4, Cha +5
+
+**Skills** Deception +5, Perception +7, Stealth +4
+
+**Damage Immunities** poison
+
+**Condition Immunities** poisoned
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 17
+
+**Languages** Common, Draconic
+
+**Challenge** 8 (3,900 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 15 (2d10+4) piercing damage plus 7 (2d6) poison damage.
+
+***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6+4) slashing damage.
+
+***Poison Breath (Recharge 5-6).*** The dragon exhales poisonous gas in a 30-foot cone. Each creature in that area must make a DC 14 Constitution saving throw, taking 42 (12d6) poison damage on a failed save, or half as much damage on a successful one.
+
+## Green Dragon Wyrmling
+
+*Medium dragon, lawful evil*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 38 (7d8+7)
+
+**Speed** 30 ft., fly 60 ft., swim 30 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 15 (+2) | 12 (+1) | 13 (+1) | 14 (+2) | 11 (+0) | 13 (+1) |
+
+**Saving Throws** Dex +3, Con +3, Wis +2, Cha +3
+
+**Skills** Perception +4, Stealth +3
+
+**Damage Immunities** poison
+
+**Condition Immunities** poisoned
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 2 (450 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10+2) piercing damage plus 3 (1d6) poison damage.
+
+***Poison Breath (Recharge 5-6).*** The dragon exhales poisonous gas in a 15-foot cone. Each creature in that area must make a DC 11 Constitution saving throw, taking 21 (6d6) poison damage on a failed save, or half as much damage on a successful one.
+
+## Red Dragon
+
+## Ancient Red Dragon
+
+*Gargantuan dragon, chaotic evil*
+
+**Armor Class** 22 (natural armor)
+
+**Hit Points** 546 (28d20+252)
+
+**Speed** 40 ft., climb 40 ft., fly 80 ft.
+
+| STR      | DEX     | CON     | INT     | WIS     | CHA     |
+|----------|---------|---------|---------|---------|---------|
+| 30 (+10) | 10 (+0) | 29 (+9) | 18 (+4) | 15 (+2) | 23 (+6) |
+
+**Saving Throws** Dex +7, Con +16, Wis +9, Cha +13
+
+**Skills** Perception +16, Stealth +7
+
+**Damage Immunities** fire
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 26
+
+**Languages** Common, Draconic
+
+**Challenge** 24 (62,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +17 to hit, reach 15 ft., one target. *Hit:* 21 (2d10+10) piercing damage plus 14 (4d6) fire damage.
+
+***Claw.*** *Melee Weapon Attack:* +17 to hit, reach 10 ft., one target. *Hit:* 17 (2d6+10) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +17 to hit, reach 20 ft., one target. *Hit:* 19 (2d8+10) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 21 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Fire Breath (Recharge 5-6).*** The dragon exhales fire in a 90-foot cone. Each creature in that area must make a DC 24 Dexterity saving throw, taking 91 (26d6) fire damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6+10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Adult Red Dragon
+
+*Huge dragon, chaotic evil*
+
+**Armor Class** 19 (natural armor)
+
+**Hit Points** 256 (19d12+133)
+
+**Speed** 40 ft., climb 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 27 (+8) | 10 (+0) | 25 (+7) | 16 (+3) | 13 (+1) | 21 (+5) |
+
+**Saving Throws** Dex +6, Con +13, Wis +7, Cha +11
+
+**Skills** Perception +13, Stealth +6
+
+**Damage Immunities** fire
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 23
+
+**Languages** Common, Draconic
+
+**Challenge** 17 (18,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 19 (2d10+8) piercing damage plus 7 (2d6) fire damage.
+
+***Claw.*** *Melee Weapon Attack:* +14 to hit, reach 5 ft., one target. *Hit:* 15 (2d6+8) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +14 to hit, reach 15 ft., one target. *Hit:* 17 (2d8+8) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 19 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Fire Breath (Recharge 5-6).*** The dragon exhales fire in a 60-foot cone. Each creature in that area must make a DC 21 Dexterity saving throw, taking 63 (18d6) fire damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young Red Dragon
+
+Large dragon, chaotic evil
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 178 (17d10+85)
+
+**Speed** 40 ft., climb 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 23 (+6) | 10 (+0) | 21 (+5) | 14 (+2) | 11 (+0) | 19 (+4) |
+
+**Saving Throws** Dex +4, Con +9, Wis +4, Cha +8
+
+**Skills** Perception +8, Stealth +4
+
+**Damage Immunities** fire
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 18
+
+**Languages** Common, Draconic
+
+**Challenge** 10 (5,900 XP)
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage plus 3 (1d6) fire damage.
+
+***Claw.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Fire Breath (Recharge 5-6).*** The dragon exhales fire in a 30-foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 56 (16d6) fire damage on a failed save, or half as much damage on a successful one.
+
+## Red Dragon Wyrmling
+
+*Medium dragon, chaotic evil*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 75 (10d8+30)
+
+**Speed** 30 ft., climb 30 ft., fly 60 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 19 (+4) | 10 (+0) | 17 (+3) | 12 (+1) | 11 (+0) | 15 (+2) |
+
+**Saving Throws** Dex +2, Con +5, Wis +2, Cha +4
+
+**Skills** Perception +4, Stealth +2
+
+**Damage Immunities** fire
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 4 (1,100 XP)
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (1d10+4) piercing damage plus 3 (1d6) fire damage.
+
+***Fire Breath (Recharge 5-6).*** The dragon exhales fire in a 15-foot cone. Each creature in that area must make a DC 13 Dexterity saving throw, taking 24 (7d6) fire damage on a failed save, or half as much damage on a successful one.
+
+## White Dragon
+
+## Ancient White Dragon
+
+*Gargantuan dragon, chaotic evil*
+
+**Armor Class** 20 (natural armor)
+
+**Hit Points** 333 (18d20+144)
+
+**Speed** 40 ft., burrow 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 26 (+8) | 10 (+0) | 26 (+8) | 10 (+0) | 13 (+1) | 14 (+2) |
+
+**Saving Throws** Dex +6, Con +14, Wis +7, Cha +8
+
+**Skills** Perception +13, Stealth +6
+
+**Damage Immunities** cold
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 23
+
+**Languages** Common, Draconic
+
+**Challenge** 20 (25,000 XP)
+
+***Ice Walk.*** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +14 to hit, reach 15 ft., one target. *Hit:* 19 (2d10+8) piercing damage plus 9 (2d8) cold damage.
+
+***Claw.*** *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 15 (2d6+8) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +14 to hit, reach 20 ft., one target. *Hit:* 17 (2d8+8) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast in a 90-foot cone. Each creature in that area must make a DC 22 Constitution saving throw, taking 72 (16d8) cold damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Adult White Dragon
+
+*Huge dragon, chaotic evil*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 200 (16d12+96)
+
+**Speed** 40 ft., burrow 30 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+|---------|---------|---------|--------|---------|---------|
+| 22 (+6) | 10 (+0) | 22 (+6) | 8 (-1) | 12 (+1) | 12 (+1) |
+
+**Saving Throws** Dex +5, Con +11, Wis +6, Cha +6
+
+**Skills** Perception +11, Stealth +5
+
+**Damage Immunities** cold
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 21
+
+**Languages** Common, Draconic
+
+**Challenge** 13 (10,000 XP)
+
+***Ice Walk.*** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage plus 4 (1d8) cold damage.
+
+***Claw.*** *Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +11 to hit, reach 15 ft., one target. *Hit:* 15 (2d8+6) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 14 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast in a 60-foot cone. Each creature in that area must make a DC 19 Constitution saving throw, taking 54 (12d8) cold damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6+6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young White Dragon
+
+*Large dragon, chaotic evil*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 133 (14d10+56)
+
+**Speed** 40 ft., burrow 20 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+|---------|---------|---------|--------|---------|---------|
+| 18 (+4) | 10 (+0) | 18 (+4) | 6 (-2) | 11 (+0) | 12 (+1) |
+
+**Saving Throws** Dex +3, Con +7, Wis +3, Cha +4
+
+**Skills** Perception +6, Stealth +3
+
+**Damage Immunities** cold
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 16
+
+**Languages** Common, Draconic
+
+**Challenge** 6 (2,300 XP)
+
+***Ice Walk.*** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 15 (2d10+4) piercing damage plus 4 (1d8) cold damage.
+
+***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6+4) slashing damage.
+
+***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast in a 30-foot cone. Each creature in that area must make a DC 15 Constitution saving throw, taking 45 (10d8) cold damage on a failed save, or half as much damage on a successful one.
+
+## White Dragon Wyrmling
+
+*Medium dragon, chaotic evil*
+
+**Armor Class** 16 (natural armor)
+
+**Hit Points** 32 (5d8+10)
+
+**Speed** 30 ft., burrow 15 ft., fly 60 ft., swim 30 ft.
+
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+|---------|---------|---------|--------|---------|---------|
+| 14 (+2) | 10 (+0) | 14 (+2) | 5 (-3) | 10 (+0) | 11 (+0) |
+
+**Saving Throws** Dex +2, Con +4, Wis +2, Cha +2
+
+**Skills** Perception +4, Stealth +2
+
+**Damage Immunities** cold
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 2 (450 XP)
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10+2) piercing damage plus 2 (1d4) cold damage.
+
+***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast of hail in a 15-foot cone. Each creature in that area must make a DC 12 Constitution saving throw, taking 22 (5d8) cold damage on a failed save, or half as much damage on a successful one.
 
 # Dragon Black Young
 
@@ -1519,6 +4542,757 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 ***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6+4) slashing damage.
 
 ***Acid Breath (Recharge 5-6).*** The dragon exhales acid in a 30-foot line that is 5 feet wide. Each creature in that line must make a DC 14 Dexterity saving throw, taking 49 (11d8) acid damage on a failed save, or half as much damage on a successful one.
+
+## Black Dragon Wyrmling
+
+*Medium dragon, chaotic evil*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 33 (6d8+6)
+
+**Speed** 30 ft., fly 60 ft., swim 30 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 15 (+2) | 14 (+2) | 13 (+1) | 10 (+0) | 11 (+0) | 13 (+1) |
+
+**Saving Throws** Dex +4, Con +3, Wis +2, Cha +3
+
+**Skills** Perception +4, Stealth +4
+
+**Damage Immunities** acid
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 2 (450 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10+2) piercing damage plus 2 (1d4) acid damage.
+
+***Acid Breath (Recharge 5-6).*** The dragon exhales acid in a 15-foot line that is 5 feet wide. Each creature in that line must make a DC 11 Dexterity saving throw, taking 22 (5d8) acid damage on a failed save, or half as much damage on a successful one.
+
+## Blue Dragon
+
+## Ancient Blue Dragon
+
+*Gargantuan dragon, lawful evil*
+
+**Armor Class** 22 (natural armor)
+
+**Hit Points** 481 (26d20+208)
+
+**Speed** 40 ft., burrow 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 29 (+9) | 10 (+0) | 27 (+8) | 18 (+4) | 17 (+3) | 21 (+5) |
+
+**Saving Throws** Dex +7, Con +15, Wis +10, Cha +12
+
+**Skills** Perception +17, Stealth +7
+
+**Damage Immunities** lightning
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 27
+
+**Languages** Common, Draconic
+
+**Challenge** 23 (50,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +16 to hit, reach 15 ft., one target. *Hit:* 20 (2d10+9) piercing damage plus 11 (2d10) lightning damage.
+
+***Claw.*** *Melee Weapon Attack:* +16 to hit, reach 10 ft., one target. *Hit:* 16 (2d6+9) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +16 to hit, reach 20 ft., one target. *Hit:* 18 (2d8+9) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 20 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Lightning Breath (Recharge 5-6).*** The dragon exhales lightning in a 120-foot line that is 10 feet wide. Each creature in that line must make a DC 23 Dexterity saving throw, taking 88 (16d10) lightning damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 24 Dexterity saving throw or take 16 (2d6+9) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Adult Blue Dragon
+
+*Huge dragon, lawful evil*
+
+**Armor Class** 19 (natural armor)
+
+**Hit Points** 225 (18d12+108)
+
+**Speed** 40 ft., burrow 30 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 25 (+7) | 10 (+0) | 23 (+6) | 16 (+3) | 15 (+2) | 19 (+4) |
+
+**Saving Throws** Dex +5, Con +11, Wis +7, Cha +9
+
+**Skills** Perception +12, Stealth +5
+
+**Damage Immunities** lightning
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 22
+
+**Languages** Common, Draconic
+
+**Challenge** 16 (15,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +12 to hit, reach 10 ft., one target. *Hit:* 18 (2d10+7) piercing damage plus 5 (1d10) lightning damage.
+
+***Claw.*** *Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:* 14 (2d6+7) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +12 to hit, reach 15 ft., one target. *Hit:* 16 (2d8+7) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 17 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Lightning Breath (Recharge 5-6).*** The dragon exhales lightning in a 90-foot line that is 5 feet wide. Each creature in that line must make a DC 19 Dexterity saving throw, taking 66 (12d10) lightning damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 20 Dexterity saving throw or take 14 (2d6+7) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young Blue Dragon
+
+*Large dragon, lawful evil*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 152 (16d10+64)
+
+**Speed** 40 ft., burrow 20 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 21 (+5) | 10 (+0) | 19 (+4) | 14 (+2) | 13 (+1) | 17 (+3) |
+
+**Saving Throws** Dex +4, Con +8, Wis +5, Cha +7
+
+**Skills** Perception +9, Stealth +4
+
+**Damage Immunities** lightning
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 19
+
+**Languages** Common, Draconic
+
+**Challenge** 9 (5,000 XP)
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 16 (2d10+5) piercing damage plus 5 (1d10) lightning damage.
+
+***Claw.*** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 12 (2d6+5) slashing damage.
+
+***Lightning Breath (Recharge 5-6).*** The dragon exhales lightning in an 60-foot line that is 5 feet wide. Each creature in that line must make a DC 16 Dexterity saving throw, taking 55 (10d10) lightning damage on a failed save, or half as much damage on a successful one.
+
+## Blue Dragon Wyrmling
+
+*Medium dragon, lawful evil*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 52 (8d8+16)
+
+**Speed** 30 ft., burrow 15 ft., fly 60 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 17 (+3) | 10 (+0) | 15 (+2) | 12 (+1) | 11 (+0) | 15 (+2) |
+
+**Saving Throws** Dex +2, Con +4, Wis +2, Cha +4
+
+**Skills** Perception +4, Stealth +2
+
+**Damage Immunities** lightning
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 3 (700 XP)
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (1d10+3) piercing damage plus 3 (1d6) lightning damage.
+
+***Lightning Breath (Recharge 5-6).*** The dragon exhales lightning in a 30-foot line that is 5 feet wide. Each creature in that line must make a DC 12 Dexterity saving throw, taking 22 (4d10) lightning damage on a failed save, or half as much damage on a successful one.
+
+## Green Dragon
+
+## Ancient Green Dragon
+
+*Gargantuan dragon, lawful evil*
+
+**Armor Class** 21 (natural armor)
+
+**Hit Points** 385 (22d20 + 154)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 27 (+8) | 12 (+1) | 25 (+7) | 20 (+5) | 17 (+3) | 19 (+4) |
+
+**Saving Throws** Dex +8, Con +14, Wis +10, Cha +11
+
+**Skills** Deception +11, Insight +10, Perception +17, Persuasion +11, Stealth +8
+
+**Damage Immunities** poison
+
+**Condition Immunities** poisoned
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 27
+
+**Languages** Common, Draconic
+
+**Challenge** 22 (41,000 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +15 to hit, reach 15 ft., one target. *Hit:* 19 (2d10+8) piercing damage plus 10 (3d6) poison damage.
+
+***Claw.*** *Melee Weapon Attack:* +15 to hit, reach 10 ft., one target. *Hit:* 22 (4d6+8) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +15 to hit, reach 20 ft., one target. *Hit:* 17 (2d8+8) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 19 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Poison Breath (Recharge 5-6).*** The dragon exhales poisonous gas in a 90-foot cone. Each creature in that area must make a DC 22 Constitution saving throw, taking 77 (22d6) poison damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 23 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+
+## Adult Green Dragon
+
+*Huge dragon, lawful evil*
+
+**Armor Class** 19 (natural armor)
+
+**Hit Points** 207 (18d12+90)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 23 (+6) | 12 (+1) | 21 (+5) | 18 (+4) | 15 (+2) | 17 (+3) |
+
+**Saving Throws** Dex +6, Con +10, Wis +7, Cha +8
+
+**Skills** Deception +8, Insight +7, Perception +12, Persuasion +8, Stealth +6
+
+**Damage Immunities** poison
+
+**Condition Immunities** poisoned
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 22
+
+**Languages** Common, Draconic
+
+**Challenge** 15 (13,000 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage plus 7 (2d6) poison damage.
+
+***Claw.*** *Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +11 to hit, reach 15 ft., one target. *Hit:* 15 (2d8+6) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Poison Breath (Recharge 5-6).*** The dragon exhales poisonous gas in a 60-foot cone. Each creature in that area must make a DC 18 Constitution saving throw, taking 56 (16d6) poison damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6+6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young Green Dragon
+
+*Large dragon, lawful evil*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 136 (16d10+48)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 19 (+4) | 12 (+1) | 17 (+3) | 16 (+3) | 13 (+1) | 15 (+2) |
+
+**Saving Throws** Dex +4, Con +6, Wis +4, Cha +5
+
+**Skills** Deception +5, Perception +7, Stealth +4
+
+**Damage Immunities** poison
+
+**Condition Immunities** poisoned
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 17
+
+**Languages** Common, Draconic
+
+**Challenge** 8 (3,900 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 15 (2d10+4) piercing damage plus 7 (2d6) poison damage.
+
+***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6+4) slashing damage.
+
+***Poison Breath (Recharge 5-6).*** The dragon exhales poisonous gas in a 30-foot cone. Each creature in that area must make a DC 14 Constitution saving throw, taking 42 (12d6) poison damage on a failed save, or half as much damage on a successful one.
+
+## Green Dragon Wyrmling
+
+*Medium dragon, lawful evil*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 38 (7d8+7)
+
+**Speed** 30 ft., fly 60 ft., swim 30 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 15 (+2) | 12 (+1) | 13 (+1) | 14 (+2) | 11 (+0) | 13 (+1) |
+
+**Saving Throws** Dex +3, Con +3, Wis +2, Cha +3
+
+**Skills** Perception +4, Stealth +3
+
+**Damage Immunities** poison
+
+**Condition Immunities** poisoned
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 2 (450 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10+2) piercing damage plus 3 (1d6) poison damage.
+
+***Poison Breath (Recharge 5-6).*** The dragon exhales poisonous gas in a 15-foot cone. Each creature in that area must make a DC 11 Constitution saving throw, taking 21 (6d6) poison damage on a failed save, or half as much damage on a successful one.
+
+## Red Dragon
+
+## Ancient Red Dragon
+
+*Gargantuan dragon, chaotic evil*
+
+**Armor Class** 22 (natural armor)
+
+**Hit Points** 546 (28d20+252)
+
+**Speed** 40 ft., climb 40 ft., fly 80 ft.
+
+| STR      | DEX     | CON     | INT     | WIS     | CHA     |
+|----------|---------|---------|---------|---------|---------|
+| 30 (+10) | 10 (+0) | 29 (+9) | 18 (+4) | 15 (+2) | 23 (+6) |
+
+**Saving Throws** Dex +7, Con +16, Wis +9, Cha +13
+
+**Skills** Perception +16, Stealth +7
+
+**Damage Immunities** fire
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 26
+
+**Languages** Common, Draconic
+
+**Challenge** 24 (62,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +17 to hit, reach 15 ft., one target. *Hit:* 21 (2d10+10) piercing damage plus 14 (4d6) fire damage.
+
+***Claw.*** *Melee Weapon Attack:* +17 to hit, reach 10 ft., one target. *Hit:* 17 (2d6+10) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +17 to hit, reach 20 ft., one target. *Hit:* 19 (2d8+10) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 21 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Fire Breath (Recharge 5-6).*** The dragon exhales fire in a 90-foot cone. Each creature in that area must make a DC 24 Dexterity saving throw, taking 91 (26d6) fire damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6+10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Adult Red Dragon
+
+*Huge dragon, chaotic evil*
+
+**Armor Class** 19 (natural armor)
+
+**Hit Points** 256 (19d12+133)
+
+**Speed** 40 ft., climb 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 27 (+8) | 10 (+0) | 25 (+7) | 16 (+3) | 13 (+1) | 21 (+5) |
+
+**Saving Throws** Dex +6, Con +13, Wis +7, Cha +11
+
+**Skills** Perception +13, Stealth +6
+
+**Damage Immunities** fire
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 23
+
+**Languages** Common, Draconic
+
+**Challenge** 17 (18,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 19 (2d10+8) piercing damage plus 7 (2d6) fire damage.
+
+***Claw.*** *Melee Weapon Attack:* +14 to hit, reach 5 ft., one target. *Hit:* 15 (2d6+8) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +14 to hit, reach 15 ft., one target. *Hit:* 17 (2d8+8) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 19 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Fire Breath (Recharge 5-6).*** The dragon exhales fire in a 60-foot cone. Each creature in that area must make a DC 21 Dexterity saving throw, taking 63 (18d6) fire damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young Red Dragon
+
+Large dragon, chaotic evil
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 178 (17d10+85)
+
+**Speed** 40 ft., climb 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 23 (+6) | 10 (+0) | 21 (+5) | 14 (+2) | 11 (+0) | 19 (+4) |
+
+**Saving Throws** Dex +4, Con +9, Wis +4, Cha +8
+
+**Skills** Perception +8, Stealth +4
+
+**Damage Immunities** fire
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 18
+
+**Languages** Common, Draconic
+
+**Challenge** 10 (5,900 XP)
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage plus 3 (1d6) fire damage.
+
+***Claw.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Fire Breath (Recharge 5-6).*** The dragon exhales fire in a 30-foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 56 (16d6) fire damage on a failed save, or half as much damage on a successful one.
+
+## Red Dragon Wyrmling
+
+*Medium dragon, chaotic evil*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 75 (10d8+30)
+
+**Speed** 30 ft., climb 30 ft., fly 60 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 19 (+4) | 10 (+0) | 17 (+3) | 12 (+1) | 11 (+0) | 15 (+2) |
+
+**Saving Throws** Dex +2, Con +5, Wis +2, Cha +4
+
+**Skills** Perception +4, Stealth +2
+
+**Damage Immunities** fire
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 4 (1,100 XP)
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (1d10+4) piercing damage plus 3 (1d6) fire damage.
+
+***Fire Breath (Recharge 5-6).*** The dragon exhales fire in a 15-foot cone. Each creature in that area must make a DC 13 Dexterity saving throw, taking 24 (7d6) fire damage on a failed save, or half as much damage on a successful one.
+
+## White Dragon
+
+## Ancient White Dragon
+
+*Gargantuan dragon, chaotic evil*
+
+**Armor Class** 20 (natural armor)
+
+**Hit Points** 333 (18d20+144)
+
+**Speed** 40 ft., burrow 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 26 (+8) | 10 (+0) | 26 (+8) | 10 (+0) | 13 (+1) | 14 (+2) |
+
+**Saving Throws** Dex +6, Con +14, Wis +7, Cha +8
+
+**Skills** Perception +13, Stealth +6
+
+**Damage Immunities** cold
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 23
+
+**Languages** Common, Draconic
+
+**Challenge** 20 (25,000 XP)
+
+***Ice Walk.*** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +14 to hit, reach 15 ft., one target. *Hit:* 19 (2d10+8) piercing damage plus 9 (2d8) cold damage.
+
+***Claw.*** *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 15 (2d6+8) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +14 to hit, reach 20 ft., one target. *Hit:* 17 (2d8+8) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast in a 90-foot cone. Each creature in that area must make a DC 22 Constitution saving throw, taking 72 (16d8) cold damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Adult White Dragon
+
+*Huge dragon, chaotic evil*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 200 (16d12+96)
+
+**Speed** 40 ft., burrow 30 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+|---------|---------|---------|--------|---------|---------|
+| 22 (+6) | 10 (+0) | 22 (+6) | 8 (-1) | 12 (+1) | 12 (+1) |
+
+**Saving Throws** Dex +5, Con +11, Wis +6, Cha +6
+
+**Skills** Perception +11, Stealth +5
+
+**Damage Immunities** cold
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 21
+
+**Languages** Common, Draconic
+
+**Challenge** 13 (10,000 XP)
+
+***Ice Walk.*** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage plus 4 (1d8) cold damage.
+
+***Claw.*** *Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +11 to hit, reach 15 ft., one target. *Hit:* 15 (2d8+6) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 14 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast in a 60-foot cone. Each creature in that area must make a DC 19 Constitution saving throw, taking 54 (12d8) cold damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6+6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young White Dragon
+
+*Large dragon, chaotic evil*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 133 (14d10+56)
+
+**Speed** 40 ft., burrow 20 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+|---------|---------|---------|--------|---------|---------|
+| 18 (+4) | 10 (+0) | 18 (+4) | 6 (-2) | 11 (+0) | 12 (+1) |
+
+**Saving Throws** Dex +3, Con +7, Wis +3, Cha +4
+
+**Skills** Perception +6, Stealth +3
+
+**Damage Immunities** cold
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 16
+
+**Languages** Common, Draconic
+
+**Challenge** 6 (2,300 XP)
+
+***Ice Walk.*** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 15 (2d10+4) piercing damage plus 4 (1d8) cold damage.
+
+***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6+4) slashing damage.
+
+***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast in a 30-foot cone. Each creature in that area must make a DC 15 Constitution saving throw, taking 45 (10d8) cold damage on a failed save, or half as much damage on a successful one.
+
+## White Dragon Wyrmling
+
+*Medium dragon, chaotic evil*
+
+**Armor Class** 16 (natural armor)
+
+**Hit Points** 32 (5d8+10)
+
+**Speed** 30 ft., burrow 15 ft., fly 60 ft., swim 30 ft.
+
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+|---------|---------|---------|--------|---------|---------|
+| 14 (+2) | 10 (+0) | 14 (+2) | 5 (-3) | 10 (+0) | 11 (+0) |
+
+**Saving Throws** Dex +2, Con +4, Wis +2, Cha +2
+
+**Skills** Perception +4, Stealth +2
+
+**Damage Immunities** cold
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 2 (450 XP)
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10+2) piercing damage plus 2 (1d4) cold damage.
+
+***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast of hail in a 15-foot cone. Each creature in that area must make a DC 12 Constitution saving throw, taking 22 (5d8) cold damage on a failed save, or half as much damage on a successful one.
 
 # Dragon Blue Adult
 
@@ -1574,6 +5348,617 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 20 Dexterity saving throw or take 14 (2d6+7) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
+## Young Blue Dragon
+
+*Large dragon, lawful evil*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 152 (16d10+64)
+
+**Speed** 40 ft., burrow 20 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 21 (+5) | 10 (+0) | 19 (+4) | 14 (+2) | 13 (+1) | 17 (+3) |
+
+**Saving Throws** Dex +4, Con +8, Wis +5, Cha +7
+
+**Skills** Perception +9, Stealth +4
+
+**Damage Immunities** lightning
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 19
+
+**Languages** Common, Draconic
+
+**Challenge** 9 (5,000 XP)
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 16 (2d10+5) piercing damage plus 5 (1d10) lightning damage.
+
+***Claw.*** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 12 (2d6+5) slashing damage.
+
+***Lightning Breath (Recharge 5-6).*** The dragon exhales lightning in an 60-foot line that is 5 feet wide. Each creature in that line must make a DC 16 Dexterity saving throw, taking 55 (10d10) lightning damage on a failed save, or half as much damage on a successful one.
+
+## Blue Dragon Wyrmling
+
+*Medium dragon, lawful evil*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 52 (8d8+16)
+
+**Speed** 30 ft., burrow 15 ft., fly 60 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 17 (+3) | 10 (+0) | 15 (+2) | 12 (+1) | 11 (+0) | 15 (+2) |
+
+**Saving Throws** Dex +2, Con +4, Wis +2, Cha +4
+
+**Skills** Perception +4, Stealth +2
+
+**Damage Immunities** lightning
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 3 (700 XP)
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (1d10+3) piercing damage plus 3 (1d6) lightning damage.
+
+***Lightning Breath (Recharge 5-6).*** The dragon exhales lightning in a 30-foot line that is 5 feet wide. Each creature in that line must make a DC 12 Dexterity saving throw, taking 22 (4d10) lightning damage on a failed save, or half as much damage on a successful one.
+
+## Green Dragon
+
+## Ancient Green Dragon
+
+*Gargantuan dragon, lawful evil*
+
+**Armor Class** 21 (natural armor)
+
+**Hit Points** 385 (22d20 + 154)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 27 (+8) | 12 (+1) | 25 (+7) | 20 (+5) | 17 (+3) | 19 (+4) |
+
+**Saving Throws** Dex +8, Con +14, Wis +10, Cha +11
+
+**Skills** Deception +11, Insight +10, Perception +17, Persuasion +11, Stealth +8
+
+**Damage Immunities** poison
+
+**Condition Immunities** poisoned
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 27
+
+**Languages** Common, Draconic
+
+**Challenge** 22 (41,000 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +15 to hit, reach 15 ft., one target. *Hit:* 19 (2d10+8) piercing damage plus 10 (3d6) poison damage.
+
+***Claw.*** *Melee Weapon Attack:* +15 to hit, reach 10 ft., one target. *Hit:* 22 (4d6+8) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +15 to hit, reach 20 ft., one target. *Hit:* 17 (2d8+8) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 19 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Poison Breath (Recharge 5-6).*** The dragon exhales poisonous gas in a 90-foot cone. Each creature in that area must make a DC 22 Constitution saving throw, taking 77 (22d6) poison damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 23 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+
+## Adult Green Dragon
+
+*Huge dragon, lawful evil*
+
+**Armor Class** 19 (natural armor)
+
+**Hit Points** 207 (18d12+90)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 23 (+6) | 12 (+1) | 21 (+5) | 18 (+4) | 15 (+2) | 17 (+3) |
+
+**Saving Throws** Dex +6, Con +10, Wis +7, Cha +8
+
+**Skills** Deception +8, Insight +7, Perception +12, Persuasion +8, Stealth +6
+
+**Damage Immunities** poison
+
+**Condition Immunities** poisoned
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 22
+
+**Languages** Common, Draconic
+
+**Challenge** 15 (13,000 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage plus 7 (2d6) poison damage.
+
+***Claw.*** *Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +11 to hit, reach 15 ft., one target. *Hit:* 15 (2d8+6) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Poison Breath (Recharge 5-6).*** The dragon exhales poisonous gas in a 60-foot cone. Each creature in that area must make a DC 18 Constitution saving throw, taking 56 (16d6) poison damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6+6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young Green Dragon
+
+*Large dragon, lawful evil*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 136 (16d10+48)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 19 (+4) | 12 (+1) | 17 (+3) | 16 (+3) | 13 (+1) | 15 (+2) |
+
+**Saving Throws** Dex +4, Con +6, Wis +4, Cha +5
+
+**Skills** Deception +5, Perception +7, Stealth +4
+
+**Damage Immunities** poison
+
+**Condition Immunities** poisoned
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 17
+
+**Languages** Common, Draconic
+
+**Challenge** 8 (3,900 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 15 (2d10+4) piercing damage plus 7 (2d6) poison damage.
+
+***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6+4) slashing damage.
+
+***Poison Breath (Recharge 5-6).*** The dragon exhales poisonous gas in a 30-foot cone. Each creature in that area must make a DC 14 Constitution saving throw, taking 42 (12d6) poison damage on a failed save, or half as much damage on a successful one.
+
+## Green Dragon Wyrmling
+
+*Medium dragon, lawful evil*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 38 (7d8+7)
+
+**Speed** 30 ft., fly 60 ft., swim 30 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 15 (+2) | 12 (+1) | 13 (+1) | 14 (+2) | 11 (+0) | 13 (+1) |
+
+**Saving Throws** Dex +3, Con +3, Wis +2, Cha +3
+
+**Skills** Perception +4, Stealth +3
+
+**Damage Immunities** poison
+
+**Condition Immunities** poisoned
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 2 (450 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10+2) piercing damage plus 3 (1d6) poison damage.
+
+***Poison Breath (Recharge 5-6).*** The dragon exhales poisonous gas in a 15-foot cone. Each creature in that area must make a DC 11 Constitution saving throw, taking 21 (6d6) poison damage on a failed save, or half as much damage on a successful one.
+
+## Red Dragon
+
+## Ancient Red Dragon
+
+*Gargantuan dragon, chaotic evil*
+
+**Armor Class** 22 (natural armor)
+
+**Hit Points** 546 (28d20+252)
+
+**Speed** 40 ft., climb 40 ft., fly 80 ft.
+
+| STR      | DEX     | CON     | INT     | WIS     | CHA     |
+|----------|---------|---------|---------|---------|---------|
+| 30 (+10) | 10 (+0) | 29 (+9) | 18 (+4) | 15 (+2) | 23 (+6) |
+
+**Saving Throws** Dex +7, Con +16, Wis +9, Cha +13
+
+**Skills** Perception +16, Stealth +7
+
+**Damage Immunities** fire
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 26
+
+**Languages** Common, Draconic
+
+**Challenge** 24 (62,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +17 to hit, reach 15 ft., one target. *Hit:* 21 (2d10+10) piercing damage plus 14 (4d6) fire damage.
+
+***Claw.*** *Melee Weapon Attack:* +17 to hit, reach 10 ft., one target. *Hit:* 17 (2d6+10) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +17 to hit, reach 20 ft., one target. *Hit:* 19 (2d8+10) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 21 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Fire Breath (Recharge 5-6).*** The dragon exhales fire in a 90-foot cone. Each creature in that area must make a DC 24 Dexterity saving throw, taking 91 (26d6) fire damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6+10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Adult Red Dragon
+
+*Huge dragon, chaotic evil*
+
+**Armor Class** 19 (natural armor)
+
+**Hit Points** 256 (19d12+133)
+
+**Speed** 40 ft., climb 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 27 (+8) | 10 (+0) | 25 (+7) | 16 (+3) | 13 (+1) | 21 (+5) |
+
+**Saving Throws** Dex +6, Con +13, Wis +7, Cha +11
+
+**Skills** Perception +13, Stealth +6
+
+**Damage Immunities** fire
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 23
+
+**Languages** Common, Draconic
+
+**Challenge** 17 (18,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 19 (2d10+8) piercing damage plus 7 (2d6) fire damage.
+
+***Claw.*** *Melee Weapon Attack:* +14 to hit, reach 5 ft., one target. *Hit:* 15 (2d6+8) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +14 to hit, reach 15 ft., one target. *Hit:* 17 (2d8+8) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 19 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Fire Breath (Recharge 5-6).*** The dragon exhales fire in a 60-foot cone. Each creature in that area must make a DC 21 Dexterity saving throw, taking 63 (18d6) fire damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young Red Dragon
+
+Large dragon, chaotic evil
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 178 (17d10+85)
+
+**Speed** 40 ft., climb 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 23 (+6) | 10 (+0) | 21 (+5) | 14 (+2) | 11 (+0) | 19 (+4) |
+
+**Saving Throws** Dex +4, Con +9, Wis +4, Cha +8
+
+**Skills** Perception +8, Stealth +4
+
+**Damage Immunities** fire
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 18
+
+**Languages** Common, Draconic
+
+**Challenge** 10 (5,900 XP)
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage plus 3 (1d6) fire damage.
+
+***Claw.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Fire Breath (Recharge 5-6).*** The dragon exhales fire in a 30-foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 56 (16d6) fire damage on a failed save, or half as much damage on a successful one.
+
+## Red Dragon Wyrmling
+
+*Medium dragon, chaotic evil*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 75 (10d8+30)
+
+**Speed** 30 ft., climb 30 ft., fly 60 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 19 (+4) | 10 (+0) | 17 (+3) | 12 (+1) | 11 (+0) | 15 (+2) |
+
+**Saving Throws** Dex +2, Con +5, Wis +2, Cha +4
+
+**Skills** Perception +4, Stealth +2
+
+**Damage Immunities** fire
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 4 (1,100 XP)
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (1d10+4) piercing damage plus 3 (1d6) fire damage.
+
+***Fire Breath (Recharge 5-6).*** The dragon exhales fire in a 15-foot cone. Each creature in that area must make a DC 13 Dexterity saving throw, taking 24 (7d6) fire damage on a failed save, or half as much damage on a successful one.
+
+## White Dragon
+
+## Ancient White Dragon
+
+*Gargantuan dragon, chaotic evil*
+
+**Armor Class** 20 (natural armor)
+
+**Hit Points** 333 (18d20+144)
+
+**Speed** 40 ft., burrow 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 26 (+8) | 10 (+0) | 26 (+8) | 10 (+0) | 13 (+1) | 14 (+2) |
+
+**Saving Throws** Dex +6, Con +14, Wis +7, Cha +8
+
+**Skills** Perception +13, Stealth +6
+
+**Damage Immunities** cold
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 23
+
+**Languages** Common, Draconic
+
+**Challenge** 20 (25,000 XP)
+
+***Ice Walk.*** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +14 to hit, reach 15 ft., one target. *Hit:* 19 (2d10+8) piercing damage plus 9 (2d8) cold damage.
+
+***Claw.*** *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 15 (2d6+8) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +14 to hit, reach 20 ft., one target. *Hit:* 17 (2d8+8) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast in a 90-foot cone. Each creature in that area must make a DC 22 Constitution saving throw, taking 72 (16d8) cold damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Adult White Dragon
+
+*Huge dragon, chaotic evil*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 200 (16d12+96)
+
+**Speed** 40 ft., burrow 30 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+|---------|---------|---------|--------|---------|---------|
+| 22 (+6) | 10 (+0) | 22 (+6) | 8 (-1) | 12 (+1) | 12 (+1) |
+
+**Saving Throws** Dex +5, Con +11, Wis +6, Cha +6
+
+**Skills** Perception +11, Stealth +5
+
+**Damage Immunities** cold
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 21
+
+**Languages** Common, Draconic
+
+**Challenge** 13 (10,000 XP)
+
+***Ice Walk.*** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage plus 4 (1d8) cold damage.
+
+***Claw.*** *Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +11 to hit, reach 15 ft., one target. *Hit:* 15 (2d8+6) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 14 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast in a 60-foot cone. Each creature in that area must make a DC 19 Constitution saving throw, taking 54 (12d8) cold damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6+6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young White Dragon
+
+*Large dragon, chaotic evil*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 133 (14d10+56)
+
+**Speed** 40 ft., burrow 20 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+|---------|---------|---------|--------|---------|---------|
+| 18 (+4) | 10 (+0) | 18 (+4) | 6 (-2) | 11 (+0) | 12 (+1) |
+
+**Saving Throws** Dex +3, Con +7, Wis +3, Cha +4
+
+**Skills** Perception +6, Stealth +3
+
+**Damage Immunities** cold
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 16
+
+**Languages** Common, Draconic
+
+**Challenge** 6 (2,300 XP)
+
+***Ice Walk.*** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 15 (2d10+4) piercing damage plus 4 (1d8) cold damage.
+
+***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6+4) slashing damage.
+
+***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast in a 30-foot cone. Each creature in that area must make a DC 15 Constitution saving throw, taking 45 (10d8) cold damage on a failed save, or half as much damage on a successful one.
+
+## White Dragon Wyrmling
+
+*Medium dragon, chaotic evil*
+
+**Armor Class** 16 (natural armor)
+
+**Hit Points** 32 (5d8+10)
+
+**Speed** 30 ft., burrow 15 ft., fly 60 ft., swim 30 ft.
+
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+|---------|---------|---------|--------|---------|---------|
+| 14 (+2) | 10 (+0) | 14 (+2) | 5 (-3) | 10 (+0) | 11 (+0) |
+
+**Saving Throws** Dex +2, Con +4, Wis +2, Cha +2
+
+**Skills** Perception +4, Stealth +2
+
+**Damage Immunities** cold
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 2 (450 XP)
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10+2) piercing damage plus 2 (1d4) cold damage.
+
+***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast of hail in a 15-foot cone. Each creature in that area must make a DC 12 Constitution saving throw, taking 22 (5d8) cold damage on a failed save, or half as much damage on a successful one.
+
 # Dragon Blue Ancient
 
 *Gargantuan dragon, lawful evil*
@@ -1628,6 +6013,669 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 24 Dexterity saving throw or take 16 (2d6+9) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
+## Adult Blue Dragon
+
+*Huge dragon, lawful evil*
+
+**Armor Class** 19 (natural armor)
+
+**Hit Points** 225 (18d12+108)
+
+**Speed** 40 ft., burrow 30 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 25 (+7) | 10 (+0) | 23 (+6) | 16 (+3) | 15 (+2) | 19 (+4) |
+
+**Saving Throws** Dex +5, Con +11, Wis +7, Cha +9
+
+**Skills** Perception +12, Stealth +5
+
+**Damage Immunities** lightning
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 22
+
+**Languages** Common, Draconic
+
+**Challenge** 16 (15,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +12 to hit, reach 10 ft., one target. *Hit:* 18 (2d10+7) piercing damage plus 5 (1d10) lightning damage.
+
+***Claw.*** *Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:* 14 (2d6+7) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +12 to hit, reach 15 ft., one target. *Hit:* 16 (2d8+7) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 17 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Lightning Breath (Recharge 5-6).*** The dragon exhales lightning in a 90-foot line that is 5 feet wide. Each creature in that line must make a DC 19 Dexterity saving throw, taking 66 (12d10) lightning damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 20 Dexterity saving throw or take 14 (2d6+7) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young Blue Dragon
+
+*Large dragon, lawful evil*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 152 (16d10+64)
+
+**Speed** 40 ft., burrow 20 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 21 (+5) | 10 (+0) | 19 (+4) | 14 (+2) | 13 (+1) | 17 (+3) |
+
+**Saving Throws** Dex +4, Con +8, Wis +5, Cha +7
+
+**Skills** Perception +9, Stealth +4
+
+**Damage Immunities** lightning
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 19
+
+**Languages** Common, Draconic
+
+**Challenge** 9 (5,000 XP)
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 16 (2d10+5) piercing damage plus 5 (1d10) lightning damage.
+
+***Claw.*** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 12 (2d6+5) slashing damage.
+
+***Lightning Breath (Recharge 5-6).*** The dragon exhales lightning in an 60-foot line that is 5 feet wide. Each creature in that line must make a DC 16 Dexterity saving throw, taking 55 (10d10) lightning damage on a failed save, or half as much damage on a successful one.
+
+## Blue Dragon Wyrmling
+
+*Medium dragon, lawful evil*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 52 (8d8+16)
+
+**Speed** 30 ft., burrow 15 ft., fly 60 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 17 (+3) | 10 (+0) | 15 (+2) | 12 (+1) | 11 (+0) | 15 (+2) |
+
+**Saving Throws** Dex +2, Con +4, Wis +2, Cha +4
+
+**Skills** Perception +4, Stealth +2
+
+**Damage Immunities** lightning
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 3 (700 XP)
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (1d10+3) piercing damage plus 3 (1d6) lightning damage.
+
+***Lightning Breath (Recharge 5-6).*** The dragon exhales lightning in a 30-foot line that is 5 feet wide. Each creature in that line must make a DC 12 Dexterity saving throw, taking 22 (4d10) lightning damage on a failed save, or half as much damage on a successful one.
+
+## Green Dragon
+
+## Ancient Green Dragon
+
+*Gargantuan dragon, lawful evil*
+
+**Armor Class** 21 (natural armor)
+
+**Hit Points** 385 (22d20 + 154)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 27 (+8) | 12 (+1) | 25 (+7) | 20 (+5) | 17 (+3) | 19 (+4) |
+
+**Saving Throws** Dex +8, Con +14, Wis +10, Cha +11
+
+**Skills** Deception +11, Insight +10, Perception +17, Persuasion +11, Stealth +8
+
+**Damage Immunities** poison
+
+**Condition Immunities** poisoned
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 27
+
+**Languages** Common, Draconic
+
+**Challenge** 22 (41,000 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +15 to hit, reach 15 ft., one target. *Hit:* 19 (2d10+8) piercing damage plus 10 (3d6) poison damage.
+
+***Claw.*** *Melee Weapon Attack:* +15 to hit, reach 10 ft., one target. *Hit:* 22 (4d6+8) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +15 to hit, reach 20 ft., one target. *Hit:* 17 (2d8+8) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 19 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Poison Breath (Recharge 5-6).*** The dragon exhales poisonous gas in a 90-foot cone. Each creature in that area must make a DC 22 Constitution saving throw, taking 77 (22d6) poison damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 23 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+
+## Adult Green Dragon
+
+*Huge dragon, lawful evil*
+
+**Armor Class** 19 (natural armor)
+
+**Hit Points** 207 (18d12+90)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 23 (+6) | 12 (+1) | 21 (+5) | 18 (+4) | 15 (+2) | 17 (+3) |
+
+**Saving Throws** Dex +6, Con +10, Wis +7, Cha +8
+
+**Skills** Deception +8, Insight +7, Perception +12, Persuasion +8, Stealth +6
+
+**Damage Immunities** poison
+
+**Condition Immunities** poisoned
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 22
+
+**Languages** Common, Draconic
+
+**Challenge** 15 (13,000 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage plus 7 (2d6) poison damage.
+
+***Claw.*** *Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +11 to hit, reach 15 ft., one target. *Hit:* 15 (2d8+6) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Poison Breath (Recharge 5-6).*** The dragon exhales poisonous gas in a 60-foot cone. Each creature in that area must make a DC 18 Constitution saving throw, taking 56 (16d6) poison damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6+6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young Green Dragon
+
+*Large dragon, lawful evil*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 136 (16d10+48)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 19 (+4) | 12 (+1) | 17 (+3) | 16 (+3) | 13 (+1) | 15 (+2) |
+
+**Saving Throws** Dex +4, Con +6, Wis +4, Cha +5
+
+**Skills** Deception +5, Perception +7, Stealth +4
+
+**Damage Immunities** poison
+
+**Condition Immunities** poisoned
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 17
+
+**Languages** Common, Draconic
+
+**Challenge** 8 (3,900 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 15 (2d10+4) piercing damage plus 7 (2d6) poison damage.
+
+***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6+4) slashing damage.
+
+***Poison Breath (Recharge 5-6).*** The dragon exhales poisonous gas in a 30-foot cone. Each creature in that area must make a DC 14 Constitution saving throw, taking 42 (12d6) poison damage on a failed save, or half as much damage on a successful one.
+
+## Green Dragon Wyrmling
+
+*Medium dragon, lawful evil*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 38 (7d8+7)
+
+**Speed** 30 ft., fly 60 ft., swim 30 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 15 (+2) | 12 (+1) | 13 (+1) | 14 (+2) | 11 (+0) | 13 (+1) |
+
+**Saving Throws** Dex +3, Con +3, Wis +2, Cha +3
+
+**Skills** Perception +4, Stealth +3
+
+**Damage Immunities** poison
+
+**Condition Immunities** poisoned
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 2 (450 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10+2) piercing damage plus 3 (1d6) poison damage.
+
+***Poison Breath (Recharge 5-6).*** The dragon exhales poisonous gas in a 15-foot cone. Each creature in that area must make a DC 11 Constitution saving throw, taking 21 (6d6) poison damage on a failed save, or half as much damage on a successful one.
+
+## Red Dragon
+
+## Ancient Red Dragon
+
+*Gargantuan dragon, chaotic evil*
+
+**Armor Class** 22 (natural armor)
+
+**Hit Points** 546 (28d20+252)
+
+**Speed** 40 ft., climb 40 ft., fly 80 ft.
+
+| STR      | DEX     | CON     | INT     | WIS     | CHA     |
+|----------|---------|---------|---------|---------|---------|
+| 30 (+10) | 10 (+0) | 29 (+9) | 18 (+4) | 15 (+2) | 23 (+6) |
+
+**Saving Throws** Dex +7, Con +16, Wis +9, Cha +13
+
+**Skills** Perception +16, Stealth +7
+
+**Damage Immunities** fire
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 26
+
+**Languages** Common, Draconic
+
+**Challenge** 24 (62,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +17 to hit, reach 15 ft., one target. *Hit:* 21 (2d10+10) piercing damage plus 14 (4d6) fire damage.
+
+***Claw.*** *Melee Weapon Attack:* +17 to hit, reach 10 ft., one target. *Hit:* 17 (2d6+10) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +17 to hit, reach 20 ft., one target. *Hit:* 19 (2d8+10) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 21 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Fire Breath (Recharge 5-6).*** The dragon exhales fire in a 90-foot cone. Each creature in that area must make a DC 24 Dexterity saving throw, taking 91 (26d6) fire damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6+10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Adult Red Dragon
+
+*Huge dragon, chaotic evil*
+
+**Armor Class** 19 (natural armor)
+
+**Hit Points** 256 (19d12+133)
+
+**Speed** 40 ft., climb 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 27 (+8) | 10 (+0) | 25 (+7) | 16 (+3) | 13 (+1) | 21 (+5) |
+
+**Saving Throws** Dex +6, Con +13, Wis +7, Cha +11
+
+**Skills** Perception +13, Stealth +6
+
+**Damage Immunities** fire
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 23
+
+**Languages** Common, Draconic
+
+**Challenge** 17 (18,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 19 (2d10+8) piercing damage plus 7 (2d6) fire damage.
+
+***Claw.*** *Melee Weapon Attack:* +14 to hit, reach 5 ft., one target. *Hit:* 15 (2d6+8) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +14 to hit, reach 15 ft., one target. *Hit:* 17 (2d8+8) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 19 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Fire Breath (Recharge 5-6).*** The dragon exhales fire in a 60-foot cone. Each creature in that area must make a DC 21 Dexterity saving throw, taking 63 (18d6) fire damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young Red Dragon
+
+Large dragon, chaotic evil
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 178 (17d10+85)
+
+**Speed** 40 ft., climb 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 23 (+6) | 10 (+0) | 21 (+5) | 14 (+2) | 11 (+0) | 19 (+4) |
+
+**Saving Throws** Dex +4, Con +9, Wis +4, Cha +8
+
+**Skills** Perception +8, Stealth +4
+
+**Damage Immunities** fire
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 18
+
+**Languages** Common, Draconic
+
+**Challenge** 10 (5,900 XP)
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage plus 3 (1d6) fire damage.
+
+***Claw.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Fire Breath (Recharge 5-6).*** The dragon exhales fire in a 30-foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 56 (16d6) fire damage on a failed save, or half as much damage on a successful one.
+
+## Red Dragon Wyrmling
+
+*Medium dragon, chaotic evil*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 75 (10d8+30)
+
+**Speed** 30 ft., climb 30 ft., fly 60 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 19 (+4) | 10 (+0) | 17 (+3) | 12 (+1) | 11 (+0) | 15 (+2) |
+
+**Saving Throws** Dex +2, Con +5, Wis +2, Cha +4
+
+**Skills** Perception +4, Stealth +2
+
+**Damage Immunities** fire
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 4 (1,100 XP)
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (1d10+4) piercing damage plus 3 (1d6) fire damage.
+
+***Fire Breath (Recharge 5-6).*** The dragon exhales fire in a 15-foot cone. Each creature in that area must make a DC 13 Dexterity saving throw, taking 24 (7d6) fire damage on a failed save, or half as much damage on a successful one.
+
+## White Dragon
+
+## Ancient White Dragon
+
+*Gargantuan dragon, chaotic evil*
+
+**Armor Class** 20 (natural armor)
+
+**Hit Points** 333 (18d20+144)
+
+**Speed** 40 ft., burrow 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 26 (+8) | 10 (+0) | 26 (+8) | 10 (+0) | 13 (+1) | 14 (+2) |
+
+**Saving Throws** Dex +6, Con +14, Wis +7, Cha +8
+
+**Skills** Perception +13, Stealth +6
+
+**Damage Immunities** cold
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 23
+
+**Languages** Common, Draconic
+
+**Challenge** 20 (25,000 XP)
+
+***Ice Walk.*** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +14 to hit, reach 15 ft., one target. *Hit:* 19 (2d10+8) piercing damage plus 9 (2d8) cold damage.
+
+***Claw.*** *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 15 (2d6+8) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +14 to hit, reach 20 ft., one target. *Hit:* 17 (2d8+8) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast in a 90-foot cone. Each creature in that area must make a DC 22 Constitution saving throw, taking 72 (16d8) cold damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Adult White Dragon
+
+*Huge dragon, chaotic evil*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 200 (16d12+96)
+
+**Speed** 40 ft., burrow 30 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+|---------|---------|---------|--------|---------|---------|
+| 22 (+6) | 10 (+0) | 22 (+6) | 8 (-1) | 12 (+1) | 12 (+1) |
+
+**Saving Throws** Dex +5, Con +11, Wis +6, Cha +6
+
+**Skills** Perception +11, Stealth +5
+
+**Damage Immunities** cold
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 21
+
+**Languages** Common, Draconic
+
+**Challenge** 13 (10,000 XP)
+
+***Ice Walk.*** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage plus 4 (1d8) cold damage.
+
+***Claw.*** *Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +11 to hit, reach 15 ft., one target. *Hit:* 15 (2d8+6) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 14 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast in a 60-foot cone. Each creature in that area must make a DC 19 Constitution saving throw, taking 54 (12d8) cold damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6+6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young White Dragon
+
+*Large dragon, chaotic evil*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 133 (14d10+56)
+
+**Speed** 40 ft., burrow 20 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+|---------|---------|---------|--------|---------|---------|
+| 18 (+4) | 10 (+0) | 18 (+4) | 6 (-2) | 11 (+0) | 12 (+1) |
+
+**Saving Throws** Dex +3, Con +7, Wis +3, Cha +4
+
+**Skills** Perception +6, Stealth +3
+
+**Damage Immunities** cold
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 16
+
+**Languages** Common, Draconic
+
+**Challenge** 6 (2,300 XP)
+
+***Ice Walk.*** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 15 (2d10+4) piercing damage plus 4 (1d8) cold damage.
+
+***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6+4) slashing damage.
+
+***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast in a 30-foot cone. Each creature in that area must make a DC 15 Constitution saving throw, taking 45 (10d8) cold damage on a failed save, or half as much damage on a successful one.
+
+## White Dragon Wyrmling
+
+*Medium dragon, chaotic evil*
+
+**Armor Class** 16 (natural armor)
+
+**Hit Points** 32 (5d8+10)
+
+**Speed** 30 ft., burrow 15 ft., fly 60 ft., swim 30 ft.
+
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+|---------|---------|---------|--------|---------|---------|
+| 14 (+2) | 10 (+0) | 14 (+2) | 5 (-3) | 10 (+0) | 11 (+0) |
+
+**Saving Throws** Dex +2, Con +4, Wis +2, Cha +2
+
+**Skills** Perception +4, Stealth +2
+
+**Damage Immunities** cold
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 2 (450 XP)
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10+2) piercing damage plus 2 (1d4) cold damage.
+
+***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast of hail in a 15-foot cone. Each creature in that area must make a DC 12 Constitution saving throw, taking 22 (5d8) cold damage on a failed save, or half as much damage on a successful one.
+
 # Dragon Blue Wyrmling
 
 *Medium dragon, lawful evil*
@@ -1661,6 +6709,549 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (1d10+3) piercing damage plus 3 (1d6) lightning damage.
 
 ***Lightning Breath (Recharge 5-6).*** The dragon exhales lightning in a 30-foot line that is 5 feet wide. Each creature in that line must make a DC 12 Dexterity saving throw, taking 22 (4d10) lightning damage on a failed save, or half as much damage on a successful one.
+
+## Green Dragon
+
+## Ancient Green Dragon
+
+*Gargantuan dragon, lawful evil*
+
+**Armor Class** 21 (natural armor)
+
+**Hit Points** 385 (22d20 + 154)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 27 (+8) | 12 (+1) | 25 (+7) | 20 (+5) | 17 (+3) | 19 (+4) |
+
+**Saving Throws** Dex +8, Con +14, Wis +10, Cha +11
+
+**Skills** Deception +11, Insight +10, Perception +17, Persuasion +11, Stealth +8
+
+**Damage Immunities** poison
+
+**Condition Immunities** poisoned
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 27
+
+**Languages** Common, Draconic
+
+**Challenge** 22 (41,000 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +15 to hit, reach 15 ft., one target. *Hit:* 19 (2d10+8) piercing damage plus 10 (3d6) poison damage.
+
+***Claw.*** *Melee Weapon Attack:* +15 to hit, reach 10 ft., one target. *Hit:* 22 (4d6+8) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +15 to hit, reach 20 ft., one target. *Hit:* 17 (2d8+8) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 19 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Poison Breath (Recharge 5-6).*** The dragon exhales poisonous gas in a 90-foot cone. Each creature in that area must make a DC 22 Constitution saving throw, taking 77 (22d6) poison damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 23 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+
+## Adult Green Dragon
+
+*Huge dragon, lawful evil*
+
+**Armor Class** 19 (natural armor)
+
+**Hit Points** 207 (18d12+90)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 23 (+6) | 12 (+1) | 21 (+5) | 18 (+4) | 15 (+2) | 17 (+3) |
+
+**Saving Throws** Dex +6, Con +10, Wis +7, Cha +8
+
+**Skills** Deception +8, Insight +7, Perception +12, Persuasion +8, Stealth +6
+
+**Damage Immunities** poison
+
+**Condition Immunities** poisoned
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 22
+
+**Languages** Common, Draconic
+
+**Challenge** 15 (13,000 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage plus 7 (2d6) poison damage.
+
+***Claw.*** *Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +11 to hit, reach 15 ft., one target. *Hit:* 15 (2d8+6) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Poison Breath (Recharge 5-6).*** The dragon exhales poisonous gas in a 60-foot cone. Each creature in that area must make a DC 18 Constitution saving throw, taking 56 (16d6) poison damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6+6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young Green Dragon
+
+*Large dragon, lawful evil*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 136 (16d10+48)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 19 (+4) | 12 (+1) | 17 (+3) | 16 (+3) | 13 (+1) | 15 (+2) |
+
+**Saving Throws** Dex +4, Con +6, Wis +4, Cha +5
+
+**Skills** Deception +5, Perception +7, Stealth +4
+
+**Damage Immunities** poison
+
+**Condition Immunities** poisoned
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 17
+
+**Languages** Common, Draconic
+
+**Challenge** 8 (3,900 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 15 (2d10+4) piercing damage plus 7 (2d6) poison damage.
+
+***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6+4) slashing damage.
+
+***Poison Breath (Recharge 5-6).*** The dragon exhales poisonous gas in a 30-foot cone. Each creature in that area must make a DC 14 Constitution saving throw, taking 42 (12d6) poison damage on a failed save, or half as much damage on a successful one.
+
+## Green Dragon Wyrmling
+
+*Medium dragon, lawful evil*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 38 (7d8+7)
+
+**Speed** 30 ft., fly 60 ft., swim 30 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 15 (+2) | 12 (+1) | 13 (+1) | 14 (+2) | 11 (+0) | 13 (+1) |
+
+**Saving Throws** Dex +3, Con +3, Wis +2, Cha +3
+
+**Skills** Perception +4, Stealth +3
+
+**Damage Immunities** poison
+
+**Condition Immunities** poisoned
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 2 (450 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10+2) piercing damage plus 3 (1d6) poison damage.
+
+***Poison Breath (Recharge 5-6).*** The dragon exhales poisonous gas in a 15-foot cone. Each creature in that area must make a DC 11 Constitution saving throw, taking 21 (6d6) poison damage on a failed save, or half as much damage on a successful one.
+
+## Red Dragon
+
+## Ancient Red Dragon
+
+*Gargantuan dragon, chaotic evil*
+
+**Armor Class** 22 (natural armor)
+
+**Hit Points** 546 (28d20+252)
+
+**Speed** 40 ft., climb 40 ft., fly 80 ft.
+
+| STR      | DEX     | CON     | INT     | WIS     | CHA     |
+|----------|---------|---------|---------|---------|---------|
+| 30 (+10) | 10 (+0) | 29 (+9) | 18 (+4) | 15 (+2) | 23 (+6) |
+
+**Saving Throws** Dex +7, Con +16, Wis +9, Cha +13
+
+**Skills** Perception +16, Stealth +7
+
+**Damage Immunities** fire
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 26
+
+**Languages** Common, Draconic
+
+**Challenge** 24 (62,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +17 to hit, reach 15 ft., one target. *Hit:* 21 (2d10+10) piercing damage plus 14 (4d6) fire damage.
+
+***Claw.*** *Melee Weapon Attack:* +17 to hit, reach 10 ft., one target. *Hit:* 17 (2d6+10) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +17 to hit, reach 20 ft., one target. *Hit:* 19 (2d8+10) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 21 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Fire Breath (Recharge 5-6).*** The dragon exhales fire in a 90-foot cone. Each creature in that area must make a DC 24 Dexterity saving throw, taking 91 (26d6) fire damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6+10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Adult Red Dragon
+
+*Huge dragon, chaotic evil*
+
+**Armor Class** 19 (natural armor)
+
+**Hit Points** 256 (19d12+133)
+
+**Speed** 40 ft., climb 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 27 (+8) | 10 (+0) | 25 (+7) | 16 (+3) | 13 (+1) | 21 (+5) |
+
+**Saving Throws** Dex +6, Con +13, Wis +7, Cha +11
+
+**Skills** Perception +13, Stealth +6
+
+**Damage Immunities** fire
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 23
+
+**Languages** Common, Draconic
+
+**Challenge** 17 (18,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 19 (2d10+8) piercing damage plus 7 (2d6) fire damage.
+
+***Claw.*** *Melee Weapon Attack:* +14 to hit, reach 5 ft., one target. *Hit:* 15 (2d6+8) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +14 to hit, reach 15 ft., one target. *Hit:* 17 (2d8+8) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 19 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Fire Breath (Recharge 5-6).*** The dragon exhales fire in a 60-foot cone. Each creature in that area must make a DC 21 Dexterity saving throw, taking 63 (18d6) fire damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young Red Dragon
+
+Large dragon, chaotic evil
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 178 (17d10+85)
+
+**Speed** 40 ft., climb 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 23 (+6) | 10 (+0) | 21 (+5) | 14 (+2) | 11 (+0) | 19 (+4) |
+
+**Saving Throws** Dex +4, Con +9, Wis +4, Cha +8
+
+**Skills** Perception +8, Stealth +4
+
+**Damage Immunities** fire
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 18
+
+**Languages** Common, Draconic
+
+**Challenge** 10 (5,900 XP)
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage plus 3 (1d6) fire damage.
+
+***Claw.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Fire Breath (Recharge 5-6).*** The dragon exhales fire in a 30-foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 56 (16d6) fire damage on a failed save, or half as much damage on a successful one.
+
+## Red Dragon Wyrmling
+
+*Medium dragon, chaotic evil*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 75 (10d8+30)
+
+**Speed** 30 ft., climb 30 ft., fly 60 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 19 (+4) | 10 (+0) | 17 (+3) | 12 (+1) | 11 (+0) | 15 (+2) |
+
+**Saving Throws** Dex +2, Con +5, Wis +2, Cha +4
+
+**Skills** Perception +4, Stealth +2
+
+**Damage Immunities** fire
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 4 (1,100 XP)
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (1d10+4) piercing damage plus 3 (1d6) fire damage.
+
+***Fire Breath (Recharge 5-6).*** The dragon exhales fire in a 15-foot cone. Each creature in that area must make a DC 13 Dexterity saving throw, taking 24 (7d6) fire damage on a failed save, or half as much damage on a successful one.
+
+## White Dragon
+
+## Ancient White Dragon
+
+*Gargantuan dragon, chaotic evil*
+
+**Armor Class** 20 (natural armor)
+
+**Hit Points** 333 (18d20+144)
+
+**Speed** 40 ft., burrow 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 26 (+8) | 10 (+0) | 26 (+8) | 10 (+0) | 13 (+1) | 14 (+2) |
+
+**Saving Throws** Dex +6, Con +14, Wis +7, Cha +8
+
+**Skills** Perception +13, Stealth +6
+
+**Damage Immunities** cold
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 23
+
+**Languages** Common, Draconic
+
+**Challenge** 20 (25,000 XP)
+
+***Ice Walk.*** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +14 to hit, reach 15 ft., one target. *Hit:* 19 (2d10+8) piercing damage plus 9 (2d8) cold damage.
+
+***Claw.*** *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 15 (2d6+8) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +14 to hit, reach 20 ft., one target. *Hit:* 17 (2d8+8) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast in a 90-foot cone. Each creature in that area must make a DC 22 Constitution saving throw, taking 72 (16d8) cold damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Adult White Dragon
+
+*Huge dragon, chaotic evil*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 200 (16d12+96)
+
+**Speed** 40 ft., burrow 30 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+|---------|---------|---------|--------|---------|---------|
+| 22 (+6) | 10 (+0) | 22 (+6) | 8 (-1) | 12 (+1) | 12 (+1) |
+
+**Saving Throws** Dex +5, Con +11, Wis +6, Cha +6
+
+**Skills** Perception +11, Stealth +5
+
+**Damage Immunities** cold
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 21
+
+**Languages** Common, Draconic
+
+**Challenge** 13 (10,000 XP)
+
+***Ice Walk.*** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage plus 4 (1d8) cold damage.
+
+***Claw.*** *Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +11 to hit, reach 15 ft., one target. *Hit:* 15 (2d8+6) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 14 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast in a 60-foot cone. Each creature in that area must make a DC 19 Constitution saving throw, taking 54 (12d8) cold damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6+6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young White Dragon
+
+*Large dragon, chaotic evil*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 133 (14d10+56)
+
+**Speed** 40 ft., burrow 20 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+|---------|---------|---------|--------|---------|---------|
+| 18 (+4) | 10 (+0) | 18 (+4) | 6 (-2) | 11 (+0) | 12 (+1) |
+
+**Saving Throws** Dex +3, Con +7, Wis +3, Cha +4
+
+**Skills** Perception +6, Stealth +3
+
+**Damage Immunities** cold
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 16
+
+**Languages** Common, Draconic
+
+**Challenge** 6 (2,300 XP)
+
+***Ice Walk.*** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 15 (2d10+4) piercing damage plus 4 (1d8) cold damage.
+
+***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6+4) slashing damage.
+
+***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast in a 30-foot cone. Each creature in that area must make a DC 15 Constitution saving throw, taking 45 (10d8) cold damage on a failed save, or half as much damage on a successful one.
+
+## White Dragon Wyrmling
+
+*Medium dragon, chaotic evil*
+
+**Armor Class** 16 (natural armor)
+
+**Hit Points** 32 (5d8+10)
+
+**Speed** 30 ft., burrow 15 ft., fly 60 ft., swim 30 ft.
+
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+|---------|---------|---------|--------|---------|---------|
+| 14 (+2) | 10 (+0) | 14 (+2) | 5 (-3) | 10 (+0) | 11 (+0) |
+
+**Saving Throws** Dex +2, Con +4, Wis +2, Cha +2
+
+**Skills** Perception +4, Stealth +2
+
+**Damage Immunities** cold
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 2 (450 XP)
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10+2) piercing damage plus 2 (1d4) cold damage.
+
+***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast of hail in a 15-foot cone. Each creature in that area must make a DC 12 Constitution saving throw, taking 22 (5d8) cold damage on a failed save, or half as much damage on a successful one.
 
 # Dragon Blue Young
 
@@ -1699,6 +7290,581 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 ***Claw.*** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 12 (2d6+5) slashing damage.
 
 ***Lightning Breath (Recharge 5-6).*** The dragon exhales lightning in an 60-foot line that is 5 feet wide. Each creature in that line must make a DC 16 Dexterity saving throw, taking 55 (10d10) lightning damage on a failed save, or half as much damage on a successful one.
+
+## Blue Dragon Wyrmling
+
+*Medium dragon, lawful evil*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 52 (8d8+16)
+
+**Speed** 30 ft., burrow 15 ft., fly 60 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 17 (+3) | 10 (+0) | 15 (+2) | 12 (+1) | 11 (+0) | 15 (+2) |
+
+**Saving Throws** Dex +2, Con +4, Wis +2, Cha +4
+
+**Skills** Perception +4, Stealth +2
+
+**Damage Immunities** lightning
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 3 (700 XP)
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (1d10+3) piercing damage plus 3 (1d6) lightning damage.
+
+***Lightning Breath (Recharge 5-6).*** The dragon exhales lightning in a 30-foot line that is 5 feet wide. Each creature in that line must make a DC 12 Dexterity saving throw, taking 22 (4d10) lightning damage on a failed save, or half as much damage on a successful one.
+
+## Green Dragon
+
+## Ancient Green Dragon
+
+*Gargantuan dragon, lawful evil*
+
+**Armor Class** 21 (natural armor)
+
+**Hit Points** 385 (22d20 + 154)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 27 (+8) | 12 (+1) | 25 (+7) | 20 (+5) | 17 (+3) | 19 (+4) |
+
+**Saving Throws** Dex +8, Con +14, Wis +10, Cha +11
+
+**Skills** Deception +11, Insight +10, Perception +17, Persuasion +11, Stealth +8
+
+**Damage Immunities** poison
+
+**Condition Immunities** poisoned
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 27
+
+**Languages** Common, Draconic
+
+**Challenge** 22 (41,000 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +15 to hit, reach 15 ft., one target. *Hit:* 19 (2d10+8) piercing damage plus 10 (3d6) poison damage.
+
+***Claw.*** *Melee Weapon Attack:* +15 to hit, reach 10 ft., one target. *Hit:* 22 (4d6+8) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +15 to hit, reach 20 ft., one target. *Hit:* 17 (2d8+8) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 19 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Poison Breath (Recharge 5-6).*** The dragon exhales poisonous gas in a 90-foot cone. Each creature in that area must make a DC 22 Constitution saving throw, taking 77 (22d6) poison damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 23 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+
+## Adult Green Dragon
+
+*Huge dragon, lawful evil*
+
+**Armor Class** 19 (natural armor)
+
+**Hit Points** 207 (18d12+90)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 23 (+6) | 12 (+1) | 21 (+5) | 18 (+4) | 15 (+2) | 17 (+3) |
+
+**Saving Throws** Dex +6, Con +10, Wis +7, Cha +8
+
+**Skills** Deception +8, Insight +7, Perception +12, Persuasion +8, Stealth +6
+
+**Damage Immunities** poison
+
+**Condition Immunities** poisoned
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 22
+
+**Languages** Common, Draconic
+
+**Challenge** 15 (13,000 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage plus 7 (2d6) poison damage.
+
+***Claw.*** *Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +11 to hit, reach 15 ft., one target. *Hit:* 15 (2d8+6) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Poison Breath (Recharge 5-6).*** The dragon exhales poisonous gas in a 60-foot cone. Each creature in that area must make a DC 18 Constitution saving throw, taking 56 (16d6) poison damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6+6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young Green Dragon
+
+*Large dragon, lawful evil*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 136 (16d10+48)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 19 (+4) | 12 (+1) | 17 (+3) | 16 (+3) | 13 (+1) | 15 (+2) |
+
+**Saving Throws** Dex +4, Con +6, Wis +4, Cha +5
+
+**Skills** Deception +5, Perception +7, Stealth +4
+
+**Damage Immunities** poison
+
+**Condition Immunities** poisoned
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 17
+
+**Languages** Common, Draconic
+
+**Challenge** 8 (3,900 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 15 (2d10+4) piercing damage plus 7 (2d6) poison damage.
+
+***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6+4) slashing damage.
+
+***Poison Breath (Recharge 5-6).*** The dragon exhales poisonous gas in a 30-foot cone. Each creature in that area must make a DC 14 Constitution saving throw, taking 42 (12d6) poison damage on a failed save, or half as much damage on a successful one.
+
+## Green Dragon Wyrmling
+
+*Medium dragon, lawful evil*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 38 (7d8+7)
+
+**Speed** 30 ft., fly 60 ft., swim 30 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 15 (+2) | 12 (+1) | 13 (+1) | 14 (+2) | 11 (+0) | 13 (+1) |
+
+**Saving Throws** Dex +3, Con +3, Wis +2, Cha +3
+
+**Skills** Perception +4, Stealth +3
+
+**Damage Immunities** poison
+
+**Condition Immunities** poisoned
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 2 (450 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10+2) piercing damage plus 3 (1d6) poison damage.
+
+***Poison Breath (Recharge 5-6).*** The dragon exhales poisonous gas in a 15-foot cone. Each creature in that area must make a DC 11 Constitution saving throw, taking 21 (6d6) poison damage on a failed save, or half as much damage on a successful one.
+
+## Red Dragon
+
+## Ancient Red Dragon
+
+*Gargantuan dragon, chaotic evil*
+
+**Armor Class** 22 (natural armor)
+
+**Hit Points** 546 (28d20+252)
+
+**Speed** 40 ft., climb 40 ft., fly 80 ft.
+
+| STR      | DEX     | CON     | INT     | WIS     | CHA     |
+|----------|---------|---------|---------|---------|---------|
+| 30 (+10) | 10 (+0) | 29 (+9) | 18 (+4) | 15 (+2) | 23 (+6) |
+
+**Saving Throws** Dex +7, Con +16, Wis +9, Cha +13
+
+**Skills** Perception +16, Stealth +7
+
+**Damage Immunities** fire
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 26
+
+**Languages** Common, Draconic
+
+**Challenge** 24 (62,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +17 to hit, reach 15 ft., one target. *Hit:* 21 (2d10+10) piercing damage plus 14 (4d6) fire damage.
+
+***Claw.*** *Melee Weapon Attack:* +17 to hit, reach 10 ft., one target. *Hit:* 17 (2d6+10) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +17 to hit, reach 20 ft., one target. *Hit:* 19 (2d8+10) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 21 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Fire Breath (Recharge 5-6).*** The dragon exhales fire in a 90-foot cone. Each creature in that area must make a DC 24 Dexterity saving throw, taking 91 (26d6) fire damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6+10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Adult Red Dragon
+
+*Huge dragon, chaotic evil*
+
+**Armor Class** 19 (natural armor)
+
+**Hit Points** 256 (19d12+133)
+
+**Speed** 40 ft., climb 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 27 (+8) | 10 (+0) | 25 (+7) | 16 (+3) | 13 (+1) | 21 (+5) |
+
+**Saving Throws** Dex +6, Con +13, Wis +7, Cha +11
+
+**Skills** Perception +13, Stealth +6
+
+**Damage Immunities** fire
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 23
+
+**Languages** Common, Draconic
+
+**Challenge** 17 (18,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 19 (2d10+8) piercing damage plus 7 (2d6) fire damage.
+
+***Claw.*** *Melee Weapon Attack:* +14 to hit, reach 5 ft., one target. *Hit:* 15 (2d6+8) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +14 to hit, reach 15 ft., one target. *Hit:* 17 (2d8+8) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 19 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Fire Breath (Recharge 5-6).*** The dragon exhales fire in a 60-foot cone. Each creature in that area must make a DC 21 Dexterity saving throw, taking 63 (18d6) fire damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young Red Dragon
+
+Large dragon, chaotic evil
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 178 (17d10+85)
+
+**Speed** 40 ft., climb 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 23 (+6) | 10 (+0) | 21 (+5) | 14 (+2) | 11 (+0) | 19 (+4) |
+
+**Saving Throws** Dex +4, Con +9, Wis +4, Cha +8
+
+**Skills** Perception +8, Stealth +4
+
+**Damage Immunities** fire
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 18
+
+**Languages** Common, Draconic
+
+**Challenge** 10 (5,900 XP)
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage plus 3 (1d6) fire damage.
+
+***Claw.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Fire Breath (Recharge 5-6).*** The dragon exhales fire in a 30-foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 56 (16d6) fire damage on a failed save, or half as much damage on a successful one.
+
+## Red Dragon Wyrmling
+
+*Medium dragon, chaotic evil*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 75 (10d8+30)
+
+**Speed** 30 ft., climb 30 ft., fly 60 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 19 (+4) | 10 (+0) | 17 (+3) | 12 (+1) | 11 (+0) | 15 (+2) |
+
+**Saving Throws** Dex +2, Con +5, Wis +2, Cha +4
+
+**Skills** Perception +4, Stealth +2
+
+**Damage Immunities** fire
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 4 (1,100 XP)
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (1d10+4) piercing damage plus 3 (1d6) fire damage.
+
+***Fire Breath (Recharge 5-6).*** The dragon exhales fire in a 15-foot cone. Each creature in that area must make a DC 13 Dexterity saving throw, taking 24 (7d6) fire damage on a failed save, or half as much damage on a successful one.
+
+## White Dragon
+
+## Ancient White Dragon
+
+*Gargantuan dragon, chaotic evil*
+
+**Armor Class** 20 (natural armor)
+
+**Hit Points** 333 (18d20+144)
+
+**Speed** 40 ft., burrow 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 26 (+8) | 10 (+0) | 26 (+8) | 10 (+0) | 13 (+1) | 14 (+2) |
+
+**Saving Throws** Dex +6, Con +14, Wis +7, Cha +8
+
+**Skills** Perception +13, Stealth +6
+
+**Damage Immunities** cold
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 23
+
+**Languages** Common, Draconic
+
+**Challenge** 20 (25,000 XP)
+
+***Ice Walk.*** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +14 to hit, reach 15 ft., one target. *Hit:* 19 (2d10+8) piercing damage plus 9 (2d8) cold damage.
+
+***Claw.*** *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 15 (2d6+8) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +14 to hit, reach 20 ft., one target. *Hit:* 17 (2d8+8) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast in a 90-foot cone. Each creature in that area must make a DC 22 Constitution saving throw, taking 72 (16d8) cold damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Adult White Dragon
+
+*Huge dragon, chaotic evil*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 200 (16d12+96)
+
+**Speed** 40 ft., burrow 30 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+|---------|---------|---------|--------|---------|---------|
+| 22 (+6) | 10 (+0) | 22 (+6) | 8 (-1) | 12 (+1) | 12 (+1) |
+
+**Saving Throws** Dex +5, Con +11, Wis +6, Cha +6
+
+**Skills** Perception +11, Stealth +5
+
+**Damage Immunities** cold
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 21
+
+**Languages** Common, Draconic
+
+**Challenge** 13 (10,000 XP)
+
+***Ice Walk.*** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage plus 4 (1d8) cold damage.
+
+***Claw.*** *Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +11 to hit, reach 15 ft., one target. *Hit:* 15 (2d8+6) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 14 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast in a 60-foot cone. Each creature in that area must make a DC 19 Constitution saving throw, taking 54 (12d8) cold damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6+6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young White Dragon
+
+*Large dragon, chaotic evil*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 133 (14d10+56)
+
+**Speed** 40 ft., burrow 20 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+|---------|---------|---------|--------|---------|---------|
+| 18 (+4) | 10 (+0) | 18 (+4) | 6 (-2) | 11 (+0) | 12 (+1) |
+
+**Saving Throws** Dex +3, Con +7, Wis +3, Cha +4
+
+**Skills** Perception +6, Stealth +3
+
+**Damage Immunities** cold
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 16
+
+**Languages** Common, Draconic
+
+**Challenge** 6 (2,300 XP)
+
+***Ice Walk.*** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 15 (2d10+4) piercing damage plus 4 (1d8) cold damage.
+
+***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6+4) slashing damage.
+
+***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast in a 30-foot cone. Each creature in that area must make a DC 15 Constitution saving throw, taking 45 (10d8) cold damage on a failed save, or half as much damage on a successful one.
+
+## White Dragon Wyrmling
+
+*Medium dragon, chaotic evil*
+
+**Armor Class** 16 (natural armor)
+
+**Hit Points** 32 (5d8+10)
+
+**Speed** 30 ft., burrow 15 ft., fly 60 ft., swim 30 ft.
+
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+|---------|---------|---------|--------|---------|---------|
+| 14 (+2) | 10 (+0) | 14 (+2) | 5 (-3) | 10 (+0) | 11 (+0) |
+
+**Saving Throws** Dex +2, Con +4, Wis +2, Cha +2
+
+**Skills** Perception +4, Stealth +2
+
+**Damage Immunities** cold
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 2 (450 XP)
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10+2) piercing damage plus 2 (1d4) cold damage.
+
+***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast of hail in a 15-foot cone. Each creature in that area must make a DC 12 Constitution saving throw, taking 22 (5d8) cold damage on a failed save, or half as much damage on a successful one.
 
 # Dragon Brass Adult
 
@@ -1757,6 +7923,886 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 **Tail Attack.** The dragon makes a tail attack.
 
 **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6+6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young Brass Dragon
+
+*Large dragon, chaotic good*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 110 (13d10+39)
+
+**Speed** 40 ft., burrow 20 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 19 (+4) | 10 (+0) | 17 (+3) | 12 (+1) | 11 (+0) | 15 (+2) |
+
+**Saving Throws** Dex +3, Con +6, Wis +3, Cha +5
+
+**Skills** Perception +6, Persuasion +5, Stealth +3
+
+**Damage Immunities** fire
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 16
+
+**Languages** Common, Draconic
+
+**Challenge** 6 (2,300 XP)
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 15 (2d10+4) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6+4) slashing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Fire Breath.** The dragon exhales fire in a 40-foot line that is 5 feet wide. Each creature in that line must make a DC 14 Dexterity saving throw, taking 42 (12d6) fire damage on a failed save, or half as much damage on a successful one.
+
+**Sleep Breath.** The dragon exhales sleep gas in a 30-foot cone. Each creature in that area must succeed on a DC 14 Constitution saving throw or fall unconscious for 5 minutes. This effect ends for a creature if the creature takes damage or someone uses an action to wake it.
+
+## Brass Dragon Wyrmling
+
+*Medium dragon, chaotic good*
+
+**Armor Class** 16 (natural armor)
+
+**Hit Points** 16 (3d8+3)
+
+**Speed** 30 ft., burrow 15 ft., fly 60 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 15 (+2) | 10 (+0) | 13 (+1) | 10 (+0) | 11 (+0) | 13 (+1) |
+
+**Saving Throws** Dex +2, Con +3, Wis +2, Cha +3
+
+**Skills** Perception +4, Stealth +2
+
+**Damage Immunities** fire
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 1 (200 XP)
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10+2) piercing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Fire Breath.** The dragon exhales fire in an 20-foot line that is 5 feet wide. Each creature in that line must make a DC 11 Dexterity saving throw, taking 14 (4d6) fire damage on a failed save, or half as much damage on a successful one.
+
+**Sleep Breath.** The dragon exhales sleep gas in a 15-foot cone. Each creature in that area must succeed on a DC 11 Constitution saving throw or fall unconscious for 1 minute. This effect ends for a creature if the creature takes damage or someone uses an action to wake it.
+
+## Bronze Dragon
+
+## Ancient Bronze Dragon
+
+*Gargantuan dragon, lawful good*
+
+**Armor Class** 22 (natural armor)
+
+**Hit Points** 444 (24d20+192)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 29 (+9) | 10 (+0) | 27 (+8) | 18 (+4) | 17 (+3) | 21 (+5) |
+
+**Saving Throws** Dex +7, Con +15, Wis +10, Cha +12
+
+**Skills** Insight +10, Perception +17, Stealth +7
+
+**Damage Immunities** lightning
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 27
+
+**Languages** Common, Draconic
+
+**Challenge** 22 (41,000 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +16 to hit, reach 15 ft., one target. *Hit:* 20 (2d10+9) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +16 to hit, reach 10 ft., one target. *Hit:* 16 (2d6+9) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +16 to hit, reach 20 ft., one target. *Hit:* 18 (2d8+9) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 20 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Lightning Breath.** The dragon exhales lightning in a 120-foot line that is 10 feet wide. Each creature in that line must make a DC 23 Dexterity saving throw, taking 88 (16d10) lightning damage on a failed save, or half as much damage on a successful one.
+
+**Repulsion Breath.** The dragon exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 23 Strength saving throw. On a failed save, the creature is pushed 60 feet away from the dragon.
+
+***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 24 Dexterity saving throw or take 16 (2d6+9) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Adult Bronze Dragon
+
+*Huge dragon, lawful good*
+
+**Armor Class** 19 (natural armor)
+
+**Hit Points** 212 (17d12+102)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 25 (+7) | 10 (+0) | 23 (+6) | 16 (+3) | 15 (+2) | 19 (+4) |
+
+**Saving Throws** Dex +5, Con +11, Wis +7, Cha +9
+
+**Skills** Insight +7, Perception +12, Stealth +5
+
+**Damage Immunities** lightning
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 22
+
+**Languages** Common, Draconic
+
+**Challenge** 15 (13,000 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +12 to hit, reach 10 ft., one target. *Hit:* 18 (2d10+7) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:* 14 (2d6+7) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +12 to hit, reach 15 ft., one target. *Hit:* 16 (2d8+7) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 17 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Lightning Breath.** The dragon exhales lightning in a 90- foot line that is 5 feet wide. Each creature in that line must make a DC 19 Dexterity saving throw, taking 66 (12d10) lightning damage on a failed save, or half as much damage on a successful one.
+
+**Repulsion Breath.** The dragon exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 19 Strength saving throw. On a failed save, the creature is pushed 60 feet away from the dragon.
+
+***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 20 Dexterity saving throw or take 14 (2d6+7) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young Bronze Dragon
+
+*Large dragon, lawful good*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 142 (15d10+60)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 21 (+5) | 10 (+0) | 19 (+4) | 14 (+2) | 13 (+1) | 17 (+3) |
+
+**Saving Throws** Dex +3, Con +7, Wis +4, Cha +6
+
+**Skills** Insight +4, Perception +7, Stealth +3
+
+**Damage Immunities** lightning
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 17
+
+**Languages** Common, Draconic
+
+**Challenge** 8 (3,900 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 16 (2d10+5) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 12 (2d6+5) slashing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Lightning Breath.** The dragon exhales lightning in a 60- foot line that is 5 feet wide. Each creature in that line must make a DC 15 Dexterity saving throw, taking 55 (10d10) lightning damage on a failed save, or half as much damage on a successful one.
+
+**Repulsion Breath.** The dragon exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 15 Strength saving throw. On a failed save, the creature is pushed 40 feet away from the dragon.
+
+## Bronze Dragon Wyrmling
+
+*Medium dragon, lawful good*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 32 (5d8+10)
+
+**Speed** 30 ft., fly 60 ft., swim 30 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 17 (+3) | 10 (+0) | 15 (+2) | 12 (+1) | 11 (+0) | 15 (+2) |
+
+**Saving Throws** Dex +2, Con +4, Wis +2, Cha +4
+
+**Skills** Perception +4, Stealth +2
+
+**Damage Immunities** lightning
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 2 (450 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (1d10+3) piercing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Lightning Breath.** The dragon exhales lightning in a 40- foot line that is 5 feet wide. Each creature in that line must make a DC 12 Dexterity saving throw, taking 16 (3d10) lightning damage on a failed save, or half as much damage on a successful one.
+
+**Repulsion Breath.** The dragon exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 12 Strength saving throw. On a failed save, the creature is pushed 30 feet away from the dragon.
+
+## Copper Dragon
+
+## Ancient Copper Dragon
+
+*Gargantuan dragon, chaotic good*
+
+**Armor Class** 21 (natural armor)
+
+**Hit Points** 350 (20d20+140)
+
+**Speed** 40 ft., climb 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 27 (+8) | 12 (+1) | 25 (+7) | 20 (+5) | 17 (+3) | 19 (+4) |
+
+**Saving Throws** Dex +8, Con +14, Wis +10, Cha +11
+
+**Skills** Deception +11, Perception +17, Stealth +8
+
+**Damage Immunities** acid
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 27
+
+**Languages** Common, Draconic
+
+**Challenge** 21 (33,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +15 to hit, reach 15 ft., one target. *Hit:* 19 (2d10+8) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +15 to hit, reach 10 ft., one target. *Hit:* 15 (2d6+8) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +15 to hit, reach 20 ft., one target. *Hit:* 17 (2d8+8) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 19 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Acid Breath.** The dragon exhales acid in an 90-foot line that is 10 feet wide. Each creature in that line must make a DC 22 Dexterity saving throw, taking 63 (14d8) acid damage on a failed save, or half as much damage on a successful one.
+
+**Slowing Breath.** The dragon exhales gas in a 90-foot cone. Each creature in that area must succeed on a DC 22 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
+
+***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 23 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Adult Copper Dragon
+
+*Huge dragon, chaotic good*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 184 (16d12+80)
+
+**Speed** 40 ft., climb 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 23 (+6) | 12 (+1) | 21 (+5) | 18 (+4) | 15 (+2) | 17 (+3) |
+
+**Saving Throws** Dex +6, Con +10, Wis +7, Cha +8
+
+**Skills** Deception +8, Perception +12, Stealth +6
+
+**Damage Immunities** acid
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 22
+
+**Languages** Common, Draconic
+
+**Challenge** 14 (11,500 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +11 to hit, reach 15 ft., one target. *Hit:* 15 (2d8+6) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Acid Breath.** The dragon exhales acid in an 60-foot line that is 5 feet wide. Each creature in that line must make a DC 18 Dexterity saving throw, taking 54 (12d8) acid damage on a failed save, or half as much damage on a successful one.
+
+**Slowing Breath.** The dragon exhales gas in a 60-foot cone. Each creature in that area must succeed on a DC 18 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6+6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young Copper Dragon
+
+*Large dragon, chaotic good*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 119 (14d10+42)
+
+**Speed** 40 ft., climb 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 19 (+4) | 12 (+1) | 17 (+3) | 16 (+3) | 13 (+1) | 15 (+2) |
+
+**Saving Throws** Dex +4, Con +6, Wis +4, Cha +5
+
+**Skills** Deception +5, Perception +7, Stealth +4
+
+**Damage Immunities** acid
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 17
+
+**Languages** Common, Draconic
+
+**Challenge** 7 (2,900 XP)
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 15 (2d10+4) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6+4) slashing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Acid Breath.** The dragon exhales acid in an 40-foot line that is 5 feet wide. Each creature in that line must make a DC 14 Dexterity saving throw, taking 40 (9d8) acid damage on a failed save, or half as much damage on a successful one.
+
+**Slowing Breath.** The dragon exhales gas in a 30-foot cone. Each creature in that area must succeed on a DC 14 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
+
+## Copper Dragon Wyrmling
+
+*Medium dragon, chaotic good*
+
+**Armor Class** 16 (natural armor)
+
+**Hit Points** 22 (4d8+4)
+
+**Speed** 30 ft., climb 30 ft., fly 60 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 15 (+2) | 12 (+1) | 13 (+1) | 14 (+2) | 11 (+0) | 13 (+1) |
+
+**Saving Throws** Dex +3, Con +3, Wis +2, Cha +3
+
+**Skills** Perception +4, Stealth +3
+
+**Damage Immunities** acid
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 1 (200 XP)
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10+2) piercing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Acid Breath.** The dragon exhales acid in an 20-foot line that is 5 feet wide. Each creature in that line must make a DC 11 Dexterity saving throw, taking 18 (4d8) acid damage on a failed save, or half as much damage on a successful one.
+
+**Slowing Breath.** The dragon exhales gas in a 15-foot cone. Each creature in that area must succeed on a DC 11 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
+
+## Gold Dragon
+
+## Ancient Gold Dragon
+
+*Gargantuan dragon, lawful good*
+
+**Armor Class** 22 (natural armor)
+
+**Hit Points** 546 (28d20+252)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR      | DEX     | CON     | INT     | WIS     | CHA     |
+|----------|---------|---------|---------|---------|---------|
+| 30 (+10) | 14 (+2) | 29 (+9) | 18 (+4) | 17 (+3) | 28 (+9) |
+
+**Saving Throws** Dex +9, Con +16, Wis +10, Cha +16
+
+**Skills** Insight +10, Perception +17, Persuasion +16, Stealth +9
+
+**Damage Immunities** fire
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 27
+
+**Languages** Common, Draconic
+
+**Challenge** 24 (62,000 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +17 to hit, reach 15 ft., one target. *Hit:* 21 (2d10+10) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +17 to hit, reach 10 ft., one target. *Hit:* 17 (2d6+10) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +17 to hit, reach 20 ft., one target. *Hit:* 19 (2d8+10) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 24 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Fire Breath.** The dragon exhales fire in a 90-foot cone. Each creature in that area must make a DC 24 Dexterity saving throw, taking 71 (13d10) fire damage on a failed save, or half as much damage on a successful one.
+
+**Weakening Breath.** The dragon exhales gas in a 90-foot cone. Each creature in that area must succeed on a DC 24 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6+10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Adult Gold Dragon
+
+*Huge dragon, lawful good*
+
+**Armor Class** 19 (natural armor)
+
+**Hit Points** 256 (19d12+133)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 27 (+8) | 14 (+2) | 25 (+7) | 16 (+3) | 15 (+2) | 24 (+7) |
+
+**Saving Throws** Dex +8, Con +13, Wis +8, Cha +13
+
+**Skills** Insight +8, Perception +14, Persuasion +13, Stealth +8
+
+**Damage Immunities** fire
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 24
+
+**Languages** Common, Draconic
+
+**Challenge** 17 (18,000 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 19 (2d10+8) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +14 to hit, reach 5 ft., one target. *Hit:* 15 (2d6+8) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +14 to hit, reach 15 ft., one target. *Hit:* 17 (2d8+8) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 21 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Fire Breath.** The dragon exhales fire in a 60-foot cone. Each creature in that area must make a DC 21 Dexterity saving throw, taking 66 (12d10) fire damage on a failed save, or half as much damage on a successful one.
+
+**Weakening Breath.** The dragon exhales gas in a 60-foot cone. Each creature in that area must succeed on a DC 21 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young Gold Dragon
+
+*Large dragon, lawful good*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 178 (17d10+85)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 23 (+6) | 14 (+2) | 21 (+5) | 16 (+3) | 13 (+1) | 20 (+5) |
+
+**Saving Throws** Dex +6, Con +9, Wis +5, Cha +9
+
+**Skills** Insight +5, Perception +9, Persuasion +9, Stealth +6
+
+**Damage Immunities** fire
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 19
+
+**Languages** Common, Draconic
+
+**Challenge** 10 (5,900 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Fire Breath.** The dragon exhales fire in a 30-foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 55 (10d10) fire damage on a failed save, or half as much damage on a successful one.
+
+**Weakening Breath.** The dragon exhales gas in a 30-foot cone. Each creature in that area must succeed on a DC 17 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+## Gold Dragon Wyrmling
+
+*Medium dragon, lawful good*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 60 (8d8+24)
+
+**Speed** 30 ft., fly 60 ft., swim 30 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 19 (+4) | 14 (+2) | 17 (+3) | 14 (+2) | 11 (+0) | 16 (+3) |
+
+**Saving Throws** Dex +4, Con +5, Wis +2, Cha +5
+
+**Skills** Perception +4, Stealth +4
+
+**Damage Immunities** fire
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 3 (700 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (1d10+4) piercing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Fire Breath.** The dragon exhales fire in a 15-foot cone. Each creature in that area must make a DC 13 Dexterity saving throw, taking 22 (4d10) fire damage on a failed save, or half as much damage on a successful one.
+
+**Weakening Breath.** The dragon exhales gas in a 15-foot cone. Each creature in that area must succeed on a DC 13 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+## Silver Dragon
+
+## Ancient Silver Dragon
+
+*Gargantuan dragon, lawful good*
+
+**Armor Class** 22 (natural armor)
+
+**Hit Points** 487 (25d20+225)
+
+**Speed** 40 ft., fly 80 ft.
+
+| STR      | DEX     | CON     | INT     | WIS     | CHA     |
+|----------|---------|---------|---------|---------|---------|
+| 30 (+10) | 10 (+0) | 29 (+9) | 18 (+4) | 15 (+2) | 23 (+6) |
+
+**Saving Throws** Dex +7, Con +16, Wis +9, Cha +13
+
+**Skills** Arcana +11, History +11, Perception +16, Stealth +7
+
+**Damage Immunities** cold
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 26
+
+**Languages** Common, Draconic
+
+**Challenge** 23 (50,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +17 to hit, reach 15 ft., one target. *Hit:* 21 (2d10+10) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +17 to hit, reach 10 ft., one target. *Hit:* 17 (2d6+10) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +17 to hit, reach 20 ft., one target. *Hit:* 19 (2d8+10) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 21 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Cold Breath.** The dragon exhales an icy blast in a 90- foot cone. Each creature in that area must make a DC 24 Constitution saving throw, taking 67 (15d8) cold damage on a failed save, or half as much damage on a successful one.
+
+**Paralyzing Breath.** The dragon exhales paralyzing gas in a 90-foot cone. Each creature in that area must succeed on a DC 24 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6+10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Adult Silver Dragon
+
+*Huge dragon, lawful good*
+
+**Armor Class** 19 (natural armor)
+
+**Hit Points** 243 (18d12+126)
+
+**Speed** 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 27 (+8) | 10 (+0) | 25 (+7) | 16 (+3) | 13 (+1) | 21 (+5) |
+
+**Saving Throws** Dex +5, Con +12, Wis +6, Cha +10
+
+**Skills** Arcana +8, History +8, Perception +11, Stealth +5
+
+**Damage Immunities** cold
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 21
+
+**Languages** Common, Draconic
+
+**Challenge** 16 (15,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +13 to hit, reach 10 ft., one target. *Hit:* 19 (2d10+8) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +13 to hit, reach 5 ft., one target. *Hit:* 15 (2d6+8) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +13 to hit, reach 15 ft., one target. *Hit:* 17 (2d8+8) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 18 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Cold Breath.** The dragon exhales an icy blast in a 60- foot cone. Each creature in that area must make a DC 20 Constitution saving throw, taking 58 (13d8) cold damage on a failed save, or half as much damage on a successful one.
+
+**Paralyzing Breath.** The dragon exhales paralyzing gas in a 60-foot cone. Each creature in that area must succeed on a DC 20 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 21 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young Silver Dragon
+
+*Large dragon, lawful good*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 168 (16d10+80)
+
+**Speed** 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 23 (+6) | 10 (+0) | 21 (+5) | 14 (+2) | 11 (+0) | 19 (+4) |
+
+**Saving Throws** Dex +4, Con +9, Wis +4, Cha +8
+
+**Skills** Arcana +6, History +6, Perception +8, Stealth +4
+
+**Damage Immunities** cold
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 18
+
+**Languages** Common, Draconic
+
+**Challenge** 9 (5,000 XP)
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Cold Breath.** The dragon exhales an icy blast in a 30- foot cone. Each creature in that area must make a DC 17 Constitution saving throw, taking 54 (12d8) cold damage on a failed save, or half as much damage on a successful one.
+
+**Paralyzing Breath.** The dragon exhales paralyzing gas in a 30-foot cone. Each creature in that area must succeed on a DC 17 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+## Silver Dragon Wyrmling
+
+*Medium dragon, lawful good*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 45 (6d8+18)
+
+**Speed** 30 ft., fly 60 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 19 (+4) | 10 (+0) | 17 (+3) | 12 (+1) | 11 (+0) | 15 (+2) |
+
+**Saving Throws** Dex +2, Con +5, Wis +2, Cha +4
+
+**Skills** Perception +4, Stealth +2
+
+**Damage Immunities** cold
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 2 (450 XP)
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (1d10+4) piercing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Cold Breath.** The dragon exhales an icy blast in a 15- foot cone. Each creature in that area must make a DC 13 Constitution saving throw, taking 18 (4d8) cold damage on a failed save, or half as much damage on a successful one.
+
+**Paralyzing Breath.** The dragon exhales paralyzing gas in a 15-foot cone. Each creature in that area must succeed on a DC 13 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 # Dragon Brass Ancient
 
@@ -1820,6 +8866,942 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
+## Adult Brass Dragon
+
+*Huge dragon, chaotic good*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 172 (15d12+75)
+
+**Speed** 40 ft., burrow 30 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 23 (+6) | 10 (+0) | 21 (+5) | 14 (+2) | 13 (+1) | 17 (+3) |
+
+**Saving Throws** Dex +5, Con +10, Wis +6, Cha +8
+
+**Skills** History +7, Perception +11, Persuasion +8, Stealth +5
+
+**Damage Immunities** fire
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 21
+
+**Languages** Common, Draconic
+
+**Challenge** 13 (10,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +11 to hit, reach 15 ft., one target. *Hit:* 15 (2d8+6) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Fire Breath.** The dragon exhales fire in an 60-foot line that is 5 feet wide. Each creature in that line must make a DC 18 Dexterity saving throw, taking 45 (13d6) fire damage on a failed save, or half as much damage on a successful one.
+
+**Sleep Breath.** The dragon exhales sleep gas in a 60-foot cone. Each creature in that area must succeed on a DC 18 Constitution saving throw or fall unconscious for 10 minutes. This effect ends for a creature if the creature takes damage or someone uses an action to wake it.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6+6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young Brass Dragon
+
+*Large dragon, chaotic good*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 110 (13d10+39)
+
+**Speed** 40 ft., burrow 20 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 19 (+4) | 10 (+0) | 17 (+3) | 12 (+1) | 11 (+0) | 15 (+2) |
+
+**Saving Throws** Dex +3, Con +6, Wis +3, Cha +5
+
+**Skills** Perception +6, Persuasion +5, Stealth +3
+
+**Damage Immunities** fire
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 16
+
+**Languages** Common, Draconic
+
+**Challenge** 6 (2,300 XP)
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 15 (2d10+4) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6+4) slashing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Fire Breath.** The dragon exhales fire in a 40-foot line that is 5 feet wide. Each creature in that line must make a DC 14 Dexterity saving throw, taking 42 (12d6) fire damage on a failed save, or half as much damage on a successful one.
+
+**Sleep Breath.** The dragon exhales sleep gas in a 30-foot cone. Each creature in that area must succeed on a DC 14 Constitution saving throw or fall unconscious for 5 minutes. This effect ends for a creature if the creature takes damage or someone uses an action to wake it.
+
+## Brass Dragon Wyrmling
+
+*Medium dragon, chaotic good*
+
+**Armor Class** 16 (natural armor)
+
+**Hit Points** 16 (3d8+3)
+
+**Speed** 30 ft., burrow 15 ft., fly 60 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 15 (+2) | 10 (+0) | 13 (+1) | 10 (+0) | 11 (+0) | 13 (+1) |
+
+**Saving Throws** Dex +2, Con +3, Wis +2, Cha +3
+
+**Skills** Perception +4, Stealth +2
+
+**Damage Immunities** fire
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 1 (200 XP)
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10+2) piercing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Fire Breath.** The dragon exhales fire in an 20-foot line that is 5 feet wide. Each creature in that line must make a DC 11 Dexterity saving throw, taking 14 (4d6) fire damage on a failed save, or half as much damage on a successful one.
+
+**Sleep Breath.** The dragon exhales sleep gas in a 15-foot cone. Each creature in that area must succeed on a DC 11 Constitution saving throw or fall unconscious for 1 minute. This effect ends for a creature if the creature takes damage or someone uses an action to wake it.
+
+## Bronze Dragon
+
+## Ancient Bronze Dragon
+
+*Gargantuan dragon, lawful good*
+
+**Armor Class** 22 (natural armor)
+
+**Hit Points** 444 (24d20+192)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 29 (+9) | 10 (+0) | 27 (+8) | 18 (+4) | 17 (+3) | 21 (+5) |
+
+**Saving Throws** Dex +7, Con +15, Wis +10, Cha +12
+
+**Skills** Insight +10, Perception +17, Stealth +7
+
+**Damage Immunities** lightning
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 27
+
+**Languages** Common, Draconic
+
+**Challenge** 22 (41,000 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +16 to hit, reach 15 ft., one target. *Hit:* 20 (2d10+9) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +16 to hit, reach 10 ft., one target. *Hit:* 16 (2d6+9) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +16 to hit, reach 20 ft., one target. *Hit:* 18 (2d8+9) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 20 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Lightning Breath.** The dragon exhales lightning in a 120-foot line that is 10 feet wide. Each creature in that line must make a DC 23 Dexterity saving throw, taking 88 (16d10) lightning damage on a failed save, or half as much damage on a successful one.
+
+**Repulsion Breath.** The dragon exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 23 Strength saving throw. On a failed save, the creature is pushed 60 feet away from the dragon.
+
+***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 24 Dexterity saving throw or take 16 (2d6+9) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Adult Bronze Dragon
+
+*Huge dragon, lawful good*
+
+**Armor Class** 19 (natural armor)
+
+**Hit Points** 212 (17d12+102)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 25 (+7) | 10 (+0) | 23 (+6) | 16 (+3) | 15 (+2) | 19 (+4) |
+
+**Saving Throws** Dex +5, Con +11, Wis +7, Cha +9
+
+**Skills** Insight +7, Perception +12, Stealth +5
+
+**Damage Immunities** lightning
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 22
+
+**Languages** Common, Draconic
+
+**Challenge** 15 (13,000 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +12 to hit, reach 10 ft., one target. *Hit:* 18 (2d10+7) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:* 14 (2d6+7) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +12 to hit, reach 15 ft., one target. *Hit:* 16 (2d8+7) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 17 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Lightning Breath.** The dragon exhales lightning in a 90- foot line that is 5 feet wide. Each creature in that line must make a DC 19 Dexterity saving throw, taking 66 (12d10) lightning damage on a failed save, or half as much damage on a successful one.
+
+**Repulsion Breath.** The dragon exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 19 Strength saving throw. On a failed save, the creature is pushed 60 feet away from the dragon.
+
+***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 20 Dexterity saving throw or take 14 (2d6+7) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young Bronze Dragon
+
+*Large dragon, lawful good*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 142 (15d10+60)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 21 (+5) | 10 (+0) | 19 (+4) | 14 (+2) | 13 (+1) | 17 (+3) |
+
+**Saving Throws** Dex +3, Con +7, Wis +4, Cha +6
+
+**Skills** Insight +4, Perception +7, Stealth +3
+
+**Damage Immunities** lightning
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 17
+
+**Languages** Common, Draconic
+
+**Challenge** 8 (3,900 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 16 (2d10+5) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 12 (2d6+5) slashing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Lightning Breath.** The dragon exhales lightning in a 60- foot line that is 5 feet wide. Each creature in that line must make a DC 15 Dexterity saving throw, taking 55 (10d10) lightning damage on a failed save, or half as much damage on a successful one.
+
+**Repulsion Breath.** The dragon exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 15 Strength saving throw. On a failed save, the creature is pushed 40 feet away from the dragon.
+
+## Bronze Dragon Wyrmling
+
+*Medium dragon, lawful good*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 32 (5d8+10)
+
+**Speed** 30 ft., fly 60 ft., swim 30 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 17 (+3) | 10 (+0) | 15 (+2) | 12 (+1) | 11 (+0) | 15 (+2) |
+
+**Saving Throws** Dex +2, Con +4, Wis +2, Cha +4
+
+**Skills** Perception +4, Stealth +2
+
+**Damage Immunities** lightning
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 2 (450 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (1d10+3) piercing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Lightning Breath.** The dragon exhales lightning in a 40- foot line that is 5 feet wide. Each creature in that line must make a DC 12 Dexterity saving throw, taking 16 (3d10) lightning damage on a failed save, or half as much damage on a successful one.
+
+**Repulsion Breath.** The dragon exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 12 Strength saving throw. On a failed save, the creature is pushed 30 feet away from the dragon.
+
+## Copper Dragon
+
+## Ancient Copper Dragon
+
+*Gargantuan dragon, chaotic good*
+
+**Armor Class** 21 (natural armor)
+
+**Hit Points** 350 (20d20+140)
+
+**Speed** 40 ft., climb 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 27 (+8) | 12 (+1) | 25 (+7) | 20 (+5) | 17 (+3) | 19 (+4) |
+
+**Saving Throws** Dex +8, Con +14, Wis +10, Cha +11
+
+**Skills** Deception +11, Perception +17, Stealth +8
+
+**Damage Immunities** acid
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 27
+
+**Languages** Common, Draconic
+
+**Challenge** 21 (33,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +15 to hit, reach 15 ft., one target. *Hit:* 19 (2d10+8) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +15 to hit, reach 10 ft., one target. *Hit:* 15 (2d6+8) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +15 to hit, reach 20 ft., one target. *Hit:* 17 (2d8+8) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 19 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Acid Breath.** The dragon exhales acid in an 90-foot line that is 10 feet wide. Each creature in that line must make a DC 22 Dexterity saving throw, taking 63 (14d8) acid damage on a failed save, or half as much damage on a successful one.
+
+**Slowing Breath.** The dragon exhales gas in a 90-foot cone. Each creature in that area must succeed on a DC 22 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
+
+***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 23 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Adult Copper Dragon
+
+*Huge dragon, chaotic good*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 184 (16d12+80)
+
+**Speed** 40 ft., climb 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 23 (+6) | 12 (+1) | 21 (+5) | 18 (+4) | 15 (+2) | 17 (+3) |
+
+**Saving Throws** Dex +6, Con +10, Wis +7, Cha +8
+
+**Skills** Deception +8, Perception +12, Stealth +6
+
+**Damage Immunities** acid
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 22
+
+**Languages** Common, Draconic
+
+**Challenge** 14 (11,500 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +11 to hit, reach 15 ft., one target. *Hit:* 15 (2d8+6) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Acid Breath.** The dragon exhales acid in an 60-foot line that is 5 feet wide. Each creature in that line must make a DC 18 Dexterity saving throw, taking 54 (12d8) acid damage on a failed save, or half as much damage on a successful one.
+
+**Slowing Breath.** The dragon exhales gas in a 60-foot cone. Each creature in that area must succeed on a DC 18 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6+6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young Copper Dragon
+
+*Large dragon, chaotic good*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 119 (14d10+42)
+
+**Speed** 40 ft., climb 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 19 (+4) | 12 (+1) | 17 (+3) | 16 (+3) | 13 (+1) | 15 (+2) |
+
+**Saving Throws** Dex +4, Con +6, Wis +4, Cha +5
+
+**Skills** Deception +5, Perception +7, Stealth +4
+
+**Damage Immunities** acid
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 17
+
+**Languages** Common, Draconic
+
+**Challenge** 7 (2,900 XP)
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 15 (2d10+4) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6+4) slashing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Acid Breath.** The dragon exhales acid in an 40-foot line that is 5 feet wide. Each creature in that line must make a DC 14 Dexterity saving throw, taking 40 (9d8) acid damage on a failed save, or half as much damage on a successful one.
+
+**Slowing Breath.** The dragon exhales gas in a 30-foot cone. Each creature in that area must succeed on a DC 14 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
+
+## Copper Dragon Wyrmling
+
+*Medium dragon, chaotic good*
+
+**Armor Class** 16 (natural armor)
+
+**Hit Points** 22 (4d8+4)
+
+**Speed** 30 ft., climb 30 ft., fly 60 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 15 (+2) | 12 (+1) | 13 (+1) | 14 (+2) | 11 (+0) | 13 (+1) |
+
+**Saving Throws** Dex +3, Con +3, Wis +2, Cha +3
+
+**Skills** Perception +4, Stealth +3
+
+**Damage Immunities** acid
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 1 (200 XP)
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10+2) piercing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Acid Breath.** The dragon exhales acid in an 20-foot line that is 5 feet wide. Each creature in that line must make a DC 11 Dexterity saving throw, taking 18 (4d8) acid damage on a failed save, or half as much damage on a successful one.
+
+**Slowing Breath.** The dragon exhales gas in a 15-foot cone. Each creature in that area must succeed on a DC 11 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
+
+## Gold Dragon
+
+## Ancient Gold Dragon
+
+*Gargantuan dragon, lawful good*
+
+**Armor Class** 22 (natural armor)
+
+**Hit Points** 546 (28d20+252)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR      | DEX     | CON     | INT     | WIS     | CHA     |
+|----------|---------|---------|---------|---------|---------|
+| 30 (+10) | 14 (+2) | 29 (+9) | 18 (+4) | 17 (+3) | 28 (+9) |
+
+**Saving Throws** Dex +9, Con +16, Wis +10, Cha +16
+
+**Skills** Insight +10, Perception +17, Persuasion +16, Stealth +9
+
+**Damage Immunities** fire
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 27
+
+**Languages** Common, Draconic
+
+**Challenge** 24 (62,000 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +17 to hit, reach 15 ft., one target. *Hit:* 21 (2d10+10) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +17 to hit, reach 10 ft., one target. *Hit:* 17 (2d6+10) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +17 to hit, reach 20 ft., one target. *Hit:* 19 (2d8+10) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 24 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Fire Breath.** The dragon exhales fire in a 90-foot cone. Each creature in that area must make a DC 24 Dexterity saving throw, taking 71 (13d10) fire damage on a failed save, or half as much damage on a successful one.
+
+**Weakening Breath.** The dragon exhales gas in a 90-foot cone. Each creature in that area must succeed on a DC 24 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6+10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Adult Gold Dragon
+
+*Huge dragon, lawful good*
+
+**Armor Class** 19 (natural armor)
+
+**Hit Points** 256 (19d12+133)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 27 (+8) | 14 (+2) | 25 (+7) | 16 (+3) | 15 (+2) | 24 (+7) |
+
+**Saving Throws** Dex +8, Con +13, Wis +8, Cha +13
+
+**Skills** Insight +8, Perception +14, Persuasion +13, Stealth +8
+
+**Damage Immunities** fire
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 24
+
+**Languages** Common, Draconic
+
+**Challenge** 17 (18,000 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 19 (2d10+8) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +14 to hit, reach 5 ft., one target. *Hit:* 15 (2d6+8) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +14 to hit, reach 15 ft., one target. *Hit:* 17 (2d8+8) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 21 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Fire Breath.** The dragon exhales fire in a 60-foot cone. Each creature in that area must make a DC 21 Dexterity saving throw, taking 66 (12d10) fire damage on a failed save, or half as much damage on a successful one.
+
+**Weakening Breath.** The dragon exhales gas in a 60-foot cone. Each creature in that area must succeed on a DC 21 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young Gold Dragon
+
+*Large dragon, lawful good*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 178 (17d10+85)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 23 (+6) | 14 (+2) | 21 (+5) | 16 (+3) | 13 (+1) | 20 (+5) |
+
+**Saving Throws** Dex +6, Con +9, Wis +5, Cha +9
+
+**Skills** Insight +5, Perception +9, Persuasion +9, Stealth +6
+
+**Damage Immunities** fire
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 19
+
+**Languages** Common, Draconic
+
+**Challenge** 10 (5,900 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Fire Breath.** The dragon exhales fire in a 30-foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 55 (10d10) fire damage on a failed save, or half as much damage on a successful one.
+
+**Weakening Breath.** The dragon exhales gas in a 30-foot cone. Each creature in that area must succeed on a DC 17 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+## Gold Dragon Wyrmling
+
+*Medium dragon, lawful good*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 60 (8d8+24)
+
+**Speed** 30 ft., fly 60 ft., swim 30 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 19 (+4) | 14 (+2) | 17 (+3) | 14 (+2) | 11 (+0) | 16 (+3) |
+
+**Saving Throws** Dex +4, Con +5, Wis +2, Cha +5
+
+**Skills** Perception +4, Stealth +4
+
+**Damage Immunities** fire
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 3 (700 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (1d10+4) piercing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Fire Breath.** The dragon exhales fire in a 15-foot cone. Each creature in that area must make a DC 13 Dexterity saving throw, taking 22 (4d10) fire damage on a failed save, or half as much damage on a successful one.
+
+**Weakening Breath.** The dragon exhales gas in a 15-foot cone. Each creature in that area must succeed on a DC 13 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+## Silver Dragon
+
+## Ancient Silver Dragon
+
+*Gargantuan dragon, lawful good*
+
+**Armor Class** 22 (natural armor)
+
+**Hit Points** 487 (25d20+225)
+
+**Speed** 40 ft., fly 80 ft.
+
+| STR      | DEX     | CON     | INT     | WIS     | CHA     |
+|----------|---------|---------|---------|---------|---------|
+| 30 (+10) | 10 (+0) | 29 (+9) | 18 (+4) | 15 (+2) | 23 (+6) |
+
+**Saving Throws** Dex +7, Con +16, Wis +9, Cha +13
+
+**Skills** Arcana +11, History +11, Perception +16, Stealth +7
+
+**Damage Immunities** cold
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 26
+
+**Languages** Common, Draconic
+
+**Challenge** 23 (50,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +17 to hit, reach 15 ft., one target. *Hit:* 21 (2d10+10) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +17 to hit, reach 10 ft., one target. *Hit:* 17 (2d6+10) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +17 to hit, reach 20 ft., one target. *Hit:* 19 (2d8+10) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 21 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Cold Breath.** The dragon exhales an icy blast in a 90- foot cone. Each creature in that area must make a DC 24 Constitution saving throw, taking 67 (15d8) cold damage on a failed save, or half as much damage on a successful one.
+
+**Paralyzing Breath.** The dragon exhales paralyzing gas in a 90-foot cone. Each creature in that area must succeed on a DC 24 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6+10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Adult Silver Dragon
+
+*Huge dragon, lawful good*
+
+**Armor Class** 19 (natural armor)
+
+**Hit Points** 243 (18d12+126)
+
+**Speed** 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 27 (+8) | 10 (+0) | 25 (+7) | 16 (+3) | 13 (+1) | 21 (+5) |
+
+**Saving Throws** Dex +5, Con +12, Wis +6, Cha +10
+
+**Skills** Arcana +8, History +8, Perception +11, Stealth +5
+
+**Damage Immunities** cold
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 21
+
+**Languages** Common, Draconic
+
+**Challenge** 16 (15,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +13 to hit, reach 10 ft., one target. *Hit:* 19 (2d10+8) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +13 to hit, reach 5 ft., one target. *Hit:* 15 (2d6+8) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +13 to hit, reach 15 ft., one target. *Hit:* 17 (2d8+8) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 18 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Cold Breath.** The dragon exhales an icy blast in a 60- foot cone. Each creature in that area must make a DC 20 Constitution saving throw, taking 58 (13d8) cold damage on a failed save, or half as much damage on a successful one.
+
+**Paralyzing Breath.** The dragon exhales paralyzing gas in a 60-foot cone. Each creature in that area must succeed on a DC 20 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 21 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young Silver Dragon
+
+*Large dragon, lawful good*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 168 (16d10+80)
+
+**Speed** 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 23 (+6) | 10 (+0) | 21 (+5) | 14 (+2) | 11 (+0) | 19 (+4) |
+
+**Saving Throws** Dex +4, Con +9, Wis +4, Cha +8
+
+**Skills** Arcana +6, History +6, Perception +8, Stealth +4
+
+**Damage Immunities** cold
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 18
+
+**Languages** Common, Draconic
+
+**Challenge** 9 (5,000 XP)
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Cold Breath.** The dragon exhales an icy blast in a 30- foot cone. Each creature in that area must make a DC 17 Constitution saving throw, taking 54 (12d8) cold damage on a failed save, or half as much damage on a successful one.
+
+**Paralyzing Breath.** The dragon exhales paralyzing gas in a 30-foot cone. Each creature in that area must succeed on a DC 17 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+## Silver Dragon Wyrmling
+
+*Medium dragon, lawful good*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 45 (6d8+18)
+
+**Speed** 30 ft., fly 60 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 19 (+4) | 10 (+0) | 17 (+3) | 12 (+1) | 11 (+0) | 15 (+2) |
+
+**Saving Throws** Dex +2, Con +5, Wis +2, Cha +4
+
+**Skills** Perception +4, Stealth +2
+
+**Damage Immunities** cold
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 2 (450 XP)
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (1d10+4) piercing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Cold Breath.** The dragon exhales an icy blast in a 15- foot cone. Each creature in that area must make a DC 13 Constitution saving throw, taking 18 (4d8) cold damage on a failed save, or half as much damage on a successful one.
+
+**Paralyzing Breath.** The dragon exhales paralyzing gas in a 15-foot cone. Each creature in that area must succeed on a DC 13 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
 # Dragon Brass Wyrmling
 
 *Medium dragon, chaotic good*
@@ -1857,6 +9839,810 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 **Fire Breath.** The dragon exhales fire in an 20-foot line that is 5 feet wide. Each creature in that line must make a DC 11 Dexterity saving throw, taking 14 (4d6) fire damage on a failed save, or half as much damage on a successful one.
 
 **Sleep Breath.** The dragon exhales sleep gas in a 15-foot cone. Each creature in that area must succeed on a DC 11 Constitution saving throw or fall unconscious for 1 minute. This effect ends for a creature if the creature takes damage or someone uses an action to wake it.
+
+## Bronze Dragon
+
+## Ancient Bronze Dragon
+
+*Gargantuan dragon, lawful good*
+
+**Armor Class** 22 (natural armor)
+
+**Hit Points** 444 (24d20+192)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 29 (+9) | 10 (+0) | 27 (+8) | 18 (+4) | 17 (+3) | 21 (+5) |
+
+**Saving Throws** Dex +7, Con +15, Wis +10, Cha +12
+
+**Skills** Insight +10, Perception +17, Stealth +7
+
+**Damage Immunities** lightning
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 27
+
+**Languages** Common, Draconic
+
+**Challenge** 22 (41,000 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +16 to hit, reach 15 ft., one target. *Hit:* 20 (2d10+9) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +16 to hit, reach 10 ft., one target. *Hit:* 16 (2d6+9) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +16 to hit, reach 20 ft., one target. *Hit:* 18 (2d8+9) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 20 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Lightning Breath.** The dragon exhales lightning in a 120-foot line that is 10 feet wide. Each creature in that line must make a DC 23 Dexterity saving throw, taking 88 (16d10) lightning damage on a failed save, or half as much damage on a successful one.
+
+**Repulsion Breath.** The dragon exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 23 Strength saving throw. On a failed save, the creature is pushed 60 feet away from the dragon.
+
+***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 24 Dexterity saving throw or take 16 (2d6+9) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Adult Bronze Dragon
+
+*Huge dragon, lawful good*
+
+**Armor Class** 19 (natural armor)
+
+**Hit Points** 212 (17d12+102)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 25 (+7) | 10 (+0) | 23 (+6) | 16 (+3) | 15 (+2) | 19 (+4) |
+
+**Saving Throws** Dex +5, Con +11, Wis +7, Cha +9
+
+**Skills** Insight +7, Perception +12, Stealth +5
+
+**Damage Immunities** lightning
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 22
+
+**Languages** Common, Draconic
+
+**Challenge** 15 (13,000 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +12 to hit, reach 10 ft., one target. *Hit:* 18 (2d10+7) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:* 14 (2d6+7) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +12 to hit, reach 15 ft., one target. *Hit:* 16 (2d8+7) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 17 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Lightning Breath.** The dragon exhales lightning in a 90- foot line that is 5 feet wide. Each creature in that line must make a DC 19 Dexterity saving throw, taking 66 (12d10) lightning damage on a failed save, or half as much damage on a successful one.
+
+**Repulsion Breath.** The dragon exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 19 Strength saving throw. On a failed save, the creature is pushed 60 feet away from the dragon.
+
+***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 20 Dexterity saving throw or take 14 (2d6+7) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young Bronze Dragon
+
+*Large dragon, lawful good*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 142 (15d10+60)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 21 (+5) | 10 (+0) | 19 (+4) | 14 (+2) | 13 (+1) | 17 (+3) |
+
+**Saving Throws** Dex +3, Con +7, Wis +4, Cha +6
+
+**Skills** Insight +4, Perception +7, Stealth +3
+
+**Damage Immunities** lightning
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 17
+
+**Languages** Common, Draconic
+
+**Challenge** 8 (3,900 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 16 (2d10+5) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 12 (2d6+5) slashing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Lightning Breath.** The dragon exhales lightning in a 60- foot line that is 5 feet wide. Each creature in that line must make a DC 15 Dexterity saving throw, taking 55 (10d10) lightning damage on a failed save, or half as much damage on a successful one.
+
+**Repulsion Breath.** The dragon exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 15 Strength saving throw. On a failed save, the creature is pushed 40 feet away from the dragon.
+
+## Bronze Dragon Wyrmling
+
+*Medium dragon, lawful good*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 32 (5d8+10)
+
+**Speed** 30 ft., fly 60 ft., swim 30 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 17 (+3) | 10 (+0) | 15 (+2) | 12 (+1) | 11 (+0) | 15 (+2) |
+
+**Saving Throws** Dex +2, Con +4, Wis +2, Cha +4
+
+**Skills** Perception +4, Stealth +2
+
+**Damage Immunities** lightning
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 2 (450 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (1d10+3) piercing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Lightning Breath.** The dragon exhales lightning in a 40- foot line that is 5 feet wide. Each creature in that line must make a DC 12 Dexterity saving throw, taking 16 (3d10) lightning damage on a failed save, or half as much damage on a successful one.
+
+**Repulsion Breath.** The dragon exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 12 Strength saving throw. On a failed save, the creature is pushed 30 feet away from the dragon.
+
+## Copper Dragon
+
+## Ancient Copper Dragon
+
+*Gargantuan dragon, chaotic good*
+
+**Armor Class** 21 (natural armor)
+
+**Hit Points** 350 (20d20+140)
+
+**Speed** 40 ft., climb 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 27 (+8) | 12 (+1) | 25 (+7) | 20 (+5) | 17 (+3) | 19 (+4) |
+
+**Saving Throws** Dex +8, Con +14, Wis +10, Cha +11
+
+**Skills** Deception +11, Perception +17, Stealth +8
+
+**Damage Immunities** acid
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 27
+
+**Languages** Common, Draconic
+
+**Challenge** 21 (33,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +15 to hit, reach 15 ft., one target. *Hit:* 19 (2d10+8) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +15 to hit, reach 10 ft., one target. *Hit:* 15 (2d6+8) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +15 to hit, reach 20 ft., one target. *Hit:* 17 (2d8+8) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 19 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Acid Breath.** The dragon exhales acid in an 90-foot line that is 10 feet wide. Each creature in that line must make a DC 22 Dexterity saving throw, taking 63 (14d8) acid damage on a failed save, or half as much damage on a successful one.
+
+**Slowing Breath.** The dragon exhales gas in a 90-foot cone. Each creature in that area must succeed on a DC 22 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
+
+***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 23 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Adult Copper Dragon
+
+*Huge dragon, chaotic good*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 184 (16d12+80)
+
+**Speed** 40 ft., climb 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 23 (+6) | 12 (+1) | 21 (+5) | 18 (+4) | 15 (+2) | 17 (+3) |
+
+**Saving Throws** Dex +6, Con +10, Wis +7, Cha +8
+
+**Skills** Deception +8, Perception +12, Stealth +6
+
+**Damage Immunities** acid
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 22
+
+**Languages** Common, Draconic
+
+**Challenge** 14 (11,500 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +11 to hit, reach 15 ft., one target. *Hit:* 15 (2d8+6) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Acid Breath.** The dragon exhales acid in an 60-foot line that is 5 feet wide. Each creature in that line must make a DC 18 Dexterity saving throw, taking 54 (12d8) acid damage on a failed save, or half as much damage on a successful one.
+
+**Slowing Breath.** The dragon exhales gas in a 60-foot cone. Each creature in that area must succeed on a DC 18 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6+6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young Copper Dragon
+
+*Large dragon, chaotic good*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 119 (14d10+42)
+
+**Speed** 40 ft., climb 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 19 (+4) | 12 (+1) | 17 (+3) | 16 (+3) | 13 (+1) | 15 (+2) |
+
+**Saving Throws** Dex +4, Con +6, Wis +4, Cha +5
+
+**Skills** Deception +5, Perception +7, Stealth +4
+
+**Damage Immunities** acid
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 17
+
+**Languages** Common, Draconic
+
+**Challenge** 7 (2,900 XP)
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 15 (2d10+4) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6+4) slashing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Acid Breath.** The dragon exhales acid in an 40-foot line that is 5 feet wide. Each creature in that line must make a DC 14 Dexterity saving throw, taking 40 (9d8) acid damage on a failed save, or half as much damage on a successful one.
+
+**Slowing Breath.** The dragon exhales gas in a 30-foot cone. Each creature in that area must succeed on a DC 14 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
+
+## Copper Dragon Wyrmling
+
+*Medium dragon, chaotic good*
+
+**Armor Class** 16 (natural armor)
+
+**Hit Points** 22 (4d8+4)
+
+**Speed** 30 ft., climb 30 ft., fly 60 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 15 (+2) | 12 (+1) | 13 (+1) | 14 (+2) | 11 (+0) | 13 (+1) |
+
+**Saving Throws** Dex +3, Con +3, Wis +2, Cha +3
+
+**Skills** Perception +4, Stealth +3
+
+**Damage Immunities** acid
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 1 (200 XP)
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10+2) piercing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Acid Breath.** The dragon exhales acid in an 20-foot line that is 5 feet wide. Each creature in that line must make a DC 11 Dexterity saving throw, taking 18 (4d8) acid damage on a failed save, or half as much damage on a successful one.
+
+**Slowing Breath.** The dragon exhales gas in a 15-foot cone. Each creature in that area must succeed on a DC 11 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
+
+## Gold Dragon
+
+## Ancient Gold Dragon
+
+*Gargantuan dragon, lawful good*
+
+**Armor Class** 22 (natural armor)
+
+**Hit Points** 546 (28d20+252)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR      | DEX     | CON     | INT     | WIS     | CHA     |
+|----------|---------|---------|---------|---------|---------|
+| 30 (+10) | 14 (+2) | 29 (+9) | 18 (+4) | 17 (+3) | 28 (+9) |
+
+**Saving Throws** Dex +9, Con +16, Wis +10, Cha +16
+
+**Skills** Insight +10, Perception +17, Persuasion +16, Stealth +9
+
+**Damage Immunities** fire
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 27
+
+**Languages** Common, Draconic
+
+**Challenge** 24 (62,000 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +17 to hit, reach 15 ft., one target. *Hit:* 21 (2d10+10) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +17 to hit, reach 10 ft., one target. *Hit:* 17 (2d6+10) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +17 to hit, reach 20 ft., one target. *Hit:* 19 (2d8+10) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 24 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Fire Breath.** The dragon exhales fire in a 90-foot cone. Each creature in that area must make a DC 24 Dexterity saving throw, taking 71 (13d10) fire damage on a failed save, or half as much damage on a successful one.
+
+**Weakening Breath.** The dragon exhales gas in a 90-foot cone. Each creature in that area must succeed on a DC 24 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6+10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Adult Gold Dragon
+
+*Huge dragon, lawful good*
+
+**Armor Class** 19 (natural armor)
+
+**Hit Points** 256 (19d12+133)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 27 (+8) | 14 (+2) | 25 (+7) | 16 (+3) | 15 (+2) | 24 (+7) |
+
+**Saving Throws** Dex +8, Con +13, Wis +8, Cha +13
+
+**Skills** Insight +8, Perception +14, Persuasion +13, Stealth +8
+
+**Damage Immunities** fire
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 24
+
+**Languages** Common, Draconic
+
+**Challenge** 17 (18,000 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 19 (2d10+8) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +14 to hit, reach 5 ft., one target. *Hit:* 15 (2d6+8) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +14 to hit, reach 15 ft., one target. *Hit:* 17 (2d8+8) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 21 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Fire Breath.** The dragon exhales fire in a 60-foot cone. Each creature in that area must make a DC 21 Dexterity saving throw, taking 66 (12d10) fire damage on a failed save, or half as much damage on a successful one.
+
+**Weakening Breath.** The dragon exhales gas in a 60-foot cone. Each creature in that area must succeed on a DC 21 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young Gold Dragon
+
+*Large dragon, lawful good*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 178 (17d10+85)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 23 (+6) | 14 (+2) | 21 (+5) | 16 (+3) | 13 (+1) | 20 (+5) |
+
+**Saving Throws** Dex +6, Con +9, Wis +5, Cha +9
+
+**Skills** Insight +5, Perception +9, Persuasion +9, Stealth +6
+
+**Damage Immunities** fire
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 19
+
+**Languages** Common, Draconic
+
+**Challenge** 10 (5,900 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Fire Breath.** The dragon exhales fire in a 30-foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 55 (10d10) fire damage on a failed save, or half as much damage on a successful one.
+
+**Weakening Breath.** The dragon exhales gas in a 30-foot cone. Each creature in that area must succeed on a DC 17 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+## Gold Dragon Wyrmling
+
+*Medium dragon, lawful good*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 60 (8d8+24)
+
+**Speed** 30 ft., fly 60 ft., swim 30 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 19 (+4) | 14 (+2) | 17 (+3) | 14 (+2) | 11 (+0) | 16 (+3) |
+
+**Saving Throws** Dex +4, Con +5, Wis +2, Cha +5
+
+**Skills** Perception +4, Stealth +4
+
+**Damage Immunities** fire
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 3 (700 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (1d10+4) piercing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Fire Breath.** The dragon exhales fire in a 15-foot cone. Each creature in that area must make a DC 13 Dexterity saving throw, taking 22 (4d10) fire damage on a failed save, or half as much damage on a successful one.
+
+**Weakening Breath.** The dragon exhales gas in a 15-foot cone. Each creature in that area must succeed on a DC 13 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+## Silver Dragon
+
+## Ancient Silver Dragon
+
+*Gargantuan dragon, lawful good*
+
+**Armor Class** 22 (natural armor)
+
+**Hit Points** 487 (25d20+225)
+
+**Speed** 40 ft., fly 80 ft.
+
+| STR      | DEX     | CON     | INT     | WIS     | CHA     |
+|----------|---------|---------|---------|---------|---------|
+| 30 (+10) | 10 (+0) | 29 (+9) | 18 (+4) | 15 (+2) | 23 (+6) |
+
+**Saving Throws** Dex +7, Con +16, Wis +9, Cha +13
+
+**Skills** Arcana +11, History +11, Perception +16, Stealth +7
+
+**Damage Immunities** cold
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 26
+
+**Languages** Common, Draconic
+
+**Challenge** 23 (50,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +17 to hit, reach 15 ft., one target. *Hit:* 21 (2d10+10) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +17 to hit, reach 10 ft., one target. *Hit:* 17 (2d6+10) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +17 to hit, reach 20 ft., one target. *Hit:* 19 (2d8+10) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 21 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Cold Breath.** The dragon exhales an icy blast in a 90- foot cone. Each creature in that area must make a DC 24 Constitution saving throw, taking 67 (15d8) cold damage on a failed save, or half as much damage on a successful one.
+
+**Paralyzing Breath.** The dragon exhales paralyzing gas in a 90-foot cone. Each creature in that area must succeed on a DC 24 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6+10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Adult Silver Dragon
+
+*Huge dragon, lawful good*
+
+**Armor Class** 19 (natural armor)
+
+**Hit Points** 243 (18d12+126)
+
+**Speed** 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 27 (+8) | 10 (+0) | 25 (+7) | 16 (+3) | 13 (+1) | 21 (+5) |
+
+**Saving Throws** Dex +5, Con +12, Wis +6, Cha +10
+
+**Skills** Arcana +8, History +8, Perception +11, Stealth +5
+
+**Damage Immunities** cold
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 21
+
+**Languages** Common, Draconic
+
+**Challenge** 16 (15,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +13 to hit, reach 10 ft., one target. *Hit:* 19 (2d10+8) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +13 to hit, reach 5 ft., one target. *Hit:* 15 (2d6+8) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +13 to hit, reach 15 ft., one target. *Hit:* 17 (2d8+8) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 18 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Cold Breath.** The dragon exhales an icy blast in a 60- foot cone. Each creature in that area must make a DC 20 Constitution saving throw, taking 58 (13d8) cold damage on a failed save, or half as much damage on a successful one.
+
+**Paralyzing Breath.** The dragon exhales paralyzing gas in a 60-foot cone. Each creature in that area must succeed on a DC 20 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 21 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young Silver Dragon
+
+*Large dragon, lawful good*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 168 (16d10+80)
+
+**Speed** 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 23 (+6) | 10 (+0) | 21 (+5) | 14 (+2) | 11 (+0) | 19 (+4) |
+
+**Saving Throws** Dex +4, Con +9, Wis +4, Cha +8
+
+**Skills** Arcana +6, History +6, Perception +8, Stealth +4
+
+**Damage Immunities** cold
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 18
+
+**Languages** Common, Draconic
+
+**Challenge** 9 (5,000 XP)
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Cold Breath.** The dragon exhales an icy blast in a 30- foot cone. Each creature in that area must make a DC 17 Constitution saving throw, taking 54 (12d8) cold damage on a failed save, or half as much damage on a successful one.
+
+**Paralyzing Breath.** The dragon exhales paralyzing gas in a 30-foot cone. Each creature in that area must succeed on a DC 17 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+## Silver Dragon Wyrmling
+
+*Medium dragon, lawful good*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 45 (6d8+18)
+
+**Speed** 30 ft., fly 60 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 19 (+4) | 10 (+0) | 17 (+3) | 12 (+1) | 11 (+0) | 15 (+2) |
+
+**Saving Throws** Dex +2, Con +5, Wis +2, Cha +4
+
+**Skills** Perception +4, Stealth +2
+
+**Damage Immunities** cold
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 2 (450 XP)
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (1d10+4) piercing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Cold Breath.** The dragon exhales an icy blast in a 15- foot cone. Each creature in that area must make a DC 13 Constitution saving throw, taking 18 (4d8) cold damage on a failed save, or half as much damage on a successful one.
+
+**Paralyzing Breath.** The dragon exhales paralyzing gas in a 15-foot cone. Each creature in that area must succeed on a DC 13 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 # Dragon Brass Young
 
@@ -1899,6 +10685,846 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 **Fire Breath.** The dragon exhales fire in a 40-foot line that is 5 feet wide. Each creature in that line must make a DC 14 Dexterity saving throw, taking 42 (12d6) fire damage on a failed save, or half as much damage on a successful one.
 
 **Sleep Breath.** The dragon exhales sleep gas in a 30-foot cone. Each creature in that area must succeed on a DC 14 Constitution saving throw or fall unconscious for 5 minutes. This effect ends for a creature if the creature takes damage or someone uses an action to wake it.
+
+## Brass Dragon Wyrmling
+
+*Medium dragon, chaotic good*
+
+**Armor Class** 16 (natural armor)
+
+**Hit Points** 16 (3d8+3)
+
+**Speed** 30 ft., burrow 15 ft., fly 60 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 15 (+2) | 10 (+0) | 13 (+1) | 10 (+0) | 11 (+0) | 13 (+1) |
+
+**Saving Throws** Dex +2, Con +3, Wis +2, Cha +3
+
+**Skills** Perception +4, Stealth +2
+
+**Damage Immunities** fire
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 1 (200 XP)
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10+2) piercing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Fire Breath.** The dragon exhales fire in an 20-foot line that is 5 feet wide. Each creature in that line must make a DC 11 Dexterity saving throw, taking 14 (4d6) fire damage on a failed save, or half as much damage on a successful one.
+
+**Sleep Breath.** The dragon exhales sleep gas in a 15-foot cone. Each creature in that area must succeed on a DC 11 Constitution saving throw or fall unconscious for 1 minute. This effect ends for a creature if the creature takes damage or someone uses an action to wake it.
+
+## Bronze Dragon
+
+## Ancient Bronze Dragon
+
+*Gargantuan dragon, lawful good*
+
+**Armor Class** 22 (natural armor)
+
+**Hit Points** 444 (24d20+192)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 29 (+9) | 10 (+0) | 27 (+8) | 18 (+4) | 17 (+3) | 21 (+5) |
+
+**Saving Throws** Dex +7, Con +15, Wis +10, Cha +12
+
+**Skills** Insight +10, Perception +17, Stealth +7
+
+**Damage Immunities** lightning
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 27
+
+**Languages** Common, Draconic
+
+**Challenge** 22 (41,000 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +16 to hit, reach 15 ft., one target. *Hit:* 20 (2d10+9) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +16 to hit, reach 10 ft., one target. *Hit:* 16 (2d6+9) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +16 to hit, reach 20 ft., one target. *Hit:* 18 (2d8+9) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 20 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Lightning Breath.** The dragon exhales lightning in a 120-foot line that is 10 feet wide. Each creature in that line must make a DC 23 Dexterity saving throw, taking 88 (16d10) lightning damage on a failed save, or half as much damage on a successful one.
+
+**Repulsion Breath.** The dragon exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 23 Strength saving throw. On a failed save, the creature is pushed 60 feet away from the dragon.
+
+***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 24 Dexterity saving throw or take 16 (2d6+9) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Adult Bronze Dragon
+
+*Huge dragon, lawful good*
+
+**Armor Class** 19 (natural armor)
+
+**Hit Points** 212 (17d12+102)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 25 (+7) | 10 (+0) | 23 (+6) | 16 (+3) | 15 (+2) | 19 (+4) |
+
+**Saving Throws** Dex +5, Con +11, Wis +7, Cha +9
+
+**Skills** Insight +7, Perception +12, Stealth +5
+
+**Damage Immunities** lightning
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 22
+
+**Languages** Common, Draconic
+
+**Challenge** 15 (13,000 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +12 to hit, reach 10 ft., one target. *Hit:* 18 (2d10+7) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:* 14 (2d6+7) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +12 to hit, reach 15 ft., one target. *Hit:* 16 (2d8+7) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 17 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Lightning Breath.** The dragon exhales lightning in a 90- foot line that is 5 feet wide. Each creature in that line must make a DC 19 Dexterity saving throw, taking 66 (12d10) lightning damage on a failed save, or half as much damage on a successful one.
+
+**Repulsion Breath.** The dragon exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 19 Strength saving throw. On a failed save, the creature is pushed 60 feet away from the dragon.
+
+***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 20 Dexterity saving throw or take 14 (2d6+7) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young Bronze Dragon
+
+*Large dragon, lawful good*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 142 (15d10+60)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 21 (+5) | 10 (+0) | 19 (+4) | 14 (+2) | 13 (+1) | 17 (+3) |
+
+**Saving Throws** Dex +3, Con +7, Wis +4, Cha +6
+
+**Skills** Insight +4, Perception +7, Stealth +3
+
+**Damage Immunities** lightning
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 17
+
+**Languages** Common, Draconic
+
+**Challenge** 8 (3,900 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 16 (2d10+5) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 12 (2d6+5) slashing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Lightning Breath.** The dragon exhales lightning in a 60- foot line that is 5 feet wide. Each creature in that line must make a DC 15 Dexterity saving throw, taking 55 (10d10) lightning damage on a failed save, or half as much damage on a successful one.
+
+**Repulsion Breath.** The dragon exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 15 Strength saving throw. On a failed save, the creature is pushed 40 feet away from the dragon.
+
+## Bronze Dragon Wyrmling
+
+*Medium dragon, lawful good*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 32 (5d8+10)
+
+**Speed** 30 ft., fly 60 ft., swim 30 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 17 (+3) | 10 (+0) | 15 (+2) | 12 (+1) | 11 (+0) | 15 (+2) |
+
+**Saving Throws** Dex +2, Con +4, Wis +2, Cha +4
+
+**Skills** Perception +4, Stealth +2
+
+**Damage Immunities** lightning
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 2 (450 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (1d10+3) piercing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Lightning Breath.** The dragon exhales lightning in a 40- foot line that is 5 feet wide. Each creature in that line must make a DC 12 Dexterity saving throw, taking 16 (3d10) lightning damage on a failed save, or half as much damage on a successful one.
+
+**Repulsion Breath.** The dragon exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 12 Strength saving throw. On a failed save, the creature is pushed 30 feet away from the dragon.
+
+## Copper Dragon
+
+## Ancient Copper Dragon
+
+*Gargantuan dragon, chaotic good*
+
+**Armor Class** 21 (natural armor)
+
+**Hit Points** 350 (20d20+140)
+
+**Speed** 40 ft., climb 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 27 (+8) | 12 (+1) | 25 (+7) | 20 (+5) | 17 (+3) | 19 (+4) |
+
+**Saving Throws** Dex +8, Con +14, Wis +10, Cha +11
+
+**Skills** Deception +11, Perception +17, Stealth +8
+
+**Damage Immunities** acid
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 27
+
+**Languages** Common, Draconic
+
+**Challenge** 21 (33,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +15 to hit, reach 15 ft., one target. *Hit:* 19 (2d10+8) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +15 to hit, reach 10 ft., one target. *Hit:* 15 (2d6+8) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +15 to hit, reach 20 ft., one target. *Hit:* 17 (2d8+8) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 19 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Acid Breath.** The dragon exhales acid in an 90-foot line that is 10 feet wide. Each creature in that line must make a DC 22 Dexterity saving throw, taking 63 (14d8) acid damage on a failed save, or half as much damage on a successful one.
+
+**Slowing Breath.** The dragon exhales gas in a 90-foot cone. Each creature in that area must succeed on a DC 22 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
+
+***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 23 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Adult Copper Dragon
+
+*Huge dragon, chaotic good*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 184 (16d12+80)
+
+**Speed** 40 ft., climb 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 23 (+6) | 12 (+1) | 21 (+5) | 18 (+4) | 15 (+2) | 17 (+3) |
+
+**Saving Throws** Dex +6, Con +10, Wis +7, Cha +8
+
+**Skills** Deception +8, Perception +12, Stealth +6
+
+**Damage Immunities** acid
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 22
+
+**Languages** Common, Draconic
+
+**Challenge** 14 (11,500 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +11 to hit, reach 15 ft., one target. *Hit:* 15 (2d8+6) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Acid Breath.** The dragon exhales acid in an 60-foot line that is 5 feet wide. Each creature in that line must make a DC 18 Dexterity saving throw, taking 54 (12d8) acid damage on a failed save, or half as much damage on a successful one.
+
+**Slowing Breath.** The dragon exhales gas in a 60-foot cone. Each creature in that area must succeed on a DC 18 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6+6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young Copper Dragon
+
+*Large dragon, chaotic good*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 119 (14d10+42)
+
+**Speed** 40 ft., climb 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 19 (+4) | 12 (+1) | 17 (+3) | 16 (+3) | 13 (+1) | 15 (+2) |
+
+**Saving Throws** Dex +4, Con +6, Wis +4, Cha +5
+
+**Skills** Deception +5, Perception +7, Stealth +4
+
+**Damage Immunities** acid
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 17
+
+**Languages** Common, Draconic
+
+**Challenge** 7 (2,900 XP)
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 15 (2d10+4) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6+4) slashing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Acid Breath.** The dragon exhales acid in an 40-foot line that is 5 feet wide. Each creature in that line must make a DC 14 Dexterity saving throw, taking 40 (9d8) acid damage on a failed save, or half as much damage on a successful one.
+
+**Slowing Breath.** The dragon exhales gas in a 30-foot cone. Each creature in that area must succeed on a DC 14 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
+
+## Copper Dragon Wyrmling
+
+*Medium dragon, chaotic good*
+
+**Armor Class** 16 (natural armor)
+
+**Hit Points** 22 (4d8+4)
+
+**Speed** 30 ft., climb 30 ft., fly 60 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 15 (+2) | 12 (+1) | 13 (+1) | 14 (+2) | 11 (+0) | 13 (+1) |
+
+**Saving Throws** Dex +3, Con +3, Wis +2, Cha +3
+
+**Skills** Perception +4, Stealth +3
+
+**Damage Immunities** acid
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 1 (200 XP)
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10+2) piercing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Acid Breath.** The dragon exhales acid in an 20-foot line that is 5 feet wide. Each creature in that line must make a DC 11 Dexterity saving throw, taking 18 (4d8) acid damage on a failed save, or half as much damage on a successful one.
+
+**Slowing Breath.** The dragon exhales gas in a 15-foot cone. Each creature in that area must succeed on a DC 11 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
+
+## Gold Dragon
+
+## Ancient Gold Dragon
+
+*Gargantuan dragon, lawful good*
+
+**Armor Class** 22 (natural armor)
+
+**Hit Points** 546 (28d20+252)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR      | DEX     | CON     | INT     | WIS     | CHA     |
+|----------|---------|---------|---------|---------|---------|
+| 30 (+10) | 14 (+2) | 29 (+9) | 18 (+4) | 17 (+3) | 28 (+9) |
+
+**Saving Throws** Dex +9, Con +16, Wis +10, Cha +16
+
+**Skills** Insight +10, Perception +17, Persuasion +16, Stealth +9
+
+**Damage Immunities** fire
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 27
+
+**Languages** Common, Draconic
+
+**Challenge** 24 (62,000 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +17 to hit, reach 15 ft., one target. *Hit:* 21 (2d10+10) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +17 to hit, reach 10 ft., one target. *Hit:* 17 (2d6+10) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +17 to hit, reach 20 ft., one target. *Hit:* 19 (2d8+10) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 24 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Fire Breath.** The dragon exhales fire in a 90-foot cone. Each creature in that area must make a DC 24 Dexterity saving throw, taking 71 (13d10) fire damage on a failed save, or half as much damage on a successful one.
+
+**Weakening Breath.** The dragon exhales gas in a 90-foot cone. Each creature in that area must succeed on a DC 24 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6+10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Adult Gold Dragon
+
+*Huge dragon, lawful good*
+
+**Armor Class** 19 (natural armor)
+
+**Hit Points** 256 (19d12+133)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 27 (+8) | 14 (+2) | 25 (+7) | 16 (+3) | 15 (+2) | 24 (+7) |
+
+**Saving Throws** Dex +8, Con +13, Wis +8, Cha +13
+
+**Skills** Insight +8, Perception +14, Persuasion +13, Stealth +8
+
+**Damage Immunities** fire
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 24
+
+**Languages** Common, Draconic
+
+**Challenge** 17 (18,000 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 19 (2d10+8) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +14 to hit, reach 5 ft., one target. *Hit:* 15 (2d6+8) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +14 to hit, reach 15 ft., one target. *Hit:* 17 (2d8+8) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 21 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Fire Breath.** The dragon exhales fire in a 60-foot cone. Each creature in that area must make a DC 21 Dexterity saving throw, taking 66 (12d10) fire damage on a failed save, or half as much damage on a successful one.
+
+**Weakening Breath.** The dragon exhales gas in a 60-foot cone. Each creature in that area must succeed on a DC 21 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young Gold Dragon
+
+*Large dragon, lawful good*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 178 (17d10+85)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 23 (+6) | 14 (+2) | 21 (+5) | 16 (+3) | 13 (+1) | 20 (+5) |
+
+**Saving Throws** Dex +6, Con +9, Wis +5, Cha +9
+
+**Skills** Insight +5, Perception +9, Persuasion +9, Stealth +6
+
+**Damage Immunities** fire
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 19
+
+**Languages** Common, Draconic
+
+**Challenge** 10 (5,900 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Fire Breath.** The dragon exhales fire in a 30-foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 55 (10d10) fire damage on a failed save, or half as much damage on a successful one.
+
+**Weakening Breath.** The dragon exhales gas in a 30-foot cone. Each creature in that area must succeed on a DC 17 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+## Gold Dragon Wyrmling
+
+*Medium dragon, lawful good*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 60 (8d8+24)
+
+**Speed** 30 ft., fly 60 ft., swim 30 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 19 (+4) | 14 (+2) | 17 (+3) | 14 (+2) | 11 (+0) | 16 (+3) |
+
+**Saving Throws** Dex +4, Con +5, Wis +2, Cha +5
+
+**Skills** Perception +4, Stealth +4
+
+**Damage Immunities** fire
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 3 (700 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (1d10+4) piercing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Fire Breath.** The dragon exhales fire in a 15-foot cone. Each creature in that area must make a DC 13 Dexterity saving throw, taking 22 (4d10) fire damage on a failed save, or half as much damage on a successful one.
+
+**Weakening Breath.** The dragon exhales gas in a 15-foot cone. Each creature in that area must succeed on a DC 13 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+## Silver Dragon
+
+## Ancient Silver Dragon
+
+*Gargantuan dragon, lawful good*
+
+**Armor Class** 22 (natural armor)
+
+**Hit Points** 487 (25d20+225)
+
+**Speed** 40 ft., fly 80 ft.
+
+| STR      | DEX     | CON     | INT     | WIS     | CHA     |
+|----------|---------|---------|---------|---------|---------|
+| 30 (+10) | 10 (+0) | 29 (+9) | 18 (+4) | 15 (+2) | 23 (+6) |
+
+**Saving Throws** Dex +7, Con +16, Wis +9, Cha +13
+
+**Skills** Arcana +11, History +11, Perception +16, Stealth +7
+
+**Damage Immunities** cold
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 26
+
+**Languages** Common, Draconic
+
+**Challenge** 23 (50,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +17 to hit, reach 15 ft., one target. *Hit:* 21 (2d10+10) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +17 to hit, reach 10 ft., one target. *Hit:* 17 (2d6+10) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +17 to hit, reach 20 ft., one target. *Hit:* 19 (2d8+10) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 21 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Cold Breath.** The dragon exhales an icy blast in a 90- foot cone. Each creature in that area must make a DC 24 Constitution saving throw, taking 67 (15d8) cold damage on a failed save, or half as much damage on a successful one.
+
+**Paralyzing Breath.** The dragon exhales paralyzing gas in a 90-foot cone. Each creature in that area must succeed on a DC 24 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6+10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Adult Silver Dragon
+
+*Huge dragon, lawful good*
+
+**Armor Class** 19 (natural armor)
+
+**Hit Points** 243 (18d12+126)
+
+**Speed** 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 27 (+8) | 10 (+0) | 25 (+7) | 16 (+3) | 13 (+1) | 21 (+5) |
+
+**Saving Throws** Dex +5, Con +12, Wis +6, Cha +10
+
+**Skills** Arcana +8, History +8, Perception +11, Stealth +5
+
+**Damage Immunities** cold
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 21
+
+**Languages** Common, Draconic
+
+**Challenge** 16 (15,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +13 to hit, reach 10 ft., one target. *Hit:* 19 (2d10+8) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +13 to hit, reach 5 ft., one target. *Hit:* 15 (2d6+8) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +13 to hit, reach 15 ft., one target. *Hit:* 17 (2d8+8) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 18 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Cold Breath.** The dragon exhales an icy blast in a 60- foot cone. Each creature in that area must make a DC 20 Constitution saving throw, taking 58 (13d8) cold damage on a failed save, or half as much damage on a successful one.
+
+**Paralyzing Breath.** The dragon exhales paralyzing gas in a 60-foot cone. Each creature in that area must succeed on a DC 20 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 21 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young Silver Dragon
+
+*Large dragon, lawful good*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 168 (16d10+80)
+
+**Speed** 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 23 (+6) | 10 (+0) | 21 (+5) | 14 (+2) | 11 (+0) | 19 (+4) |
+
+**Saving Throws** Dex +4, Con +9, Wis +4, Cha +8
+
+**Skills** Arcana +6, History +6, Perception +8, Stealth +4
+
+**Damage Immunities** cold
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 18
+
+**Languages** Common, Draconic
+
+**Challenge** 9 (5,000 XP)
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Cold Breath.** The dragon exhales an icy blast in a 30- foot cone. Each creature in that area must make a DC 17 Constitution saving throw, taking 54 (12d8) cold damage on a failed save, or half as much damage on a successful one.
+
+**Paralyzing Breath.** The dragon exhales paralyzing gas in a 30-foot cone. Each creature in that area must succeed on a DC 17 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+## Silver Dragon Wyrmling
+
+*Medium dragon, lawful good*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 45 (6d8+18)
+
+**Speed** 30 ft., fly 60 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 19 (+4) | 10 (+0) | 17 (+3) | 12 (+1) | 11 (+0) | 15 (+2) |
+
+**Saving Throws** Dex +2, Con +5, Wis +2, Cha +4
+
+**Skills** Perception +4, Stealth +2
+
+**Damage Immunities** cold
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 2 (450 XP)
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (1d10+4) piercing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Cold Breath.** The dragon exhales an icy blast in a 15- foot cone. Each creature in that area must make a DC 13 Constitution saving throw, taking 18 (4d8) cold damage on a failed save, or half as much damage on a successful one.
+
+**Paralyzing Breath.** The dragon exhales paralyzing gas in a 15-foot cone. Each creature in that area must succeed on a DC 13 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 # Dragon Bronze Adult
 
@@ -1964,6 +11590,684 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 20 Dexterity saving throw or take 14 (2d6+7) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
+## Young Bronze Dragon
+
+*Large dragon, lawful good*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 142 (15d10+60)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 21 (+5) | 10 (+0) | 19 (+4) | 14 (+2) | 13 (+1) | 17 (+3) |
+
+**Saving Throws** Dex +3, Con +7, Wis +4, Cha +6
+
+**Skills** Insight +4, Perception +7, Stealth +3
+
+**Damage Immunities** lightning
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 17
+
+**Languages** Common, Draconic
+
+**Challenge** 8 (3,900 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 16 (2d10+5) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 12 (2d6+5) slashing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Lightning Breath.** The dragon exhales lightning in a 60- foot line that is 5 feet wide. Each creature in that line must make a DC 15 Dexterity saving throw, taking 55 (10d10) lightning damage on a failed save, or half as much damage on a successful one.
+
+**Repulsion Breath.** The dragon exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 15 Strength saving throw. On a failed save, the creature is pushed 40 feet away from the dragon.
+
+## Bronze Dragon Wyrmling
+
+*Medium dragon, lawful good*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 32 (5d8+10)
+
+**Speed** 30 ft., fly 60 ft., swim 30 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 17 (+3) | 10 (+0) | 15 (+2) | 12 (+1) | 11 (+0) | 15 (+2) |
+
+**Saving Throws** Dex +2, Con +4, Wis +2, Cha +4
+
+**Skills** Perception +4, Stealth +2
+
+**Damage Immunities** lightning
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 2 (450 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (1d10+3) piercing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Lightning Breath.** The dragon exhales lightning in a 40- foot line that is 5 feet wide. Each creature in that line must make a DC 12 Dexterity saving throw, taking 16 (3d10) lightning damage on a failed save, or half as much damage on a successful one.
+
+**Repulsion Breath.** The dragon exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 12 Strength saving throw. On a failed save, the creature is pushed 30 feet away from the dragon.
+
+## Copper Dragon
+
+## Ancient Copper Dragon
+
+*Gargantuan dragon, chaotic good*
+
+**Armor Class** 21 (natural armor)
+
+**Hit Points** 350 (20d20+140)
+
+**Speed** 40 ft., climb 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 27 (+8) | 12 (+1) | 25 (+7) | 20 (+5) | 17 (+3) | 19 (+4) |
+
+**Saving Throws** Dex +8, Con +14, Wis +10, Cha +11
+
+**Skills** Deception +11, Perception +17, Stealth +8
+
+**Damage Immunities** acid
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 27
+
+**Languages** Common, Draconic
+
+**Challenge** 21 (33,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +15 to hit, reach 15 ft., one target. *Hit:* 19 (2d10+8) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +15 to hit, reach 10 ft., one target. *Hit:* 15 (2d6+8) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +15 to hit, reach 20 ft., one target. *Hit:* 17 (2d8+8) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 19 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Acid Breath.** The dragon exhales acid in an 90-foot line that is 10 feet wide. Each creature in that line must make a DC 22 Dexterity saving throw, taking 63 (14d8) acid damage on a failed save, or half as much damage on a successful one.
+
+**Slowing Breath.** The dragon exhales gas in a 90-foot cone. Each creature in that area must succeed on a DC 22 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
+
+***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 23 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Adult Copper Dragon
+
+*Huge dragon, chaotic good*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 184 (16d12+80)
+
+**Speed** 40 ft., climb 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 23 (+6) | 12 (+1) | 21 (+5) | 18 (+4) | 15 (+2) | 17 (+3) |
+
+**Saving Throws** Dex +6, Con +10, Wis +7, Cha +8
+
+**Skills** Deception +8, Perception +12, Stealth +6
+
+**Damage Immunities** acid
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 22
+
+**Languages** Common, Draconic
+
+**Challenge** 14 (11,500 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +11 to hit, reach 15 ft., one target. *Hit:* 15 (2d8+6) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Acid Breath.** The dragon exhales acid in an 60-foot line that is 5 feet wide. Each creature in that line must make a DC 18 Dexterity saving throw, taking 54 (12d8) acid damage on a failed save, or half as much damage on a successful one.
+
+**Slowing Breath.** The dragon exhales gas in a 60-foot cone. Each creature in that area must succeed on a DC 18 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6+6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young Copper Dragon
+
+*Large dragon, chaotic good*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 119 (14d10+42)
+
+**Speed** 40 ft., climb 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 19 (+4) | 12 (+1) | 17 (+3) | 16 (+3) | 13 (+1) | 15 (+2) |
+
+**Saving Throws** Dex +4, Con +6, Wis +4, Cha +5
+
+**Skills** Deception +5, Perception +7, Stealth +4
+
+**Damage Immunities** acid
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 17
+
+**Languages** Common, Draconic
+
+**Challenge** 7 (2,900 XP)
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 15 (2d10+4) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6+4) slashing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Acid Breath.** The dragon exhales acid in an 40-foot line that is 5 feet wide. Each creature in that line must make a DC 14 Dexterity saving throw, taking 40 (9d8) acid damage on a failed save, or half as much damage on a successful one.
+
+**Slowing Breath.** The dragon exhales gas in a 30-foot cone. Each creature in that area must succeed on a DC 14 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
+
+## Copper Dragon Wyrmling
+
+*Medium dragon, chaotic good*
+
+**Armor Class** 16 (natural armor)
+
+**Hit Points** 22 (4d8+4)
+
+**Speed** 30 ft., climb 30 ft., fly 60 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 15 (+2) | 12 (+1) | 13 (+1) | 14 (+2) | 11 (+0) | 13 (+1) |
+
+**Saving Throws** Dex +3, Con +3, Wis +2, Cha +3
+
+**Skills** Perception +4, Stealth +3
+
+**Damage Immunities** acid
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 1 (200 XP)
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10+2) piercing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Acid Breath.** The dragon exhales acid in an 20-foot line that is 5 feet wide. Each creature in that line must make a DC 11 Dexterity saving throw, taking 18 (4d8) acid damage on a failed save, or half as much damage on a successful one.
+
+**Slowing Breath.** The dragon exhales gas in a 15-foot cone. Each creature in that area must succeed on a DC 11 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
+
+## Gold Dragon
+
+## Ancient Gold Dragon
+
+*Gargantuan dragon, lawful good*
+
+**Armor Class** 22 (natural armor)
+
+**Hit Points** 546 (28d20+252)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR      | DEX     | CON     | INT     | WIS     | CHA     |
+|----------|---------|---------|---------|---------|---------|
+| 30 (+10) | 14 (+2) | 29 (+9) | 18 (+4) | 17 (+3) | 28 (+9) |
+
+**Saving Throws** Dex +9, Con +16, Wis +10, Cha +16
+
+**Skills** Insight +10, Perception +17, Persuasion +16, Stealth +9
+
+**Damage Immunities** fire
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 27
+
+**Languages** Common, Draconic
+
+**Challenge** 24 (62,000 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +17 to hit, reach 15 ft., one target. *Hit:* 21 (2d10+10) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +17 to hit, reach 10 ft., one target. *Hit:* 17 (2d6+10) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +17 to hit, reach 20 ft., one target. *Hit:* 19 (2d8+10) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 24 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Fire Breath.** The dragon exhales fire in a 90-foot cone. Each creature in that area must make a DC 24 Dexterity saving throw, taking 71 (13d10) fire damage on a failed save, or half as much damage on a successful one.
+
+**Weakening Breath.** The dragon exhales gas in a 90-foot cone. Each creature in that area must succeed on a DC 24 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6+10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Adult Gold Dragon
+
+*Huge dragon, lawful good*
+
+**Armor Class** 19 (natural armor)
+
+**Hit Points** 256 (19d12+133)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 27 (+8) | 14 (+2) | 25 (+7) | 16 (+3) | 15 (+2) | 24 (+7) |
+
+**Saving Throws** Dex +8, Con +13, Wis +8, Cha +13
+
+**Skills** Insight +8, Perception +14, Persuasion +13, Stealth +8
+
+**Damage Immunities** fire
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 24
+
+**Languages** Common, Draconic
+
+**Challenge** 17 (18,000 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 19 (2d10+8) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +14 to hit, reach 5 ft., one target. *Hit:* 15 (2d6+8) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +14 to hit, reach 15 ft., one target. *Hit:* 17 (2d8+8) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 21 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Fire Breath.** The dragon exhales fire in a 60-foot cone. Each creature in that area must make a DC 21 Dexterity saving throw, taking 66 (12d10) fire damage on a failed save, or half as much damage on a successful one.
+
+**Weakening Breath.** The dragon exhales gas in a 60-foot cone. Each creature in that area must succeed on a DC 21 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young Gold Dragon
+
+*Large dragon, lawful good*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 178 (17d10+85)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 23 (+6) | 14 (+2) | 21 (+5) | 16 (+3) | 13 (+1) | 20 (+5) |
+
+**Saving Throws** Dex +6, Con +9, Wis +5, Cha +9
+
+**Skills** Insight +5, Perception +9, Persuasion +9, Stealth +6
+
+**Damage Immunities** fire
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 19
+
+**Languages** Common, Draconic
+
+**Challenge** 10 (5,900 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Fire Breath.** The dragon exhales fire in a 30-foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 55 (10d10) fire damage on a failed save, or half as much damage on a successful one.
+
+**Weakening Breath.** The dragon exhales gas in a 30-foot cone. Each creature in that area must succeed on a DC 17 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+## Gold Dragon Wyrmling
+
+*Medium dragon, lawful good*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 60 (8d8+24)
+
+**Speed** 30 ft., fly 60 ft., swim 30 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 19 (+4) | 14 (+2) | 17 (+3) | 14 (+2) | 11 (+0) | 16 (+3) |
+
+**Saving Throws** Dex +4, Con +5, Wis +2, Cha +5
+
+**Skills** Perception +4, Stealth +4
+
+**Damage Immunities** fire
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 3 (700 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (1d10+4) piercing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Fire Breath.** The dragon exhales fire in a 15-foot cone. Each creature in that area must make a DC 13 Dexterity saving throw, taking 22 (4d10) fire damage on a failed save, or half as much damage on a successful one.
+
+**Weakening Breath.** The dragon exhales gas in a 15-foot cone. Each creature in that area must succeed on a DC 13 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+## Silver Dragon
+
+## Ancient Silver Dragon
+
+*Gargantuan dragon, lawful good*
+
+**Armor Class** 22 (natural armor)
+
+**Hit Points** 487 (25d20+225)
+
+**Speed** 40 ft., fly 80 ft.
+
+| STR      | DEX     | CON     | INT     | WIS     | CHA     |
+|----------|---------|---------|---------|---------|---------|
+| 30 (+10) | 10 (+0) | 29 (+9) | 18 (+4) | 15 (+2) | 23 (+6) |
+
+**Saving Throws** Dex +7, Con +16, Wis +9, Cha +13
+
+**Skills** Arcana +11, History +11, Perception +16, Stealth +7
+
+**Damage Immunities** cold
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 26
+
+**Languages** Common, Draconic
+
+**Challenge** 23 (50,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +17 to hit, reach 15 ft., one target. *Hit:* 21 (2d10+10) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +17 to hit, reach 10 ft., one target. *Hit:* 17 (2d6+10) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +17 to hit, reach 20 ft., one target. *Hit:* 19 (2d8+10) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 21 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Cold Breath.** The dragon exhales an icy blast in a 90- foot cone. Each creature in that area must make a DC 24 Constitution saving throw, taking 67 (15d8) cold damage on a failed save, or half as much damage on a successful one.
+
+**Paralyzing Breath.** The dragon exhales paralyzing gas in a 90-foot cone. Each creature in that area must succeed on a DC 24 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6+10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Adult Silver Dragon
+
+*Huge dragon, lawful good*
+
+**Armor Class** 19 (natural armor)
+
+**Hit Points** 243 (18d12+126)
+
+**Speed** 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 27 (+8) | 10 (+0) | 25 (+7) | 16 (+3) | 13 (+1) | 21 (+5) |
+
+**Saving Throws** Dex +5, Con +12, Wis +6, Cha +10
+
+**Skills** Arcana +8, History +8, Perception +11, Stealth +5
+
+**Damage Immunities** cold
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 21
+
+**Languages** Common, Draconic
+
+**Challenge** 16 (15,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +13 to hit, reach 10 ft., one target. *Hit:* 19 (2d10+8) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +13 to hit, reach 5 ft., one target. *Hit:* 15 (2d6+8) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +13 to hit, reach 15 ft., one target. *Hit:* 17 (2d8+8) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 18 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Cold Breath.** The dragon exhales an icy blast in a 60- foot cone. Each creature in that area must make a DC 20 Constitution saving throw, taking 58 (13d8) cold damage on a failed save, or half as much damage on a successful one.
+
+**Paralyzing Breath.** The dragon exhales paralyzing gas in a 60-foot cone. Each creature in that area must succeed on a DC 20 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 21 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young Silver Dragon
+
+*Large dragon, lawful good*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 168 (16d10+80)
+
+**Speed** 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 23 (+6) | 10 (+0) | 21 (+5) | 14 (+2) | 11 (+0) | 19 (+4) |
+
+**Saving Throws** Dex +4, Con +9, Wis +4, Cha +8
+
+**Skills** Arcana +6, History +6, Perception +8, Stealth +4
+
+**Damage Immunities** cold
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 18
+
+**Languages** Common, Draconic
+
+**Challenge** 9 (5,000 XP)
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Cold Breath.** The dragon exhales an icy blast in a 30- foot cone. Each creature in that area must make a DC 17 Constitution saving throw, taking 54 (12d8) cold damage on a failed save, or half as much damage on a successful one.
+
+**Paralyzing Breath.** The dragon exhales paralyzing gas in a 30-foot cone. Each creature in that area must succeed on a DC 17 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+## Silver Dragon Wyrmling
+
+*Medium dragon, lawful good*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 45 (6d8+18)
+
+**Speed** 30 ft., fly 60 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 19 (+4) | 10 (+0) | 17 (+3) | 12 (+1) | 11 (+0) | 15 (+2) |
+
+**Saving Throws** Dex +2, Con +5, Wis +2, Cha +4
+
+**Skills** Perception +4, Stealth +2
+
+**Damage Immunities** cold
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 2 (450 XP)
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (1d10+4) piercing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Cold Breath.** The dragon exhales an icy blast in a 15- foot cone. Each creature in that area must make a DC 13 Constitution saving throw, taking 18 (4d8) cold damage on a failed save, or half as much damage on a successful one.
+
+**Paralyzing Breath.** The dragon exhales paralyzing gas in a 15-foot cone. Each creature in that area must succeed on a DC 13 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
 # Dragon Bronze Ancient
 
 *Gargantuan dragon, lawful good*
@@ -2028,6 +12332,746 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 24 Dexterity saving throw or take 16 (2d6+9) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
+## Adult Bronze Dragon
+
+*Huge dragon, lawful good*
+
+**Armor Class** 19 (natural armor)
+
+**Hit Points** 212 (17d12+102)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 25 (+7) | 10 (+0) | 23 (+6) | 16 (+3) | 15 (+2) | 19 (+4) |
+
+**Saving Throws** Dex +5, Con +11, Wis +7, Cha +9
+
+**Skills** Insight +7, Perception +12, Stealth +5
+
+**Damage Immunities** lightning
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 22
+
+**Languages** Common, Draconic
+
+**Challenge** 15 (13,000 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +12 to hit, reach 10 ft., one target. *Hit:* 18 (2d10+7) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:* 14 (2d6+7) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +12 to hit, reach 15 ft., one target. *Hit:* 16 (2d8+7) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 17 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Lightning Breath.** The dragon exhales lightning in a 90- foot line that is 5 feet wide. Each creature in that line must make a DC 19 Dexterity saving throw, taking 66 (12d10) lightning damage on a failed save, or half as much damage on a successful one.
+
+**Repulsion Breath.** The dragon exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 19 Strength saving throw. On a failed save, the creature is pushed 60 feet away from the dragon.
+
+***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 20 Dexterity saving throw or take 14 (2d6+7) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young Bronze Dragon
+
+*Large dragon, lawful good*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 142 (15d10+60)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 21 (+5) | 10 (+0) | 19 (+4) | 14 (+2) | 13 (+1) | 17 (+3) |
+
+**Saving Throws** Dex +3, Con +7, Wis +4, Cha +6
+
+**Skills** Insight +4, Perception +7, Stealth +3
+
+**Damage Immunities** lightning
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 17
+
+**Languages** Common, Draconic
+
+**Challenge** 8 (3,900 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 16 (2d10+5) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 12 (2d6+5) slashing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Lightning Breath.** The dragon exhales lightning in a 60- foot line that is 5 feet wide. Each creature in that line must make a DC 15 Dexterity saving throw, taking 55 (10d10) lightning damage on a failed save, or half as much damage on a successful one.
+
+**Repulsion Breath.** The dragon exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 15 Strength saving throw. On a failed save, the creature is pushed 40 feet away from the dragon.
+
+## Bronze Dragon Wyrmling
+
+*Medium dragon, lawful good*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 32 (5d8+10)
+
+**Speed** 30 ft., fly 60 ft., swim 30 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 17 (+3) | 10 (+0) | 15 (+2) | 12 (+1) | 11 (+0) | 15 (+2) |
+
+**Saving Throws** Dex +2, Con +4, Wis +2, Cha +4
+
+**Skills** Perception +4, Stealth +2
+
+**Damage Immunities** lightning
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 2 (450 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (1d10+3) piercing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Lightning Breath.** The dragon exhales lightning in a 40- foot line that is 5 feet wide. Each creature in that line must make a DC 12 Dexterity saving throw, taking 16 (3d10) lightning damage on a failed save, or half as much damage on a successful one.
+
+**Repulsion Breath.** The dragon exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 12 Strength saving throw. On a failed save, the creature is pushed 30 feet away from the dragon.
+
+## Copper Dragon
+
+## Ancient Copper Dragon
+
+*Gargantuan dragon, chaotic good*
+
+**Armor Class** 21 (natural armor)
+
+**Hit Points** 350 (20d20+140)
+
+**Speed** 40 ft., climb 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 27 (+8) | 12 (+1) | 25 (+7) | 20 (+5) | 17 (+3) | 19 (+4) |
+
+**Saving Throws** Dex +8, Con +14, Wis +10, Cha +11
+
+**Skills** Deception +11, Perception +17, Stealth +8
+
+**Damage Immunities** acid
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 27
+
+**Languages** Common, Draconic
+
+**Challenge** 21 (33,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +15 to hit, reach 15 ft., one target. *Hit:* 19 (2d10+8) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +15 to hit, reach 10 ft., one target. *Hit:* 15 (2d6+8) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +15 to hit, reach 20 ft., one target. *Hit:* 17 (2d8+8) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 19 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Acid Breath.** The dragon exhales acid in an 90-foot line that is 10 feet wide. Each creature in that line must make a DC 22 Dexterity saving throw, taking 63 (14d8) acid damage on a failed save, or half as much damage on a successful one.
+
+**Slowing Breath.** The dragon exhales gas in a 90-foot cone. Each creature in that area must succeed on a DC 22 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
+
+***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 23 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Adult Copper Dragon
+
+*Huge dragon, chaotic good*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 184 (16d12+80)
+
+**Speed** 40 ft., climb 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 23 (+6) | 12 (+1) | 21 (+5) | 18 (+4) | 15 (+2) | 17 (+3) |
+
+**Saving Throws** Dex +6, Con +10, Wis +7, Cha +8
+
+**Skills** Deception +8, Perception +12, Stealth +6
+
+**Damage Immunities** acid
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 22
+
+**Languages** Common, Draconic
+
+**Challenge** 14 (11,500 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +11 to hit, reach 15 ft., one target. *Hit:* 15 (2d8+6) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Acid Breath.** The dragon exhales acid in an 60-foot line that is 5 feet wide. Each creature in that line must make a DC 18 Dexterity saving throw, taking 54 (12d8) acid damage on a failed save, or half as much damage on a successful one.
+
+**Slowing Breath.** The dragon exhales gas in a 60-foot cone. Each creature in that area must succeed on a DC 18 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6+6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young Copper Dragon
+
+*Large dragon, chaotic good*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 119 (14d10+42)
+
+**Speed** 40 ft., climb 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 19 (+4) | 12 (+1) | 17 (+3) | 16 (+3) | 13 (+1) | 15 (+2) |
+
+**Saving Throws** Dex +4, Con +6, Wis +4, Cha +5
+
+**Skills** Deception +5, Perception +7, Stealth +4
+
+**Damage Immunities** acid
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 17
+
+**Languages** Common, Draconic
+
+**Challenge** 7 (2,900 XP)
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 15 (2d10+4) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6+4) slashing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Acid Breath.** The dragon exhales acid in an 40-foot line that is 5 feet wide. Each creature in that line must make a DC 14 Dexterity saving throw, taking 40 (9d8) acid damage on a failed save, or half as much damage on a successful one.
+
+**Slowing Breath.** The dragon exhales gas in a 30-foot cone. Each creature in that area must succeed on a DC 14 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
+
+## Copper Dragon Wyrmling
+
+*Medium dragon, chaotic good*
+
+**Armor Class** 16 (natural armor)
+
+**Hit Points** 22 (4d8+4)
+
+**Speed** 30 ft., climb 30 ft., fly 60 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 15 (+2) | 12 (+1) | 13 (+1) | 14 (+2) | 11 (+0) | 13 (+1) |
+
+**Saving Throws** Dex +3, Con +3, Wis +2, Cha +3
+
+**Skills** Perception +4, Stealth +3
+
+**Damage Immunities** acid
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 1 (200 XP)
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10+2) piercing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Acid Breath.** The dragon exhales acid in an 20-foot line that is 5 feet wide. Each creature in that line must make a DC 11 Dexterity saving throw, taking 18 (4d8) acid damage on a failed save, or half as much damage on a successful one.
+
+**Slowing Breath.** The dragon exhales gas in a 15-foot cone. Each creature in that area must succeed on a DC 11 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
+
+## Gold Dragon
+
+## Ancient Gold Dragon
+
+*Gargantuan dragon, lawful good*
+
+**Armor Class** 22 (natural armor)
+
+**Hit Points** 546 (28d20+252)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR      | DEX     | CON     | INT     | WIS     | CHA     |
+|----------|---------|---------|---------|---------|---------|
+| 30 (+10) | 14 (+2) | 29 (+9) | 18 (+4) | 17 (+3) | 28 (+9) |
+
+**Saving Throws** Dex +9, Con +16, Wis +10, Cha +16
+
+**Skills** Insight +10, Perception +17, Persuasion +16, Stealth +9
+
+**Damage Immunities** fire
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 27
+
+**Languages** Common, Draconic
+
+**Challenge** 24 (62,000 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +17 to hit, reach 15 ft., one target. *Hit:* 21 (2d10+10) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +17 to hit, reach 10 ft., one target. *Hit:* 17 (2d6+10) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +17 to hit, reach 20 ft., one target. *Hit:* 19 (2d8+10) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 24 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Fire Breath.** The dragon exhales fire in a 90-foot cone. Each creature in that area must make a DC 24 Dexterity saving throw, taking 71 (13d10) fire damage on a failed save, or half as much damage on a successful one.
+
+**Weakening Breath.** The dragon exhales gas in a 90-foot cone. Each creature in that area must succeed on a DC 24 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6+10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Adult Gold Dragon
+
+*Huge dragon, lawful good*
+
+**Armor Class** 19 (natural armor)
+
+**Hit Points** 256 (19d12+133)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 27 (+8) | 14 (+2) | 25 (+7) | 16 (+3) | 15 (+2) | 24 (+7) |
+
+**Saving Throws** Dex +8, Con +13, Wis +8, Cha +13
+
+**Skills** Insight +8, Perception +14, Persuasion +13, Stealth +8
+
+**Damage Immunities** fire
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 24
+
+**Languages** Common, Draconic
+
+**Challenge** 17 (18,000 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 19 (2d10+8) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +14 to hit, reach 5 ft., one target. *Hit:* 15 (2d6+8) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +14 to hit, reach 15 ft., one target. *Hit:* 17 (2d8+8) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 21 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Fire Breath.** The dragon exhales fire in a 60-foot cone. Each creature in that area must make a DC 21 Dexterity saving throw, taking 66 (12d10) fire damage on a failed save, or half as much damage on a successful one.
+
+**Weakening Breath.** The dragon exhales gas in a 60-foot cone. Each creature in that area must succeed on a DC 21 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young Gold Dragon
+
+*Large dragon, lawful good*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 178 (17d10+85)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 23 (+6) | 14 (+2) | 21 (+5) | 16 (+3) | 13 (+1) | 20 (+5) |
+
+**Saving Throws** Dex +6, Con +9, Wis +5, Cha +9
+
+**Skills** Insight +5, Perception +9, Persuasion +9, Stealth +6
+
+**Damage Immunities** fire
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 19
+
+**Languages** Common, Draconic
+
+**Challenge** 10 (5,900 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Fire Breath.** The dragon exhales fire in a 30-foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 55 (10d10) fire damage on a failed save, or half as much damage on a successful one.
+
+**Weakening Breath.** The dragon exhales gas in a 30-foot cone. Each creature in that area must succeed on a DC 17 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+## Gold Dragon Wyrmling
+
+*Medium dragon, lawful good*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 60 (8d8+24)
+
+**Speed** 30 ft., fly 60 ft., swim 30 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 19 (+4) | 14 (+2) | 17 (+3) | 14 (+2) | 11 (+0) | 16 (+3) |
+
+**Saving Throws** Dex +4, Con +5, Wis +2, Cha +5
+
+**Skills** Perception +4, Stealth +4
+
+**Damage Immunities** fire
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 3 (700 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (1d10+4) piercing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Fire Breath.** The dragon exhales fire in a 15-foot cone. Each creature in that area must make a DC 13 Dexterity saving throw, taking 22 (4d10) fire damage on a failed save, or half as much damage on a successful one.
+
+**Weakening Breath.** The dragon exhales gas in a 15-foot cone. Each creature in that area must succeed on a DC 13 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+## Silver Dragon
+
+## Ancient Silver Dragon
+
+*Gargantuan dragon, lawful good*
+
+**Armor Class** 22 (natural armor)
+
+**Hit Points** 487 (25d20+225)
+
+**Speed** 40 ft., fly 80 ft.
+
+| STR      | DEX     | CON     | INT     | WIS     | CHA     |
+|----------|---------|---------|---------|---------|---------|
+| 30 (+10) | 10 (+0) | 29 (+9) | 18 (+4) | 15 (+2) | 23 (+6) |
+
+**Saving Throws** Dex +7, Con +16, Wis +9, Cha +13
+
+**Skills** Arcana +11, History +11, Perception +16, Stealth +7
+
+**Damage Immunities** cold
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 26
+
+**Languages** Common, Draconic
+
+**Challenge** 23 (50,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +17 to hit, reach 15 ft., one target. *Hit:* 21 (2d10+10) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +17 to hit, reach 10 ft., one target. *Hit:* 17 (2d6+10) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +17 to hit, reach 20 ft., one target. *Hit:* 19 (2d8+10) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 21 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Cold Breath.** The dragon exhales an icy blast in a 90- foot cone. Each creature in that area must make a DC 24 Constitution saving throw, taking 67 (15d8) cold damage on a failed save, or half as much damage on a successful one.
+
+**Paralyzing Breath.** The dragon exhales paralyzing gas in a 90-foot cone. Each creature in that area must succeed on a DC 24 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6+10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Adult Silver Dragon
+
+*Huge dragon, lawful good*
+
+**Armor Class** 19 (natural armor)
+
+**Hit Points** 243 (18d12+126)
+
+**Speed** 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 27 (+8) | 10 (+0) | 25 (+7) | 16 (+3) | 13 (+1) | 21 (+5) |
+
+**Saving Throws** Dex +5, Con +12, Wis +6, Cha +10
+
+**Skills** Arcana +8, History +8, Perception +11, Stealth +5
+
+**Damage Immunities** cold
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 21
+
+**Languages** Common, Draconic
+
+**Challenge** 16 (15,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +13 to hit, reach 10 ft., one target. *Hit:* 19 (2d10+8) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +13 to hit, reach 5 ft., one target. *Hit:* 15 (2d6+8) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +13 to hit, reach 15 ft., one target. *Hit:* 17 (2d8+8) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 18 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Cold Breath.** The dragon exhales an icy blast in a 60- foot cone. Each creature in that area must make a DC 20 Constitution saving throw, taking 58 (13d8) cold damage on a failed save, or half as much damage on a successful one.
+
+**Paralyzing Breath.** The dragon exhales paralyzing gas in a 60-foot cone. Each creature in that area must succeed on a DC 20 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 21 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young Silver Dragon
+
+*Large dragon, lawful good*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 168 (16d10+80)
+
+**Speed** 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 23 (+6) | 10 (+0) | 21 (+5) | 14 (+2) | 11 (+0) | 19 (+4) |
+
+**Saving Throws** Dex +4, Con +9, Wis +4, Cha +8
+
+**Skills** Arcana +6, History +6, Perception +8, Stealth +4
+
+**Damage Immunities** cold
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 18
+
+**Languages** Common, Draconic
+
+**Challenge** 9 (5,000 XP)
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Cold Breath.** The dragon exhales an icy blast in a 30- foot cone. Each creature in that area must make a DC 17 Constitution saving throw, taking 54 (12d8) cold damage on a failed save, or half as much damage on a successful one.
+
+**Paralyzing Breath.** The dragon exhales paralyzing gas in a 30-foot cone. Each creature in that area must succeed on a DC 17 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+## Silver Dragon Wyrmling
+
+*Medium dragon, lawful good*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 45 (6d8+18)
+
+**Speed** 30 ft., fly 60 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 19 (+4) | 10 (+0) | 17 (+3) | 12 (+1) | 11 (+0) | 15 (+2) |
+
+**Saving Throws** Dex +2, Con +5, Wis +2, Cha +4
+
+**Skills** Perception +4, Stealth +2
+
+**Damage Immunities** cold
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 2 (450 XP)
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (1d10+4) piercing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Cold Breath.** The dragon exhales an icy blast in a 15- foot cone. Each creature in that area must make a DC 13 Constitution saving throw, taking 18 (4d8) cold damage on a failed save, or half as much damage on a successful one.
+
+**Paralyzing Breath.** The dragon exhales paralyzing gas in a 15-foot cone. Each creature in that area must succeed on a DC 13 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
 # Dragon Bronze Wyrmling
 
 *Medium dragon, lawful good*
@@ -2067,6 +13111,604 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 **Lightning Breath.** The dragon exhales lightning in a 40- foot line that is 5 feet wide. Each creature in that line must make a DC 12 Dexterity saving throw, taking 16 (3d10) lightning damage on a failed save, or half as much damage on a successful one.
 
 **Repulsion Breath.** The dragon exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 12 Strength saving throw. On a failed save, the creature is pushed 30 feet away from the dragon.
+
+## Copper Dragon
+
+## Ancient Copper Dragon
+
+*Gargantuan dragon, chaotic good*
+
+**Armor Class** 21 (natural armor)
+
+**Hit Points** 350 (20d20+140)
+
+**Speed** 40 ft., climb 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 27 (+8) | 12 (+1) | 25 (+7) | 20 (+5) | 17 (+3) | 19 (+4) |
+
+**Saving Throws** Dex +8, Con +14, Wis +10, Cha +11
+
+**Skills** Deception +11, Perception +17, Stealth +8
+
+**Damage Immunities** acid
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 27
+
+**Languages** Common, Draconic
+
+**Challenge** 21 (33,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +15 to hit, reach 15 ft., one target. *Hit:* 19 (2d10+8) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +15 to hit, reach 10 ft., one target. *Hit:* 15 (2d6+8) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +15 to hit, reach 20 ft., one target. *Hit:* 17 (2d8+8) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 19 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Acid Breath.** The dragon exhales acid in an 90-foot line that is 10 feet wide. Each creature in that line must make a DC 22 Dexterity saving throw, taking 63 (14d8) acid damage on a failed save, or half as much damage on a successful one.
+
+**Slowing Breath.** The dragon exhales gas in a 90-foot cone. Each creature in that area must succeed on a DC 22 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
+
+***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 23 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Adult Copper Dragon
+
+*Huge dragon, chaotic good*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 184 (16d12+80)
+
+**Speed** 40 ft., climb 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 23 (+6) | 12 (+1) | 21 (+5) | 18 (+4) | 15 (+2) | 17 (+3) |
+
+**Saving Throws** Dex +6, Con +10, Wis +7, Cha +8
+
+**Skills** Deception +8, Perception +12, Stealth +6
+
+**Damage Immunities** acid
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 22
+
+**Languages** Common, Draconic
+
+**Challenge** 14 (11,500 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +11 to hit, reach 15 ft., one target. *Hit:* 15 (2d8+6) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Acid Breath.** The dragon exhales acid in an 60-foot line that is 5 feet wide. Each creature in that line must make a DC 18 Dexterity saving throw, taking 54 (12d8) acid damage on a failed save, or half as much damage on a successful one.
+
+**Slowing Breath.** The dragon exhales gas in a 60-foot cone. Each creature in that area must succeed on a DC 18 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6+6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young Copper Dragon
+
+*Large dragon, chaotic good*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 119 (14d10+42)
+
+**Speed** 40 ft., climb 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 19 (+4) | 12 (+1) | 17 (+3) | 16 (+3) | 13 (+1) | 15 (+2) |
+
+**Saving Throws** Dex +4, Con +6, Wis +4, Cha +5
+
+**Skills** Deception +5, Perception +7, Stealth +4
+
+**Damage Immunities** acid
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 17
+
+**Languages** Common, Draconic
+
+**Challenge** 7 (2,900 XP)
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 15 (2d10+4) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6+4) slashing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Acid Breath.** The dragon exhales acid in an 40-foot line that is 5 feet wide. Each creature in that line must make a DC 14 Dexterity saving throw, taking 40 (9d8) acid damage on a failed save, or half as much damage on a successful one.
+
+**Slowing Breath.** The dragon exhales gas in a 30-foot cone. Each creature in that area must succeed on a DC 14 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
+
+## Copper Dragon Wyrmling
+
+*Medium dragon, chaotic good*
+
+**Armor Class** 16 (natural armor)
+
+**Hit Points** 22 (4d8+4)
+
+**Speed** 30 ft., climb 30 ft., fly 60 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 15 (+2) | 12 (+1) | 13 (+1) | 14 (+2) | 11 (+0) | 13 (+1) |
+
+**Saving Throws** Dex +3, Con +3, Wis +2, Cha +3
+
+**Skills** Perception +4, Stealth +3
+
+**Damage Immunities** acid
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 1 (200 XP)
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10+2) piercing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Acid Breath.** The dragon exhales acid in an 20-foot line that is 5 feet wide. Each creature in that line must make a DC 11 Dexterity saving throw, taking 18 (4d8) acid damage on a failed save, or half as much damage on a successful one.
+
+**Slowing Breath.** The dragon exhales gas in a 15-foot cone. Each creature in that area must succeed on a DC 11 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
+
+## Gold Dragon
+
+## Ancient Gold Dragon
+
+*Gargantuan dragon, lawful good*
+
+**Armor Class** 22 (natural armor)
+
+**Hit Points** 546 (28d20+252)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR      | DEX     | CON     | INT     | WIS     | CHA     |
+|----------|---------|---------|---------|---------|---------|
+| 30 (+10) | 14 (+2) | 29 (+9) | 18 (+4) | 17 (+3) | 28 (+9) |
+
+**Saving Throws** Dex +9, Con +16, Wis +10, Cha +16
+
+**Skills** Insight +10, Perception +17, Persuasion +16, Stealth +9
+
+**Damage Immunities** fire
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 27
+
+**Languages** Common, Draconic
+
+**Challenge** 24 (62,000 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +17 to hit, reach 15 ft., one target. *Hit:* 21 (2d10+10) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +17 to hit, reach 10 ft., one target. *Hit:* 17 (2d6+10) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +17 to hit, reach 20 ft., one target. *Hit:* 19 (2d8+10) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 24 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Fire Breath.** The dragon exhales fire in a 90-foot cone. Each creature in that area must make a DC 24 Dexterity saving throw, taking 71 (13d10) fire damage on a failed save, or half as much damage on a successful one.
+
+**Weakening Breath.** The dragon exhales gas in a 90-foot cone. Each creature in that area must succeed on a DC 24 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6+10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Adult Gold Dragon
+
+*Huge dragon, lawful good*
+
+**Armor Class** 19 (natural armor)
+
+**Hit Points** 256 (19d12+133)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 27 (+8) | 14 (+2) | 25 (+7) | 16 (+3) | 15 (+2) | 24 (+7) |
+
+**Saving Throws** Dex +8, Con +13, Wis +8, Cha +13
+
+**Skills** Insight +8, Perception +14, Persuasion +13, Stealth +8
+
+**Damage Immunities** fire
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 24
+
+**Languages** Common, Draconic
+
+**Challenge** 17 (18,000 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 19 (2d10+8) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +14 to hit, reach 5 ft., one target. *Hit:* 15 (2d6+8) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +14 to hit, reach 15 ft., one target. *Hit:* 17 (2d8+8) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 21 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Fire Breath.** The dragon exhales fire in a 60-foot cone. Each creature in that area must make a DC 21 Dexterity saving throw, taking 66 (12d10) fire damage on a failed save, or half as much damage on a successful one.
+
+**Weakening Breath.** The dragon exhales gas in a 60-foot cone. Each creature in that area must succeed on a DC 21 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young Gold Dragon
+
+*Large dragon, lawful good*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 178 (17d10+85)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 23 (+6) | 14 (+2) | 21 (+5) | 16 (+3) | 13 (+1) | 20 (+5) |
+
+**Saving Throws** Dex +6, Con +9, Wis +5, Cha +9
+
+**Skills** Insight +5, Perception +9, Persuasion +9, Stealth +6
+
+**Damage Immunities** fire
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 19
+
+**Languages** Common, Draconic
+
+**Challenge** 10 (5,900 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Fire Breath.** The dragon exhales fire in a 30-foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 55 (10d10) fire damage on a failed save, or half as much damage on a successful one.
+
+**Weakening Breath.** The dragon exhales gas in a 30-foot cone. Each creature in that area must succeed on a DC 17 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+## Gold Dragon Wyrmling
+
+*Medium dragon, lawful good*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 60 (8d8+24)
+
+**Speed** 30 ft., fly 60 ft., swim 30 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 19 (+4) | 14 (+2) | 17 (+3) | 14 (+2) | 11 (+0) | 16 (+3) |
+
+**Saving Throws** Dex +4, Con +5, Wis +2, Cha +5
+
+**Skills** Perception +4, Stealth +4
+
+**Damage Immunities** fire
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 3 (700 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (1d10+4) piercing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Fire Breath.** The dragon exhales fire in a 15-foot cone. Each creature in that area must make a DC 13 Dexterity saving throw, taking 22 (4d10) fire damage on a failed save, or half as much damage on a successful one.
+
+**Weakening Breath.** The dragon exhales gas in a 15-foot cone. Each creature in that area must succeed on a DC 13 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+## Silver Dragon
+
+## Ancient Silver Dragon
+
+*Gargantuan dragon, lawful good*
+
+**Armor Class** 22 (natural armor)
+
+**Hit Points** 487 (25d20+225)
+
+**Speed** 40 ft., fly 80 ft.
+
+| STR      | DEX     | CON     | INT     | WIS     | CHA     |
+|----------|---------|---------|---------|---------|---------|
+| 30 (+10) | 10 (+0) | 29 (+9) | 18 (+4) | 15 (+2) | 23 (+6) |
+
+**Saving Throws** Dex +7, Con +16, Wis +9, Cha +13
+
+**Skills** Arcana +11, History +11, Perception +16, Stealth +7
+
+**Damage Immunities** cold
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 26
+
+**Languages** Common, Draconic
+
+**Challenge** 23 (50,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +17 to hit, reach 15 ft., one target. *Hit:* 21 (2d10+10) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +17 to hit, reach 10 ft., one target. *Hit:* 17 (2d6+10) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +17 to hit, reach 20 ft., one target. *Hit:* 19 (2d8+10) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 21 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Cold Breath.** The dragon exhales an icy blast in a 90- foot cone. Each creature in that area must make a DC 24 Constitution saving throw, taking 67 (15d8) cold damage on a failed save, or half as much damage on a successful one.
+
+**Paralyzing Breath.** The dragon exhales paralyzing gas in a 90-foot cone. Each creature in that area must succeed on a DC 24 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6+10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Adult Silver Dragon
+
+*Huge dragon, lawful good*
+
+**Armor Class** 19 (natural armor)
+
+**Hit Points** 243 (18d12+126)
+
+**Speed** 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 27 (+8) | 10 (+0) | 25 (+7) | 16 (+3) | 13 (+1) | 21 (+5) |
+
+**Saving Throws** Dex +5, Con +12, Wis +6, Cha +10
+
+**Skills** Arcana +8, History +8, Perception +11, Stealth +5
+
+**Damage Immunities** cold
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 21
+
+**Languages** Common, Draconic
+
+**Challenge** 16 (15,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +13 to hit, reach 10 ft., one target. *Hit:* 19 (2d10+8) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +13 to hit, reach 5 ft., one target. *Hit:* 15 (2d6+8) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +13 to hit, reach 15 ft., one target. *Hit:* 17 (2d8+8) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 18 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Cold Breath.** The dragon exhales an icy blast in a 60- foot cone. Each creature in that area must make a DC 20 Constitution saving throw, taking 58 (13d8) cold damage on a failed save, or half as much damage on a successful one.
+
+**Paralyzing Breath.** The dragon exhales paralyzing gas in a 60-foot cone. Each creature in that area must succeed on a DC 20 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 21 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young Silver Dragon
+
+*Large dragon, lawful good*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 168 (16d10+80)
+
+**Speed** 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 23 (+6) | 10 (+0) | 21 (+5) | 14 (+2) | 11 (+0) | 19 (+4) |
+
+**Saving Throws** Dex +4, Con +9, Wis +4, Cha +8
+
+**Skills** Arcana +6, History +6, Perception +8, Stealth +4
+
+**Damage Immunities** cold
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 18
+
+**Languages** Common, Draconic
+
+**Challenge** 9 (5,000 XP)
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Cold Breath.** The dragon exhales an icy blast in a 30- foot cone. Each creature in that area must make a DC 17 Constitution saving throw, taking 54 (12d8) cold damage on a failed save, or half as much damage on a successful one.
+
+**Paralyzing Breath.** The dragon exhales paralyzing gas in a 30-foot cone. Each creature in that area must succeed on a DC 17 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+## Silver Dragon Wyrmling
+
+*Medium dragon, lawful good*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 45 (6d8+18)
+
+**Speed** 30 ft., fly 60 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 19 (+4) | 10 (+0) | 17 (+3) | 12 (+1) | 11 (+0) | 15 (+2) |
+
+**Saving Throws** Dex +2, Con +5, Wis +2, Cha +4
+
+**Skills** Perception +4, Stealth +2
+
+**Damage Immunities** cold
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 2 (450 XP)
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (1d10+4) piercing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Cold Breath.** The dragon exhales an icy blast in a 15- foot cone. Each creature in that area must make a DC 13 Constitution saving throw, taking 18 (4d8) cold damage on a failed save, or half as much damage on a successful one.
+
+**Paralyzing Breath.** The dragon exhales paralyzing gas in a 15-foot cone. Each creature in that area must succeed on a DC 13 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 # Dragon Bronze Young
 
@@ -2111,6 +13753,642 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 **Lightning Breath.** The dragon exhales lightning in a 60- foot line that is 5 feet wide. Each creature in that line must make a DC 15 Dexterity saving throw, taking 55 (10d10) lightning damage on a failed save, or half as much damage on a successful one.
 
 **Repulsion Breath.** The dragon exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 15 Strength saving throw. On a failed save, the creature is pushed 40 feet away from the dragon.
+
+## Bronze Dragon Wyrmling
+
+*Medium dragon, lawful good*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 32 (5d8+10)
+
+**Speed** 30 ft., fly 60 ft., swim 30 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 17 (+3) | 10 (+0) | 15 (+2) | 12 (+1) | 11 (+0) | 15 (+2) |
+
+**Saving Throws** Dex +2, Con +4, Wis +2, Cha +4
+
+**Skills** Perception +4, Stealth +2
+
+**Damage Immunities** lightning
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 2 (450 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (1d10+3) piercing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Lightning Breath.** The dragon exhales lightning in a 40- foot line that is 5 feet wide. Each creature in that line must make a DC 12 Dexterity saving throw, taking 16 (3d10) lightning damage on a failed save, or half as much damage on a successful one.
+
+**Repulsion Breath.** The dragon exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 12 Strength saving throw. On a failed save, the creature is pushed 30 feet away from the dragon.
+
+## Copper Dragon
+
+## Ancient Copper Dragon
+
+*Gargantuan dragon, chaotic good*
+
+**Armor Class** 21 (natural armor)
+
+**Hit Points** 350 (20d20+140)
+
+**Speed** 40 ft., climb 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 27 (+8) | 12 (+1) | 25 (+7) | 20 (+5) | 17 (+3) | 19 (+4) |
+
+**Saving Throws** Dex +8, Con +14, Wis +10, Cha +11
+
+**Skills** Deception +11, Perception +17, Stealth +8
+
+**Damage Immunities** acid
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 27
+
+**Languages** Common, Draconic
+
+**Challenge** 21 (33,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +15 to hit, reach 15 ft., one target. *Hit:* 19 (2d10+8) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +15 to hit, reach 10 ft., one target. *Hit:* 15 (2d6+8) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +15 to hit, reach 20 ft., one target. *Hit:* 17 (2d8+8) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 19 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Acid Breath.** The dragon exhales acid in an 90-foot line that is 10 feet wide. Each creature in that line must make a DC 22 Dexterity saving throw, taking 63 (14d8) acid damage on a failed save, or half as much damage on a successful one.
+
+**Slowing Breath.** The dragon exhales gas in a 90-foot cone. Each creature in that area must succeed on a DC 22 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
+
+***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 23 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Adult Copper Dragon
+
+*Huge dragon, chaotic good*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 184 (16d12+80)
+
+**Speed** 40 ft., climb 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 23 (+6) | 12 (+1) | 21 (+5) | 18 (+4) | 15 (+2) | 17 (+3) |
+
+**Saving Throws** Dex +6, Con +10, Wis +7, Cha +8
+
+**Skills** Deception +8, Perception +12, Stealth +6
+
+**Damage Immunities** acid
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 22
+
+**Languages** Common, Draconic
+
+**Challenge** 14 (11,500 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +11 to hit, reach 15 ft., one target. *Hit:* 15 (2d8+6) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Acid Breath.** The dragon exhales acid in an 60-foot line that is 5 feet wide. Each creature in that line must make a DC 18 Dexterity saving throw, taking 54 (12d8) acid damage on a failed save, or half as much damage on a successful one.
+
+**Slowing Breath.** The dragon exhales gas in a 60-foot cone. Each creature in that area must succeed on a DC 18 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6+6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young Copper Dragon
+
+*Large dragon, chaotic good*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 119 (14d10+42)
+
+**Speed** 40 ft., climb 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 19 (+4) | 12 (+1) | 17 (+3) | 16 (+3) | 13 (+1) | 15 (+2) |
+
+**Saving Throws** Dex +4, Con +6, Wis +4, Cha +5
+
+**Skills** Deception +5, Perception +7, Stealth +4
+
+**Damage Immunities** acid
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 17
+
+**Languages** Common, Draconic
+
+**Challenge** 7 (2,900 XP)
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 15 (2d10+4) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6+4) slashing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Acid Breath.** The dragon exhales acid in an 40-foot line that is 5 feet wide. Each creature in that line must make a DC 14 Dexterity saving throw, taking 40 (9d8) acid damage on a failed save, or half as much damage on a successful one.
+
+**Slowing Breath.** The dragon exhales gas in a 30-foot cone. Each creature in that area must succeed on a DC 14 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
+
+## Copper Dragon Wyrmling
+
+*Medium dragon, chaotic good*
+
+**Armor Class** 16 (natural armor)
+
+**Hit Points** 22 (4d8+4)
+
+**Speed** 30 ft., climb 30 ft., fly 60 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 15 (+2) | 12 (+1) | 13 (+1) | 14 (+2) | 11 (+0) | 13 (+1) |
+
+**Saving Throws** Dex +3, Con +3, Wis +2, Cha +3
+
+**Skills** Perception +4, Stealth +3
+
+**Damage Immunities** acid
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 1 (200 XP)
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10+2) piercing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Acid Breath.** The dragon exhales acid in an 20-foot line that is 5 feet wide. Each creature in that line must make a DC 11 Dexterity saving throw, taking 18 (4d8) acid damage on a failed save, or half as much damage on a successful one.
+
+**Slowing Breath.** The dragon exhales gas in a 15-foot cone. Each creature in that area must succeed on a DC 11 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
+
+## Gold Dragon
+
+## Ancient Gold Dragon
+
+*Gargantuan dragon, lawful good*
+
+**Armor Class** 22 (natural armor)
+
+**Hit Points** 546 (28d20+252)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR      | DEX     | CON     | INT     | WIS     | CHA     |
+|----------|---------|---------|---------|---------|---------|
+| 30 (+10) | 14 (+2) | 29 (+9) | 18 (+4) | 17 (+3) | 28 (+9) |
+
+**Saving Throws** Dex +9, Con +16, Wis +10, Cha +16
+
+**Skills** Insight +10, Perception +17, Persuasion +16, Stealth +9
+
+**Damage Immunities** fire
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 27
+
+**Languages** Common, Draconic
+
+**Challenge** 24 (62,000 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +17 to hit, reach 15 ft., one target. *Hit:* 21 (2d10+10) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +17 to hit, reach 10 ft., one target. *Hit:* 17 (2d6+10) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +17 to hit, reach 20 ft., one target. *Hit:* 19 (2d8+10) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 24 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Fire Breath.** The dragon exhales fire in a 90-foot cone. Each creature in that area must make a DC 24 Dexterity saving throw, taking 71 (13d10) fire damage on a failed save, or half as much damage on a successful one.
+
+**Weakening Breath.** The dragon exhales gas in a 90-foot cone. Each creature in that area must succeed on a DC 24 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6+10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Adult Gold Dragon
+
+*Huge dragon, lawful good*
+
+**Armor Class** 19 (natural armor)
+
+**Hit Points** 256 (19d12+133)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 27 (+8) | 14 (+2) | 25 (+7) | 16 (+3) | 15 (+2) | 24 (+7) |
+
+**Saving Throws** Dex +8, Con +13, Wis +8, Cha +13
+
+**Skills** Insight +8, Perception +14, Persuasion +13, Stealth +8
+
+**Damage Immunities** fire
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 24
+
+**Languages** Common, Draconic
+
+**Challenge** 17 (18,000 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 19 (2d10+8) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +14 to hit, reach 5 ft., one target. *Hit:* 15 (2d6+8) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +14 to hit, reach 15 ft., one target. *Hit:* 17 (2d8+8) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 21 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Fire Breath.** The dragon exhales fire in a 60-foot cone. Each creature in that area must make a DC 21 Dexterity saving throw, taking 66 (12d10) fire damage on a failed save, or half as much damage on a successful one.
+
+**Weakening Breath.** The dragon exhales gas in a 60-foot cone. Each creature in that area must succeed on a DC 21 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young Gold Dragon
+
+*Large dragon, lawful good*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 178 (17d10+85)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 23 (+6) | 14 (+2) | 21 (+5) | 16 (+3) | 13 (+1) | 20 (+5) |
+
+**Saving Throws** Dex +6, Con +9, Wis +5, Cha +9
+
+**Skills** Insight +5, Perception +9, Persuasion +9, Stealth +6
+
+**Damage Immunities** fire
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 19
+
+**Languages** Common, Draconic
+
+**Challenge** 10 (5,900 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Fire Breath.** The dragon exhales fire in a 30-foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 55 (10d10) fire damage on a failed save, or half as much damage on a successful one.
+
+**Weakening Breath.** The dragon exhales gas in a 30-foot cone. Each creature in that area must succeed on a DC 17 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+## Gold Dragon Wyrmling
+
+*Medium dragon, lawful good*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 60 (8d8+24)
+
+**Speed** 30 ft., fly 60 ft., swim 30 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 19 (+4) | 14 (+2) | 17 (+3) | 14 (+2) | 11 (+0) | 16 (+3) |
+
+**Saving Throws** Dex +4, Con +5, Wis +2, Cha +5
+
+**Skills** Perception +4, Stealth +4
+
+**Damage Immunities** fire
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 3 (700 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (1d10+4) piercing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Fire Breath.** The dragon exhales fire in a 15-foot cone. Each creature in that area must make a DC 13 Dexterity saving throw, taking 22 (4d10) fire damage on a failed save, or half as much damage on a successful one.
+
+**Weakening Breath.** The dragon exhales gas in a 15-foot cone. Each creature in that area must succeed on a DC 13 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+## Silver Dragon
+
+## Ancient Silver Dragon
+
+*Gargantuan dragon, lawful good*
+
+**Armor Class** 22 (natural armor)
+
+**Hit Points** 487 (25d20+225)
+
+**Speed** 40 ft., fly 80 ft.
+
+| STR      | DEX     | CON     | INT     | WIS     | CHA     |
+|----------|---------|---------|---------|---------|---------|
+| 30 (+10) | 10 (+0) | 29 (+9) | 18 (+4) | 15 (+2) | 23 (+6) |
+
+**Saving Throws** Dex +7, Con +16, Wis +9, Cha +13
+
+**Skills** Arcana +11, History +11, Perception +16, Stealth +7
+
+**Damage Immunities** cold
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 26
+
+**Languages** Common, Draconic
+
+**Challenge** 23 (50,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +17 to hit, reach 15 ft., one target. *Hit:* 21 (2d10+10) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +17 to hit, reach 10 ft., one target. *Hit:* 17 (2d6+10) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +17 to hit, reach 20 ft., one target. *Hit:* 19 (2d8+10) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 21 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Cold Breath.** The dragon exhales an icy blast in a 90- foot cone. Each creature in that area must make a DC 24 Constitution saving throw, taking 67 (15d8) cold damage on a failed save, or half as much damage on a successful one.
+
+**Paralyzing Breath.** The dragon exhales paralyzing gas in a 90-foot cone. Each creature in that area must succeed on a DC 24 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6+10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Adult Silver Dragon
+
+*Huge dragon, lawful good*
+
+**Armor Class** 19 (natural armor)
+
+**Hit Points** 243 (18d12+126)
+
+**Speed** 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 27 (+8) | 10 (+0) | 25 (+7) | 16 (+3) | 13 (+1) | 21 (+5) |
+
+**Saving Throws** Dex +5, Con +12, Wis +6, Cha +10
+
+**Skills** Arcana +8, History +8, Perception +11, Stealth +5
+
+**Damage Immunities** cold
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 21
+
+**Languages** Common, Draconic
+
+**Challenge** 16 (15,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +13 to hit, reach 10 ft., one target. *Hit:* 19 (2d10+8) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +13 to hit, reach 5 ft., one target. *Hit:* 15 (2d6+8) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +13 to hit, reach 15 ft., one target. *Hit:* 17 (2d8+8) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 18 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Cold Breath.** The dragon exhales an icy blast in a 60- foot cone. Each creature in that area must make a DC 20 Constitution saving throw, taking 58 (13d8) cold damage on a failed save, or half as much damage on a successful one.
+
+**Paralyzing Breath.** The dragon exhales paralyzing gas in a 60-foot cone. Each creature in that area must succeed on a DC 20 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 21 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young Silver Dragon
+
+*Large dragon, lawful good*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 168 (16d10+80)
+
+**Speed** 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 23 (+6) | 10 (+0) | 21 (+5) | 14 (+2) | 11 (+0) | 19 (+4) |
+
+**Saving Throws** Dex +4, Con +9, Wis +4, Cha +8
+
+**Skills** Arcana +6, History +6, Perception +8, Stealth +4
+
+**Damage Immunities** cold
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 18
+
+**Languages** Common, Draconic
+
+**Challenge** 9 (5,000 XP)
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Cold Breath.** The dragon exhales an icy blast in a 30- foot cone. Each creature in that area must make a DC 17 Constitution saving throw, taking 54 (12d8) cold damage on a failed save, or half as much damage on a successful one.
+
+**Paralyzing Breath.** The dragon exhales paralyzing gas in a 30-foot cone. Each creature in that area must succeed on a DC 17 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+## Silver Dragon Wyrmling
+
+*Medium dragon, lawful good*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 45 (6d8+18)
+
+**Speed** 30 ft., fly 60 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 19 (+4) | 10 (+0) | 17 (+3) | 12 (+1) | 11 (+0) | 15 (+2) |
+
+**Saving Throws** Dex +2, Con +5, Wis +2, Cha +4
+
+**Skills** Perception +4, Stealth +2
+
+**Damage Immunities** cold
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 2 (450 XP)
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (1d10+4) piercing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Cold Breath.** The dragon exhales an icy blast in a 15- foot cone. Each creature in that area must make a DC 13 Constitution saving throw, taking 18 (4d8) cold damage on a failed save, or half as much damage on a successful one.
+
+**Paralyzing Breath.** The dragon exhales paralyzing gas in a 15-foot cone. Each creature in that area must succeed on a DC 13 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 # Dragon Copper Adult
 
@@ -2169,6 +14447,486 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 **Tail Attack.** The dragon makes a tail attack.
 
 **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6+6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young Copper Dragon
+
+*Large dragon, chaotic good*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 119 (14d10+42)
+
+**Speed** 40 ft., climb 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 19 (+4) | 12 (+1) | 17 (+3) | 16 (+3) | 13 (+1) | 15 (+2) |
+
+**Saving Throws** Dex +4, Con +6, Wis +4, Cha +5
+
+**Skills** Deception +5, Perception +7, Stealth +4
+
+**Damage Immunities** acid
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 17
+
+**Languages** Common, Draconic
+
+**Challenge** 7 (2,900 XP)
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 15 (2d10+4) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6+4) slashing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Acid Breath.** The dragon exhales acid in an 40-foot line that is 5 feet wide. Each creature in that line must make a DC 14 Dexterity saving throw, taking 40 (9d8) acid damage on a failed save, or half as much damage on a successful one.
+
+**Slowing Breath.** The dragon exhales gas in a 30-foot cone. Each creature in that area must succeed on a DC 14 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
+
+## Copper Dragon Wyrmling
+
+*Medium dragon, chaotic good*
+
+**Armor Class** 16 (natural armor)
+
+**Hit Points** 22 (4d8+4)
+
+**Speed** 30 ft., climb 30 ft., fly 60 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 15 (+2) | 12 (+1) | 13 (+1) | 14 (+2) | 11 (+0) | 13 (+1) |
+
+**Saving Throws** Dex +3, Con +3, Wis +2, Cha +3
+
+**Skills** Perception +4, Stealth +3
+
+**Damage Immunities** acid
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 1 (200 XP)
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10+2) piercing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Acid Breath.** The dragon exhales acid in an 20-foot line that is 5 feet wide. Each creature in that line must make a DC 11 Dexterity saving throw, taking 18 (4d8) acid damage on a failed save, or half as much damage on a successful one.
+
+**Slowing Breath.** The dragon exhales gas in a 15-foot cone. Each creature in that area must succeed on a DC 11 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
+
+## Gold Dragon
+
+## Ancient Gold Dragon
+
+*Gargantuan dragon, lawful good*
+
+**Armor Class** 22 (natural armor)
+
+**Hit Points** 546 (28d20+252)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR      | DEX     | CON     | INT     | WIS     | CHA     |
+|----------|---------|---------|---------|---------|---------|
+| 30 (+10) | 14 (+2) | 29 (+9) | 18 (+4) | 17 (+3) | 28 (+9) |
+
+**Saving Throws** Dex +9, Con +16, Wis +10, Cha +16
+
+**Skills** Insight +10, Perception +17, Persuasion +16, Stealth +9
+
+**Damage Immunities** fire
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 27
+
+**Languages** Common, Draconic
+
+**Challenge** 24 (62,000 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +17 to hit, reach 15 ft., one target. *Hit:* 21 (2d10+10) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +17 to hit, reach 10 ft., one target. *Hit:* 17 (2d6+10) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +17 to hit, reach 20 ft., one target. *Hit:* 19 (2d8+10) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 24 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Fire Breath.** The dragon exhales fire in a 90-foot cone. Each creature in that area must make a DC 24 Dexterity saving throw, taking 71 (13d10) fire damage on a failed save, or half as much damage on a successful one.
+
+**Weakening Breath.** The dragon exhales gas in a 90-foot cone. Each creature in that area must succeed on a DC 24 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6+10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Adult Gold Dragon
+
+*Huge dragon, lawful good*
+
+**Armor Class** 19 (natural armor)
+
+**Hit Points** 256 (19d12+133)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 27 (+8) | 14 (+2) | 25 (+7) | 16 (+3) | 15 (+2) | 24 (+7) |
+
+**Saving Throws** Dex +8, Con +13, Wis +8, Cha +13
+
+**Skills** Insight +8, Perception +14, Persuasion +13, Stealth +8
+
+**Damage Immunities** fire
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 24
+
+**Languages** Common, Draconic
+
+**Challenge** 17 (18,000 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 19 (2d10+8) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +14 to hit, reach 5 ft., one target. *Hit:* 15 (2d6+8) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +14 to hit, reach 15 ft., one target. *Hit:* 17 (2d8+8) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 21 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Fire Breath.** The dragon exhales fire in a 60-foot cone. Each creature in that area must make a DC 21 Dexterity saving throw, taking 66 (12d10) fire damage on a failed save, or half as much damage on a successful one.
+
+**Weakening Breath.** The dragon exhales gas in a 60-foot cone. Each creature in that area must succeed on a DC 21 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young Gold Dragon
+
+*Large dragon, lawful good*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 178 (17d10+85)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 23 (+6) | 14 (+2) | 21 (+5) | 16 (+3) | 13 (+1) | 20 (+5) |
+
+**Saving Throws** Dex +6, Con +9, Wis +5, Cha +9
+
+**Skills** Insight +5, Perception +9, Persuasion +9, Stealth +6
+
+**Damage Immunities** fire
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 19
+
+**Languages** Common, Draconic
+
+**Challenge** 10 (5,900 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Fire Breath.** The dragon exhales fire in a 30-foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 55 (10d10) fire damage on a failed save, or half as much damage on a successful one.
+
+**Weakening Breath.** The dragon exhales gas in a 30-foot cone. Each creature in that area must succeed on a DC 17 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+## Gold Dragon Wyrmling
+
+*Medium dragon, lawful good*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 60 (8d8+24)
+
+**Speed** 30 ft., fly 60 ft., swim 30 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 19 (+4) | 14 (+2) | 17 (+3) | 14 (+2) | 11 (+0) | 16 (+3) |
+
+**Saving Throws** Dex +4, Con +5, Wis +2, Cha +5
+
+**Skills** Perception +4, Stealth +4
+
+**Damage Immunities** fire
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 3 (700 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (1d10+4) piercing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Fire Breath.** The dragon exhales fire in a 15-foot cone. Each creature in that area must make a DC 13 Dexterity saving throw, taking 22 (4d10) fire damage on a failed save, or half as much damage on a successful one.
+
+**Weakening Breath.** The dragon exhales gas in a 15-foot cone. Each creature in that area must succeed on a DC 13 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+## Silver Dragon
+
+## Ancient Silver Dragon
+
+*Gargantuan dragon, lawful good*
+
+**Armor Class** 22 (natural armor)
+
+**Hit Points** 487 (25d20+225)
+
+**Speed** 40 ft., fly 80 ft.
+
+| STR      | DEX     | CON     | INT     | WIS     | CHA     |
+|----------|---------|---------|---------|---------|---------|
+| 30 (+10) | 10 (+0) | 29 (+9) | 18 (+4) | 15 (+2) | 23 (+6) |
+
+**Saving Throws** Dex +7, Con +16, Wis +9, Cha +13
+
+**Skills** Arcana +11, History +11, Perception +16, Stealth +7
+
+**Damage Immunities** cold
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 26
+
+**Languages** Common, Draconic
+
+**Challenge** 23 (50,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +17 to hit, reach 15 ft., one target. *Hit:* 21 (2d10+10) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +17 to hit, reach 10 ft., one target. *Hit:* 17 (2d6+10) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +17 to hit, reach 20 ft., one target. *Hit:* 19 (2d8+10) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 21 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Cold Breath.** The dragon exhales an icy blast in a 90- foot cone. Each creature in that area must make a DC 24 Constitution saving throw, taking 67 (15d8) cold damage on a failed save, or half as much damage on a successful one.
+
+**Paralyzing Breath.** The dragon exhales paralyzing gas in a 90-foot cone. Each creature in that area must succeed on a DC 24 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6+10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Adult Silver Dragon
+
+*Huge dragon, lawful good*
+
+**Armor Class** 19 (natural armor)
+
+**Hit Points** 243 (18d12+126)
+
+**Speed** 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 27 (+8) | 10 (+0) | 25 (+7) | 16 (+3) | 13 (+1) | 21 (+5) |
+
+**Saving Throws** Dex +5, Con +12, Wis +6, Cha +10
+
+**Skills** Arcana +8, History +8, Perception +11, Stealth +5
+
+**Damage Immunities** cold
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 21
+
+**Languages** Common, Draconic
+
+**Challenge** 16 (15,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +13 to hit, reach 10 ft., one target. *Hit:* 19 (2d10+8) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +13 to hit, reach 5 ft., one target. *Hit:* 15 (2d6+8) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +13 to hit, reach 15 ft., one target. *Hit:* 17 (2d8+8) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 18 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Cold Breath.** The dragon exhales an icy blast in a 60- foot cone. Each creature in that area must make a DC 20 Constitution saving throw, taking 58 (13d8) cold damage on a failed save, or half as much damage on a successful one.
+
+**Paralyzing Breath.** The dragon exhales paralyzing gas in a 60-foot cone. Each creature in that area must succeed on a DC 20 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 21 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young Silver Dragon
+
+*Large dragon, lawful good*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 168 (16d10+80)
+
+**Speed** 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 23 (+6) | 10 (+0) | 21 (+5) | 14 (+2) | 11 (+0) | 19 (+4) |
+
+**Saving Throws** Dex +4, Con +9, Wis +4, Cha +8
+
+**Skills** Arcana +6, History +6, Perception +8, Stealth +4
+
+**Damage Immunities** cold
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 18
+
+**Languages** Common, Draconic
+
+**Challenge** 9 (5,000 XP)
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Cold Breath.** The dragon exhales an icy blast in a 30- foot cone. Each creature in that area must make a DC 17 Constitution saving throw, taking 54 (12d8) cold damage on a failed save, or half as much damage on a successful one.
+
+**Paralyzing Breath.** The dragon exhales paralyzing gas in a 30-foot cone. Each creature in that area must succeed on a DC 17 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+## Silver Dragon Wyrmling
+
+*Medium dragon, lawful good*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 45 (6d8+18)
+
+**Speed** 30 ft., fly 60 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 19 (+4) | 10 (+0) | 17 (+3) | 12 (+1) | 11 (+0) | 15 (+2) |
+
+**Saving Throws** Dex +2, Con +5, Wis +2, Cha +4
+
+**Skills** Perception +4, Stealth +2
+
+**Damage Immunities** cold
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 2 (450 XP)
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (1d10+4) piercing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Cold Breath.** The dragon exhales an icy blast in a 15- foot cone. Each creature in that area must make a DC 13 Constitution saving throw, taking 18 (4d8) cold damage on a failed save, or half as much damage on a successful one.
+
+**Paralyzing Breath.** The dragon exhales paralyzing gas in a 15-foot cone. Each creature in that area must succeed on a DC 13 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 # Dragon Copper Ancient
 
@@ -2232,6 +14990,542 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 23 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
+## Adult Copper Dragon
+
+*Huge dragon, chaotic good*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 184 (16d12+80)
+
+**Speed** 40 ft., climb 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 23 (+6) | 12 (+1) | 21 (+5) | 18 (+4) | 15 (+2) | 17 (+3) |
+
+**Saving Throws** Dex +6, Con +10, Wis +7, Cha +8
+
+**Skills** Deception +8, Perception +12, Stealth +6
+
+**Damage Immunities** acid
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 22
+
+**Languages** Common, Draconic
+
+**Challenge** 14 (11,500 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +11 to hit, reach 15 ft., one target. *Hit:* 15 (2d8+6) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Acid Breath.** The dragon exhales acid in an 60-foot line that is 5 feet wide. Each creature in that line must make a DC 18 Dexterity saving throw, taking 54 (12d8) acid damage on a failed save, or half as much damage on a successful one.
+
+**Slowing Breath.** The dragon exhales gas in a 60-foot cone. Each creature in that area must succeed on a DC 18 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6+6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young Copper Dragon
+
+*Large dragon, chaotic good*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 119 (14d10+42)
+
+**Speed** 40 ft., climb 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 19 (+4) | 12 (+1) | 17 (+3) | 16 (+3) | 13 (+1) | 15 (+2) |
+
+**Saving Throws** Dex +4, Con +6, Wis +4, Cha +5
+
+**Skills** Deception +5, Perception +7, Stealth +4
+
+**Damage Immunities** acid
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 17
+
+**Languages** Common, Draconic
+
+**Challenge** 7 (2,900 XP)
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 15 (2d10+4) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6+4) slashing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Acid Breath.** The dragon exhales acid in an 40-foot line that is 5 feet wide. Each creature in that line must make a DC 14 Dexterity saving throw, taking 40 (9d8) acid damage on a failed save, or half as much damage on a successful one.
+
+**Slowing Breath.** The dragon exhales gas in a 30-foot cone. Each creature in that area must succeed on a DC 14 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
+
+## Copper Dragon Wyrmling
+
+*Medium dragon, chaotic good*
+
+**Armor Class** 16 (natural armor)
+
+**Hit Points** 22 (4d8+4)
+
+**Speed** 30 ft., climb 30 ft., fly 60 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 15 (+2) | 12 (+1) | 13 (+1) | 14 (+2) | 11 (+0) | 13 (+1) |
+
+**Saving Throws** Dex +3, Con +3, Wis +2, Cha +3
+
+**Skills** Perception +4, Stealth +3
+
+**Damage Immunities** acid
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 1 (200 XP)
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10+2) piercing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Acid Breath.** The dragon exhales acid in an 20-foot line that is 5 feet wide. Each creature in that line must make a DC 11 Dexterity saving throw, taking 18 (4d8) acid damage on a failed save, or half as much damage on a successful one.
+
+**Slowing Breath.** The dragon exhales gas in a 15-foot cone. Each creature in that area must succeed on a DC 11 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
+
+## Gold Dragon
+
+## Ancient Gold Dragon
+
+*Gargantuan dragon, lawful good*
+
+**Armor Class** 22 (natural armor)
+
+**Hit Points** 546 (28d20+252)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR      | DEX     | CON     | INT     | WIS     | CHA     |
+|----------|---------|---------|---------|---------|---------|
+| 30 (+10) | 14 (+2) | 29 (+9) | 18 (+4) | 17 (+3) | 28 (+9) |
+
+**Saving Throws** Dex +9, Con +16, Wis +10, Cha +16
+
+**Skills** Insight +10, Perception +17, Persuasion +16, Stealth +9
+
+**Damage Immunities** fire
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 27
+
+**Languages** Common, Draconic
+
+**Challenge** 24 (62,000 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +17 to hit, reach 15 ft., one target. *Hit:* 21 (2d10+10) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +17 to hit, reach 10 ft., one target. *Hit:* 17 (2d6+10) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +17 to hit, reach 20 ft., one target. *Hit:* 19 (2d8+10) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 24 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Fire Breath.** The dragon exhales fire in a 90-foot cone. Each creature in that area must make a DC 24 Dexterity saving throw, taking 71 (13d10) fire damage on a failed save, or half as much damage on a successful one.
+
+**Weakening Breath.** The dragon exhales gas in a 90-foot cone. Each creature in that area must succeed on a DC 24 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6+10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Adult Gold Dragon
+
+*Huge dragon, lawful good*
+
+**Armor Class** 19 (natural armor)
+
+**Hit Points** 256 (19d12+133)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 27 (+8) | 14 (+2) | 25 (+7) | 16 (+3) | 15 (+2) | 24 (+7) |
+
+**Saving Throws** Dex +8, Con +13, Wis +8, Cha +13
+
+**Skills** Insight +8, Perception +14, Persuasion +13, Stealth +8
+
+**Damage Immunities** fire
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 24
+
+**Languages** Common, Draconic
+
+**Challenge** 17 (18,000 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 19 (2d10+8) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +14 to hit, reach 5 ft., one target. *Hit:* 15 (2d6+8) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +14 to hit, reach 15 ft., one target. *Hit:* 17 (2d8+8) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 21 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Fire Breath.** The dragon exhales fire in a 60-foot cone. Each creature in that area must make a DC 21 Dexterity saving throw, taking 66 (12d10) fire damage on a failed save, or half as much damage on a successful one.
+
+**Weakening Breath.** The dragon exhales gas in a 60-foot cone. Each creature in that area must succeed on a DC 21 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young Gold Dragon
+
+*Large dragon, lawful good*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 178 (17d10+85)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 23 (+6) | 14 (+2) | 21 (+5) | 16 (+3) | 13 (+1) | 20 (+5) |
+
+**Saving Throws** Dex +6, Con +9, Wis +5, Cha +9
+
+**Skills** Insight +5, Perception +9, Persuasion +9, Stealth +6
+
+**Damage Immunities** fire
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 19
+
+**Languages** Common, Draconic
+
+**Challenge** 10 (5,900 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Fire Breath.** The dragon exhales fire in a 30-foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 55 (10d10) fire damage on a failed save, or half as much damage on a successful one.
+
+**Weakening Breath.** The dragon exhales gas in a 30-foot cone. Each creature in that area must succeed on a DC 17 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+## Gold Dragon Wyrmling
+
+*Medium dragon, lawful good*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 60 (8d8+24)
+
+**Speed** 30 ft., fly 60 ft., swim 30 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 19 (+4) | 14 (+2) | 17 (+3) | 14 (+2) | 11 (+0) | 16 (+3) |
+
+**Saving Throws** Dex +4, Con +5, Wis +2, Cha +5
+
+**Skills** Perception +4, Stealth +4
+
+**Damage Immunities** fire
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 3 (700 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (1d10+4) piercing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Fire Breath.** The dragon exhales fire in a 15-foot cone. Each creature in that area must make a DC 13 Dexterity saving throw, taking 22 (4d10) fire damage on a failed save, or half as much damage on a successful one.
+
+**Weakening Breath.** The dragon exhales gas in a 15-foot cone. Each creature in that area must succeed on a DC 13 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+## Silver Dragon
+
+## Ancient Silver Dragon
+
+*Gargantuan dragon, lawful good*
+
+**Armor Class** 22 (natural armor)
+
+**Hit Points** 487 (25d20+225)
+
+**Speed** 40 ft., fly 80 ft.
+
+| STR      | DEX     | CON     | INT     | WIS     | CHA     |
+|----------|---------|---------|---------|---------|---------|
+| 30 (+10) | 10 (+0) | 29 (+9) | 18 (+4) | 15 (+2) | 23 (+6) |
+
+**Saving Throws** Dex +7, Con +16, Wis +9, Cha +13
+
+**Skills** Arcana +11, History +11, Perception +16, Stealth +7
+
+**Damage Immunities** cold
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 26
+
+**Languages** Common, Draconic
+
+**Challenge** 23 (50,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +17 to hit, reach 15 ft., one target. *Hit:* 21 (2d10+10) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +17 to hit, reach 10 ft., one target. *Hit:* 17 (2d6+10) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +17 to hit, reach 20 ft., one target. *Hit:* 19 (2d8+10) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 21 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Cold Breath.** The dragon exhales an icy blast in a 90- foot cone. Each creature in that area must make a DC 24 Constitution saving throw, taking 67 (15d8) cold damage on a failed save, or half as much damage on a successful one.
+
+**Paralyzing Breath.** The dragon exhales paralyzing gas in a 90-foot cone. Each creature in that area must succeed on a DC 24 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6+10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Adult Silver Dragon
+
+*Huge dragon, lawful good*
+
+**Armor Class** 19 (natural armor)
+
+**Hit Points** 243 (18d12+126)
+
+**Speed** 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 27 (+8) | 10 (+0) | 25 (+7) | 16 (+3) | 13 (+1) | 21 (+5) |
+
+**Saving Throws** Dex +5, Con +12, Wis +6, Cha +10
+
+**Skills** Arcana +8, History +8, Perception +11, Stealth +5
+
+**Damage Immunities** cold
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 21
+
+**Languages** Common, Draconic
+
+**Challenge** 16 (15,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +13 to hit, reach 10 ft., one target. *Hit:* 19 (2d10+8) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +13 to hit, reach 5 ft., one target. *Hit:* 15 (2d6+8) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +13 to hit, reach 15 ft., one target. *Hit:* 17 (2d8+8) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 18 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Cold Breath.** The dragon exhales an icy blast in a 60- foot cone. Each creature in that area must make a DC 20 Constitution saving throw, taking 58 (13d8) cold damage on a failed save, or half as much damage on a successful one.
+
+**Paralyzing Breath.** The dragon exhales paralyzing gas in a 60-foot cone. Each creature in that area must succeed on a DC 20 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 21 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young Silver Dragon
+
+*Large dragon, lawful good*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 168 (16d10+80)
+
+**Speed** 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 23 (+6) | 10 (+0) | 21 (+5) | 14 (+2) | 11 (+0) | 19 (+4) |
+
+**Saving Throws** Dex +4, Con +9, Wis +4, Cha +8
+
+**Skills** Arcana +6, History +6, Perception +8, Stealth +4
+
+**Damage Immunities** cold
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 18
+
+**Languages** Common, Draconic
+
+**Challenge** 9 (5,000 XP)
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Cold Breath.** The dragon exhales an icy blast in a 30- foot cone. Each creature in that area must make a DC 17 Constitution saving throw, taking 54 (12d8) cold damage on a failed save, or half as much damage on a successful one.
+
+**Paralyzing Breath.** The dragon exhales paralyzing gas in a 30-foot cone. Each creature in that area must succeed on a DC 17 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+## Silver Dragon Wyrmling
+
+*Medium dragon, lawful good*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 45 (6d8+18)
+
+**Speed** 30 ft., fly 60 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 19 (+4) | 10 (+0) | 17 (+3) | 12 (+1) | 11 (+0) | 15 (+2) |
+
+**Saving Throws** Dex +2, Con +5, Wis +2, Cha +4
+
+**Skills** Perception +4, Stealth +2
+
+**Damage Immunities** cold
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 2 (450 XP)
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (1d10+4) piercing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Cold Breath.** The dragon exhales an icy blast in a 15- foot cone. Each creature in that area must make a DC 13 Constitution saving throw, taking 18 (4d8) cold damage on a failed save, or half as much damage on a successful one.
+
+**Paralyzing Breath.** The dragon exhales paralyzing gas in a 15-foot cone. Each creature in that area must succeed on a DC 13 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
 # Dragon Copper Wyrmling
 
 *Medium dragon, chaotic good*
@@ -2269,6 +15563,410 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 **Acid Breath.** The dragon exhales acid in an 20-foot line that is 5 feet wide. Each creature in that line must make a DC 11 Dexterity saving throw, taking 18 (4d8) acid damage on a failed save, or half as much damage on a successful one.
 
 **Slowing Breath.** The dragon exhales gas in a 15-foot cone. Each creature in that area must succeed on a DC 11 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
+
+## Gold Dragon
+
+## Ancient Gold Dragon
+
+*Gargantuan dragon, lawful good*
+
+**Armor Class** 22 (natural armor)
+
+**Hit Points** 546 (28d20+252)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR      | DEX     | CON     | INT     | WIS     | CHA     |
+|----------|---------|---------|---------|---------|---------|
+| 30 (+10) | 14 (+2) | 29 (+9) | 18 (+4) | 17 (+3) | 28 (+9) |
+
+**Saving Throws** Dex +9, Con +16, Wis +10, Cha +16
+
+**Skills** Insight +10, Perception +17, Persuasion +16, Stealth +9
+
+**Damage Immunities** fire
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 27
+
+**Languages** Common, Draconic
+
+**Challenge** 24 (62,000 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +17 to hit, reach 15 ft., one target. *Hit:* 21 (2d10+10) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +17 to hit, reach 10 ft., one target. *Hit:* 17 (2d6+10) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +17 to hit, reach 20 ft., one target. *Hit:* 19 (2d8+10) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 24 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Fire Breath.** The dragon exhales fire in a 90-foot cone. Each creature in that area must make a DC 24 Dexterity saving throw, taking 71 (13d10) fire damage on a failed save, or half as much damage on a successful one.
+
+**Weakening Breath.** The dragon exhales gas in a 90-foot cone. Each creature in that area must succeed on a DC 24 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6+10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Adult Gold Dragon
+
+*Huge dragon, lawful good*
+
+**Armor Class** 19 (natural armor)
+
+**Hit Points** 256 (19d12+133)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 27 (+8) | 14 (+2) | 25 (+7) | 16 (+3) | 15 (+2) | 24 (+7) |
+
+**Saving Throws** Dex +8, Con +13, Wis +8, Cha +13
+
+**Skills** Insight +8, Perception +14, Persuasion +13, Stealth +8
+
+**Damage Immunities** fire
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 24
+
+**Languages** Common, Draconic
+
+**Challenge** 17 (18,000 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 19 (2d10+8) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +14 to hit, reach 5 ft., one target. *Hit:* 15 (2d6+8) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +14 to hit, reach 15 ft., one target. *Hit:* 17 (2d8+8) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 21 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Fire Breath.** The dragon exhales fire in a 60-foot cone. Each creature in that area must make a DC 21 Dexterity saving throw, taking 66 (12d10) fire damage on a failed save, or half as much damage on a successful one.
+
+**Weakening Breath.** The dragon exhales gas in a 60-foot cone. Each creature in that area must succeed on a DC 21 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young Gold Dragon
+
+*Large dragon, lawful good*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 178 (17d10+85)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 23 (+6) | 14 (+2) | 21 (+5) | 16 (+3) | 13 (+1) | 20 (+5) |
+
+**Saving Throws** Dex +6, Con +9, Wis +5, Cha +9
+
+**Skills** Insight +5, Perception +9, Persuasion +9, Stealth +6
+
+**Damage Immunities** fire
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 19
+
+**Languages** Common, Draconic
+
+**Challenge** 10 (5,900 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Fire Breath.** The dragon exhales fire in a 30-foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 55 (10d10) fire damage on a failed save, or half as much damage on a successful one.
+
+**Weakening Breath.** The dragon exhales gas in a 30-foot cone. Each creature in that area must succeed on a DC 17 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+## Gold Dragon Wyrmling
+
+*Medium dragon, lawful good*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 60 (8d8+24)
+
+**Speed** 30 ft., fly 60 ft., swim 30 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 19 (+4) | 14 (+2) | 17 (+3) | 14 (+2) | 11 (+0) | 16 (+3) |
+
+**Saving Throws** Dex +4, Con +5, Wis +2, Cha +5
+
+**Skills** Perception +4, Stealth +4
+
+**Damage Immunities** fire
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 3 (700 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (1d10+4) piercing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Fire Breath.** The dragon exhales fire in a 15-foot cone. Each creature in that area must make a DC 13 Dexterity saving throw, taking 22 (4d10) fire damage on a failed save, or half as much damage on a successful one.
+
+**Weakening Breath.** The dragon exhales gas in a 15-foot cone. Each creature in that area must succeed on a DC 13 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+## Silver Dragon
+
+## Ancient Silver Dragon
+
+*Gargantuan dragon, lawful good*
+
+**Armor Class** 22 (natural armor)
+
+**Hit Points** 487 (25d20+225)
+
+**Speed** 40 ft., fly 80 ft.
+
+| STR      | DEX     | CON     | INT     | WIS     | CHA     |
+|----------|---------|---------|---------|---------|---------|
+| 30 (+10) | 10 (+0) | 29 (+9) | 18 (+4) | 15 (+2) | 23 (+6) |
+
+**Saving Throws** Dex +7, Con +16, Wis +9, Cha +13
+
+**Skills** Arcana +11, History +11, Perception +16, Stealth +7
+
+**Damage Immunities** cold
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 26
+
+**Languages** Common, Draconic
+
+**Challenge** 23 (50,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +17 to hit, reach 15 ft., one target. *Hit:* 21 (2d10+10) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +17 to hit, reach 10 ft., one target. *Hit:* 17 (2d6+10) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +17 to hit, reach 20 ft., one target. *Hit:* 19 (2d8+10) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 21 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Cold Breath.** The dragon exhales an icy blast in a 90- foot cone. Each creature in that area must make a DC 24 Constitution saving throw, taking 67 (15d8) cold damage on a failed save, or half as much damage on a successful one.
+
+**Paralyzing Breath.** The dragon exhales paralyzing gas in a 90-foot cone. Each creature in that area must succeed on a DC 24 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6+10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Adult Silver Dragon
+
+*Huge dragon, lawful good*
+
+**Armor Class** 19 (natural armor)
+
+**Hit Points** 243 (18d12+126)
+
+**Speed** 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 27 (+8) | 10 (+0) | 25 (+7) | 16 (+3) | 13 (+1) | 21 (+5) |
+
+**Saving Throws** Dex +5, Con +12, Wis +6, Cha +10
+
+**Skills** Arcana +8, History +8, Perception +11, Stealth +5
+
+**Damage Immunities** cold
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 21
+
+**Languages** Common, Draconic
+
+**Challenge** 16 (15,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +13 to hit, reach 10 ft., one target. *Hit:* 19 (2d10+8) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +13 to hit, reach 5 ft., one target. *Hit:* 15 (2d6+8) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +13 to hit, reach 15 ft., one target. *Hit:* 17 (2d8+8) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 18 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Cold Breath.** The dragon exhales an icy blast in a 60- foot cone. Each creature in that area must make a DC 20 Constitution saving throw, taking 58 (13d8) cold damage on a failed save, or half as much damage on a successful one.
+
+**Paralyzing Breath.** The dragon exhales paralyzing gas in a 60-foot cone. Each creature in that area must succeed on a DC 20 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 21 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young Silver Dragon
+
+*Large dragon, lawful good*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 168 (16d10+80)
+
+**Speed** 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 23 (+6) | 10 (+0) | 21 (+5) | 14 (+2) | 11 (+0) | 19 (+4) |
+
+**Saving Throws** Dex +4, Con +9, Wis +4, Cha +8
+
+**Skills** Arcana +6, History +6, Perception +8, Stealth +4
+
+**Damage Immunities** cold
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 18
+
+**Languages** Common, Draconic
+
+**Challenge** 9 (5,000 XP)
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Cold Breath.** The dragon exhales an icy blast in a 30- foot cone. Each creature in that area must make a DC 17 Constitution saving throw, taking 54 (12d8) cold damage on a failed save, or half as much damage on a successful one.
+
+**Paralyzing Breath.** The dragon exhales paralyzing gas in a 30-foot cone. Each creature in that area must succeed on a DC 17 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+## Silver Dragon Wyrmling
+
+*Medium dragon, lawful good*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 45 (6d8+18)
+
+**Speed** 30 ft., fly 60 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 19 (+4) | 10 (+0) | 17 (+3) | 12 (+1) | 11 (+0) | 15 (+2) |
+
+**Saving Throws** Dex +2, Con +5, Wis +2, Cha +4
+
+**Skills** Perception +4, Stealth +2
+
+**Damage Immunities** cold
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 2 (450 XP)
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (1d10+4) piercing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Cold Breath.** The dragon exhales an icy blast in a 15- foot cone. Each creature in that area must make a DC 13 Constitution saving throw, taking 18 (4d8) cold damage on a failed save, or half as much damage on a successful one.
+
+**Paralyzing Breath.** The dragon exhales paralyzing gas in a 15-foot cone. Each creature in that area must succeed on a DC 13 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 # Dragon Copper Young
 
@@ -2311,6 +16009,446 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 **Acid Breath.** The dragon exhales acid in an 40-foot line that is 5 feet wide. Each creature in that line must make a DC 14 Dexterity saving throw, taking 40 (9d8) acid damage on a failed save, or half as much damage on a successful one.
 
 **Slowing Breath.** The dragon exhales gas in a 30-foot cone. Each creature in that area must succeed on a DC 14 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
+
+## Copper Dragon Wyrmling
+
+*Medium dragon, chaotic good*
+
+**Armor Class** 16 (natural armor)
+
+**Hit Points** 22 (4d8+4)
+
+**Speed** 30 ft., climb 30 ft., fly 60 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 15 (+2) | 12 (+1) | 13 (+1) | 14 (+2) | 11 (+0) | 13 (+1) |
+
+**Saving Throws** Dex +3, Con +3, Wis +2, Cha +3
+
+**Skills** Perception +4, Stealth +3
+
+**Damage Immunities** acid
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 1 (200 XP)
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10+2) piercing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Acid Breath.** The dragon exhales acid in an 20-foot line that is 5 feet wide. Each creature in that line must make a DC 11 Dexterity saving throw, taking 18 (4d8) acid damage on a failed save, or half as much damage on a successful one.
+
+**Slowing Breath.** The dragon exhales gas in a 15-foot cone. Each creature in that area must succeed on a DC 11 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
+
+## Gold Dragon
+
+## Ancient Gold Dragon
+
+*Gargantuan dragon, lawful good*
+
+**Armor Class** 22 (natural armor)
+
+**Hit Points** 546 (28d20+252)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR      | DEX     | CON     | INT     | WIS     | CHA     |
+|----------|---------|---------|---------|---------|---------|
+| 30 (+10) | 14 (+2) | 29 (+9) | 18 (+4) | 17 (+3) | 28 (+9) |
+
+**Saving Throws** Dex +9, Con +16, Wis +10, Cha +16
+
+**Skills** Insight +10, Perception +17, Persuasion +16, Stealth +9
+
+**Damage Immunities** fire
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 27
+
+**Languages** Common, Draconic
+
+**Challenge** 24 (62,000 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +17 to hit, reach 15 ft., one target. *Hit:* 21 (2d10+10) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +17 to hit, reach 10 ft., one target. *Hit:* 17 (2d6+10) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +17 to hit, reach 20 ft., one target. *Hit:* 19 (2d8+10) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 24 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Fire Breath.** The dragon exhales fire in a 90-foot cone. Each creature in that area must make a DC 24 Dexterity saving throw, taking 71 (13d10) fire damage on a failed save, or half as much damage on a successful one.
+
+**Weakening Breath.** The dragon exhales gas in a 90-foot cone. Each creature in that area must succeed on a DC 24 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6+10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Adult Gold Dragon
+
+*Huge dragon, lawful good*
+
+**Armor Class** 19 (natural armor)
+
+**Hit Points** 256 (19d12+133)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 27 (+8) | 14 (+2) | 25 (+7) | 16 (+3) | 15 (+2) | 24 (+7) |
+
+**Saving Throws** Dex +8, Con +13, Wis +8, Cha +13
+
+**Skills** Insight +8, Perception +14, Persuasion +13, Stealth +8
+
+**Damage Immunities** fire
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 24
+
+**Languages** Common, Draconic
+
+**Challenge** 17 (18,000 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 19 (2d10+8) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +14 to hit, reach 5 ft., one target. *Hit:* 15 (2d6+8) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +14 to hit, reach 15 ft., one target. *Hit:* 17 (2d8+8) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 21 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Fire Breath.** The dragon exhales fire in a 60-foot cone. Each creature in that area must make a DC 21 Dexterity saving throw, taking 66 (12d10) fire damage on a failed save, or half as much damage on a successful one.
+
+**Weakening Breath.** The dragon exhales gas in a 60-foot cone. Each creature in that area must succeed on a DC 21 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young Gold Dragon
+
+*Large dragon, lawful good*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 178 (17d10+85)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 23 (+6) | 14 (+2) | 21 (+5) | 16 (+3) | 13 (+1) | 20 (+5) |
+
+**Saving Throws** Dex +6, Con +9, Wis +5, Cha +9
+
+**Skills** Insight +5, Perception +9, Persuasion +9, Stealth +6
+
+**Damage Immunities** fire
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 19
+
+**Languages** Common, Draconic
+
+**Challenge** 10 (5,900 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Fire Breath.** The dragon exhales fire in a 30-foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 55 (10d10) fire damage on a failed save, or half as much damage on a successful one.
+
+**Weakening Breath.** The dragon exhales gas in a 30-foot cone. Each creature in that area must succeed on a DC 17 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+## Gold Dragon Wyrmling
+
+*Medium dragon, lawful good*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 60 (8d8+24)
+
+**Speed** 30 ft., fly 60 ft., swim 30 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 19 (+4) | 14 (+2) | 17 (+3) | 14 (+2) | 11 (+0) | 16 (+3) |
+
+**Saving Throws** Dex +4, Con +5, Wis +2, Cha +5
+
+**Skills** Perception +4, Stealth +4
+
+**Damage Immunities** fire
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 3 (700 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (1d10+4) piercing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Fire Breath.** The dragon exhales fire in a 15-foot cone. Each creature in that area must make a DC 13 Dexterity saving throw, taking 22 (4d10) fire damage on a failed save, or half as much damage on a successful one.
+
+**Weakening Breath.** The dragon exhales gas in a 15-foot cone. Each creature in that area must succeed on a DC 13 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+## Silver Dragon
+
+## Ancient Silver Dragon
+
+*Gargantuan dragon, lawful good*
+
+**Armor Class** 22 (natural armor)
+
+**Hit Points** 487 (25d20+225)
+
+**Speed** 40 ft., fly 80 ft.
+
+| STR      | DEX     | CON     | INT     | WIS     | CHA     |
+|----------|---------|---------|---------|---------|---------|
+| 30 (+10) | 10 (+0) | 29 (+9) | 18 (+4) | 15 (+2) | 23 (+6) |
+
+**Saving Throws** Dex +7, Con +16, Wis +9, Cha +13
+
+**Skills** Arcana +11, History +11, Perception +16, Stealth +7
+
+**Damage Immunities** cold
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 26
+
+**Languages** Common, Draconic
+
+**Challenge** 23 (50,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +17 to hit, reach 15 ft., one target. *Hit:* 21 (2d10+10) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +17 to hit, reach 10 ft., one target. *Hit:* 17 (2d6+10) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +17 to hit, reach 20 ft., one target. *Hit:* 19 (2d8+10) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 21 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Cold Breath.** The dragon exhales an icy blast in a 90- foot cone. Each creature in that area must make a DC 24 Constitution saving throw, taking 67 (15d8) cold damage on a failed save, or half as much damage on a successful one.
+
+**Paralyzing Breath.** The dragon exhales paralyzing gas in a 90-foot cone. Each creature in that area must succeed on a DC 24 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6+10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Adult Silver Dragon
+
+*Huge dragon, lawful good*
+
+**Armor Class** 19 (natural armor)
+
+**Hit Points** 243 (18d12+126)
+
+**Speed** 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 27 (+8) | 10 (+0) | 25 (+7) | 16 (+3) | 13 (+1) | 21 (+5) |
+
+**Saving Throws** Dex +5, Con +12, Wis +6, Cha +10
+
+**Skills** Arcana +8, History +8, Perception +11, Stealth +5
+
+**Damage Immunities** cold
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 21
+
+**Languages** Common, Draconic
+
+**Challenge** 16 (15,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +13 to hit, reach 10 ft., one target. *Hit:* 19 (2d10+8) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +13 to hit, reach 5 ft., one target. *Hit:* 15 (2d6+8) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +13 to hit, reach 15 ft., one target. *Hit:* 17 (2d8+8) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 18 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Cold Breath.** The dragon exhales an icy blast in a 60- foot cone. Each creature in that area must make a DC 20 Constitution saving throw, taking 58 (13d8) cold damage on a failed save, or half as much damage on a successful one.
+
+**Paralyzing Breath.** The dragon exhales paralyzing gas in a 60-foot cone. Each creature in that area must succeed on a DC 20 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 21 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young Silver Dragon
+
+*Large dragon, lawful good*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 168 (16d10+80)
+
+**Speed** 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 23 (+6) | 10 (+0) | 21 (+5) | 14 (+2) | 11 (+0) | 19 (+4) |
+
+**Saving Throws** Dex +4, Con +9, Wis +4, Cha +8
+
+**Skills** Arcana +6, History +6, Perception +8, Stealth +4
+
+**Damage Immunities** cold
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 18
+
+**Languages** Common, Draconic
+
+**Challenge** 9 (5,000 XP)
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Cold Breath.** The dragon exhales an icy blast in a 30- foot cone. Each creature in that area must make a DC 17 Constitution saving throw, taking 54 (12d8) cold damage on a failed save, or half as much damage on a successful one.
+
+**Paralyzing Breath.** The dragon exhales paralyzing gas in a 30-foot cone. Each creature in that area must succeed on a DC 17 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+## Silver Dragon Wyrmling
+
+*Medium dragon, lawful good*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 45 (6d8+18)
+
+**Speed** 30 ft., fly 60 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 19 (+4) | 10 (+0) | 17 (+3) | 12 (+1) | 11 (+0) | 15 (+2) |
+
+**Saving Throws** Dex +2, Con +5, Wis +2, Cha +4
+
+**Skills** Perception +4, Stealth +2
+
+**Damage Immunities** cold
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 2 (450 XP)
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (1d10+4) piercing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Cold Breath.** The dragon exhales an icy blast in a 15- foot cone. Each creature in that area must make a DC 13 Constitution saving throw, taking 18 (4d8) cold damage on a failed save, or half as much damage on a successful one.
+
+**Paralyzing Breath.** The dragon exhales paralyzing gas in a 15-foot cone. Each creature in that area must succeed on a DC 13 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 # Dragon Gold Adult
 
@@ -2376,6 +16514,284 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
+## Young Gold Dragon
+
+*Large dragon, lawful good*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 178 (17d10+85)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 23 (+6) | 14 (+2) | 21 (+5) | 16 (+3) | 13 (+1) | 20 (+5) |
+
+**Saving Throws** Dex +6, Con +9, Wis +5, Cha +9
+
+**Skills** Insight +5, Perception +9, Persuasion +9, Stealth +6
+
+**Damage Immunities** fire
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 19
+
+**Languages** Common, Draconic
+
+**Challenge** 10 (5,900 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Fire Breath.** The dragon exhales fire in a 30-foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 55 (10d10) fire damage on a failed save, or half as much damage on a successful one.
+
+**Weakening Breath.** The dragon exhales gas in a 30-foot cone. Each creature in that area must succeed on a DC 17 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+## Gold Dragon Wyrmling
+
+*Medium dragon, lawful good*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 60 (8d8+24)
+
+**Speed** 30 ft., fly 60 ft., swim 30 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 19 (+4) | 14 (+2) | 17 (+3) | 14 (+2) | 11 (+0) | 16 (+3) |
+
+**Saving Throws** Dex +4, Con +5, Wis +2, Cha +5
+
+**Skills** Perception +4, Stealth +4
+
+**Damage Immunities** fire
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 3 (700 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (1d10+4) piercing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Fire Breath.** The dragon exhales fire in a 15-foot cone. Each creature in that area must make a DC 13 Dexterity saving throw, taking 22 (4d10) fire damage on a failed save, or half as much damage on a successful one.
+
+**Weakening Breath.** The dragon exhales gas in a 15-foot cone. Each creature in that area must succeed on a DC 13 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+## Silver Dragon
+
+## Ancient Silver Dragon
+
+*Gargantuan dragon, lawful good*
+
+**Armor Class** 22 (natural armor)
+
+**Hit Points** 487 (25d20+225)
+
+**Speed** 40 ft., fly 80 ft.
+
+| STR      | DEX     | CON     | INT     | WIS     | CHA     |
+|----------|---------|---------|---------|---------|---------|
+| 30 (+10) | 10 (+0) | 29 (+9) | 18 (+4) | 15 (+2) | 23 (+6) |
+
+**Saving Throws** Dex +7, Con +16, Wis +9, Cha +13
+
+**Skills** Arcana +11, History +11, Perception +16, Stealth +7
+
+**Damage Immunities** cold
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 26
+
+**Languages** Common, Draconic
+
+**Challenge** 23 (50,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +17 to hit, reach 15 ft., one target. *Hit:* 21 (2d10+10) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +17 to hit, reach 10 ft., one target. *Hit:* 17 (2d6+10) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +17 to hit, reach 20 ft., one target. *Hit:* 19 (2d8+10) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 21 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Cold Breath.** The dragon exhales an icy blast in a 90- foot cone. Each creature in that area must make a DC 24 Constitution saving throw, taking 67 (15d8) cold damage on a failed save, or half as much damage on a successful one.
+
+**Paralyzing Breath.** The dragon exhales paralyzing gas in a 90-foot cone. Each creature in that area must succeed on a DC 24 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6+10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Adult Silver Dragon
+
+*Huge dragon, lawful good*
+
+**Armor Class** 19 (natural armor)
+
+**Hit Points** 243 (18d12+126)
+
+**Speed** 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 27 (+8) | 10 (+0) | 25 (+7) | 16 (+3) | 13 (+1) | 21 (+5) |
+
+**Saving Throws** Dex +5, Con +12, Wis +6, Cha +10
+
+**Skills** Arcana +8, History +8, Perception +11, Stealth +5
+
+**Damage Immunities** cold
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 21
+
+**Languages** Common, Draconic
+
+**Challenge** 16 (15,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +13 to hit, reach 10 ft., one target. *Hit:* 19 (2d10+8) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +13 to hit, reach 5 ft., one target. *Hit:* 15 (2d6+8) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +13 to hit, reach 15 ft., one target. *Hit:* 17 (2d8+8) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 18 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Cold Breath.** The dragon exhales an icy blast in a 60- foot cone. Each creature in that area must make a DC 20 Constitution saving throw, taking 58 (13d8) cold damage on a failed save, or half as much damage on a successful one.
+
+**Paralyzing Breath.** The dragon exhales paralyzing gas in a 60-foot cone. Each creature in that area must succeed on a DC 20 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 21 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young Silver Dragon
+
+*Large dragon, lawful good*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 168 (16d10+80)
+
+**Speed** 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 23 (+6) | 10 (+0) | 21 (+5) | 14 (+2) | 11 (+0) | 19 (+4) |
+
+**Saving Throws** Dex +4, Con +9, Wis +4, Cha +8
+
+**Skills** Arcana +6, History +6, Perception +8, Stealth +4
+
+**Damage Immunities** cold
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 18
+
+**Languages** Common, Draconic
+
+**Challenge** 9 (5,000 XP)
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Cold Breath.** The dragon exhales an icy blast in a 30- foot cone. Each creature in that area must make a DC 17 Constitution saving throw, taking 54 (12d8) cold damage on a failed save, or half as much damage on a successful one.
+
+**Paralyzing Breath.** The dragon exhales paralyzing gas in a 30-foot cone. Each creature in that area must succeed on a DC 17 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+## Silver Dragon Wyrmling
+
+*Medium dragon, lawful good*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 45 (6d8+18)
+
+**Speed** 30 ft., fly 60 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 19 (+4) | 10 (+0) | 17 (+3) | 12 (+1) | 11 (+0) | 15 (+2) |
+
+**Saving Throws** Dex +2, Con +5, Wis +2, Cha +4
+
+**Skills** Perception +4, Stealth +2
+
+**Damage Immunities** cold
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 2 (450 XP)
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (1d10+4) piercing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Cold Breath.** The dragon exhales an icy blast in a 15- foot cone. Each creature in that area must make a DC 13 Constitution saving throw, taking 18 (4d8) cold damage on a failed save, or half as much damage on a successful one.
+
+**Paralyzing Breath.** The dragon exhales paralyzing gas in a 15-foot cone. Each creature in that area must succeed on a DC 13 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
 # Dragon Gold Ancient
 
 *Gargantuan dragon, lawful good*
@@ -2440,6 +16856,346 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6+10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
+## Adult Gold Dragon
+
+*Huge dragon, lawful good*
+
+**Armor Class** 19 (natural armor)
+
+**Hit Points** 256 (19d12+133)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 27 (+8) | 14 (+2) | 25 (+7) | 16 (+3) | 15 (+2) | 24 (+7) |
+
+**Saving Throws** Dex +8, Con +13, Wis +8, Cha +13
+
+**Skills** Insight +8, Perception +14, Persuasion +13, Stealth +8
+
+**Damage Immunities** fire
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 24
+
+**Languages** Common, Draconic
+
+**Challenge** 17 (18,000 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 19 (2d10+8) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +14 to hit, reach 5 ft., one target. *Hit:* 15 (2d6+8) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +14 to hit, reach 15 ft., one target. *Hit:* 17 (2d8+8) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 21 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Fire Breath.** The dragon exhales fire in a 60-foot cone. Each creature in that area must make a DC 21 Dexterity saving throw, taking 66 (12d10) fire damage on a failed save, or half as much damage on a successful one.
+
+**Weakening Breath.** The dragon exhales gas in a 60-foot cone. Each creature in that area must succeed on a DC 21 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young Gold Dragon
+
+*Large dragon, lawful good*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 178 (17d10+85)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 23 (+6) | 14 (+2) | 21 (+5) | 16 (+3) | 13 (+1) | 20 (+5) |
+
+**Saving Throws** Dex +6, Con +9, Wis +5, Cha +9
+
+**Skills** Insight +5, Perception +9, Persuasion +9, Stealth +6
+
+**Damage Immunities** fire
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 19
+
+**Languages** Common, Draconic
+
+**Challenge** 10 (5,900 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Fire Breath.** The dragon exhales fire in a 30-foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 55 (10d10) fire damage on a failed save, or half as much damage on a successful one.
+
+**Weakening Breath.** The dragon exhales gas in a 30-foot cone. Each creature in that area must succeed on a DC 17 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+## Gold Dragon Wyrmling
+
+*Medium dragon, lawful good*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 60 (8d8+24)
+
+**Speed** 30 ft., fly 60 ft., swim 30 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 19 (+4) | 14 (+2) | 17 (+3) | 14 (+2) | 11 (+0) | 16 (+3) |
+
+**Saving Throws** Dex +4, Con +5, Wis +2, Cha +5
+
+**Skills** Perception +4, Stealth +4
+
+**Damage Immunities** fire
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 3 (700 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (1d10+4) piercing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Fire Breath.** The dragon exhales fire in a 15-foot cone. Each creature in that area must make a DC 13 Dexterity saving throw, taking 22 (4d10) fire damage on a failed save, or half as much damage on a successful one.
+
+**Weakening Breath.** The dragon exhales gas in a 15-foot cone. Each creature in that area must succeed on a DC 13 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+## Silver Dragon
+
+## Ancient Silver Dragon
+
+*Gargantuan dragon, lawful good*
+
+**Armor Class** 22 (natural armor)
+
+**Hit Points** 487 (25d20+225)
+
+**Speed** 40 ft., fly 80 ft.
+
+| STR      | DEX     | CON     | INT     | WIS     | CHA     |
+|----------|---------|---------|---------|---------|---------|
+| 30 (+10) | 10 (+0) | 29 (+9) | 18 (+4) | 15 (+2) | 23 (+6) |
+
+**Saving Throws** Dex +7, Con +16, Wis +9, Cha +13
+
+**Skills** Arcana +11, History +11, Perception +16, Stealth +7
+
+**Damage Immunities** cold
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 26
+
+**Languages** Common, Draconic
+
+**Challenge** 23 (50,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +17 to hit, reach 15 ft., one target. *Hit:* 21 (2d10+10) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +17 to hit, reach 10 ft., one target. *Hit:* 17 (2d6+10) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +17 to hit, reach 20 ft., one target. *Hit:* 19 (2d8+10) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 21 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Cold Breath.** The dragon exhales an icy blast in a 90- foot cone. Each creature in that area must make a DC 24 Constitution saving throw, taking 67 (15d8) cold damage on a failed save, or half as much damage on a successful one.
+
+**Paralyzing Breath.** The dragon exhales paralyzing gas in a 90-foot cone. Each creature in that area must succeed on a DC 24 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6+10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Adult Silver Dragon
+
+*Huge dragon, lawful good*
+
+**Armor Class** 19 (natural armor)
+
+**Hit Points** 243 (18d12+126)
+
+**Speed** 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 27 (+8) | 10 (+0) | 25 (+7) | 16 (+3) | 13 (+1) | 21 (+5) |
+
+**Saving Throws** Dex +5, Con +12, Wis +6, Cha +10
+
+**Skills** Arcana +8, History +8, Perception +11, Stealth +5
+
+**Damage Immunities** cold
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 21
+
+**Languages** Common, Draconic
+
+**Challenge** 16 (15,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +13 to hit, reach 10 ft., one target. *Hit:* 19 (2d10+8) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +13 to hit, reach 5 ft., one target. *Hit:* 15 (2d6+8) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +13 to hit, reach 15 ft., one target. *Hit:* 17 (2d8+8) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 18 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Cold Breath.** The dragon exhales an icy blast in a 60- foot cone. Each creature in that area must make a DC 20 Constitution saving throw, taking 58 (13d8) cold damage on a failed save, or half as much damage on a successful one.
+
+**Paralyzing Breath.** The dragon exhales paralyzing gas in a 60-foot cone. Each creature in that area must succeed on a DC 20 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 21 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young Silver Dragon
+
+*Large dragon, lawful good*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 168 (16d10+80)
+
+**Speed** 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 23 (+6) | 10 (+0) | 21 (+5) | 14 (+2) | 11 (+0) | 19 (+4) |
+
+**Saving Throws** Dex +4, Con +9, Wis +4, Cha +8
+
+**Skills** Arcana +6, History +6, Perception +8, Stealth +4
+
+**Damage Immunities** cold
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 18
+
+**Languages** Common, Draconic
+
+**Challenge** 9 (5,000 XP)
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Cold Breath.** The dragon exhales an icy blast in a 30- foot cone. Each creature in that area must make a DC 17 Constitution saving throw, taking 54 (12d8) cold damage on a failed save, or half as much damage on a successful one.
+
+**Paralyzing Breath.** The dragon exhales paralyzing gas in a 30-foot cone. Each creature in that area must succeed on a DC 17 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+## Silver Dragon Wyrmling
+
+*Medium dragon, lawful good*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 45 (6d8+18)
+
+**Speed** 30 ft., fly 60 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 19 (+4) | 10 (+0) | 17 (+3) | 12 (+1) | 11 (+0) | 15 (+2) |
+
+**Saving Throws** Dex +2, Con +5, Wis +2, Cha +4
+
+**Skills** Perception +4, Stealth +2
+
+**Damage Immunities** cold
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 2 (450 XP)
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (1d10+4) piercing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Cold Breath.** The dragon exhales an icy blast in a 15- foot cone. Each creature in that area must make a DC 13 Constitution saving throw, taking 18 (4d8) cold damage on a failed save, or half as much damage on a successful one.
+
+**Paralyzing Breath.** The dragon exhales paralyzing gas in a 15-foot cone. Each creature in that area must succeed on a DC 13 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
 # Dragon Gold Wyrmling
 
 *Medium dragon, lawful good*
@@ -2479,6 +17235,204 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 **Fire Breath.** The dragon exhales fire in a 15-foot cone. Each creature in that area must make a DC 13 Dexterity saving throw, taking 22 (4d10) fire damage on a failed save, or half as much damage on a successful one.
 
 **Weakening Breath.** The dragon exhales gas in a 15-foot cone. Each creature in that area must succeed on a DC 13 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+## Silver Dragon
+
+## Ancient Silver Dragon
+
+*Gargantuan dragon, lawful good*
+
+**Armor Class** 22 (natural armor)
+
+**Hit Points** 487 (25d20+225)
+
+**Speed** 40 ft., fly 80 ft.
+
+| STR      | DEX     | CON     | INT     | WIS     | CHA     |
+|----------|---------|---------|---------|---------|---------|
+| 30 (+10) | 10 (+0) | 29 (+9) | 18 (+4) | 15 (+2) | 23 (+6) |
+
+**Saving Throws** Dex +7, Con +16, Wis +9, Cha +13
+
+**Skills** Arcana +11, History +11, Perception +16, Stealth +7
+
+**Damage Immunities** cold
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 26
+
+**Languages** Common, Draconic
+
+**Challenge** 23 (50,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +17 to hit, reach 15 ft., one target. *Hit:* 21 (2d10+10) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +17 to hit, reach 10 ft., one target. *Hit:* 17 (2d6+10) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +17 to hit, reach 20 ft., one target. *Hit:* 19 (2d8+10) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 21 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Cold Breath.** The dragon exhales an icy blast in a 90- foot cone. Each creature in that area must make a DC 24 Constitution saving throw, taking 67 (15d8) cold damage on a failed save, or half as much damage on a successful one.
+
+**Paralyzing Breath.** The dragon exhales paralyzing gas in a 90-foot cone. Each creature in that area must succeed on a DC 24 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6+10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Adult Silver Dragon
+
+*Huge dragon, lawful good*
+
+**Armor Class** 19 (natural armor)
+
+**Hit Points** 243 (18d12+126)
+
+**Speed** 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 27 (+8) | 10 (+0) | 25 (+7) | 16 (+3) | 13 (+1) | 21 (+5) |
+
+**Saving Throws** Dex +5, Con +12, Wis +6, Cha +10
+
+**Skills** Arcana +8, History +8, Perception +11, Stealth +5
+
+**Damage Immunities** cold
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 21
+
+**Languages** Common, Draconic
+
+**Challenge** 16 (15,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +13 to hit, reach 10 ft., one target. *Hit:* 19 (2d10+8) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +13 to hit, reach 5 ft., one target. *Hit:* 15 (2d6+8) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +13 to hit, reach 15 ft., one target. *Hit:* 17 (2d8+8) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 18 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Cold Breath.** The dragon exhales an icy blast in a 60- foot cone. Each creature in that area must make a DC 20 Constitution saving throw, taking 58 (13d8) cold damage on a failed save, or half as much damage on a successful one.
+
+**Paralyzing Breath.** The dragon exhales paralyzing gas in a 60-foot cone. Each creature in that area must succeed on a DC 20 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 21 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young Silver Dragon
+
+*Large dragon, lawful good*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 168 (16d10+80)
+
+**Speed** 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 23 (+6) | 10 (+0) | 21 (+5) | 14 (+2) | 11 (+0) | 19 (+4) |
+
+**Saving Throws** Dex +4, Con +9, Wis +4, Cha +8
+
+**Skills** Arcana +6, History +6, Perception +8, Stealth +4
+
+**Damage Immunities** cold
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 18
+
+**Languages** Common, Draconic
+
+**Challenge** 9 (5,000 XP)
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Cold Breath.** The dragon exhales an icy blast in a 30- foot cone. Each creature in that area must make a DC 17 Constitution saving throw, taking 54 (12d8) cold damage on a failed save, or half as much damage on a successful one.
+
+**Paralyzing Breath.** The dragon exhales paralyzing gas in a 30-foot cone. Each creature in that area must succeed on a DC 17 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+## Silver Dragon Wyrmling
+
+*Medium dragon, lawful good*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 45 (6d8+18)
+
+**Speed** 30 ft., fly 60 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 19 (+4) | 10 (+0) | 17 (+3) | 12 (+1) | 11 (+0) | 15 (+2) |
+
+**Saving Throws** Dex +2, Con +5, Wis +2, Cha +4
+
+**Skills** Perception +4, Stealth +2
+
+**Damage Immunities** cold
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 2 (450 XP)
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (1d10+4) piercing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Cold Breath.** The dragon exhales an icy blast in a 15- foot cone. Each creature in that area must make a DC 13 Constitution saving throw, taking 18 (4d8) cold damage on a failed save, or half as much damage on a successful one.
+
+**Paralyzing Breath.** The dragon exhales paralyzing gas in a 15-foot cone. Each creature in that area must succeed on a DC 13 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 # Dragon Gold Young
 
@@ -2523,6 +17477,242 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 **Fire Breath.** The dragon exhales fire in a 30-foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 55 (10d10) fire damage on a failed save, or half as much damage on a successful one.
 
 **Weakening Breath.** The dragon exhales gas in a 30-foot cone. Each creature in that area must succeed on a DC 17 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+## Gold Dragon Wyrmling
+
+*Medium dragon, lawful good*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 60 (8d8+24)
+
+**Speed** 30 ft., fly 60 ft., swim 30 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 19 (+4) | 14 (+2) | 17 (+3) | 14 (+2) | 11 (+0) | 16 (+3) |
+
+**Saving Throws** Dex +4, Con +5, Wis +2, Cha +5
+
+**Skills** Perception +4, Stealth +4
+
+**Damage Immunities** fire
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 3 (700 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (1d10+4) piercing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Fire Breath.** The dragon exhales fire in a 15-foot cone. Each creature in that area must make a DC 13 Dexterity saving throw, taking 22 (4d10) fire damage on a failed save, or half as much damage on a successful one.
+
+**Weakening Breath.** The dragon exhales gas in a 15-foot cone. Each creature in that area must succeed on a DC 13 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+## Silver Dragon
+
+## Ancient Silver Dragon
+
+*Gargantuan dragon, lawful good*
+
+**Armor Class** 22 (natural armor)
+
+**Hit Points** 487 (25d20+225)
+
+**Speed** 40 ft., fly 80 ft.
+
+| STR      | DEX     | CON     | INT     | WIS     | CHA     |
+|----------|---------|---------|---------|---------|---------|
+| 30 (+10) | 10 (+0) | 29 (+9) | 18 (+4) | 15 (+2) | 23 (+6) |
+
+**Saving Throws** Dex +7, Con +16, Wis +9, Cha +13
+
+**Skills** Arcana +11, History +11, Perception +16, Stealth +7
+
+**Damage Immunities** cold
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 26
+
+**Languages** Common, Draconic
+
+**Challenge** 23 (50,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +17 to hit, reach 15 ft., one target. *Hit:* 21 (2d10+10) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +17 to hit, reach 10 ft., one target. *Hit:* 17 (2d6+10) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +17 to hit, reach 20 ft., one target. *Hit:* 19 (2d8+10) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 21 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Cold Breath.** The dragon exhales an icy blast in a 90- foot cone. Each creature in that area must make a DC 24 Constitution saving throw, taking 67 (15d8) cold damage on a failed save, or half as much damage on a successful one.
+
+**Paralyzing Breath.** The dragon exhales paralyzing gas in a 90-foot cone. Each creature in that area must succeed on a DC 24 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6+10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Adult Silver Dragon
+
+*Huge dragon, lawful good*
+
+**Armor Class** 19 (natural armor)
+
+**Hit Points** 243 (18d12+126)
+
+**Speed** 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 27 (+8) | 10 (+0) | 25 (+7) | 16 (+3) | 13 (+1) | 21 (+5) |
+
+**Saving Throws** Dex +5, Con +12, Wis +6, Cha +10
+
+**Skills** Arcana +8, History +8, Perception +11, Stealth +5
+
+**Damage Immunities** cold
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 21
+
+**Languages** Common, Draconic
+
+**Challenge** 16 (15,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +13 to hit, reach 10 ft., one target. *Hit:* 19 (2d10+8) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +13 to hit, reach 5 ft., one target. *Hit:* 15 (2d6+8) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +13 to hit, reach 15 ft., one target. *Hit:* 17 (2d8+8) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 18 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Cold Breath.** The dragon exhales an icy blast in a 60- foot cone. Each creature in that area must make a DC 20 Constitution saving throw, taking 58 (13d8) cold damage on a failed save, or half as much damage on a successful one.
+
+**Paralyzing Breath.** The dragon exhales paralyzing gas in a 60-foot cone. Each creature in that area must succeed on a DC 20 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 21 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young Silver Dragon
+
+*Large dragon, lawful good*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 168 (16d10+80)
+
+**Speed** 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 23 (+6) | 10 (+0) | 21 (+5) | 14 (+2) | 11 (+0) | 19 (+4) |
+
+**Saving Throws** Dex +4, Con +9, Wis +4, Cha +8
+
+**Skills** Arcana +6, History +6, Perception +8, Stealth +4
+
+**Damage Immunities** cold
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 18
+
+**Languages** Common, Draconic
+
+**Challenge** 9 (5,000 XP)
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Cold Breath.** The dragon exhales an icy blast in a 30- foot cone. Each creature in that area must make a DC 17 Constitution saving throw, taking 54 (12d8) cold damage on a failed save, or half as much damage on a successful one.
+
+**Paralyzing Breath.** The dragon exhales paralyzing gas in a 30-foot cone. Each creature in that area must succeed on a DC 17 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+## Silver Dragon Wyrmling
+
+*Medium dragon, lawful good*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 45 (6d8+18)
+
+**Speed** 30 ft., fly 60 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 19 (+4) | 10 (+0) | 17 (+3) | 12 (+1) | 11 (+0) | 15 (+2) |
+
+**Saving Throws** Dex +2, Con +5, Wis +2, Cha +4
+
+**Skills** Perception +4, Stealth +2
+
+**Damage Immunities** cold
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 2 (450 XP)
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (1d10+4) piercing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Cold Breath.** The dragon exhales an icy blast in a 15- foot cone. Each creature in that area must make a DC 13 Constitution saving throw, taking 18 (4d8) cold damage on a failed save, or half as much damage on a successful one.
+
+**Paralyzing Breath.** The dragon exhales paralyzing gas in a 15-foot cone. Each creature in that area must succeed on a DC 13 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 # Dragon Green Adult
 
@@ -2582,6 +17772,436 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6+6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
+## Young Green Dragon
+
+*Large dragon, lawful evil*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 136 (16d10+48)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 19 (+4) | 12 (+1) | 17 (+3) | 16 (+3) | 13 (+1) | 15 (+2) |
+
+**Saving Throws** Dex +4, Con +6, Wis +4, Cha +5
+
+**Skills** Deception +5, Perception +7, Stealth +4
+
+**Damage Immunities** poison
+
+**Condition Immunities** poisoned
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 17
+
+**Languages** Common, Draconic
+
+**Challenge** 8 (3,900 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 15 (2d10+4) piercing damage plus 7 (2d6) poison damage.
+
+***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6+4) slashing damage.
+
+***Poison Breath (Recharge 5-6).*** The dragon exhales poisonous gas in a 30-foot cone. Each creature in that area must make a DC 14 Constitution saving throw, taking 42 (12d6) poison damage on a failed save, or half as much damage on a successful one.
+
+## Green Dragon Wyrmling
+
+*Medium dragon, lawful evil*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 38 (7d8+7)
+
+**Speed** 30 ft., fly 60 ft., swim 30 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 15 (+2) | 12 (+1) | 13 (+1) | 14 (+2) | 11 (+0) | 13 (+1) |
+
+**Saving Throws** Dex +3, Con +3, Wis +2, Cha +3
+
+**Skills** Perception +4, Stealth +3
+
+**Damage Immunities** poison
+
+**Condition Immunities** poisoned
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 2 (450 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10+2) piercing damage plus 3 (1d6) poison damage.
+
+***Poison Breath (Recharge 5-6).*** The dragon exhales poisonous gas in a 15-foot cone. Each creature in that area must make a DC 11 Constitution saving throw, taking 21 (6d6) poison damage on a failed save, or half as much damage on a successful one.
+
+## Red Dragon
+
+## Ancient Red Dragon
+
+*Gargantuan dragon, chaotic evil*
+
+**Armor Class** 22 (natural armor)
+
+**Hit Points** 546 (28d20+252)
+
+**Speed** 40 ft., climb 40 ft., fly 80 ft.
+
+| STR      | DEX     | CON     | INT     | WIS     | CHA     |
+|----------|---------|---------|---------|---------|---------|
+| 30 (+10) | 10 (+0) | 29 (+9) | 18 (+4) | 15 (+2) | 23 (+6) |
+
+**Saving Throws** Dex +7, Con +16, Wis +9, Cha +13
+
+**Skills** Perception +16, Stealth +7
+
+**Damage Immunities** fire
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 26
+
+**Languages** Common, Draconic
+
+**Challenge** 24 (62,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +17 to hit, reach 15 ft., one target. *Hit:* 21 (2d10+10) piercing damage plus 14 (4d6) fire damage.
+
+***Claw.*** *Melee Weapon Attack:* +17 to hit, reach 10 ft., one target. *Hit:* 17 (2d6+10) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +17 to hit, reach 20 ft., one target. *Hit:* 19 (2d8+10) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 21 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Fire Breath (Recharge 5-6).*** The dragon exhales fire in a 90-foot cone. Each creature in that area must make a DC 24 Dexterity saving throw, taking 91 (26d6) fire damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6+10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Adult Red Dragon
+
+*Huge dragon, chaotic evil*
+
+**Armor Class** 19 (natural armor)
+
+**Hit Points** 256 (19d12+133)
+
+**Speed** 40 ft., climb 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 27 (+8) | 10 (+0) | 25 (+7) | 16 (+3) | 13 (+1) | 21 (+5) |
+
+**Saving Throws** Dex +6, Con +13, Wis +7, Cha +11
+
+**Skills** Perception +13, Stealth +6
+
+**Damage Immunities** fire
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 23
+
+**Languages** Common, Draconic
+
+**Challenge** 17 (18,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 19 (2d10+8) piercing damage plus 7 (2d6) fire damage.
+
+***Claw.*** *Melee Weapon Attack:* +14 to hit, reach 5 ft., one target. *Hit:* 15 (2d6+8) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +14 to hit, reach 15 ft., one target. *Hit:* 17 (2d8+8) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 19 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Fire Breath (Recharge 5-6).*** The dragon exhales fire in a 60-foot cone. Each creature in that area must make a DC 21 Dexterity saving throw, taking 63 (18d6) fire damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young Red Dragon
+
+Large dragon, chaotic evil
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 178 (17d10+85)
+
+**Speed** 40 ft., climb 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 23 (+6) | 10 (+0) | 21 (+5) | 14 (+2) | 11 (+0) | 19 (+4) |
+
+**Saving Throws** Dex +4, Con +9, Wis +4, Cha +8
+
+**Skills** Perception +8, Stealth +4
+
+**Damage Immunities** fire
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 18
+
+**Languages** Common, Draconic
+
+**Challenge** 10 (5,900 XP)
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage plus 3 (1d6) fire damage.
+
+***Claw.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Fire Breath (Recharge 5-6).*** The dragon exhales fire in a 30-foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 56 (16d6) fire damage on a failed save, or half as much damage on a successful one.
+
+## Red Dragon Wyrmling
+
+*Medium dragon, chaotic evil*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 75 (10d8+30)
+
+**Speed** 30 ft., climb 30 ft., fly 60 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 19 (+4) | 10 (+0) | 17 (+3) | 12 (+1) | 11 (+0) | 15 (+2) |
+
+**Saving Throws** Dex +2, Con +5, Wis +2, Cha +4
+
+**Skills** Perception +4, Stealth +2
+
+**Damage Immunities** fire
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 4 (1,100 XP)
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (1d10+4) piercing damage plus 3 (1d6) fire damage.
+
+***Fire Breath (Recharge 5-6).*** The dragon exhales fire in a 15-foot cone. Each creature in that area must make a DC 13 Dexterity saving throw, taking 24 (7d6) fire damage on a failed save, or half as much damage on a successful one.
+
+## White Dragon
+
+## Ancient White Dragon
+
+*Gargantuan dragon, chaotic evil*
+
+**Armor Class** 20 (natural armor)
+
+**Hit Points** 333 (18d20+144)
+
+**Speed** 40 ft., burrow 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 26 (+8) | 10 (+0) | 26 (+8) | 10 (+0) | 13 (+1) | 14 (+2) |
+
+**Saving Throws** Dex +6, Con +14, Wis +7, Cha +8
+
+**Skills** Perception +13, Stealth +6
+
+**Damage Immunities** cold
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 23
+
+**Languages** Common, Draconic
+
+**Challenge** 20 (25,000 XP)
+
+***Ice Walk.*** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +14 to hit, reach 15 ft., one target. *Hit:* 19 (2d10+8) piercing damage plus 9 (2d8) cold damage.
+
+***Claw.*** *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 15 (2d6+8) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +14 to hit, reach 20 ft., one target. *Hit:* 17 (2d8+8) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast in a 90-foot cone. Each creature in that area must make a DC 22 Constitution saving throw, taking 72 (16d8) cold damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Adult White Dragon
+
+*Huge dragon, chaotic evil*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 200 (16d12+96)
+
+**Speed** 40 ft., burrow 30 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+|---------|---------|---------|--------|---------|---------|
+| 22 (+6) | 10 (+0) | 22 (+6) | 8 (-1) | 12 (+1) | 12 (+1) |
+
+**Saving Throws** Dex +5, Con +11, Wis +6, Cha +6
+
+**Skills** Perception +11, Stealth +5
+
+**Damage Immunities** cold
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 21
+
+**Languages** Common, Draconic
+
+**Challenge** 13 (10,000 XP)
+
+***Ice Walk.*** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage plus 4 (1d8) cold damage.
+
+***Claw.*** *Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +11 to hit, reach 15 ft., one target. *Hit:* 15 (2d8+6) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 14 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast in a 60-foot cone. Each creature in that area must make a DC 19 Constitution saving throw, taking 54 (12d8) cold damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6+6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young White Dragon
+
+*Large dragon, chaotic evil*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 133 (14d10+56)
+
+**Speed** 40 ft., burrow 20 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+|---------|---------|---------|--------|---------|---------|
+| 18 (+4) | 10 (+0) | 18 (+4) | 6 (-2) | 11 (+0) | 12 (+1) |
+
+**Saving Throws** Dex +3, Con +7, Wis +3, Cha +4
+
+**Skills** Perception +6, Stealth +3
+
+**Damage Immunities** cold
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 16
+
+**Languages** Common, Draconic
+
+**Challenge** 6 (2,300 XP)
+
+***Ice Walk.*** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 15 (2d10+4) piercing damage plus 4 (1d8) cold damage.
+
+***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6+4) slashing damage.
+
+***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast in a 30-foot cone. Each creature in that area must make a DC 15 Constitution saving throw, taking 45 (10d8) cold damage on a failed save, or half as much damage on a successful one.
+
+## White Dragon Wyrmling
+
+*Medium dragon, chaotic evil*
+
+**Armor Class** 16 (natural armor)
+
+**Hit Points** 32 (5d8+10)
+
+**Speed** 30 ft., burrow 15 ft., fly 60 ft., swim 30 ft.
+
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+|---------|---------|---------|--------|---------|---------|
+| 14 (+2) | 10 (+0) | 14 (+2) | 5 (-3) | 10 (+0) | 11 (+0) |
+
+**Saving Throws** Dex +2, Con +4, Wis +2, Cha +2
+
+**Skills** Perception +4, Stealth +2
+
+**Damage Immunities** cold
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 2 (450 XP)
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10+2) piercing damage plus 2 (1d4) cold damage.
+
+***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast of hail in a 15-foot cone. Each creature in that area must make a DC 12 Constitution saving throw, taking 22 (5d8) cold damage on a failed save, or half as much damage on a successful one.
+
 # Dragon Green Ancient
 
 *Gargantuan dragon, lawful evil*
@@ -2638,6 +18258,493 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 23 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
+
+## Adult Green Dragon
+
+*Huge dragon, lawful evil*
+
+**Armor Class** 19 (natural armor)
+
+**Hit Points** 207 (18d12+90)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 23 (+6) | 12 (+1) | 21 (+5) | 18 (+4) | 15 (+2) | 17 (+3) |
+
+**Saving Throws** Dex +6, Con +10, Wis +7, Cha +8
+
+**Skills** Deception +8, Insight +7, Perception +12, Persuasion +8, Stealth +6
+
+**Damage Immunities** poison
+
+**Condition Immunities** poisoned
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 22
+
+**Languages** Common, Draconic
+
+**Challenge** 15 (13,000 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage plus 7 (2d6) poison damage.
+
+***Claw.*** *Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +11 to hit, reach 15 ft., one target. *Hit:* 15 (2d8+6) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Poison Breath (Recharge 5-6).*** The dragon exhales poisonous gas in a 60-foot cone. Each creature in that area must make a DC 18 Constitution saving throw, taking 56 (16d6) poison damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6+6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young Green Dragon
+
+*Large dragon, lawful evil*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 136 (16d10+48)
+
+**Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 19 (+4) | 12 (+1) | 17 (+3) | 16 (+3) | 13 (+1) | 15 (+2) |
+
+**Saving Throws** Dex +4, Con +6, Wis +4, Cha +5
+
+**Skills** Deception +5, Perception +7, Stealth +4
+
+**Damage Immunities** poison
+
+**Condition Immunities** poisoned
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 17
+
+**Languages** Common, Draconic
+
+**Challenge** 8 (3,900 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 15 (2d10+4) piercing damage plus 7 (2d6) poison damage.
+
+***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6+4) slashing damage.
+
+***Poison Breath (Recharge 5-6).*** The dragon exhales poisonous gas in a 30-foot cone. Each creature in that area must make a DC 14 Constitution saving throw, taking 42 (12d6) poison damage on a failed save, or half as much damage on a successful one.
+
+## Green Dragon Wyrmling
+
+*Medium dragon, lawful evil*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 38 (7d8+7)
+
+**Speed** 30 ft., fly 60 ft., swim 30 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 15 (+2) | 12 (+1) | 13 (+1) | 14 (+2) | 11 (+0) | 13 (+1) |
+
+**Saving Throws** Dex +3, Con +3, Wis +2, Cha +3
+
+**Skills** Perception +4, Stealth +3
+
+**Damage Immunities** poison
+
+**Condition Immunities** poisoned
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 2 (450 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10+2) piercing damage plus 3 (1d6) poison damage.
+
+***Poison Breath (Recharge 5-6).*** The dragon exhales poisonous gas in a 15-foot cone. Each creature in that area must make a DC 11 Constitution saving throw, taking 21 (6d6) poison damage on a failed save, or half as much damage on a successful one.
+
+## Red Dragon
+
+## Ancient Red Dragon
+
+*Gargantuan dragon, chaotic evil*
+
+**Armor Class** 22 (natural armor)
+
+**Hit Points** 546 (28d20+252)
+
+**Speed** 40 ft., climb 40 ft., fly 80 ft.
+
+| STR      | DEX     | CON     | INT     | WIS     | CHA     |
+|----------|---------|---------|---------|---------|---------|
+| 30 (+10) | 10 (+0) | 29 (+9) | 18 (+4) | 15 (+2) | 23 (+6) |
+
+**Saving Throws** Dex +7, Con +16, Wis +9, Cha +13
+
+**Skills** Perception +16, Stealth +7
+
+**Damage Immunities** fire
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 26
+
+**Languages** Common, Draconic
+
+**Challenge** 24 (62,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +17 to hit, reach 15 ft., one target. *Hit:* 21 (2d10+10) piercing damage plus 14 (4d6) fire damage.
+
+***Claw.*** *Melee Weapon Attack:* +17 to hit, reach 10 ft., one target. *Hit:* 17 (2d6+10) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +17 to hit, reach 20 ft., one target. *Hit:* 19 (2d8+10) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 21 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Fire Breath (Recharge 5-6).*** The dragon exhales fire in a 90-foot cone. Each creature in that area must make a DC 24 Dexterity saving throw, taking 91 (26d6) fire damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6+10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Adult Red Dragon
+
+*Huge dragon, chaotic evil*
+
+**Armor Class** 19 (natural armor)
+
+**Hit Points** 256 (19d12+133)
+
+**Speed** 40 ft., climb 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 27 (+8) | 10 (+0) | 25 (+7) | 16 (+3) | 13 (+1) | 21 (+5) |
+
+**Saving Throws** Dex +6, Con +13, Wis +7, Cha +11
+
+**Skills** Perception +13, Stealth +6
+
+**Damage Immunities** fire
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 23
+
+**Languages** Common, Draconic
+
+**Challenge** 17 (18,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 19 (2d10+8) piercing damage plus 7 (2d6) fire damage.
+
+***Claw.*** *Melee Weapon Attack:* +14 to hit, reach 5 ft., one target. *Hit:* 15 (2d6+8) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +14 to hit, reach 15 ft., one target. *Hit:* 17 (2d8+8) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 19 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Fire Breath (Recharge 5-6).*** The dragon exhales fire in a 60-foot cone. Each creature in that area must make a DC 21 Dexterity saving throw, taking 63 (18d6) fire damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young Red Dragon
+
+Large dragon, chaotic evil
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 178 (17d10+85)
+
+**Speed** 40 ft., climb 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 23 (+6) | 10 (+0) | 21 (+5) | 14 (+2) | 11 (+0) | 19 (+4) |
+
+**Saving Throws** Dex +4, Con +9, Wis +4, Cha +8
+
+**Skills** Perception +8, Stealth +4
+
+**Damage Immunities** fire
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 18
+
+**Languages** Common, Draconic
+
+**Challenge** 10 (5,900 XP)
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage plus 3 (1d6) fire damage.
+
+***Claw.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Fire Breath (Recharge 5-6).*** The dragon exhales fire in a 30-foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 56 (16d6) fire damage on a failed save, or half as much damage on a successful one.
+
+## Red Dragon Wyrmling
+
+*Medium dragon, chaotic evil*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 75 (10d8+30)
+
+**Speed** 30 ft., climb 30 ft., fly 60 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 19 (+4) | 10 (+0) | 17 (+3) | 12 (+1) | 11 (+0) | 15 (+2) |
+
+**Saving Throws** Dex +2, Con +5, Wis +2, Cha +4
+
+**Skills** Perception +4, Stealth +2
+
+**Damage Immunities** fire
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 4 (1,100 XP)
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (1d10+4) piercing damage plus 3 (1d6) fire damage.
+
+***Fire Breath (Recharge 5-6).*** The dragon exhales fire in a 15-foot cone. Each creature in that area must make a DC 13 Dexterity saving throw, taking 24 (7d6) fire damage on a failed save, or half as much damage on a successful one.
+
+## White Dragon
+
+## Ancient White Dragon
+
+*Gargantuan dragon, chaotic evil*
+
+**Armor Class** 20 (natural armor)
+
+**Hit Points** 333 (18d20+144)
+
+**Speed** 40 ft., burrow 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 26 (+8) | 10 (+0) | 26 (+8) | 10 (+0) | 13 (+1) | 14 (+2) |
+
+**Saving Throws** Dex +6, Con +14, Wis +7, Cha +8
+
+**Skills** Perception +13, Stealth +6
+
+**Damage Immunities** cold
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 23
+
+**Languages** Common, Draconic
+
+**Challenge** 20 (25,000 XP)
+
+***Ice Walk.*** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +14 to hit, reach 15 ft., one target. *Hit:* 19 (2d10+8) piercing damage plus 9 (2d8) cold damage.
+
+***Claw.*** *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 15 (2d6+8) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +14 to hit, reach 20 ft., one target. *Hit:* 17 (2d8+8) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast in a 90-foot cone. Each creature in that area must make a DC 22 Constitution saving throw, taking 72 (16d8) cold damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Adult White Dragon
+
+*Huge dragon, chaotic evil*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 200 (16d12+96)
+
+**Speed** 40 ft., burrow 30 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+|---------|---------|---------|--------|---------|---------|
+| 22 (+6) | 10 (+0) | 22 (+6) | 8 (-1) | 12 (+1) | 12 (+1) |
+
+**Saving Throws** Dex +5, Con +11, Wis +6, Cha +6
+
+**Skills** Perception +11, Stealth +5
+
+**Damage Immunities** cold
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 21
+
+**Languages** Common, Draconic
+
+**Challenge** 13 (10,000 XP)
+
+***Ice Walk.*** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage plus 4 (1d8) cold damage.
+
+***Claw.*** *Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +11 to hit, reach 15 ft., one target. *Hit:* 15 (2d8+6) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 14 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast in a 60-foot cone. Each creature in that area must make a DC 19 Constitution saving throw, taking 54 (12d8) cold damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6+6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young White Dragon
+
+*Large dragon, chaotic evil*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 133 (14d10+56)
+
+**Speed** 40 ft., burrow 20 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+|---------|---------|---------|--------|---------|---------|
+| 18 (+4) | 10 (+0) | 18 (+4) | 6 (-2) | 11 (+0) | 12 (+1) |
+
+**Saving Throws** Dex +3, Con +7, Wis +3, Cha +4
+
+**Skills** Perception +6, Stealth +3
+
+**Damage Immunities** cold
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 16
+
+**Languages** Common, Draconic
+
+**Challenge** 6 (2,300 XP)
+
+***Ice Walk.*** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 15 (2d10+4) piercing damage plus 4 (1d8) cold damage.
+
+***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6+4) slashing damage.
+
+***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast in a 30-foot cone. Each creature in that area must make a DC 15 Constitution saving throw, taking 45 (10d8) cold damage on a failed save, or half as much damage on a successful one.
+
+## White Dragon Wyrmling
+
+*Medium dragon, chaotic evil*
+
+**Armor Class** 16 (natural armor)
+
+**Hit Points** 32 (5d8+10)
+
+**Speed** 30 ft., burrow 15 ft., fly 60 ft., swim 30 ft.
+
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+|---------|---------|---------|--------|---------|---------|
+| 14 (+2) | 10 (+0) | 14 (+2) | 5 (-3) | 10 (+0) | 11 (+0) |
+
+**Saving Throws** Dex +2, Con +4, Wis +2, Cha +2
+
+**Skills** Perception +4, Stealth +2
+
+**Damage Immunities** cold
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 2 (450 XP)
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10+2) piercing damage plus 2 (1d4) cold damage.
+
+***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast of hail in a 15-foot cone. Each creature in that area must make a DC 12 Constitution saving throw, taking 22 (5d8) cold damage on a failed save, or half as much damage on a successful one.
+
 # Dragon Green Wyrmling
 
 *Medium dragon, lawful evil*
@@ -2675,6 +18782,360 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10+2) piercing damage plus 3 (1d6) poison damage.
 
 ***Poison Breath (Recharge 5-6).*** The dragon exhales poisonous gas in a 15-foot cone. Each creature in that area must make a DC 11 Constitution saving throw, taking 21 (6d6) poison damage on a failed save, or half as much damage on a successful one.
+
+## Red Dragon
+
+## Ancient Red Dragon
+
+*Gargantuan dragon, chaotic evil*
+
+**Armor Class** 22 (natural armor)
+
+**Hit Points** 546 (28d20+252)
+
+**Speed** 40 ft., climb 40 ft., fly 80 ft.
+
+| STR      | DEX     | CON     | INT     | WIS     | CHA     |
+|----------|---------|---------|---------|---------|---------|
+| 30 (+10) | 10 (+0) | 29 (+9) | 18 (+4) | 15 (+2) | 23 (+6) |
+
+**Saving Throws** Dex +7, Con +16, Wis +9, Cha +13
+
+**Skills** Perception +16, Stealth +7
+
+**Damage Immunities** fire
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 26
+
+**Languages** Common, Draconic
+
+**Challenge** 24 (62,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +17 to hit, reach 15 ft., one target. *Hit:* 21 (2d10+10) piercing damage plus 14 (4d6) fire damage.
+
+***Claw.*** *Melee Weapon Attack:* +17 to hit, reach 10 ft., one target. *Hit:* 17 (2d6+10) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +17 to hit, reach 20 ft., one target. *Hit:* 19 (2d8+10) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 21 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Fire Breath (Recharge 5-6).*** The dragon exhales fire in a 90-foot cone. Each creature in that area must make a DC 24 Dexterity saving throw, taking 91 (26d6) fire damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6+10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Adult Red Dragon
+
+*Huge dragon, chaotic evil*
+
+**Armor Class** 19 (natural armor)
+
+**Hit Points** 256 (19d12+133)
+
+**Speed** 40 ft., climb 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 27 (+8) | 10 (+0) | 25 (+7) | 16 (+3) | 13 (+1) | 21 (+5) |
+
+**Saving Throws** Dex +6, Con +13, Wis +7, Cha +11
+
+**Skills** Perception +13, Stealth +6
+
+**Damage Immunities** fire
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 23
+
+**Languages** Common, Draconic
+
+**Challenge** 17 (18,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 19 (2d10+8) piercing damage plus 7 (2d6) fire damage.
+
+***Claw.*** *Melee Weapon Attack:* +14 to hit, reach 5 ft., one target. *Hit:* 15 (2d6+8) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +14 to hit, reach 15 ft., one target. *Hit:* 17 (2d8+8) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 19 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Fire Breath (Recharge 5-6).*** The dragon exhales fire in a 60-foot cone. Each creature in that area must make a DC 21 Dexterity saving throw, taking 63 (18d6) fire damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young Red Dragon
+
+Large dragon, chaotic evil
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 178 (17d10+85)
+
+**Speed** 40 ft., climb 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 23 (+6) | 10 (+0) | 21 (+5) | 14 (+2) | 11 (+0) | 19 (+4) |
+
+**Saving Throws** Dex +4, Con +9, Wis +4, Cha +8
+
+**Skills** Perception +8, Stealth +4
+
+**Damage Immunities** fire
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 18
+
+**Languages** Common, Draconic
+
+**Challenge** 10 (5,900 XP)
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage plus 3 (1d6) fire damage.
+
+***Claw.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Fire Breath (Recharge 5-6).*** The dragon exhales fire in a 30-foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 56 (16d6) fire damage on a failed save, or half as much damage on a successful one.
+
+## Red Dragon Wyrmling
+
+*Medium dragon, chaotic evil*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 75 (10d8+30)
+
+**Speed** 30 ft., climb 30 ft., fly 60 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 19 (+4) | 10 (+0) | 17 (+3) | 12 (+1) | 11 (+0) | 15 (+2) |
+
+**Saving Throws** Dex +2, Con +5, Wis +2, Cha +4
+
+**Skills** Perception +4, Stealth +2
+
+**Damage Immunities** fire
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 4 (1,100 XP)
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (1d10+4) piercing damage plus 3 (1d6) fire damage.
+
+***Fire Breath (Recharge 5-6).*** The dragon exhales fire in a 15-foot cone. Each creature in that area must make a DC 13 Dexterity saving throw, taking 24 (7d6) fire damage on a failed save, or half as much damage on a successful one.
+
+## White Dragon
+
+## Ancient White Dragon
+
+*Gargantuan dragon, chaotic evil*
+
+**Armor Class** 20 (natural armor)
+
+**Hit Points** 333 (18d20+144)
+
+**Speed** 40 ft., burrow 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 26 (+8) | 10 (+0) | 26 (+8) | 10 (+0) | 13 (+1) | 14 (+2) |
+
+**Saving Throws** Dex +6, Con +14, Wis +7, Cha +8
+
+**Skills** Perception +13, Stealth +6
+
+**Damage Immunities** cold
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 23
+
+**Languages** Common, Draconic
+
+**Challenge** 20 (25,000 XP)
+
+***Ice Walk.*** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +14 to hit, reach 15 ft., one target. *Hit:* 19 (2d10+8) piercing damage plus 9 (2d8) cold damage.
+
+***Claw.*** *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 15 (2d6+8) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +14 to hit, reach 20 ft., one target. *Hit:* 17 (2d8+8) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast in a 90-foot cone. Each creature in that area must make a DC 22 Constitution saving throw, taking 72 (16d8) cold damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Adult White Dragon
+
+*Huge dragon, chaotic evil*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 200 (16d12+96)
+
+**Speed** 40 ft., burrow 30 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+|---------|---------|---------|--------|---------|---------|
+| 22 (+6) | 10 (+0) | 22 (+6) | 8 (-1) | 12 (+1) | 12 (+1) |
+
+**Saving Throws** Dex +5, Con +11, Wis +6, Cha +6
+
+**Skills** Perception +11, Stealth +5
+
+**Damage Immunities** cold
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 21
+
+**Languages** Common, Draconic
+
+**Challenge** 13 (10,000 XP)
+
+***Ice Walk.*** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage plus 4 (1d8) cold damage.
+
+***Claw.*** *Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +11 to hit, reach 15 ft., one target. *Hit:* 15 (2d8+6) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 14 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast in a 60-foot cone. Each creature in that area must make a DC 19 Constitution saving throw, taking 54 (12d8) cold damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6+6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young White Dragon
+
+*Large dragon, chaotic evil*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 133 (14d10+56)
+
+**Speed** 40 ft., burrow 20 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+|---------|---------|---------|--------|---------|---------|
+| 18 (+4) | 10 (+0) | 18 (+4) | 6 (-2) | 11 (+0) | 12 (+1) |
+
+**Saving Throws** Dex +3, Con +7, Wis +3, Cha +4
+
+**Skills** Perception +6, Stealth +3
+
+**Damage Immunities** cold
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 16
+
+**Languages** Common, Draconic
+
+**Challenge** 6 (2,300 XP)
+
+***Ice Walk.*** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 15 (2d10+4) piercing damage plus 4 (1d8) cold damage.
+
+***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6+4) slashing damage.
+
+***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast in a 30-foot cone. Each creature in that area must make a DC 15 Constitution saving throw, taking 45 (10d8) cold damage on a failed save, or half as much damage on a successful one.
+
+## White Dragon Wyrmling
+
+*Medium dragon, chaotic evil*
+
+**Armor Class** 16 (natural armor)
+
+**Hit Points** 32 (5d8+10)
+
+**Speed** 30 ft., burrow 15 ft., fly 60 ft., swim 30 ft.
+
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+|---------|---------|---------|--------|---------|---------|
+| 14 (+2) | 10 (+0) | 14 (+2) | 5 (-3) | 10 (+0) | 11 (+0) |
+
+**Saving Throws** Dex +2, Con +4, Wis +2, Cha +2
+
+**Skills** Perception +4, Stealth +2
+
+**Damage Immunities** cold
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 2 (450 XP)
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10+2) piercing damage plus 2 (1d4) cold damage.
+
+***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast of hail in a 15-foot cone. Each creature in that area must make a DC 12 Constitution saving throw, taking 22 (5d8) cold damage on a failed save, or half as much damage on a successful one.
 
 # Dragon Green Young
 
@@ -2717,6 +19178,396 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 ***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6+4) slashing damage.
 
 ***Poison Breath (Recharge 5-6).*** The dragon exhales poisonous gas in a 30-foot cone. Each creature in that area must make a DC 14 Constitution saving throw, taking 42 (12d6) poison damage on a failed save, or half as much damage on a successful one.
+
+## Green Dragon Wyrmling
+
+*Medium dragon, lawful evil*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 38 (7d8+7)
+
+**Speed** 30 ft., fly 60 ft., swim 30 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 15 (+2) | 12 (+1) | 13 (+1) | 14 (+2) | 11 (+0) | 13 (+1) |
+
+**Saving Throws** Dex +3, Con +3, Wis +2, Cha +3
+
+**Skills** Perception +4, Stealth +3
+
+**Damage Immunities** poison
+
+**Condition Immunities** poisoned
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 2 (450 XP)
+
+***Amphibious.*** The dragon can breathe air and water.
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10+2) piercing damage plus 3 (1d6) poison damage.
+
+***Poison Breath (Recharge 5-6).*** The dragon exhales poisonous gas in a 15-foot cone. Each creature in that area must make a DC 11 Constitution saving throw, taking 21 (6d6) poison damage on a failed save, or half as much damage on a successful one.
+
+## Red Dragon
+
+## Ancient Red Dragon
+
+*Gargantuan dragon, chaotic evil*
+
+**Armor Class** 22 (natural armor)
+
+**Hit Points** 546 (28d20+252)
+
+**Speed** 40 ft., climb 40 ft., fly 80 ft.
+
+| STR      | DEX     | CON     | INT     | WIS     | CHA     |
+|----------|---------|---------|---------|---------|---------|
+| 30 (+10) | 10 (+0) | 29 (+9) | 18 (+4) | 15 (+2) | 23 (+6) |
+
+**Saving Throws** Dex +7, Con +16, Wis +9, Cha +13
+
+**Skills** Perception +16, Stealth +7
+
+**Damage Immunities** fire
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 26
+
+**Languages** Common, Draconic
+
+**Challenge** 24 (62,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +17 to hit, reach 15 ft., one target. *Hit:* 21 (2d10+10) piercing damage plus 14 (4d6) fire damage.
+
+***Claw.*** *Melee Weapon Attack:* +17 to hit, reach 10 ft., one target. *Hit:* 17 (2d6+10) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +17 to hit, reach 20 ft., one target. *Hit:* 19 (2d8+10) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 21 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Fire Breath (Recharge 5-6).*** The dragon exhales fire in a 90-foot cone. Each creature in that area must make a DC 24 Dexterity saving throw, taking 91 (26d6) fire damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6+10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Adult Red Dragon
+
+*Huge dragon, chaotic evil*
+
+**Armor Class** 19 (natural armor)
+
+**Hit Points** 256 (19d12+133)
+
+**Speed** 40 ft., climb 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 27 (+8) | 10 (+0) | 25 (+7) | 16 (+3) | 13 (+1) | 21 (+5) |
+
+**Saving Throws** Dex +6, Con +13, Wis +7, Cha +11
+
+**Skills** Perception +13, Stealth +6
+
+**Damage Immunities** fire
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 23
+
+**Languages** Common, Draconic
+
+**Challenge** 17 (18,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 19 (2d10+8) piercing damage plus 7 (2d6) fire damage.
+
+***Claw.*** *Melee Weapon Attack:* +14 to hit, reach 5 ft., one target. *Hit:* 15 (2d6+8) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +14 to hit, reach 15 ft., one target. *Hit:* 17 (2d8+8) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 19 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Fire Breath (Recharge 5-6).*** The dragon exhales fire in a 60-foot cone. Each creature in that area must make a DC 21 Dexterity saving throw, taking 63 (18d6) fire damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young Red Dragon
+
+Large dragon, chaotic evil
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 178 (17d10+85)
+
+**Speed** 40 ft., climb 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 23 (+6) | 10 (+0) | 21 (+5) | 14 (+2) | 11 (+0) | 19 (+4) |
+
+**Saving Throws** Dex +4, Con +9, Wis +4, Cha +8
+
+**Skills** Perception +8, Stealth +4
+
+**Damage Immunities** fire
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 18
+
+**Languages** Common, Draconic
+
+**Challenge** 10 (5,900 XP)
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage plus 3 (1d6) fire damage.
+
+***Claw.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Fire Breath (Recharge 5-6).*** The dragon exhales fire in a 30-foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 56 (16d6) fire damage on a failed save, or half as much damage on a successful one.
+
+## Red Dragon Wyrmling
+
+*Medium dragon, chaotic evil*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 75 (10d8+30)
+
+**Speed** 30 ft., climb 30 ft., fly 60 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 19 (+4) | 10 (+0) | 17 (+3) | 12 (+1) | 11 (+0) | 15 (+2) |
+
+**Saving Throws** Dex +2, Con +5, Wis +2, Cha +4
+
+**Skills** Perception +4, Stealth +2
+
+**Damage Immunities** fire
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 4 (1,100 XP)
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (1d10+4) piercing damage plus 3 (1d6) fire damage.
+
+***Fire Breath (Recharge 5-6).*** The dragon exhales fire in a 15-foot cone. Each creature in that area must make a DC 13 Dexterity saving throw, taking 24 (7d6) fire damage on a failed save, or half as much damage on a successful one.
+
+## White Dragon
+
+## Ancient White Dragon
+
+*Gargantuan dragon, chaotic evil*
+
+**Armor Class** 20 (natural armor)
+
+**Hit Points** 333 (18d20+144)
+
+**Speed** 40 ft., burrow 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 26 (+8) | 10 (+0) | 26 (+8) | 10 (+0) | 13 (+1) | 14 (+2) |
+
+**Saving Throws** Dex +6, Con +14, Wis +7, Cha +8
+
+**Skills** Perception +13, Stealth +6
+
+**Damage Immunities** cold
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 23
+
+**Languages** Common, Draconic
+
+**Challenge** 20 (25,000 XP)
+
+***Ice Walk.*** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +14 to hit, reach 15 ft., one target. *Hit:* 19 (2d10+8) piercing damage plus 9 (2d8) cold damage.
+
+***Claw.*** *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 15 (2d6+8) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +14 to hit, reach 20 ft., one target. *Hit:* 17 (2d8+8) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast in a 90-foot cone. Each creature in that area must make a DC 22 Constitution saving throw, taking 72 (16d8) cold damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Adult White Dragon
+
+*Huge dragon, chaotic evil*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 200 (16d12+96)
+
+**Speed** 40 ft., burrow 30 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+|---------|---------|---------|--------|---------|---------|
+| 22 (+6) | 10 (+0) | 22 (+6) | 8 (-1) | 12 (+1) | 12 (+1) |
+
+**Saving Throws** Dex +5, Con +11, Wis +6, Cha +6
+
+**Skills** Perception +11, Stealth +5
+
+**Damage Immunities** cold
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 21
+
+**Languages** Common, Draconic
+
+**Challenge** 13 (10,000 XP)
+
+***Ice Walk.*** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage plus 4 (1d8) cold damage.
+
+***Claw.*** *Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +11 to hit, reach 15 ft., one target. *Hit:* 15 (2d8+6) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 14 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast in a 60-foot cone. Each creature in that area must make a DC 19 Constitution saving throw, taking 54 (12d8) cold damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6+6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young White Dragon
+
+*Large dragon, chaotic evil*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 133 (14d10+56)
+
+**Speed** 40 ft., burrow 20 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+|---------|---------|---------|--------|---------|---------|
+| 18 (+4) | 10 (+0) | 18 (+4) | 6 (-2) | 11 (+0) | 12 (+1) |
+
+**Saving Throws** Dex +3, Con +7, Wis +3, Cha +4
+
+**Skills** Perception +6, Stealth +3
+
+**Damage Immunities** cold
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 16
+
+**Languages** Common, Draconic
+
+**Challenge** 6 (2,300 XP)
+
+***Ice Walk.*** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 15 (2d10+4) piercing damage plus 4 (1d8) cold damage.
+
+***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6+4) slashing damage.
+
+***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast in a 30-foot cone. Each creature in that area must make a DC 15 Constitution saving throw, taking 45 (10d8) cold damage on a failed save, or half as much damage on a successful one.
+
+## White Dragon Wyrmling
+
+*Medium dragon, chaotic evil*
+
+**Armor Class** 16 (natural armor)
+
+**Hit Points** 32 (5d8+10)
+
+**Speed** 30 ft., burrow 15 ft., fly 60 ft., swim 30 ft.
+
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+|---------|---------|---------|--------|---------|---------|
+| 14 (+2) | 10 (+0) | 14 (+2) | 5 (-3) | 10 (+0) | 11 (+0) |
+
+**Saving Throws** Dex +2, Con +4, Wis +2, Cha +2
+
+**Skills** Perception +4, Stealth +2
+
+**Damage Immunities** cold
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 2 (450 XP)
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10+2) piercing damage plus 2 (1d4) cold damage.
+
+***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast of hail in a 15-foot cone. Each creature in that area must make a DC 12 Constitution saving throw, taking 22 (5d8) cold damage on a failed save, or half as much damage on a successful one.
 
 # Dragon Red Adult
 
@@ -2772,6 +19623,254 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
+## Young Red Dragon
+
+Large dragon, chaotic evil
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 178 (17d10+85)
+
+**Speed** 40 ft., climb 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 23 (+6) | 10 (+0) | 21 (+5) | 14 (+2) | 11 (+0) | 19 (+4) |
+
+**Saving Throws** Dex +4, Con +9, Wis +4, Cha +8
+
+**Skills** Perception +8, Stealth +4
+
+**Damage Immunities** fire
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 18
+
+**Languages** Common, Draconic
+
+**Challenge** 10 (5,900 XP)
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage plus 3 (1d6) fire damage.
+
+***Claw.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Fire Breath (Recharge 5-6).*** The dragon exhales fire in a 30-foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 56 (16d6) fire damage on a failed save, or half as much damage on a successful one.
+
+## Red Dragon Wyrmling
+
+*Medium dragon, chaotic evil*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 75 (10d8+30)
+
+**Speed** 30 ft., climb 30 ft., fly 60 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 19 (+4) | 10 (+0) | 17 (+3) | 12 (+1) | 11 (+0) | 15 (+2) |
+
+**Saving Throws** Dex +2, Con +5, Wis +2, Cha +4
+
+**Skills** Perception +4, Stealth +2
+
+**Damage Immunities** fire
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 4 (1,100 XP)
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (1d10+4) piercing damage plus 3 (1d6) fire damage.
+
+***Fire Breath (Recharge 5-6).*** The dragon exhales fire in a 15-foot cone. Each creature in that area must make a DC 13 Dexterity saving throw, taking 24 (7d6) fire damage on a failed save, or half as much damage on a successful one.
+
+## White Dragon
+
+## Ancient White Dragon
+
+*Gargantuan dragon, chaotic evil*
+
+**Armor Class** 20 (natural armor)
+
+**Hit Points** 333 (18d20+144)
+
+**Speed** 40 ft., burrow 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 26 (+8) | 10 (+0) | 26 (+8) | 10 (+0) | 13 (+1) | 14 (+2) |
+
+**Saving Throws** Dex +6, Con +14, Wis +7, Cha +8
+
+**Skills** Perception +13, Stealth +6
+
+**Damage Immunities** cold
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 23
+
+**Languages** Common, Draconic
+
+**Challenge** 20 (25,000 XP)
+
+***Ice Walk.*** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +14 to hit, reach 15 ft., one target. *Hit:* 19 (2d10+8) piercing damage plus 9 (2d8) cold damage.
+
+***Claw.*** *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 15 (2d6+8) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +14 to hit, reach 20 ft., one target. *Hit:* 17 (2d8+8) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast in a 90-foot cone. Each creature in that area must make a DC 22 Constitution saving throw, taking 72 (16d8) cold damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Adult White Dragon
+
+*Huge dragon, chaotic evil*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 200 (16d12+96)
+
+**Speed** 40 ft., burrow 30 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+|---------|---------|---------|--------|---------|---------|
+| 22 (+6) | 10 (+0) | 22 (+6) | 8 (-1) | 12 (+1) | 12 (+1) |
+
+**Saving Throws** Dex +5, Con +11, Wis +6, Cha +6
+
+**Skills** Perception +11, Stealth +5
+
+**Damage Immunities** cold
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 21
+
+**Languages** Common, Draconic
+
+**Challenge** 13 (10,000 XP)
+
+***Ice Walk.*** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage plus 4 (1d8) cold damage.
+
+***Claw.*** *Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +11 to hit, reach 15 ft., one target. *Hit:* 15 (2d8+6) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 14 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast in a 60-foot cone. Each creature in that area must make a DC 19 Constitution saving throw, taking 54 (12d8) cold damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6+6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young White Dragon
+
+*Large dragon, chaotic evil*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 133 (14d10+56)
+
+**Speed** 40 ft., burrow 20 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+|---------|---------|---------|--------|---------|---------|
+| 18 (+4) | 10 (+0) | 18 (+4) | 6 (-2) | 11 (+0) | 12 (+1) |
+
+**Saving Throws** Dex +3, Con +7, Wis +3, Cha +4
+
+**Skills** Perception +6, Stealth +3
+
+**Damage Immunities** cold
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 16
+
+**Languages** Common, Draconic
+
+**Challenge** 6 (2,300 XP)
+
+***Ice Walk.*** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 15 (2d10+4) piercing damage plus 4 (1d8) cold damage.
+
+***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6+4) slashing damage.
+
+***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast in a 30-foot cone. Each creature in that area must make a DC 15 Constitution saving throw, taking 45 (10d8) cold damage on a failed save, or half as much damage on a successful one.
+
+## White Dragon Wyrmling
+
+*Medium dragon, chaotic evil*
+
+**Armor Class** 16 (natural armor)
+
+**Hit Points** 32 (5d8+10)
+
+**Speed** 30 ft., burrow 15 ft., fly 60 ft., swim 30 ft.
+
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+|---------|---------|---------|--------|---------|---------|
+| 14 (+2) | 10 (+0) | 14 (+2) | 5 (-3) | 10 (+0) | 11 (+0) |
+
+**Saving Throws** Dex +2, Con +4, Wis +2, Cha +2
+
+**Skills** Perception +4, Stealth +2
+
+**Damage Immunities** cold
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 2 (450 XP)
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10+2) piercing damage plus 2 (1d4) cold damage.
+
+***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast of hail in a 15-foot cone. Each creature in that area must make a DC 12 Constitution saving throw, taking 22 (5d8) cold damage on a failed save, or half as much damage on a successful one.
+
 # Dragon Red Ancient
 
 *Gargantuan dragon, chaotic evil*
@@ -2826,6 +19925,306 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6+10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
+## Adult Red Dragon
+
+*Huge dragon, chaotic evil*
+
+**Armor Class** 19 (natural armor)
+
+**Hit Points** 256 (19d12+133)
+
+**Speed** 40 ft., climb 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 27 (+8) | 10 (+0) | 25 (+7) | 16 (+3) | 13 (+1) | 21 (+5) |
+
+**Saving Throws** Dex +6, Con +13, Wis +7, Cha +11
+
+**Skills** Perception +13, Stealth +6
+
+**Damage Immunities** fire
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 23
+
+**Languages** Common, Draconic
+
+**Challenge** 17 (18,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 19 (2d10+8) piercing damage plus 7 (2d6) fire damage.
+
+***Claw.*** *Melee Weapon Attack:* +14 to hit, reach 5 ft., one target. *Hit:* 15 (2d6+8) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +14 to hit, reach 15 ft., one target. *Hit:* 17 (2d8+8) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 19 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Fire Breath (Recharge 5-6).*** The dragon exhales fire in a 60-foot cone. Each creature in that area must make a DC 21 Dexterity saving throw, taking 63 (18d6) fire damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young Red Dragon
+
+Large dragon, chaotic evil
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 178 (17d10+85)
+
+**Speed** 40 ft., climb 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 23 (+6) | 10 (+0) | 21 (+5) | 14 (+2) | 11 (+0) | 19 (+4) |
+
+**Saving Throws** Dex +4, Con +9, Wis +4, Cha +8
+
+**Skills** Perception +8, Stealth +4
+
+**Damage Immunities** fire
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 18
+
+**Languages** Common, Draconic
+
+**Challenge** 10 (5,900 XP)
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage plus 3 (1d6) fire damage.
+
+***Claw.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Fire Breath (Recharge 5-6).*** The dragon exhales fire in a 30-foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 56 (16d6) fire damage on a failed save, or half as much damage on a successful one.
+
+## Red Dragon Wyrmling
+
+*Medium dragon, chaotic evil*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 75 (10d8+30)
+
+**Speed** 30 ft., climb 30 ft., fly 60 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 19 (+4) | 10 (+0) | 17 (+3) | 12 (+1) | 11 (+0) | 15 (+2) |
+
+**Saving Throws** Dex +2, Con +5, Wis +2, Cha +4
+
+**Skills** Perception +4, Stealth +2
+
+**Damage Immunities** fire
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 4 (1,100 XP)
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (1d10+4) piercing damage plus 3 (1d6) fire damage.
+
+***Fire Breath (Recharge 5-6).*** The dragon exhales fire in a 15-foot cone. Each creature in that area must make a DC 13 Dexterity saving throw, taking 24 (7d6) fire damage on a failed save, or half as much damage on a successful one.
+
+## White Dragon
+
+## Ancient White Dragon
+
+*Gargantuan dragon, chaotic evil*
+
+**Armor Class** 20 (natural armor)
+
+**Hit Points** 333 (18d20+144)
+
+**Speed** 40 ft., burrow 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 26 (+8) | 10 (+0) | 26 (+8) | 10 (+0) | 13 (+1) | 14 (+2) |
+
+**Saving Throws** Dex +6, Con +14, Wis +7, Cha +8
+
+**Skills** Perception +13, Stealth +6
+
+**Damage Immunities** cold
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 23
+
+**Languages** Common, Draconic
+
+**Challenge** 20 (25,000 XP)
+
+***Ice Walk.*** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +14 to hit, reach 15 ft., one target. *Hit:* 19 (2d10+8) piercing damage plus 9 (2d8) cold damage.
+
+***Claw.*** *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 15 (2d6+8) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +14 to hit, reach 20 ft., one target. *Hit:* 17 (2d8+8) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast in a 90-foot cone. Each creature in that area must make a DC 22 Constitution saving throw, taking 72 (16d8) cold damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Adult White Dragon
+
+*Huge dragon, chaotic evil*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 200 (16d12+96)
+
+**Speed** 40 ft., burrow 30 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+|---------|---------|---------|--------|---------|---------|
+| 22 (+6) | 10 (+0) | 22 (+6) | 8 (-1) | 12 (+1) | 12 (+1) |
+
+**Saving Throws** Dex +5, Con +11, Wis +6, Cha +6
+
+**Skills** Perception +11, Stealth +5
+
+**Damage Immunities** cold
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 21
+
+**Languages** Common, Draconic
+
+**Challenge** 13 (10,000 XP)
+
+***Ice Walk.*** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage plus 4 (1d8) cold damage.
+
+***Claw.*** *Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +11 to hit, reach 15 ft., one target. *Hit:* 15 (2d8+6) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 14 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast in a 60-foot cone. Each creature in that area must make a DC 19 Constitution saving throw, taking 54 (12d8) cold damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6+6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young White Dragon
+
+*Large dragon, chaotic evil*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 133 (14d10+56)
+
+**Speed** 40 ft., burrow 20 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+|---------|---------|---------|--------|---------|---------|
+| 18 (+4) | 10 (+0) | 18 (+4) | 6 (-2) | 11 (+0) | 12 (+1) |
+
+**Saving Throws** Dex +3, Con +7, Wis +3, Cha +4
+
+**Skills** Perception +6, Stealth +3
+
+**Damage Immunities** cold
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 16
+
+**Languages** Common, Draconic
+
+**Challenge** 6 (2,300 XP)
+
+***Ice Walk.*** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 15 (2d10+4) piercing damage plus 4 (1d8) cold damage.
+
+***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6+4) slashing damage.
+
+***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast in a 30-foot cone. Each creature in that area must make a DC 15 Constitution saving throw, taking 45 (10d8) cold damage on a failed save, or half as much damage on a successful one.
+
+## White Dragon Wyrmling
+
+*Medium dragon, chaotic evil*
+
+**Armor Class** 16 (natural armor)
+
+**Hit Points** 32 (5d8+10)
+
+**Speed** 30 ft., burrow 15 ft., fly 60 ft., swim 30 ft.
+
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+|---------|---------|---------|--------|---------|---------|
+| 14 (+2) | 10 (+0) | 14 (+2) | 5 (-3) | 10 (+0) | 11 (+0) |
+
+**Saving Throws** Dex +2, Con +4, Wis +2, Cha +2
+
+**Skills** Perception +4, Stealth +2
+
+**Damage Immunities** cold
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 2 (450 XP)
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10+2) piercing damage plus 2 (1d4) cold damage.
+
+***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast of hail in a 15-foot cone. Each creature in that area must make a DC 12 Constitution saving throw, taking 22 (5d8) cold damage on a failed save, or half as much damage on a successful one.
+
 # Dragon Red Wyrmling
 
 *Medium dragon, chaotic evil*
@@ -2859,6 +20258,186 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 ***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (1d10+4) piercing damage plus 3 (1d6) fire damage.
 
 ***Fire Breath (Recharge 5-6).*** The dragon exhales fire in a 15-foot cone. Each creature in that area must make a DC 13 Dexterity saving throw, taking 24 (7d6) fire damage on a failed save, or half as much damage on a successful one.
+
+## White Dragon
+
+## Ancient White Dragon
+
+*Gargantuan dragon, chaotic evil*
+
+**Armor Class** 20 (natural armor)
+
+**Hit Points** 333 (18d20+144)
+
+**Speed** 40 ft., burrow 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 26 (+8) | 10 (+0) | 26 (+8) | 10 (+0) | 13 (+1) | 14 (+2) |
+
+**Saving Throws** Dex +6, Con +14, Wis +7, Cha +8
+
+**Skills** Perception +13, Stealth +6
+
+**Damage Immunities** cold
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 23
+
+**Languages** Common, Draconic
+
+**Challenge** 20 (25,000 XP)
+
+***Ice Walk.*** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +14 to hit, reach 15 ft., one target. *Hit:* 19 (2d10+8) piercing damage plus 9 (2d8) cold damage.
+
+***Claw.*** *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 15 (2d6+8) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +14 to hit, reach 20 ft., one target. *Hit:* 17 (2d8+8) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast in a 90-foot cone. Each creature in that area must make a DC 22 Constitution saving throw, taking 72 (16d8) cold damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Adult White Dragon
+
+*Huge dragon, chaotic evil*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 200 (16d12+96)
+
+**Speed** 40 ft., burrow 30 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+|---------|---------|---------|--------|---------|---------|
+| 22 (+6) | 10 (+0) | 22 (+6) | 8 (-1) | 12 (+1) | 12 (+1) |
+
+**Saving Throws** Dex +5, Con +11, Wis +6, Cha +6
+
+**Skills** Perception +11, Stealth +5
+
+**Damage Immunities** cold
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 21
+
+**Languages** Common, Draconic
+
+**Challenge** 13 (10,000 XP)
+
+***Ice Walk.*** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage plus 4 (1d8) cold damage.
+
+***Claw.*** *Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +11 to hit, reach 15 ft., one target. *Hit:* 15 (2d8+6) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 14 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast in a 60-foot cone. Each creature in that area must make a DC 19 Constitution saving throw, taking 54 (12d8) cold damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6+6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young White Dragon
+
+*Large dragon, chaotic evil*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 133 (14d10+56)
+
+**Speed** 40 ft., burrow 20 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+|---------|---------|---------|--------|---------|---------|
+| 18 (+4) | 10 (+0) | 18 (+4) | 6 (-2) | 11 (+0) | 12 (+1) |
+
+**Saving Throws** Dex +3, Con +7, Wis +3, Cha +4
+
+**Skills** Perception +6, Stealth +3
+
+**Damage Immunities** cold
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 16
+
+**Languages** Common, Draconic
+
+**Challenge** 6 (2,300 XP)
+
+***Ice Walk.*** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 15 (2d10+4) piercing damage plus 4 (1d8) cold damage.
+
+***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6+4) slashing damage.
+
+***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast in a 30-foot cone. Each creature in that area must make a DC 15 Constitution saving throw, taking 45 (10d8) cold damage on a failed save, or half as much damage on a successful one.
+
+## White Dragon Wyrmling
+
+*Medium dragon, chaotic evil*
+
+**Armor Class** 16 (natural armor)
+
+**Hit Points** 32 (5d8+10)
+
+**Speed** 30 ft., burrow 15 ft., fly 60 ft., swim 30 ft.
+
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+|---------|---------|---------|--------|---------|---------|
+| 14 (+2) | 10 (+0) | 14 (+2) | 5 (-3) | 10 (+0) | 11 (+0) |
+
+**Saving Throws** Dex +2, Con +4, Wis +2, Cha +2
+
+**Skills** Perception +4, Stealth +2
+
+**Damage Immunities** cold
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 2 (450 XP)
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10+2) piercing damage plus 2 (1d4) cold damage.
+
+***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast of hail in a 15-foot cone. Each creature in that area must make a DC 12 Constitution saving throw, taking 22 (5d8) cold damage on a failed save, or half as much damage on a successful one.
 
 # Dragon Red Young
 
@@ -2897,6 +20476,218 @@ Large dragon, chaotic evil
 ***Claw.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
 
 ***Fire Breath (Recharge 5-6).*** The dragon exhales fire in a 30-foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 56 (16d6) fire damage on a failed save, or half as much damage on a successful one.
+
+## Red Dragon Wyrmling
+
+*Medium dragon, chaotic evil*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 75 (10d8+30)
+
+**Speed** 30 ft., climb 30 ft., fly 60 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 19 (+4) | 10 (+0) | 17 (+3) | 12 (+1) | 11 (+0) | 15 (+2) |
+
+**Saving Throws** Dex +2, Con +5, Wis +2, Cha +4
+
+**Skills** Perception +4, Stealth +2
+
+**Damage Immunities** fire
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 4 (1,100 XP)
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (1d10+4) piercing damage plus 3 (1d6) fire damage.
+
+***Fire Breath (Recharge 5-6).*** The dragon exhales fire in a 15-foot cone. Each creature in that area must make a DC 13 Dexterity saving throw, taking 24 (7d6) fire damage on a failed save, or half as much damage on a successful one.
+
+## White Dragon
+
+## Ancient White Dragon
+
+*Gargantuan dragon, chaotic evil*
+
+**Armor Class** 20 (natural armor)
+
+**Hit Points** 333 (18d20+144)
+
+**Speed** 40 ft., burrow 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 26 (+8) | 10 (+0) | 26 (+8) | 10 (+0) | 13 (+1) | 14 (+2) |
+
+**Saving Throws** Dex +6, Con +14, Wis +7, Cha +8
+
+**Skills** Perception +13, Stealth +6
+
+**Damage Immunities** cold
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 23
+
+**Languages** Common, Draconic
+
+**Challenge** 20 (25,000 XP)
+
+***Ice Walk.*** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +14 to hit, reach 15 ft., one target. *Hit:* 19 (2d10+8) piercing damage plus 9 (2d8) cold damage.
+
+***Claw.*** *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 15 (2d6+8) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +14 to hit, reach 20 ft., one target. *Hit:* 17 (2d8+8) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast in a 90-foot cone. Each creature in that area must make a DC 22 Constitution saving throw, taking 72 (16d8) cold damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Adult White Dragon
+
+*Huge dragon, chaotic evil*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 200 (16d12+96)
+
+**Speed** 40 ft., burrow 30 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+|---------|---------|---------|--------|---------|---------|
+| 22 (+6) | 10 (+0) | 22 (+6) | 8 (-1) | 12 (+1) | 12 (+1) |
+
+**Saving Throws** Dex +5, Con +11, Wis +6, Cha +6
+
+**Skills** Perception +11, Stealth +5
+
+**Damage Immunities** cold
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 21
+
+**Languages** Common, Draconic
+
+**Challenge** 13 (10,000 XP)
+
+***Ice Walk.*** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage plus 4 (1d8) cold damage.
+
+***Claw.*** *Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +11 to hit, reach 15 ft., one target. *Hit:* 15 (2d8+6) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 14 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast in a 60-foot cone. Each creature in that area must make a DC 19 Constitution saving throw, taking 54 (12d8) cold damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6+6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young White Dragon
+
+*Large dragon, chaotic evil*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 133 (14d10+56)
+
+**Speed** 40 ft., burrow 20 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+|---------|---------|---------|--------|---------|---------|
+| 18 (+4) | 10 (+0) | 18 (+4) | 6 (-2) | 11 (+0) | 12 (+1) |
+
+**Saving Throws** Dex +3, Con +7, Wis +3, Cha +4
+
+**Skills** Perception +6, Stealth +3
+
+**Damage Immunities** cold
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 16
+
+**Languages** Common, Draconic
+
+**Challenge** 6 (2,300 XP)
+
+***Ice Walk.*** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 15 (2d10+4) piercing damage plus 4 (1d8) cold damage.
+
+***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6+4) slashing damage.
+
+***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast in a 30-foot cone. Each creature in that area must make a DC 15 Constitution saving throw, taking 45 (10d8) cold damage on a failed save, or half as much damage on a successful one.
+
+## White Dragon Wyrmling
+
+*Medium dragon, chaotic evil*
+
+**Armor Class** 16 (natural armor)
+
+**Hit Points** 32 (5d8+10)
+
+**Speed** 30 ft., burrow 15 ft., fly 60 ft., swim 30 ft.
+
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+|---------|---------|---------|--------|---------|---------|
+| 14 (+2) | 10 (+0) | 14 (+2) | 5 (-3) | 10 (+0) | 11 (+0) |
+
+**Saving Throws** Dex +2, Con +4, Wis +2, Cha +2
+
+**Skills** Perception +4, Stealth +2
+
+**Damage Immunities** cold
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 2 (450 XP)
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10+2) piercing damage plus 2 (1d4) cold damage.
+
+***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast of hail in a 15-foot cone. Each creature in that area must make a DC 12 Constitution saving throw, taking 22 (5d8) cold damage on a failed save, or half as much damage on a successful one.
 
 # Dragon Silver Adult
 
@@ -2960,6 +20751,82 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 21 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
+## Young Silver Dragon
+
+*Large dragon, lawful good*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 168 (16d10+80)
+
+**Speed** 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 23 (+6) | 10 (+0) | 21 (+5) | 14 (+2) | 11 (+0) | 19 (+4) |
+
+**Saving Throws** Dex +4, Con +9, Wis +4, Cha +8
+
+**Skills** Arcana +6, History +6, Perception +8, Stealth +4
+
+**Damage Immunities** cold
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 18
+
+**Languages** Common, Draconic
+
+**Challenge** 9 (5,000 XP)
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Cold Breath.** The dragon exhales an icy blast in a 30- foot cone. Each creature in that area must make a DC 17 Constitution saving throw, taking 54 (12d8) cold damage on a failed save, or half as much damage on a successful one.
+
+**Paralyzing Breath.** The dragon exhales paralyzing gas in a 30-foot cone. Each creature in that area must succeed on a DC 17 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+## Silver Dragon Wyrmling
+
+*Medium dragon, lawful good*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 45 (6d8+18)
+
+**Speed** 30 ft., fly 60 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 19 (+4) | 10 (+0) | 17 (+3) | 12 (+1) | 11 (+0) | 15 (+2) |
+
+**Saving Throws** Dex +2, Con +5, Wis +2, Cha +4
+
+**Skills** Perception +4, Stealth +2
+
+**Damage Immunities** cold
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 2 (450 XP)
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (1d10+4) piercing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Cold Breath.** The dragon exhales an icy blast in a 15- foot cone. Each creature in that area must make a DC 13 Constitution saving throw, taking 18 (4d8) cold damage on a failed save, or half as much damage on a successful one.
+
+**Paralyzing Breath.** The dragon exhales paralyzing gas in a 15-foot cone. Each creature in that area must succeed on a DC 13 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
 # Dragon Silver Ancient
 
 *Gargantuan dragon, lawful good*
@@ -3021,6 +20888,142 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 **Tail Attack.** The dragon makes a tail attack.
 
 **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6+10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Adult Silver Dragon
+
+*Huge dragon, lawful good*
+
+**Armor Class** 19 (natural armor)
+
+**Hit Points** 243 (18d12+126)
+
+**Speed** 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 27 (+8) | 10 (+0) | 25 (+7) | 16 (+3) | 13 (+1) | 21 (+5) |
+
+**Saving Throws** Dex +5, Con +12, Wis +6, Cha +10
+
+**Skills** Arcana +8, History +8, Perception +11, Stealth +5
+
+**Damage Immunities** cold
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 21
+
+**Languages** Common, Draconic
+
+**Challenge** 16 (15,000 XP)
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +13 to hit, reach 10 ft., one target. *Hit:* 19 (2d10+8) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +13 to hit, reach 5 ft., one target. *Hit:* 15 (2d6+8) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +13 to hit, reach 15 ft., one target. *Hit:* 17 (2d8+8) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 18 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Cold Breath.** The dragon exhales an icy blast in a 60- foot cone. Each creature in that area must make a DC 20 Constitution saving throw, taking 58 (13d8) cold damage on a failed save, or half as much damage on a successful one.
+
+**Paralyzing Breath.** The dragon exhales paralyzing gas in a 60-foot cone. Each creature in that area must succeed on a DC 20 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
+
+In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 21 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young Silver Dragon
+
+*Large dragon, lawful good*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 168 (16d10+80)
+
+**Speed** 40 ft., fly 80 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 23 (+6) | 10 (+0) | 21 (+5) | 14 (+2) | 11 (+0) | 19 (+4) |
+
+**Saving Throws** Dex +4, Con +9, Wis +4, Cha +8
+
+**Skills** Arcana +6, History +6, Perception +8, Stealth +4
+
+**Damage Immunities** cold
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 18
+
+**Languages** Common, Draconic
+
+**Challenge** 9 (5,000 XP)
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Cold Breath.** The dragon exhales an icy blast in a 30- foot cone. Each creature in that area must make a DC 17 Constitution saving throw, taking 54 (12d8) cold damage on a failed save, or half as much damage on a successful one.
+
+**Paralyzing Breath.** The dragon exhales paralyzing gas in a 30-foot cone. Each creature in that area must succeed on a DC 17 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+## Silver Dragon Wyrmling
+
+*Medium dragon, lawful good*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 45 (6d8+18)
+
+**Speed** 30 ft., fly 60 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 19 (+4) | 10 (+0) | 17 (+3) | 12 (+1) | 11 (+0) | 15 (+2) |
+
+**Saving Throws** Dex +2, Con +5, Wis +2, Cha +4
+
+**Skills** Perception +4, Stealth +2
+
+**Damage Immunities** cold
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 2 (450 XP)
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (1d10+4) piercing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Cold Breath.** The dragon exhales an icy blast in a 15- foot cone. Each creature in that area must make a DC 13 Constitution saving throw, taking 18 (4d8) cold damage on a failed save, or half as much damage on a successful one.
+
+**Paralyzing Breath.** The dragon exhales paralyzing gas in a 15-foot cone. Each creature in that area must succeed on a DC 13 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 # Dragon Silver Wyrmling
 
@@ -3101,6 +21104,42 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 **Cold Breath.** The dragon exhales an icy blast in a 30- foot cone. Each creature in that area must make a DC 17 Constitution saving throw, taking 54 (12d8) cold damage on a failed save, or half as much damage on a successful one.
 
 **Paralyzing Breath.** The dragon exhales paralyzing gas in a 30-foot cone. Each creature in that area must succeed on a DC 17 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+## Silver Dragon Wyrmling
+
+*Medium dragon, lawful good*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 45 (6d8+18)
+
+**Speed** 30 ft., fly 60 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 19 (+4) | 10 (+0) | 17 (+3) | 12 (+1) | 11 (+0) | 15 (+2) |
+
+**Saving Throws** Dex +2, Con +5, Wis +2, Cha +4
+
+**Skills** Perception +4, Stealth +2
+
+**Damage Immunities** cold
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 2 (450 XP)
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (1d10+4) piercing damage.
+
+***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
+
+**Cold Breath.** The dragon exhales an icy blast in a 15- foot cone. Each creature in that area must make a DC 13 Constitution saving throw, taking 18 (4d8) cold damage on a failed save, or half as much damage on a successful one.
+
+**Paralyzing Breath.** The dragon exhales paralyzing gas in a 15-foot cone. Each creature in that area must succeed on a DC 13 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 # Dragon Turtle
 
@@ -3198,6 +21237,76 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6+6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
+## Young White Dragon
+
+*Large dragon, chaotic evil*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 133 (14d10+56)
+
+**Speed** 40 ft., burrow 20 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+|---------|---------|---------|--------|---------|---------|
+| 18 (+4) | 10 (+0) | 18 (+4) | 6 (-2) | 11 (+0) | 12 (+1) |
+
+**Saving Throws** Dex +3, Con +7, Wis +3, Cha +4
+
+**Skills** Perception +6, Stealth +3
+
+**Damage Immunities** cold
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 16
+
+**Languages** Common, Draconic
+
+**Challenge** 6 (2,300 XP)
+
+***Ice Walk.*** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 15 (2d10+4) piercing damage plus 4 (1d8) cold damage.
+
+***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6+4) slashing damage.
+
+***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast in a 30-foot cone. Each creature in that area must make a DC 15 Constitution saving throw, taking 45 (10d8) cold damage on a failed save, or half as much damage on a successful one.
+
+## White Dragon Wyrmling
+
+*Medium dragon, chaotic evil*
+
+**Armor Class** 16 (natural armor)
+
+**Hit Points** 32 (5d8+10)
+
+**Speed** 30 ft., burrow 15 ft., fly 60 ft., swim 30 ft.
+
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+|---------|---------|---------|--------|---------|---------|
+| 14 (+2) | 10 (+0) | 14 (+2) | 5 (-3) | 10 (+0) | 11 (+0) |
+
+**Saving Throws** Dex +2, Con +4, Wis +2, Cha +2
+
+**Skills** Perception +4, Stealth +2
+
+**Damage Immunities** cold
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 2 (450 XP)
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10+2) piercing damage plus 2 (1d4) cold damage.
+
+***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast of hail in a 15-foot cone. Each creature in that area must make a DC 12 Constitution saving throw, taking 22 (5d8) cold damage on a failed save, or half as much damage on a successful one.
+
 # Dragon White Ancient
 
 *Gargantuan dragon, chaotic evil*
@@ -3253,6 +21362,130 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 **Tail Attack.** The dragon makes a tail attack.
 
 **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6+8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Adult White Dragon
+
+*Huge dragon, chaotic evil*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 200 (16d12+96)
+
+**Speed** 40 ft., burrow 30 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+|---------|---------|---------|--------|---------|---------|
+| 22 (+6) | 10 (+0) | 22 (+6) | 8 (-1) | 12 (+1) | 12 (+1) |
+
+**Saving Throws** Dex +5, Con +11, Wis +6, Cha +6
+
+**Skills** Perception +11, Stealth +5
+
+**Damage Immunities** cold
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 21
+
+**Languages** Common, Draconic
+
+**Challenge** 13 (10,000 XP)
+
+***Ice Walk.*** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
+
+***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
+
+## Actions
+
+***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 17 (2d10+6) piercing damage plus 4 (1d8) cold damage.
+
+***Claw.*** *Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 13 (2d6+6) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +11 to hit, reach 15 ft., one target. *Hit:* 15 (2d8+6) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 14 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+
+***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast in a 60-foot cone. Each creature in that area must make a DC 19 Constitution saving throw, taking 54 (12d8) cold damage on a failed save, or half as much damage on a successful one.
+
+## Legendary Actions
+
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+
+**Detect.** The dragon makes a Wisdom (Perception) check.
+
+**Tail Attack.** The dragon makes a tail attack.
+
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6+6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+
+## Young White Dragon
+
+*Large dragon, chaotic evil*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 133 (14d10+56)
+
+**Speed** 40 ft., burrow 20 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+|---------|---------|---------|--------|---------|---------|
+| 18 (+4) | 10 (+0) | 18 (+4) | 6 (-2) | 11 (+0) | 12 (+1) |
+
+**Saving Throws** Dex +3, Con +7, Wis +3, Cha +4
+
+**Skills** Perception +6, Stealth +3
+
+**Damage Immunities** cold
+
+**Senses** blindsight 30 ft., darkvision 120 ft., passive Perception 16
+
+**Languages** Common, Draconic
+
+**Challenge** 6 (2,300 XP)
+
+***Ice Walk.*** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
+
+## Actions
+
+***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 15 (2d10+4) piercing damage plus 4 (1d8) cold damage.
+
+***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6+4) slashing damage.
+
+***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast in a 30-foot cone. Each creature in that area must make a DC 15 Constitution saving throw, taking 45 (10d8) cold damage on a failed save, or half as much damage on a successful one.
+
+## White Dragon Wyrmling
+
+*Medium dragon, chaotic evil*
+
+**Armor Class** 16 (natural armor)
+
+**Hit Points** 32 (5d8+10)
+
+**Speed** 30 ft., burrow 15 ft., fly 60 ft., swim 30 ft.
+
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+|---------|---------|---------|--------|---------|---------|
+| 14 (+2) | 10 (+0) | 14 (+2) | 5 (-3) | 10 (+0) | 11 (+0) |
+
+**Saving Throws** Dex +2, Con +4, Wis +2, Cha +2
+
+**Skills** Perception +4, Stealth +2
+
+**Damage Immunities** cold
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 2 (450 XP)
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10+2) piercing damage plus 2 (1d4) cold damage.
+
+***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast of hail in a 15-foot cone. Each creature in that area must make a DC 12 Constitution saving throw, taking 22 (5d8) cold damage on a failed save, or half as much damage on a successful one.
 
 # Dragon White Wyrmling
 
@@ -3327,6 +21560,38 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 ***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6+4) slashing damage.
 
 ***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast in a 30-foot cone. Each creature in that area must make a DC 15 Constitution saving throw, taking 45 (10d8) cold damage on a failed save, or half as much damage on a successful one.
+
+## White Dragon Wyrmling
+
+*Medium dragon, chaotic evil*
+
+**Armor Class** 16 (natural armor)
+
+**Hit Points** 32 (5d8+10)
+
+**Speed** 30 ft., burrow 15 ft., fly 60 ft., swim 30 ft.
+
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |
+|---------|---------|---------|--------|---------|---------|
+| 14 (+2) | 10 (+0) | 14 (+2) | 5 (-3) | 10 (+0) | 11 (+0) |
+
+**Saving Throws** Dex +2, Con +4, Wis +2, Cha +2
+
+**Skills** Perception +4, Stealth +2
+
+**Damage Immunities** cold
+
+**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14
+
+**Languages** Draconic
+
+**Challenge** 2 (450 XP)
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10+2) piercing damage plus 2 (1d4) cold damage.
+
+***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast of hail in a 15-foot cone. Each creature in that area must make a DC 12 Constitution saving throw, taking 22 (5d8) cold damage on a failed save, or half as much damage on a successful one.
 
 # Druid
 
@@ -3740,6 +22005,222 @@ The majestic **giant elk** is rare to the point that its appearance is often tak
 
 ***Parry.*** The erinyes adds 4 to its AC against one melee attack that would hit it. To do so, the erinyes must see the attacker and be wielding a melee weapon.
 
+## Horned Devil
+
+*Large fiend (devil), lawful evil*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 148 (17d10+55)
+
+**Speed** 20 ft., fly 60 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 22 (+6) | 17 (+3) | 21 (+5) | 12 (+1) | 16 (+3) | 17 (+3) |
+
+**Saving Throws** Str +10, Dex +7, Wis +7, Cha +7
+
+**Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
+
+**Damage Immunities** fire, poison
+
+**Condition Immunities** poisoned
+
+**Senses** darkvision 120 ft., passive Perception 13
+
+**Languages** Infernal, telepathy 120 ft.
+
+**Challenge** 11 (7,200 XP)
+
+***Devil's Sight.*** Magical darkness doesn't impede the devil's darkvision.
+
+***Magic Resistance.*** The devil has advantage on saving throws against spells and other magical effects.
+
+## Actions
+
+***Multiattack.*** The devil makes three melee attacks: two with its fork and one with its tail. It can use Hurl Flame in place of any melee attack.
+
+***Fork.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 15 (2d8+6) piercing damage.
+
+***Tail.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 10 (1d8+6) piercing damage. If the target is a creature other than an undead or a construct, it must succeed on a DC 17 Constitution saving throw or lose 10 (3d6) hit points at the start of each of its turns due to an infernal wound. Each time the devil hits the wounded target with this attack, the damage dealt by the wound increases by 10 (3d6). Any creature can take an action to stanch the wound with a successful DC 12 Wisdom (Medicine) check. The wound also closes if the target receives magical healing.
+
+***Hurl Flame.*** *Ranged Spell Attack:* +7 to hit, range 150 ft., one target. *Hit:* 14 (4d6) fire damage. If the target is a flammable object that isn't being worn or carried, it also catches fire.
+
+## Ice Devil
+
+*Large fiend (devil), lawful evil*
+
+**Armor Class** 18 (natural armor)
+
+**Hit Points** 180 (19d10+76)
+
+**Speed** 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 21 (+5) | 14 (+2) | 18 (+4) | 18 (+4) | 15 (+2) | 18 (+4) |
+
+**Saving Throws** Dex +7, Con +9, Wis +7, Cha +9
+
+**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+
+**Damage Immunities** cold, fire, poison
+
+**Condition Immunities** poisoned
+
+**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 12
+
+**Languages** Infernal, telepathy 120 ft.
+
+**Challenge** 14 (11,500 XP)
+
+***Devil's Sight.*** Magical darkness doesn't impede the devil's darkvision.
+
+***Magic Resistance.*** The devil has advantage on saving throws against spells and other magical effects.
+
+## Actions
+
+***Multiattack.*** The devil makes three attacks: one with its bite, one with its claws, and one with its tail.
+
+***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 12 (2d6+5) piercing damage plus 10 (3d6) cold damage.
+
+***Claws.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 10 (2d4+5) slashing damage plus 10 (3d6) cold damage.
+
+***Tail.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 12 (2d6+5) bludgeoning damage plus 10 (3d6) cold damage.
+
+***Wall of Ice (Recharge 6).*** The devil magically forms an opaque wall of ice on a solid surface it can see within 60 feet of it. The wall is 1 foot thick and up to 30 feet long and 10 feet high, or it's a hemispherical dome up to 20 feet in diameter.
+
+When the wall appears, each creature in its space is pushed out of it by the shortest route. The creature chooses which side of the wall to end up on, unless the creature is incapacitated. The creature then makes a DC 17 Dexterity saving throw, taking 35 (10d6) cold damage on a failed save, or half as much damage on a successful one.
+
+The wall lasts for 1 minute or until the devil is incapacitated or dies. The wall can be damaged and breached; each 10-foot section has AC 5, 30 hit points, vulnerability to fire damage, and immunity to acid, cold, necrotic, poison, and psychic damage. If a section is destroyed, it leaves behind a sheet of frigid air in the space the wall occupied. Whenever a creature finishes moving through the frigid air on a turn, willingly or otherwise, the creature must make a DC 17 Constitution saving throw, taking 17 (5d6) cold damage on a failed save, or half as much damage on a successful one. The frigid air dissipates when the rest of the wall vanishes.
+
+## Imp
+
+*Tiny fiend (devil, shapechanger), lawful evil*
+
+**Armor Class** 13
+
+**Hit Points** 10 (3d4+3)
+
+**Speed** 20 ft., fly 40 ft.
+
+| STR    | DEX     | CON     | INT     | WIS     | CHA     |
+|--------|---------|---------|---------|---------|---------|
+| 6 (-2) | 17 (+3) | 13 (+1) | 11 (+0) | 12 (+1) | 14 (+2) |
+
+**Skills** Deception +4, Insight +3, Persuasion +4, Stealth +5
+
+**Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
+
+**Damage Immunities** fire, poison
+
+**Condition Immunities** poisoned
+
+**Senses** darkvision 120 ft., passive Perception 11
+
+**Languages** Infernal, Common
+
+**Challenge** 1 (200 XP)
+
+***Shapechanger.*** The imp can use its action to polymorph into a beast form that resembles a rat (speed 20 ft.), a raven (20 ft., fly 60 ft.), or a spider (20 ft., climb 20 ft.), or back into its true form. Its statistics are the same in each form, except for the speed changes noted. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
+
+***Devil's Sight.*** Magical darkness doesn't impede the imp's darkvision.
+
+***Magic Resistance.*** The imp has advantage on saving throws against spells and other magical effects.
+
+## Actions
+
+***Sting (Bite in Beast Form).*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (1d4+3) piercing damage, and the target must make on a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.
+
+***Invisibility.*** The imp magically turns invisible until it attacks or until its concentration ends (as if concentrating on a spell). Any equipment the imp wears or carries is invisible with it.
+
+## Lemure
+
+*Medium fiend (devil), lawful evil*
+
+**Armor Class** 7
+
+**Hit Points** 13 (3d8)
+
+**Speed** 15 ft.
+
+| STR     | DEX    | CON     | INT    | WIS     | CHA    |
+|---------|--------|---------|--------|---------|--------|
+| 10 (+0) | 5 (-3) | 11 (+0) | 1 (-5) | 11 (+0) | 3 (-4) |
+
+**Damage Resistances** cold
+
+**Damage Immunities** fire, poison
+
+**Condition Immunities** charmed, frightened, poisoned
+
+**Senses** darkvision 120 ft., passive Perception 10
+
+**Languages** understands Infernal but can't speak
+
+**Challenge** 0 (10 XP)
+
+***Devil's Sight.*** Magical darkness doesn't impede the lemure's darkvision.
+
+***Hellish Rejuvenation.*** A lemure that dies in the Nine Hells comes back to life with all its hit points in 1d10 days unless it is killed by a good-aligned creature with a *bless* spell cast on that creature or its remains are sprinkled with holy water.
+
+## Actions
+
+***Fist.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 2 (1d4) bludgeoning damage.
+
+## Pit Fiend
+
+*Large fiend (devil), lawful evil*
+
+**Armor Class** 19 (natural armor)
+
+**Hit Points** 300 (24d10+168)
+
+**Speed** 30 ft., fly 60 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 26 (+8) | 14 (+2) | 24 (+7) | 22 (+6) | 18 (+4) | 24 (+7) |
+
+**Saving Throws** Dex +8, Con +13, Wis +10
+
+**Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+
+**Damage Immunities** fire, poison
+
+**Condition Immunities** poisoned
+
+**Senses** truesight 120 ft., passive Perception 14
+
+**Languages** Infernal, telepathy 120 ft.
+
+**Challenge** 20 (25,000 XP)
+
+***Fear Aura.*** Any creature hostile to the pit fiend that starts its turn within 20 feet of the pit fiend must make a DC 21 Wisdom saving throw, unless the pit fiend is incapacitated. On a failed save, the creature is frightened until the start of its next turn. If a creature's saving throw is successful, the creature is immune to the pit fiend's Fear Aura for the next 24 hours.
+
+***Magic Resistance.*** The pit fiend has advantage on saving throws against spells and other magical effects.
+
+***Magic Weapons.*** The pit fiend's weapon attacks are magical.
+
+***Innate Spellcasting.*** The pit fiend's spellcasting ability is Charisma (spell save DC 21). The pit fiend can innately cast the following spells, requiring no material Components
+
+At will: *detect magic*, *fireball*
+
+3/day each: *hold monster*, *wall of fire*
+
+## Actions
+
+***Multiattack.*** The pit fiend makes four attacks: one with its bite, one with its claw, one with its mace, and one with its tail.
+
+***Bite.*** *Melee Weapon Attack:* +14 to hit, reach 5 ft., one target. *Hit:* 22 (4d6+8) piercing damage. The target must succeed on a DC 21 Constitution saving throw or become poisoned. While poisoned in this way, the target can't regain hit points, and it takes 21 (6d6) poison damage at the start of each of its turns. The poisoned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+***Claw.*** *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 17 (2d8+8) slashing damage.
+
+***Mace.*** *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 15 (2d6+8) bludgeoning damage plus 21 (6d6) fire damage.
+
+***Tail.*** *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 24 (3d10+8) bludgeoning damage.
+
 # Ettin
 
 *Large giant, chaotic evil*
@@ -3948,6 +22429,36 @@ If the frog dies, a swallowed creature is no longer restrained by it and can esc
 
 ***Claws.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6+3) slashing damage. If the target is a creature other than an undead, it must succeed on a DC 10 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
+## Ghoul
+
+*Medium undead, chaotic evil*
+
+**Armor Class** 12
+
+**Hit Points** 22 (5d8)
+
+**Speed** 30 ft.
+
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+|---------|---------|---------|--------|---------|--------|
+| 13 (+1) | 15 (+2) | 10 (+0) | 7 (-2) | 10 (+0) | 6 (-2) |
+
+**Damage Immunities** poison
+
+**Condition Immunities** charmed, exhaustion, poisoned
+
+**Senses** darkvision 60 ft., passive Perception 10
+
+**Languages** Common
+
+**Challenge** 1 (200 XP)
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one creature. *Hit:* 9 (2d6+2) piercing damage.
+
+***Claws.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d4+2) slashing damage. If the target is a creature other than an elf or undead, it must succeed on a DC 10 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
 # Ghost
 
 *Medium undead, any alignment*
@@ -4068,6 +22579,188 @@ At will: *detect magic*, *fog cloud*, *light*
 
 ***Rock.*** *Ranged Weapon Attack:* +12 to hit, range 60/240 ft., one target. *Hit:* 30 (4d10+8) bludgeoning damage.
 
+## Fire Giant
+
+*Huge giant, lawful evil*
+
+**Armor Class** 18 (plate)
+
+**Hit Points** 162 (13d12+78)
+
+**Speed** 30 ft.
+
+| STR     | DEX    | CON     | INT     | WIS     | CHA     |
+|---------|--------|---------|---------|---------|---------|
+| 25 (+7) | 9 (-1) | 23 (+6) | 10 (+0) | 14 (+2) | 13 (+1) |
+
+**Saving Throws** Dex +3, Con +10, Cha +5
+
+**Skills** Athletics +11, Perception +6
+
+**Damage Immunities** fire
+
+**Senses** passive Perception 16
+
+**Languages** Giant
+
+**Challenge** 9 (5,000 XP)
+
+## Actions
+
+***Multiattack.*** The giant makes two greatsword attacks.
+
+***Greatsword.*** *Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 28 (6d6+7) slashing damage.
+
+***Rock.*** *Ranged Weapon Attack:* +11 to hit, range 60/240 ft., one target. *Hit:* 29 (4d10+7) bludgeoning damage.
+
+## Frost Giant
+
+*Huge giant, neutral evil*
+
+**Armor Class** 15 (patchwork armor)
+
+**Hit Points** 138 (12d12+60)
+
+**Speed** 40 ft.
+
+| STR     | DEX    | CON     | INT    | WIS     | CHA     |
+|---------|--------|---------|--------|---------|---------|
+| 23 (+6) | 9 (-1) | 21 (+5) | 9 (-1) | 10 (+0) | 12 (+1) |
+
+**Saving Throws** Con +8, Wis +3, Cha +4
+
+**Skills** Athletics +9, Perception +3
+
+**Damage Immunities** cold
+
+**Senses** passive Perception 13
+
+**Languages** Giant
+
+**Challenge** 8 (3,900 XP)
+
+## Actions
+
+***Multiattack.*** The giant makes two greataxe attacks.
+
+***Greataxe.*** *Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 25 (3d12+6) slashing damage.
+
+***Rock.*** *Ranged Weapon Attack:* +9 to hit, range 60/240 ft., one target. *Hit:* 28 (4d10+6) bludgeoning damage.
+
+## Hill Giant
+
+*Huge giant, chaotic evil*
+
+**Armor Class** 13 (natural armor)
+
+**Hit Points** 105 (10d12+40)
+
+**Speed** 40 ft.
+
+| STR     | DEX    | CON     | INT    | WIS    | CHA    |
+|---------|--------|---------|--------|--------|--------|
+| 21 (+5) | 8 (-1) | 19 (+4) | 5 (-3) | 9 (-1) | 6 (-2) |
+
+**Skills** Perception +2
+
+**Senses** passive Perception 12
+
+**Languages** Giant
+
+**Challenge** 5 (1,800 XP)
+
+## Actions
+
+***Multiattack.*** The giant makes two greatclub attacks.
+
+***Greatclub.*** *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 18 (3d8+5) bludgeoning damage.
+
+***Rock.*** *Ranged Weapon Attack:* +8 to hit, range 60/240 ft., one target. *Hit:* 21 (3d10+5) bludgeoning damage.
+
+## Stone Giant
+
+*Huge giant, neutral*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 126 (11d12+55)
+
+**Speed** 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA    |
+|---------|---------|---------|---------|---------|--------|
+| 23 (+6) | 15 (+2) | 20 (+5) | 10 (+0) | 12 (+1) | 9 (-1) |
+
+**Saving Throws** Dex +5, Con +8, Wis +4
+
+**Skills** Athletics +12, Perception +4
+
+**Senses** darkvision 60 ft., passive Perception 14
+
+**Languages** Giant
+
+**Challenge** 7 (2,900 XP)
+
+***Stone Camouflage.*** The giant has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
+
+## Actions
+
+***Multiattack.*** The giant makes two greatclub attacks.
+
+***Greatclub.*** *Melee Weapon Attack:* +9 to hit, reach 15 ft., one target. *Hit:* 19 (3d8+6) bludgeoning damage.
+
+***Rock.*** *Ranged Weapon Attack:* +9 to hit, range 60/240 ft., one target. *Hit:* 28 (4d10+6) bludgeoning damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be knocked prone.
+
+## Reactions
+
+***Rock Catching.*** If a rock or similar object is hurled at the giant, the giant can, with a successful DC 10 Dexterity saving throw, catch the missile and take no bludgeoning damage from it.
+
+## Storm Giant
+
+*Huge giant, chaotic good*
+
+**Armor Class** 16 (scale mail)
+
+**Hit Points** 230 (20d12+100)
+
+**Speed** 50 ft., swim 50 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 29 (+9) | 14 (+2) | 20 (+5) | 16 (+3) | 18 (+4) | 18 (+4) |
+
+**Saving Throws** Str +14, Con +10, Wis +9, Cha +9
+
+**Skills** Arcana +8, Athletics +14, History +8, Perception +9
+
+**Damage Resistances** cold
+
+**Damage Immunities** lightning, thunder
+
+**Senses** passive Perception 19
+
+**Languages** Common, Giant
+
+**Challenge** 13 (10,000 XP)
+
+***Amphibious.*** The giant can breathe air and water.
+
+***Innate Spellcasting.*** The giant's innate spellcasting ability is Charisma (spell save DC 17). It can innately cast the following spells, requiring no material components
+
+At will: *detect magic*, *feather fall*, *levitate*, *light*
+
+3/day each: *control weather*, *water breathing*
+
+## Actions
+
+***Multiattack.*** The giant makes two greatsword attacks.
+
+***Greatsword.*** *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 30 (6d6+9) slashing damage.
+
+***Rock.*** *Ranged Weapon Attack:* +14 to hit, range 60/240 ft., one target. *Hit:* 35 (4d12+9) bludgeoning damage.
+
+***Lightning Strike (Recharge 5-6).*** The giant hurls a magical lightning bolt at a point it can see within 500 feet of it. Each creature within 10 feet of that point must make a DC 17 Dexterity saving throw, taking 54 (12d8) lightning damage on a failed save, or half as much damage on a successful one.
+
 # Giant, Fire
 
 *Huge giant, lawful evil*
@@ -4103,6 +22796,154 @@ At will: *detect magic*, *fog cloud*, *light*
 ***Greatsword.*** *Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 28 (6d6+7) slashing damage.
 
 ***Rock.*** *Ranged Weapon Attack:* +11 to hit, range 60/240 ft., one target. *Hit:* 29 (4d10+7) bludgeoning damage.
+
+## Frost Giant
+
+*Huge giant, neutral evil*
+
+**Armor Class** 15 (patchwork armor)
+
+**Hit Points** 138 (12d12+60)
+
+**Speed** 40 ft.
+
+| STR     | DEX    | CON     | INT    | WIS     | CHA     |
+|---------|--------|---------|--------|---------|---------|
+| 23 (+6) | 9 (-1) | 21 (+5) | 9 (-1) | 10 (+0) | 12 (+1) |
+
+**Saving Throws** Con +8, Wis +3, Cha +4
+
+**Skills** Athletics +9, Perception +3
+
+**Damage Immunities** cold
+
+**Senses** passive Perception 13
+
+**Languages** Giant
+
+**Challenge** 8 (3,900 XP)
+
+## Actions
+
+***Multiattack.*** The giant makes two greataxe attacks.
+
+***Greataxe.*** *Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 25 (3d12+6) slashing damage.
+
+***Rock.*** *Ranged Weapon Attack:* +9 to hit, range 60/240 ft., one target. *Hit:* 28 (4d10+6) bludgeoning damage.
+
+## Hill Giant
+
+*Huge giant, chaotic evil*
+
+**Armor Class** 13 (natural armor)
+
+**Hit Points** 105 (10d12+40)
+
+**Speed** 40 ft.
+
+| STR     | DEX    | CON     | INT    | WIS    | CHA    |
+|---------|--------|---------|--------|--------|--------|
+| 21 (+5) | 8 (-1) | 19 (+4) | 5 (-3) | 9 (-1) | 6 (-2) |
+
+**Skills** Perception +2
+
+**Senses** passive Perception 12
+
+**Languages** Giant
+
+**Challenge** 5 (1,800 XP)
+
+## Actions
+
+***Multiattack.*** The giant makes two greatclub attacks.
+
+***Greatclub.*** *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 18 (3d8+5) bludgeoning damage.
+
+***Rock.*** *Ranged Weapon Attack:* +8 to hit, range 60/240 ft., one target. *Hit:* 21 (3d10+5) bludgeoning damage.
+
+## Stone Giant
+
+*Huge giant, neutral*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 126 (11d12+55)
+
+**Speed** 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA    |
+|---------|---------|---------|---------|---------|--------|
+| 23 (+6) | 15 (+2) | 20 (+5) | 10 (+0) | 12 (+1) | 9 (-1) |
+
+**Saving Throws** Dex +5, Con +8, Wis +4
+
+**Skills** Athletics +12, Perception +4
+
+**Senses** darkvision 60 ft., passive Perception 14
+
+**Languages** Giant
+
+**Challenge** 7 (2,900 XP)
+
+***Stone Camouflage.*** The giant has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
+
+## Actions
+
+***Multiattack.*** The giant makes two greatclub attacks.
+
+***Greatclub.*** *Melee Weapon Attack:* +9 to hit, reach 15 ft., one target. *Hit:* 19 (3d8+6) bludgeoning damage.
+
+***Rock.*** *Ranged Weapon Attack:* +9 to hit, range 60/240 ft., one target. *Hit:* 28 (4d10+6) bludgeoning damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be knocked prone.
+
+## Reactions
+
+***Rock Catching.*** If a rock or similar object is hurled at the giant, the giant can, with a successful DC 10 Dexterity saving throw, catch the missile and take no bludgeoning damage from it.
+
+## Storm Giant
+
+*Huge giant, chaotic good*
+
+**Armor Class** 16 (scale mail)
+
+**Hit Points** 230 (20d12+100)
+
+**Speed** 50 ft., swim 50 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 29 (+9) | 14 (+2) | 20 (+5) | 16 (+3) | 18 (+4) | 18 (+4) |
+
+**Saving Throws** Str +14, Con +10, Wis +9, Cha +9
+
+**Skills** Arcana +8, Athletics +14, History +8, Perception +9
+
+**Damage Resistances** cold
+
+**Damage Immunities** lightning, thunder
+
+**Senses** passive Perception 19
+
+**Languages** Common, Giant
+
+**Challenge** 13 (10,000 XP)
+
+***Amphibious.*** The giant can breathe air and water.
+
+***Innate Spellcasting.*** The giant's innate spellcasting ability is Charisma (spell save DC 17). It can innately cast the following spells, requiring no material components
+
+At will: *detect magic*, *feather fall*, *levitate*, *light*
+
+3/day each: *control weather*, *water breathing*
+
+## Actions
+
+***Multiattack.*** The giant makes two greatsword attacks.
+
+***Greatsword.*** *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 30 (6d6+9) slashing damage.
+
+***Rock.*** *Ranged Weapon Attack:* +14 to hit, range 60/240 ft., one target. *Hit:* 35 (4d12+9) bludgeoning damage.
+
+***Lightning Strike (Recharge 5-6).*** The giant hurls a magical lightning bolt at a point it can see within 500 feet of it. Each creature within 10 feet of that point must make a DC 17 Dexterity saving throw, taking 54 (12d8) lightning damage on a failed save, or half as much damage on a successful one.
 
 # Giant, Frost
 
@@ -4140,6 +22981,120 @@ At will: *detect magic*, *fog cloud*, *light*
 
 ***Rock.*** *Ranged Weapon Attack:* +9 to hit, range 60/240 ft., one target. *Hit:* 28 (4d10+6) bludgeoning damage.
 
+## Hill Giant
+
+*Huge giant, chaotic evil*
+
+**Armor Class** 13 (natural armor)
+
+**Hit Points** 105 (10d12+40)
+
+**Speed** 40 ft.
+
+| STR     | DEX    | CON     | INT    | WIS    | CHA    |
+|---------|--------|---------|--------|--------|--------|
+| 21 (+5) | 8 (-1) | 19 (+4) | 5 (-3) | 9 (-1) | 6 (-2) |
+
+**Skills** Perception +2
+
+**Senses** passive Perception 12
+
+**Languages** Giant
+
+**Challenge** 5 (1,800 XP)
+
+## Actions
+
+***Multiattack.*** The giant makes two greatclub attacks.
+
+***Greatclub.*** *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 18 (3d8+5) bludgeoning damage.
+
+***Rock.*** *Ranged Weapon Attack:* +8 to hit, range 60/240 ft., one target. *Hit:* 21 (3d10+5) bludgeoning damage.
+
+## Stone Giant
+
+*Huge giant, neutral*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 126 (11d12+55)
+
+**Speed** 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA    |
+|---------|---------|---------|---------|---------|--------|
+| 23 (+6) | 15 (+2) | 20 (+5) | 10 (+0) | 12 (+1) | 9 (-1) |
+
+**Saving Throws** Dex +5, Con +8, Wis +4
+
+**Skills** Athletics +12, Perception +4
+
+**Senses** darkvision 60 ft., passive Perception 14
+
+**Languages** Giant
+
+**Challenge** 7 (2,900 XP)
+
+***Stone Camouflage.*** The giant has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
+
+## Actions
+
+***Multiattack.*** The giant makes two greatclub attacks.
+
+***Greatclub.*** *Melee Weapon Attack:* +9 to hit, reach 15 ft., one target. *Hit:* 19 (3d8+6) bludgeoning damage.
+
+***Rock.*** *Ranged Weapon Attack:* +9 to hit, range 60/240 ft., one target. *Hit:* 28 (4d10+6) bludgeoning damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be knocked prone.
+
+## Reactions
+
+***Rock Catching.*** If a rock or similar object is hurled at the giant, the giant can, with a successful DC 10 Dexterity saving throw, catch the missile and take no bludgeoning damage from it.
+
+## Storm Giant
+
+*Huge giant, chaotic good*
+
+**Armor Class** 16 (scale mail)
+
+**Hit Points** 230 (20d12+100)
+
+**Speed** 50 ft., swim 50 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 29 (+9) | 14 (+2) | 20 (+5) | 16 (+3) | 18 (+4) | 18 (+4) |
+
+**Saving Throws** Str +14, Con +10, Wis +9, Cha +9
+
+**Skills** Arcana +8, Athletics +14, History +8, Perception +9
+
+**Damage Resistances** cold
+
+**Damage Immunities** lightning, thunder
+
+**Senses** passive Perception 19
+
+**Languages** Common, Giant
+
+**Challenge** 13 (10,000 XP)
+
+***Amphibious.*** The giant can breathe air and water.
+
+***Innate Spellcasting.*** The giant's innate spellcasting ability is Charisma (spell save DC 17). It can innately cast the following spells, requiring no material components
+
+At will: *detect magic*, *feather fall*, *levitate*, *light*
+
+3/day each: *control weather*, *water breathing*
+
+## Actions
+
+***Multiattack.*** The giant makes two greatsword attacks.
+
+***Greatsword.*** *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 30 (6d6+9) slashing damage.
+
+***Rock.*** *Ranged Weapon Attack:* +14 to hit, range 60/240 ft., one target. *Hit:* 35 (4d12+9) bludgeoning damage.
+
+***Lightning Strike (Recharge 5-6).*** The giant hurls a magical lightning bolt at a point it can see within 500 feet of it. Each creature within 10 feet of that point must make a DC 17 Dexterity saving throw, taking 54 (12d8) lightning damage on a failed save, or half as much damage on a successful one.
+
 # Giant, Hill
 
 *Huge giant, chaotic evil*
@@ -4171,6 +23126,90 @@ At will: *detect magic*, *fog cloud*, *light*
 ***Greatclub.*** *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 18 (3d8+5) bludgeoning damage.
 
 ***Rock.*** *Ranged Weapon Attack:* +8 to hit, range 60/240 ft., one target. *Hit:* 21 (3d10+5) bludgeoning damage.
+
+## Stone Giant
+
+*Huge giant, neutral*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 126 (11d12+55)
+
+**Speed** 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA    |
+|---------|---------|---------|---------|---------|--------|
+| 23 (+6) | 15 (+2) | 20 (+5) | 10 (+0) | 12 (+1) | 9 (-1) |
+
+**Saving Throws** Dex +5, Con +8, Wis +4
+
+**Skills** Athletics +12, Perception +4
+
+**Senses** darkvision 60 ft., passive Perception 14
+
+**Languages** Giant
+
+**Challenge** 7 (2,900 XP)
+
+***Stone Camouflage.*** The giant has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
+
+## Actions
+
+***Multiattack.*** The giant makes two greatclub attacks.
+
+***Greatclub.*** *Melee Weapon Attack:* +9 to hit, reach 15 ft., one target. *Hit:* 19 (3d8+6) bludgeoning damage.
+
+***Rock.*** *Ranged Weapon Attack:* +9 to hit, range 60/240 ft., one target. *Hit:* 28 (4d10+6) bludgeoning damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be knocked prone.
+
+## Reactions
+
+***Rock Catching.*** If a rock or similar object is hurled at the giant, the giant can, with a successful DC 10 Dexterity saving throw, catch the missile and take no bludgeoning damage from it.
+
+## Storm Giant
+
+*Huge giant, chaotic good*
+
+**Armor Class** 16 (scale mail)
+
+**Hit Points** 230 (20d12+100)
+
+**Speed** 50 ft., swim 50 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 29 (+9) | 14 (+2) | 20 (+5) | 16 (+3) | 18 (+4) | 18 (+4) |
+
+**Saving Throws** Str +14, Con +10, Wis +9, Cha +9
+
+**Skills** Arcana +8, Athletics +14, History +8, Perception +9
+
+**Damage Resistances** cold
+
+**Damage Immunities** lightning, thunder
+
+**Senses** passive Perception 19
+
+**Languages** Common, Giant
+
+**Challenge** 13 (10,000 XP)
+
+***Amphibious.*** The giant can breathe air and water.
+
+***Innate Spellcasting.*** The giant's innate spellcasting ability is Charisma (spell save DC 17). It can innately cast the following spells, requiring no material components
+
+At will: *detect magic*, *feather fall*, *levitate*, *light*
+
+3/day each: *control weather*, *water breathing*
+
+## Actions
+
+***Multiattack.*** The giant makes two greatsword attacks.
+
+***Greatsword.*** *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 30 (6d6+9) slashing damage.
+
+***Rock.*** *Ranged Weapon Attack:* +14 to hit, range 60/240 ft., one target. *Hit:* 35 (4d12+9) bludgeoning damage.
+
+***Lightning Strike (Recharge 5-6).*** The giant hurls a magical lightning bolt at a point it can see within 500 feet of it. Each creature within 10 feet of that point must make a DC 17 Dexterity saving throw, taking 54 (12d8) lightning damage on a failed save, or half as much damage on a successful one.
 
 # Giant, Stone
 
@@ -4211,6 +23250,52 @@ At will: *detect magic*, *fog cloud*, *light*
 ## Reactions
 
 ***Rock Catching.*** If a rock or similar object is hurled at the giant, the giant can, with a successful DC 10 Dexterity saving throw, catch the missile and take no bludgeoning damage from it.
+
+## Storm Giant
+
+*Huge giant, chaotic good*
+
+**Armor Class** 16 (scale mail)
+
+**Hit Points** 230 (20d12+100)
+
+**Speed** 50 ft., swim 50 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 29 (+9) | 14 (+2) | 20 (+5) | 16 (+3) | 18 (+4) | 18 (+4) |
+
+**Saving Throws** Str +14, Con +10, Wis +9, Cha +9
+
+**Skills** Arcana +8, Athletics +14, History +8, Perception +9
+
+**Damage Resistances** cold
+
+**Damage Immunities** lightning, thunder
+
+**Senses** passive Perception 19
+
+**Languages** Common, Giant
+
+**Challenge** 13 (10,000 XP)
+
+***Amphibious.*** The giant can breathe air and water.
+
+***Innate Spellcasting.*** The giant's innate spellcasting ability is Charisma (spell save DC 17). It can innately cast the following spells, requiring no material components
+
+At will: *detect magic*, *feather fall*, *levitate*, *light*
+
+3/day each: *control weather*, *water breathing*
+
+## Actions
+
+***Multiattack.*** The giant makes two greatsword attacks.
+
+***Greatsword.*** *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 30 (6d6+9) slashing damage.
+
+***Rock.*** *Ranged Weapon Attack:* +14 to hit, range 60/240 ft., one target. *Hit:* 35 (4d12+9) bludgeoning damage.
+
+***Lightning Strike (Recharge 5-6).*** The giant hurls a magical lightning bolt at a point it can see within 500 feet of it. Each creature within 10 feet of that point must make a DC 17 Dexterity saving throw, taking 54 (12d8) lightning damage on a failed save, or half as much damage on a successful one.
 
 # Giant, Storm
 
@@ -4440,6 +23525,130 @@ At will: *detect magic*, *feather fall*, *levitate*, *light*
 
 ***Haste (Recharge 5-6).*** Until the end of its next turn, the golem magically gains a +2 bonus to its AC, has advantage on Dexterity saving throws, and can use its slam attack as a bonus action.
 
+## Flesh Golem
+
+*Medium construct, neutral*
+
+**Armor Class** 9
+
+**Hit Points** 93 (11d8+44)
+
+**Speed** 30 ft.
+
+| STR     | DEX    | CON     | INT    | WIS     | CHA    |
+|---------|--------|---------|--------|---------|--------|
+| 19 (+4) | 9 (-1) | 18 (+4) | 6 (-2) | 10 (+0) | 5 (-3) |
+
+**Damage Immunities** lightning, poison; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
+
+**Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
+
+**Senses** darkvision 60 ft., passive Perception 10
+
+**Languages** understands the languages of its creator but can't speak
+
+**Challenge** 5 (1,800 XP)
+
+***Berserk.*** Whenever the golem starts its turn with 40 hit points or fewer, roll a d6. On a 6, the golem goes berserk. On each of its turns while berserk, the golem attacks the nearest creature it can see. If no creature is near enough to move to and attack, the golem attacks an object, with preference for an object smaller than itself. Once the golem goes berserk, it continues to do so until it is destroyed or regains all its hit points.
+
+The golem's creator, if within 60 feet of the berserk golem, can try to calm it by speaking firmly and persuasively. The golem must be able to hear its creator, who must take an action to make a DC 15 Charisma (Persuasion) check. If the check succeeds, the golem ceases being berserk. If it takes damage while still at 40 hit points or fewer, the golem might go berserk again.
+
+***Aversion of Fire.*** If the golem takes fire damage, it has disadvantage on attack rolls and ability checks until the end of its next turn.
+
+***Immutable Form.*** The golem is immune to any spell or effect that would alter its form.
+
+***Lightning Absorption.*** Whenever the golem is subjected to lightning damage, it takes no damage and instead regains a number of hit points equal to the lightning damage dealt.
+
+***Magic Resistance.*** The golem has advantage on saving throws against spells and other magical effects.
+
+***Magic Weapons.*** The golem's weapon attacks are magical.
+
+## Actions
+
+***Multiattack.*** The golem makes two slam attacks.
+
+***Slam.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 13 (2d8+4) bludgeoning damage.
+
+## Iron Golem
+
+*Large construct, unaligned*
+
+**Armor Class** 20 (natural armor)
+
+**Hit Points** 210 (20d10+100)
+
+**Speed** 30 ft.
+
+| STR     | DEX    | CON     | INT    | WIS     | CHA    |
+|---------|--------|---------|--------|---------|--------|
+| 24 (+7) | 9 (-1) | 20 (+5) | 3 (-4) | 11 (+0) | 1 (-5) |
+
+**Damage Immunities** fire, poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
+
+**Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
+
+**Senses** darkvision 120 ft., passive Perception 10
+
+**Languages** understands the languages of its creator but can't speak
+
+**Challenge** 16 (15,000 XP)
+
+***Fire Absorption.*** Whenever the golem is subjected to fire damage, it takes no damage and instead regains a number of hit points equal to the fire damage dealt.
+
+***Immutable Form.*** The golem is immune to any spell or effect that would alter its form.
+
+***Magic Resistance.*** The golem has advantage on saving throws against spells and other magical effects.
+
+***Magic Weapons.*** The golem's weapon attacks are magical.
+
+## Actions
+
+***Multiattack.*** The golem makes two melee attacks.
+
+***Slam.*** *Melee Weapon Attack:* +13 to hit, reach 5 ft., one target. *Hit:* 20 (3d8+7) bludgeoning damage.
+
+***Sword.*** *Melee Weapon Attack:* +13 to hit, reach 10 ft., one target. *Hit:* 23 (3d10+7) slashing damage.
+
+***Poison Breath (Recharge 6).*** The golem exhales poisonous gas in a 15-foot cone. Each creature in that area must make a DC 19 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one.
+
+## Stone Golem
+
+*Large construct, unaligned*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 178 (17d10+85)
+
+**Speed** 30 ft.
+
+| STR     | DEX    | CON     | INT    | WIS     | CHA    |
+|---------|--------|---------|--------|---------|--------|
+| 22 (+6) | 9 (-1) | 20 (+5) | 3 (-4) | 11 (+0) | 1 (-5) |
+
+**Damage Immunities** poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
+
+**Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
+
+**Senses** darkvision 120 ft., passive Perception 10
+
+**Languages** understands the languages of its creator but can't speak
+
+**Challenge** 10 (5,900 XP)
+
+***Immutable Form.*** The golem is immune to any spell or effect that would alter its form.
+
+***Magic Resistance.*** The golem has advantage on saving throws against spells and other magical effects.
+
+***Magic Weapons.*** The golem's weapon attacks are magical.
+
+## Actions
+
+***Multiattack.*** The golem makes two slam attacks.
+
+***Slam.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 19 (3d8+6) bludgeoning damage.
+
+***Slow (Recharge 5-6).*** The golem targets one or more creatures it can see within 10 feet of it. Each target must make a DC 17 Wisdom saving throw against this magic. On a failed save, a target can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the target can take either an action or a bonus action on its turn, not both. These effects last for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
 # Golem, Flesh
 
 *Medium construct, neutral*
@@ -4486,6 +23695,86 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 
 ***Slam.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 13 (2d8+4) bludgeoning damage.
 
+## Iron Golem
+
+*Large construct, unaligned*
+
+**Armor Class** 20 (natural armor)
+
+**Hit Points** 210 (20d10+100)
+
+**Speed** 30 ft.
+
+| STR     | DEX    | CON     | INT    | WIS     | CHA    |
+|---------|--------|---------|--------|---------|--------|
+| 24 (+7) | 9 (-1) | 20 (+5) | 3 (-4) | 11 (+0) | 1 (-5) |
+
+**Damage Immunities** fire, poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
+
+**Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
+
+**Senses** darkvision 120 ft., passive Perception 10
+
+**Languages** understands the languages of its creator but can't speak
+
+**Challenge** 16 (15,000 XP)
+
+***Fire Absorption.*** Whenever the golem is subjected to fire damage, it takes no damage and instead regains a number of hit points equal to the fire damage dealt.
+
+***Immutable Form.*** The golem is immune to any spell or effect that would alter its form.
+
+***Magic Resistance.*** The golem has advantage on saving throws against spells and other magical effects.
+
+***Magic Weapons.*** The golem's weapon attacks are magical.
+
+## Actions
+
+***Multiattack.*** The golem makes two melee attacks.
+
+***Slam.*** *Melee Weapon Attack:* +13 to hit, reach 5 ft., one target. *Hit:* 20 (3d8+7) bludgeoning damage.
+
+***Sword.*** *Melee Weapon Attack:* +13 to hit, reach 10 ft., one target. *Hit:* 23 (3d10+7) slashing damage.
+
+***Poison Breath (Recharge 6).*** The golem exhales poisonous gas in a 15-foot cone. Each creature in that area must make a DC 19 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one.
+
+## Stone Golem
+
+*Large construct, unaligned*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 178 (17d10+85)
+
+**Speed** 30 ft.
+
+| STR     | DEX    | CON     | INT    | WIS     | CHA    |
+|---------|--------|---------|--------|---------|--------|
+| 22 (+6) | 9 (-1) | 20 (+5) | 3 (-4) | 11 (+0) | 1 (-5) |
+
+**Damage Immunities** poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
+
+**Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
+
+**Senses** darkvision 120 ft., passive Perception 10
+
+**Languages** understands the languages of its creator but can't speak
+
+**Challenge** 10 (5,900 XP)
+
+***Immutable Form.*** The golem is immune to any spell or effect that would alter its form.
+
+***Magic Resistance.*** The golem has advantage on saving throws against spells and other magical effects.
+
+***Magic Weapons.*** The golem's weapon attacks are magical.
+
+## Actions
+
+***Multiattack.*** The golem makes two slam attacks.
+
+***Slam.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 19 (3d8+6) bludgeoning damage.
+
+***Slow (Recharge 5-6).*** The golem targets one or more creatures it can see within 10 feet of it. Each target must make a DC 17 Wisdom saving throw against this magic. On a failed save, a target can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the target can take either an action or a bonus action on its turn, not both. These effects last for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
 # Golem, Iron
 
 *Large construct, unaligned*
@@ -4529,6 +23818,44 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 ***Sword.*** *Melee Weapon Attack:* +13 to hit, reach 10 ft., one target. *Hit:* 23 (3d10+7) slashing damage.
 
 ***Poison Breath (Recharge 6).*** The golem exhales poisonous gas in a 15-foot cone. Each creature in that area must make a DC 19 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one.
+
+## Stone Golem
+
+*Large construct, unaligned*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 178 (17d10+85)
+
+**Speed** 30 ft.
+
+| STR     | DEX    | CON     | INT    | WIS     | CHA    |
+|---------|--------|---------|--------|---------|--------|
+| 22 (+6) | 9 (-1) | 20 (+5) | 3 (-4) | 11 (+0) | 1 (-5) |
+
+**Damage Immunities** poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
+
+**Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
+
+**Senses** darkvision 120 ft., passive Perception 10
+
+**Languages** understands the languages of its creator but can't speak
+
+**Challenge** 10 (5,900 XP)
+
+***Immutable Form.*** The golem is immune to any spell or effect that would alter its form.
+
+***Magic Resistance.*** The golem has advantage on saving throws against spells and other magical effects.
+
+***Magic Weapons.*** The golem's weapon attacks are magical.
+
+## Actions
+
+***Multiattack.*** The golem makes two slam attacks.
+
+***Slam.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 19 (3d8+6) bludgeoning damage.
+
+***Slow (Recharge 5-6).*** The golem targets one or more creatures it can see within 10 feet of it. Each target must make a DC 17 Wisdom saving throw against this magic. On a failed save, a target can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the target can take either an action or a bonus action on its turn, not both. These effects last for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 # Golem, Stone
 
@@ -4711,6 +24038,86 @@ At will: *dancing lights*, *minor illusion*, *vicious mockery*
 The changes wrought by this effect fail to hold up to physical inspection. For example, the hag could appear to have smooth skin, but someone touching her would feel her rough flesh. Otherwise, a creature must take an action to visually inspect the illusion and succeed on a DC 20 Intelligence (Investigation) check to discern that the hag is disguised.
 
 ***Invisible Passage.*** The hag magically turns invisible until she attacks or casts a spell, or until her concentration ends (as if concentrating on a spell). While invisible, she leaves no physical evidence of her passage, so she can be tracked only by magic. Any equipment she wears or carries is invisible with her.
+
+## Night Hag
+
+*Medium fiend, neutral evil*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 112 (15d8+45)
+
+**Speed** 30 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 18 (+4) | 15 (+2) | 16 (+3) | 16 (+3) | 14 (+2) | 16 (+3) |
+
+**Skills** Deception +7, Insight +6, Perception +6, Stealth +6
+
+**Damage Resistances** cold, fire; bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
+
+**Condition Immunities** charmed
+
+**Senses** darkvision 120 ft., passive Perception 16
+
+**Languages** Abyssal, Common, Infernal, Primordial
+
+**Challenge** 5 (1,800 XP)
+
+***Innate Spellcasting.*** The hag's innate spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). She can innately cast the following spells, requiring no material Components
+
+At will: *detect magic*, *magic missile*
+
+2/day each: *plane shift* (self only), *ray of enfeeblement*, *sleep*
+
+***Magic Resistance.*** The hag has advantage on saving throws against spells and other magical effects.
+
+## Actions
+
+***Claws (Hag Form Only).*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 13 (2d8+4) slashing damage.
+
+***Change Shape.*** The hag magically polymorphs into a Small or Medium female humanoid, or back into her true form. Her statistics are the same in each form. Any equipment she is wearing or carrying isn't transformed. She reverts to her true form if she dies.
+
+***Etherealness.*** The hag magically enters the Ethereal Plane from the Material Plane, or vice versa. To do so, the hag must have a *heartstone* in her possession.
+
+***Nightmare Haunting (1/Day).*** While on the Ethereal Plane, the hag magically touches a sleeping humanoid on the Material Plane. A *protection from evil and good* spell cast on the target prevents this contact, as does a *magic circle*. As long as the contact persists, the target has dreadful visions. If these visions last for at least 1 hour, the target gains no benefit from its rest, and its hit point maximum is reduced by 5 (1d10). If this effect reduces the target's hit point maximum to 0, the target dies, and if the target was evil, its soul is trapped in the hag's *soul bag*. The reduction to the target's hit point maximum lasts until removed by the *greater restoration* spell or similar magic.
+
+## Sea Hag
+
+*Medium fey, chaotic evil*
+
+**Armor Class** 14 (natural armor)
+
+**Hit Points** 52 (7d8+21)
+
+**Speed** 30 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 16 (+3) | 13 (+1) | 16 (+3) | 12 (+1) | 12 (+1) | 13 (+1) |
+
+**Senses** darkvision 60 ft., passive Perception 11
+
+**Languages** Aquan, Common, Giant
+
+**Challenge** 2 (450 XP)
+
+***Amphibious.*** The hag can breathe air and water.
+
+***Horrific Appearance.*** Any humanoid that starts its turn within 30 feet of the hag and can see the hag's true form must make a DC 11 Wisdom saving throw. On a failed save, the creature is frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, with disadvantage if the hag is within line of sight, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the hag's Horrific Appearance for the next 24 hours.
+
+Unless the target is surprised or the revelation of the hag's true form is sudden, the target can avert its eyes and avoid making the initial saving throw. Until the start of its next turn, a creature that averts its eyes has disadvantage on attack rolls against the hag.
+
+## Actions
+
+***Claws.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6+3) slashing damage.
+
+***Death Glare.*** The hag targets one frightened creature she can see within 30 feet of her. If the target can see the hag, it must succeed on a DC 11 Wisdom saving throw against this magic or drop to 0 hit points.
+
+***Illusory Appearance.*** The hag covers herself and anything she is wearing or carrying with a magical illusion that makes her look like an ugly creature of her general size and humanoid shape. The effect ends if the hag takes a bonus action to end it or if she dies.
+
+The changes wrought by this effect fail to hold up to physical inspection. For example, the hag could appear to have no claws, but someone touching her hand might feel the claws. Otherwise, a creature must take an action to visually inspect the illusion and succeed on a DC 16 Intelligence (Investigation) check to discern that the hag is disguised.
 
 # Harpy
 
@@ -5054,6 +24461,92 @@ At the end of its turn, it grows two heads for each of its heads that died since
 
 ***Invisibility.*** The imp magically turns invisible until it attacks or until its concentration ends (as if concentrating on a spell). Any equipment the imp wears or carries is invisible with it.
 
+## Lemure
+
+*Medium fiend (devil), lawful evil*
+
+**Armor Class** 7
+
+**Hit Points** 13 (3d8)
+
+**Speed** 15 ft.
+
+| STR     | DEX    | CON     | INT    | WIS     | CHA    |
+|---------|--------|---------|--------|---------|--------|
+| 10 (+0) | 5 (-3) | 11 (+0) | 1 (-5) | 11 (+0) | 3 (-4) |
+
+**Damage Resistances** cold
+
+**Damage Immunities** fire, poison
+
+**Condition Immunities** charmed, frightened, poisoned
+
+**Senses** darkvision 120 ft., passive Perception 10
+
+**Languages** understands Infernal but can't speak
+
+**Challenge** 0 (10 XP)
+
+***Devil's Sight.*** Magical darkness doesn't impede the lemure's darkvision.
+
+***Hellish Rejuvenation.*** A lemure that dies in the Nine Hells comes back to life with all its hit points in 1d10 days unless it is killed by a good-aligned creature with a *bless* spell cast on that creature or its remains are sprinkled with holy water.
+
+## Actions
+
+***Fist.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 2 (1d4) bludgeoning damage.
+
+## Pit Fiend
+
+*Large fiend (devil), lawful evil*
+
+**Armor Class** 19 (natural armor)
+
+**Hit Points** 300 (24d10+168)
+
+**Speed** 30 ft., fly 60 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 26 (+8) | 14 (+2) | 24 (+7) | 22 (+6) | 18 (+4) | 24 (+7) |
+
+**Saving Throws** Dex +8, Con +13, Wis +10
+
+**Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+
+**Damage Immunities** fire, poison
+
+**Condition Immunities** poisoned
+
+**Senses** truesight 120 ft., passive Perception 14
+
+**Languages** Infernal, telepathy 120 ft.
+
+**Challenge** 20 (25,000 XP)
+
+***Fear Aura.*** Any creature hostile to the pit fiend that starts its turn within 20 feet of the pit fiend must make a DC 21 Wisdom saving throw, unless the pit fiend is incapacitated. On a failed save, the creature is frightened until the start of its next turn. If a creature's saving throw is successful, the creature is immune to the pit fiend's Fear Aura for the next 24 hours.
+
+***Magic Resistance.*** The pit fiend has advantage on saving throws against spells and other magical effects.
+
+***Magic Weapons.*** The pit fiend's weapon attacks are magical.
+
+***Innate Spellcasting.*** The pit fiend's spellcasting ability is Charisma (spell save DC 21). The pit fiend can innately cast the following spells, requiring no material Components
+
+At will: *detect magic*, *fireball*
+
+3/day each: *hold monster*, *wall of fire*
+
+## Actions
+
+***Multiattack.*** The pit fiend makes four attacks: one with its bite, one with its claw, one with its mace, and one with its tail.
+
+***Bite.*** *Melee Weapon Attack:* +14 to hit, reach 5 ft., one target. *Hit:* 22 (4d6+8) piercing damage. The target must succeed on a DC 21 Constitution saving throw or become poisoned. While poisoned in this way, the target can't regain hit points, and it takes 21 (6d6) poison damage at the start of each of its turns. The poisoned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+***Claw.*** *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 17 (2d8+8) slashing damage.
+
+***Mace.*** *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 15 (2d6+8) bludgeoning damage plus 21 (6d6) fire damage.
+
+***Tail.*** *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 24 (3d10+8) bludgeoning damage.
+
 # Insects, Swarm
 
 *Medium swarm of Tiny beasts, unaligned*
@@ -5385,6 +24878,58 @@ At will: *disguise self* (any humanoid form), *major image*
 ## Actions
 
 ***Fist.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 2 (1d4) bludgeoning damage.
+
+## Pit Fiend
+
+*Large fiend (devil), lawful evil*
+
+**Armor Class** 19 (natural armor)
+
+**Hit Points** 300 (24d10+168)
+
+**Speed** 30 ft., fly 60 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 26 (+8) | 14 (+2) | 24 (+7) | 22 (+6) | 18 (+4) | 24 (+7) |
+
+**Saving Throws** Dex +8, Con +13, Wis +10
+
+**Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
+
+**Damage Immunities** fire, poison
+
+**Condition Immunities** poisoned
+
+**Senses** truesight 120 ft., passive Perception 14
+
+**Languages** Infernal, telepathy 120 ft.
+
+**Challenge** 20 (25,000 XP)
+
+***Fear Aura.*** Any creature hostile to the pit fiend that starts its turn within 20 feet of the pit fiend must make a DC 21 Wisdom saving throw, unless the pit fiend is incapacitated. On a failed save, the creature is frightened until the start of its next turn. If a creature's saving throw is successful, the creature is immune to the pit fiend's Fear Aura for the next 24 hours.
+
+***Magic Resistance.*** The pit fiend has advantage on saving throws against spells and other magical effects.
+
+***Magic Weapons.*** The pit fiend's weapon attacks are magical.
+
+***Innate Spellcasting.*** The pit fiend's spellcasting ability is Charisma (spell save DC 21). The pit fiend can innately cast the following spells, requiring no material Components
+
+At will: *detect magic*, *fireball*
+
+3/day each: *hold monster*, *wall of fire*
+
+## Actions
+
+***Multiattack.*** The pit fiend makes four attacks: one with its bite, one with its claw, one with its mace, and one with its tail.
+
+***Bite.*** *Melee Weapon Attack:* +14 to hit, reach 5 ft., one target. *Hit:* 22 (4d6+8) piercing damage. The target must succeed on a DC 21 Constitution saving throw or become poisoned. While poisoned in this way, the target can't regain hit points, and it takes 21 (6d6) poison damage at the start of each of its turns. The poisoned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+
+***Claw.*** *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 17 (2d8+8) slashing damage.
+
+***Mace.*** *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 15 (2d6+8) bludgeoning damage plus 21 (6d6) fire damage.
+
+***Tail.*** *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 24 (3d10+8) bludgeoning damage.
 
 # Lich
 
@@ -5866,6 +25411,72 @@ If the medusa sees itself reflected on a polished surface within 30 feet of it a
 
 ***Dreadful Glare.*** The mummy targets one creature it can see within 60 feet of it. If the target can see the mummy, it must succeed on a DC 11 Wisdom saving throw against this magic or become frightened until the end of the mummy's next turn. If the target fails the saving throw by 5 or more, it is also paralyzed for the same duration. A target that succeeds on the saving throw is immune to the Dreadful Glare of all mummies (but not mummy lords) for the next 24 hours.
 
+## Mummy Lord
+
+*Medium undead, lawful evil*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 97 (13d8+39)
+
+**Speed** 20 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 18 (+4) | 10 (+0) | 17 (+3) | 11 (+0) | 18 (+4) | 16 (+3) |
+
+**Saving Throws** Con +8, Int +5, Wis +9, Cha +8
+
+**Skills** History +5, Religion +5
+
+**Damage Vulnerabilities** fire
+
+**Damage Immunities** necrotic, poison; bludgeoning, piercing, and slashing from nonmagical attacks
+
+**Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
+
+**Senses** darkvision 60 ft., passive Perception 14
+
+**Languages** the languages it knew in life
+
+**Challenge** 15 (13,000 XP)
+
+***Magic Resistance.*** The mummy lord has advantage on saving throws against spells and other magical effects.
+
+***Rejuvenation.*** A destroyed mummy lord gains a new body in 24 hours if its heart is intact, regaining all its hit points and becoming active again. The new body appears within 5 feet of the mummy lord's heart.
+
+***Spellcasting.*** The mummy lord is a 10th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 17, +9 to hit with spell attacks). The mummy lord has the following cleric spells prepared:
+
+Cantrips (at will): *sacred flame*, *thaumaturgy*
+1st level (4 slots): *command*, *guiding bolt*, *shield of faith*
+2nd level (3 slots): *hold person*, *silence*, *spiritual weapon*
+3rd level (3 slots): *animate dead*, *dispel magic*
+4th level (3 slots): *divination*, *guardian of faith*
+5th level (2 slots): *contagion*, *insect plague*
+6th level (1 slot): *harm*
+
+## Actions
+
+***Multiattack.*** The mummy can use its Dreadful Glare and makes one attack with its rotting fist.
+
+***Rotting Fist.*** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 14 (3d6+4) bludgeoning damage plus 21 (6d6) necrotic damage. If the target is a creature, it must succeed on a DC 16 Constitution saving throw or be cursed with mummy rot. The cursed target can't regain hit points, and its hit point maximum decreases by 10 (3d6) for every 24 hours that elapse. If the curse reduces the target's hit point maximum to 0, the target dies, and its body turns to dust. The curse lasts until removed by the *remove curse* spell or other magic.
+
+***Dreadful Glare.*** The mummy lord targets one creature it can see within 60 feet of it. If the target can see the mummy lord, it must succeed on a DC 16 Wisdom saving throw against this magic or become frightened until the end of the mummy's next turn. If the target fails the saving throw by 5 or more, it is also paralyzed for the same duration. A target that succeeds on the saving throw is immune to the Dreadful Glare of all mummies and mummy lords for the next 24 hours.
+
+## Legendary Actions
+
+The mummy lord can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The mummy lord regains spent legendary actions at the start of its turn.
+
+**Attack.** The mummy lord makes one attack with its rotting fist or uses its Dreadful Glare.
+
+**Blinding Dust.** Blinding dust and sand swirls magically around the mummy lord. Each creature within 5 feet of the mummy lord must succeed on a DC 16 Constitution saving throw or be blinded until the end of the creature's next turn.
+
+**Blasphemous Word (Costs 2 Actions).** The mummy lord utters a blasphemous word. Each non-undead creature within 10 feet of the mummy lord that can hear the magical utterance must succeed on a DC 16 Constitution saving throw or be stunned until the end of the mummy lord's next turn.
+
+**Channel Negative Energy (Costs 2 Actions).** The mummy lord magically unleashes negative energy. Creatures within 60 feet of the mummy lord, including ones behind barriers and around corners, can't regain hit points until the end of the mummy lord's next turn.
+
+**Whirlwind of Sand (Costs 2 Actions).** The mummy lord magically transforms into a whirlwind of sand, moves up to 60 feet, and reverts to its normal form. While in whirlwind form, the mummy lord is immune to all damage, and it can't be grappled, petrified, knocked prone, restrained, or stunned. Equipment worn or carried by the mummy lord remain in its possession.
+
 # Naga, Guardian
 
 *Large monstrosity, lawful good*
@@ -5913,6 +25524,45 @@ Cantrips (at will): *mending*, *sacred flame*, *thaumaturgy*
 ***Bite.*** *Melee Weapon Attack:* +8 to hit, reach 10 ft., one creature. *Hit:* 8 (1d8+4) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one.
 
 ***Spit Poison.*** *Ranged Weapon Attack:* +8 to hit, range 15/30 ft., one creature. *Hit:* The target must make a DC 15 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one.
+
+## Spirit Naga
+
+*Large monstrosity, chaotic evil*
+
+**Armor Class** 15 (natural armor)
+
+**Hit Points** 75 (10d10+20)
+
+**Speed** 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 18 (+4) | 17 (+3) | 14 (+2) | 16 (+3) | 15 (+2) | 16 (+3) |
+
+**Damage Immunities** poison
+
+**Condition Immunities** charmed, poisoned
+
+**Senses** darkvision 60 ft., passive Perception 12
+
+**Languages** Abyssal, Common
+
+**Challenge** 8 (3,900 XP)
+
+***Rejuvenation.*** If it dies, the naga returns to life in 1d6 days and regains all its hit points. Only a *wish* spell can prevent this trait from functioning.
+
+***Spellcasting.*** The naga is a 10th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks), and it needs only verbal components to cast its spells. It has the following wizard spells prepared:
+
+Cantrips (at will): *mage hand*, *minor illusion*, *ray of frost*
+1st level (4 slots): *charm person*, *detect magic*, *sleep*
+2nd level (3 slots): *detect thoughts*, *hold person*
+3rd level (3 slots): *lightning bolt*, *water breathing*
+4th level (3 slots): *blight*, *dimension door*
+5th level (2 slots): *dominate person*
+
+## Actions
+
+***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one creature. *Hit:* 7 (1d6+4) piercing damage, and the target must make a DC 13 Constitution saving throw, taking 31 (7d8) poison damage on a failed save, or half as much damage on a successful one.
 
 # Naga, Spirit
 
@@ -7267,6 +26917,70 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 
 ***Shortbow.*** *Ranged Weapon Attack:* +4 to hit, range 80/320 ft., one target. *Hit:* 5 (1d6+2) piercing damage.
 
+## Minotaur Skeleton
+
+*Large undead, lawful evil*
+
+**Armor Class** 12 (natural armor)
+
+**Hit Points** 67 (9d10+18)
+
+**Speed** 40 ft.
+
+| STR     | DEX     | CON     | INT    | WIS    | CHA    |
+|---------|---------|---------|--------|--------|--------|
+| 18 (+4) | 11 (+0) | 15 (+2) | 6 (-2) | 8 (-1) | 5 (-3) |
+
+**Damage Vulnerabilities** bludgeoning
+
+**Damage Immunities** poison
+
+**Condition Immunities** exhaustion, poisoned
+
+**Senses** darkvision 60 ft., passive Perception 9
+
+**Languages** understands Abyssal but can't speak
+
+**Challenge** 2 (450 XP)
+
+***Charge.*** If the skeleton moves at least 10 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (2d8) piercing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be pushed up to 10 feet away and knocked prone.
+
+## Actions
+
+***Greataxe.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 17 (2d12+4) slashing damage.
+
+***Gore.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13 (2d8+4) piercing damage.
+
+## Warhorse Skeleton
+
+*Large undead, lawful evil*
+
+**Armor Class** 13 (barding scraps)
+
+**Hit Points** 22 (3d10+6)
+
+**Speed** 60 ft.
+
+| STR     | DEX     | CON     | INT    | WIS    | CHA    |
+|---------|---------|---------|--------|--------|--------|
+| 18 (+4) | 12 (+1) | 15 (+2) | 2 (-4) | 8 (-1) | 5 (-3) |
+
+**Damage Vulnerabilities** bludgeoning
+
+**Damage Immunities** poison
+
+**Condition Immunities** exhaustion, poisoned
+
+**Senses** darkvision 60 ft., passive Perception 9
+
+**Languages** -
+
+**Challenge** 1/2 (100 XP)
+
+## Actions
+
+***Hooves.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 11 (2d6+4) bludgeoning damage.
+
 # Skeleton, Warhorse
 
 *Large undead, lawful evil*
@@ -7504,6 +27218,63 @@ Cantrips (at will): *sacred flame*, *spare the dying*, *thaumaturgy*
 **Second Roar.** Each creature that fails a DC 18 Wisdom saving throw is deafened and frightened for 1 minute. A frightened creature is paralyzed and can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 **Third Roar.** Each creature makes a DC 18 Constitution saving throw. On a failed save, a creature takes 44 (8d10) thunder damage and is knocked prone. On a successful save, the creature takes half as much damage and isn't knocked prone.
+
+## Legendary Actions
+
+The sphinx can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The sphinx regains spent legendary actions at the start of its turn.
+
+**Claw Attack.** The sphinx makes one claw attack.
+
+**Teleport (Costs 2 Actions).** The sphinx magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
+
+**Cast a Spell (Costs 3 Actions).** The sphinx casts a spell from its list of prepared spells, using a spell slot as normal.
+
+## Gynosphinx
+
+*Large monstrosity, lawful neutral*
+
+**Armor Class** 17 (natural armor)
+
+**Hit Points** 136 (16d10+48)
+
+**Speed** 40 ft., fly 60 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 18 (+4) | 15 (+2) | 16 (+3) | 18 (+4) | 18 (+4) | 18 (+4) |
+
+**Skills** Arcana +12, History +12, Perception +8, Religion +8
+
+**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
+
+**Damage Immunities** psychic
+
+**Condition Immunities** charmed, frightened
+
+**Senses** truesight 120 ft., passive Perception 18
+
+**Languages** Common, Sphinx
+
+**Challenge** 11 (7,200 XP)
+
+***Inscrutable.*** The sphinx is immune to any effect that would sense its emotions or read its thoughts, as well as any divination spell that it refuses. Wisdom (Insight) checks made to ascertain the sphinx's intentions or sincerity have disadvantage.
+
+***Magic Weapons.*** The sphinx's weapon attacks are magical.
+
+***Spellcasting.*** The sphinx is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 16, +8 to hit with spell attacks). It requires no material components to cast its spells. The sphinx has the following wizard spells prepared:
+
+Cantrips (at will): *mage hand*, *minor illusion*, *prestidigitation*
+1st level (4 slots): *detect magic*, *identify*, *shield*
+2nd level (3 slots): *darkness*, *locate object*, *suggestion*
+3rd level (3 slots): *dispel magic*, *remove curse*, *tongues*
+4th level (3 slots): *banishment*, *greater invisibility*
+5th level (1 slot): *legend lore*
+
+## Actions
+
+***Multiattack.*** The sphinx makes two claw attacks.
+
+***Claw.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 13 (2d8+4) slashing damage.
 
 ## Legendary Actions
 
@@ -8212,6 +27983,54 @@ The vampire can take 3 legendary actions, choosing from the options below. Only 
 
 **Bite (Costs 2 Actions).** The vampire makes one bite attack.
 
+## Vampire Spawn
+
+*Medium undead, neutral evil*
+
+**Armor Class** 15 (natural armor)
+
+**Hit Points** 82 (11d8+33)
+
+**Speed** 30 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 16 (+3) | 16 (+3) | 16 (+3) | 11 (+0) | 10 (+0) | 12 (+1) |
+
+**Saving Throws** Dex +6, Wis +3
+
+**Skills** Perception +3, Stealth +6
+
+**Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
+
+**Senses** darkvision 60 ft., passive Perception 13
+
+**Languages** the languages it knew in life
+
+**Challenge** 5 (1,800 XP)
+
+***Regeneration.*** The vampire regains 10 hit points at the start of its turn if it has at least 1 hit point and isn't in sunlight or running water. If the vampire takes radiant damage or damage from holy water, this trait doesn't function at the start of the vampire's next turn.
+
+***Spider Climb.*** The vampire can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
+
+***Vampire Weaknesses.*** The vampire has the following flaws:
+
+*Forbiddance*. The vampire can't enter a residence without an invitation from one of the occupants.
+
+*Harmed by Running Water*. The vampire takes 20 acid damage when it ends its turn in running water.
+
+*Stake to the Heart*. The vampire is destroyed if a piercing weapon made of wood is driven into its heart while it is incapacitated in its resting place.
+
+*Sunlight Hypersensitivity*. The vampire takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.
+
+## Actions
+
+***Multiattack.*** The vampire makes two attacks, only one of which can be a bite attack.
+
+***Claws.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one creature. *Hit:* 8 (2d4+3) slashing damage. Instead of dealing damage, the vampire can grapple the target (escape DC 13).
+
+***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one willing creature, or a creature that is grappled by the vampire, incapacitated, or restrained. *Hit:* 6 (1d6+3) piercing damage plus 7 (2d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
+
 # Vampire Spawn
 
 *Medium undead, neutral evil*
@@ -8522,6 +28341,162 @@ A **giant vulture** has advanced intelligence and a malevolent bent. Unlike its 
 
 ***Greataxe (Humanoid or Hybrid Form Only).*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 10 (1d12+4) slashing damage.
 
+## Wereboar
+
+*Medium humanoid (human, shapechanger), neutral evil*
+
+**Armor Class** 10 in humanoid form, 11 (natural armor) in boar or hybrid form
+
+**Hit Points** 78 (12d8+24)
+
+**Speed** 30 ft. (40 ft. in boar form)
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA    |
+|---------|---------|---------|---------|---------|--------|
+| 17 (+3) | 10 (+0) | 15 (+2) | 10 (+0) | 11 (+0) | 8 (-1) |
+
+**Skills** Perception +2
+
+**Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
+
+**Senses** passive Perception 12
+
+**Languages** Common (can't speak in boar form)
+
+**Challenge** 4 (1,100 XP)
+
+***Shapechanger.*** The wereboar can use its action to polymorph into a boar-humanoid hybrid or into a boar, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
+
+***Charge (Boar or Hybrid Form Only).*** If the wereboar moves at least 15 feet straight toward a target and then hits it with its tusks on the same turn, the target takes an extra 7 (2d6) slashing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
+
+***Relentless (Recharges after a Short or Long Rest).*** If the wereboar takes 14 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead.
+
+## Actions
+
+***Multiattack (Humanoid or Hybrid Form Only).*** The wereboar makes two attacks, only one of which can be with its tusks.
+
+***Maul (Humanoid or Hybrid Form Only).*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6+3) bludgeoning damage.
+
+***Tusks (Boar or Hybrid Form Only).*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6+3) slashing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution saving throw or be cursed with wereboar lycanthropy.
+
+## Wererat
+
+*Medium humanoid (human, shapechanger), lawful evil*
+
+**Armor Class** 12
+
+**Hit Points** 33 (6d8+6)
+
+**Speed** 30 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA    |
+|---------|---------|---------|---------|---------|--------|
+| 10 (+0) | 15 (+2) | 12 (+1) | 11 (+0) | 10 (+0) | 8 (-1) |
+
+**Skills** Perception +2, Stealth +4
+
+**Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
+
+**Senses** darkvision 60 ft. (rat form only), passive Perception 12
+
+**Languages** Common (can't speak in rat form)
+
+**Challenge** 2 (450 XP)
+
+***Shapechanger.*** The wererat can use its action to polymorph into a rat-humanoid hybrid or into a giant rat, or back into its true form, which is humanoid. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
+
+***Keen Smell.*** The wererat has advantage on Wisdom (Perception) checks that rely on smell.
+
+## Actions
+
+***Multiattack (Humanoid or Hybrid Form Only).*** The wererat makes two attacks, only one of which can be a bite.
+
+***Bite (Rat or Hybrid Form Only).*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4+2) piercing damage. If the target is a humanoid, it must succeed on a DC 11 Constitution saving throw or be cursed with wererat lycanthropy.
+
+***Shortsword (Humanoid or Hybrid Form Only).*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6+2) piercing damage.
+
+***Hand Crossbow (Humanoid or Hybrid Form Only).*** *Ranged Weapon Attack:* +4 to hit, range 30/120 ft., one target. *Hit:* 5 (1d6+2) piercing damage.
+
+## Weretiger
+
+*Medium humanoid (human, shapechanger), neutral*
+
+**Armor Class** 12
+
+**Hit Points** 120 (16d8+48)
+
+**Speed** 30 ft. (40 ft. in tiger form)
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 17 (+3) | 15 (+2) | 16 (+3) | 10 (+0) | 13 (+1) | 11 (+0) |
+
+**Skills** Perception +5, Stealth +4
+
+**Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
+
+**Senses** darkvision 60 ft., passive Perception 15
+
+**Languages** Common (can't speak in tiger form)
+
+**Challenge** 4 (1,100 XP)
+
+***Shapechanger.*** The weretiger can use its action to polymorph into a tiger-humanoid hybrid or into a tiger, or back into its true form, which is humanoid. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
+
+***Keen Hearing and Smell.*** The weretiger has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+
+***Pounce (Tiger or Hybrid Form Only).*** If the weretiger moves at least 15 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the weretiger can make one bite attack against it as a bonus action.
+
+## Actions
+
+***Multiattack (Humanoid or Hybrid Form Only).*** In humanoid form, the weretiger makes two scimitar attacks or two longbow attacks. In hybrid form, it can attack like a humanoid or make two claw attacks.
+
+***Bite (Tiger or Hybrid Form Only).*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (1d10+3) piercing damage. If the target is a humanoid, it must succeed on a DC 13 Constitution saving throw or be cursed with weretiger lycanthropy.
+
+***Claw (Tiger or Hybrid Form Only).*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8+3) slashing damage.
+
+***Scimitar (Humanoid or Hybrid Form Only).*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6+3) slashing damage.
+
+***Longbow (Humanoid or Hybrid Form Only).*** *Ranged Weapon Attack:* +4 to hit, range 150/600 ft., one target. *Hit:* 6 (1d8+2) piercing damage.
+
+## Werewolf
+
+*Medium humanoid (human, shapechanger), chaotic evil*
+
+**Armor Class** 11 in humanoid form, 12 (natural armor) in wolf or hybrid form
+
+**Hit Points** 58 (9d8+18)
+
+**Speed** 30 ft. (40 ft. in wolf form)
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 15 (+2) | 13 (+1) | 14 (+2) | 10 (+0) | 11 (+0) | 10 (+0) |
+
+**Skills** Perception +4, Stealth +3
+
+**Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
+
+**Senses** passive Perception 14
+
+**Languages** Common (can't speak in wolf form)
+
+**Challenge** 3 (700 XP)
+
+***Shapechanger.*** The werewolf can use its action to polymorph into a wolf-humanoid hybrid or into a wolf, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
+
+***Keen Hearing and Smell.*** The werewolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+
+## Actions
+
+***Multiattack (Humanoid or Hybrid Form Only).*** The werewolf makes two attacks: two with its spear (humanoid form) or one with its bite and one with its claws (hybrid form).
+
+***Bite (Wolf or Hybrid Form Only).*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8+2) piercing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution saving throw or be cursed with werewolf lycanthropy.
+
+***Claws (Hybrid Form Only).*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 7 (2d4+2) slashing damage.
+
+***Spear (Humanoid Form Only).*** *Melee or Ranged Weapon Attack:* +4 to hit, reach 5 ft. or range 20/60 ft., one creature. *Hit:* 5 (1d6+2) piercing damage, or 6 (1d8+2) piercing damage if used with two hands to make a melee attack.
+
 # Wereboar
 
 *Medium humanoid (human, shapechanger), neutral evil*
@@ -8562,6 +28537,124 @@ A **giant vulture** has advanced intelligence and a malevolent bent. Unlike its 
 
 ***Tusks (Boar or Hybrid Form Only).*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6+3) slashing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution saving throw or be cursed with wereboar lycanthropy.
 
+## Wererat
+
+*Medium humanoid (human, shapechanger), lawful evil*
+
+**Armor Class** 12
+
+**Hit Points** 33 (6d8+6)
+
+**Speed** 30 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA    |
+|---------|---------|---------|---------|---------|--------|
+| 10 (+0) | 15 (+2) | 12 (+1) | 11 (+0) | 10 (+0) | 8 (-1) |
+
+**Skills** Perception +2, Stealth +4
+
+**Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
+
+**Senses** darkvision 60 ft. (rat form only), passive Perception 12
+
+**Languages** Common (can't speak in rat form)
+
+**Challenge** 2 (450 XP)
+
+***Shapechanger.*** The wererat can use its action to polymorph into a rat-humanoid hybrid or into a giant rat, or back into its true form, which is humanoid. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
+
+***Keen Smell.*** The wererat has advantage on Wisdom (Perception) checks that rely on smell.
+
+## Actions
+
+***Multiattack (Humanoid or Hybrid Form Only).*** The wererat makes two attacks, only one of which can be a bite.
+
+***Bite (Rat or Hybrid Form Only).*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4+2) piercing damage. If the target is a humanoid, it must succeed on a DC 11 Constitution saving throw or be cursed with wererat lycanthropy.
+
+***Shortsword (Humanoid or Hybrid Form Only).*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6+2) piercing damage.
+
+***Hand Crossbow (Humanoid or Hybrid Form Only).*** *Ranged Weapon Attack:* +4 to hit, range 30/120 ft., one target. *Hit:* 5 (1d6+2) piercing damage.
+
+## Weretiger
+
+*Medium humanoid (human, shapechanger), neutral*
+
+**Armor Class** 12
+
+**Hit Points** 120 (16d8+48)
+
+**Speed** 30 ft. (40 ft. in tiger form)
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 17 (+3) | 15 (+2) | 16 (+3) | 10 (+0) | 13 (+1) | 11 (+0) |
+
+**Skills** Perception +5, Stealth +4
+
+**Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
+
+**Senses** darkvision 60 ft., passive Perception 15
+
+**Languages** Common (can't speak in tiger form)
+
+**Challenge** 4 (1,100 XP)
+
+***Shapechanger.*** The weretiger can use its action to polymorph into a tiger-humanoid hybrid or into a tiger, or back into its true form, which is humanoid. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
+
+***Keen Hearing and Smell.*** The weretiger has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+
+***Pounce (Tiger or Hybrid Form Only).*** If the weretiger moves at least 15 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the weretiger can make one bite attack against it as a bonus action.
+
+## Actions
+
+***Multiattack (Humanoid or Hybrid Form Only).*** In humanoid form, the weretiger makes two scimitar attacks or two longbow attacks. In hybrid form, it can attack like a humanoid or make two claw attacks.
+
+***Bite (Tiger or Hybrid Form Only).*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (1d10+3) piercing damage. If the target is a humanoid, it must succeed on a DC 13 Constitution saving throw or be cursed with weretiger lycanthropy.
+
+***Claw (Tiger or Hybrid Form Only).*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8+3) slashing damage.
+
+***Scimitar (Humanoid or Hybrid Form Only).*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6+3) slashing damage.
+
+***Longbow (Humanoid or Hybrid Form Only).*** *Ranged Weapon Attack:* +4 to hit, range 150/600 ft., one target. *Hit:* 6 (1d8+2) piercing damage.
+
+## Werewolf
+
+*Medium humanoid (human, shapechanger), chaotic evil*
+
+**Armor Class** 11 in humanoid form, 12 (natural armor) in wolf or hybrid form
+
+**Hit Points** 58 (9d8+18)
+
+**Speed** 30 ft. (40 ft. in wolf form)
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 15 (+2) | 13 (+1) | 14 (+2) | 10 (+0) | 11 (+0) | 10 (+0) |
+
+**Skills** Perception +4, Stealth +3
+
+**Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
+
+**Senses** passive Perception 14
+
+**Languages** Common (can't speak in wolf form)
+
+**Challenge** 3 (700 XP)
+
+***Shapechanger.*** The werewolf can use its action to polymorph into a wolf-humanoid hybrid or into a wolf, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
+
+***Keen Hearing and Smell.*** The werewolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+
+## Actions
+
+***Multiattack (Humanoid or Hybrid Form Only).*** The werewolf makes two attacks: two with its spear (humanoid form) or one with its bite and one with its claws (hybrid form).
+
+***Bite (Wolf or Hybrid Form Only).*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8+2) piercing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution saving throw or be cursed with werewolf lycanthropy.
+
+***Claws (Hybrid Form Only).*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 7 (2d4+2) slashing damage.
+
+***Spear (Humanoid Form Only).*** *Melee or Ranged Weapon Attack:* +4 to hit, reach 5 ft. or range 20/60 ft., one creature. *Hit:* 5 (1d6+2) piercing damage, or 6 (1d8+2) piercing damage if used with two hands to make a melee attack.
+
 # Wererat
 
 *Medium humanoid (human, shapechanger), lawful evil*
@@ -8601,6 +28694,86 @@ A **giant vulture** has advanced intelligence and a malevolent bent. Unlike its 
 ***Shortsword (Humanoid or Hybrid Form Only).*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6+2) piercing damage.
 
 ***Hand Crossbow (Humanoid or Hybrid Form Only).*** *Ranged Weapon Attack:* +4 to hit, range 30/120 ft., one target. *Hit:* 5 (1d6+2) piercing damage.
+
+## Weretiger
+
+*Medium humanoid (human, shapechanger), neutral*
+
+**Armor Class** 12
+
+**Hit Points** 120 (16d8+48)
+
+**Speed** 30 ft. (40 ft. in tiger form)
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 17 (+3) | 15 (+2) | 16 (+3) | 10 (+0) | 13 (+1) | 11 (+0) |
+
+**Skills** Perception +5, Stealth +4
+
+**Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
+
+**Senses** darkvision 60 ft., passive Perception 15
+
+**Languages** Common (can't speak in tiger form)
+
+**Challenge** 4 (1,100 XP)
+
+***Shapechanger.*** The weretiger can use its action to polymorph into a tiger-humanoid hybrid or into a tiger, or back into its true form, which is humanoid. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
+
+***Keen Hearing and Smell.*** The weretiger has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+
+***Pounce (Tiger or Hybrid Form Only).*** If the weretiger moves at least 15 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the weretiger can make one bite attack against it as a bonus action.
+
+## Actions
+
+***Multiattack (Humanoid or Hybrid Form Only).*** In humanoid form, the weretiger makes two scimitar attacks or two longbow attacks. In hybrid form, it can attack like a humanoid or make two claw attacks.
+
+***Bite (Tiger or Hybrid Form Only).*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (1d10+3) piercing damage. If the target is a humanoid, it must succeed on a DC 13 Constitution saving throw or be cursed with weretiger lycanthropy.
+
+***Claw (Tiger or Hybrid Form Only).*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8+3) slashing damage.
+
+***Scimitar (Humanoid or Hybrid Form Only).*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6+3) slashing damage.
+
+***Longbow (Humanoid or Hybrid Form Only).*** *Ranged Weapon Attack:* +4 to hit, range 150/600 ft., one target. *Hit:* 6 (1d8+2) piercing damage.
+
+## Werewolf
+
+*Medium humanoid (human, shapechanger), chaotic evil*
+
+**Armor Class** 11 in humanoid form, 12 (natural armor) in wolf or hybrid form
+
+**Hit Points** 58 (9d8+18)
+
+**Speed** 30 ft. (40 ft. in wolf form)
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 15 (+2) | 13 (+1) | 14 (+2) | 10 (+0) | 11 (+0) | 10 (+0) |
+
+**Skills** Perception +4, Stealth +3
+
+**Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
+
+**Senses** passive Perception 14
+
+**Languages** Common (can't speak in wolf form)
+
+**Challenge** 3 (700 XP)
+
+***Shapechanger.*** The werewolf can use its action to polymorph into a wolf-humanoid hybrid or into a wolf, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
+
+***Keen Hearing and Smell.*** The werewolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+
+## Actions
+
+***Multiattack (Humanoid or Hybrid Form Only).*** The werewolf makes two attacks: two with its spear (humanoid form) or one with its bite and one with its claws (hybrid form).
+
+***Bite (Wolf or Hybrid Form Only).*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8+2) piercing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution saving throw or be cursed with werewolf lycanthropy.
+
+***Claws (Hybrid Form Only).*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 7 (2d4+2) slashing damage.
+
+***Spear (Humanoid Form Only).*** *Melee or Ranged Weapon Attack:* +4 to hit, reach 5 ft. or range 20/60 ft., one creature. *Hit:* 5 (1d6+2) piercing damage, or 6 (1d8+2) piercing damage if used with two hands to make a melee attack.
 
 # Weretiger
 
@@ -8645,6 +28818,44 @@ A **giant vulture** has advanced intelligence and a malevolent bent. Unlike its 
 ***Scimitar (Humanoid or Hybrid Form Only).*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6+3) slashing damage.
 
 ***Longbow (Humanoid or Hybrid Form Only).*** *Ranged Weapon Attack:* +4 to hit, range 150/600 ft., one target. *Hit:* 6 (1d8+2) piercing damage.
+
+## Werewolf
+
+*Medium humanoid (human, shapechanger), chaotic evil*
+
+**Armor Class** 11 in humanoid form, 12 (natural armor) in wolf or hybrid form
+
+**Hit Points** 58 (9d8+18)
+
+**Speed** 30 ft. (40 ft. in wolf form)
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 15 (+2) | 13 (+1) | 14 (+2) | 10 (+0) | 11 (+0) | 10 (+0) |
+
+**Skills** Perception +4, Stealth +3
+
+**Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
+
+**Senses** passive Perception 14
+
+**Languages** Common (can't speak in wolf form)
+
+**Challenge** 3 (700 XP)
+
+***Shapechanger.*** The werewolf can use its action to polymorph into a wolf-humanoid hybrid or into a wolf, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
+
+***Keen Hearing and Smell.*** The werewolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+
+## Actions
+
+***Multiattack (Humanoid or Hybrid Form Only).*** The werewolf makes two attacks: two with its spear (humanoid form) or one with its bite and one with its claws (hybrid form).
+
+***Bite (Wolf or Hybrid Form Only).*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8+2) piercing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution saving throw or be cursed with werewolf lycanthropy.
+
+***Claws (Hybrid Form Only).*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 7 (2d4+2) slashing damage.
+
+***Spear (Humanoid Form Only).*** *Melee or Ranged Weapon Attack:* +4 to hit, reach 5 ft. or range 20/60 ft., one creature. *Hit:* 5 (1d6+2) piercing damage, or 6 (1d8+2) piercing damage if used with two hands to make a melee attack.
 
 # Werewolf
 
@@ -9083,3 +29294,35 @@ If the worm takes 30 damage or more on a single turn from a creature inside it, 
 ## Actions
 
 ***Slam.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6+1) bludgeoning damage.
+
+## Ogre Zombie
+
+*Large undead, neutral evil*
+
+**Armor Class** 8
+
+**Hit Points** 85 (9d10+36)
+
+**Speed** 30 ft.
+
+| STR     | DEX    | CON     | INT    | WIS    | CHA    |
+|---------|--------|---------|--------|--------|--------|
+| 19 (+4) | 6 (-2) | 18 (+4) | 3 (-4) | 6 (-2) | 5 (-3) |
+
+**Saving Throws** Wis +0
+
+**Damage Immunities** poison
+
+**Condition Immunities** poisoned
+
+**Senses** darkvision 60 ft., passive Perception 8
+
+**Languages** understands Common and Giant but can't speak
+
+**Challenge** 2 (450 XP)
+
+***Undead Fortitude.*** If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5+the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.
+
+## Actions
+
+***Morningstar.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13 (2d8+4) bludgeoning damage.

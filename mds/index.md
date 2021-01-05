@@ -14,6 +14,7 @@
 
 <a class="major" href="rules.html">Rules</a>
 
+<a class="major" href="spell_lists.html">Spell Lists</a>
 <a class="major" href="spells.html">Spells</a>
 
 <a class="major" href="monsters.html">Monsters</a>
