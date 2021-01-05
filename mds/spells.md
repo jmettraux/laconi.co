@@ -1,5 +1,49 @@
 # Spells
 
+**A** [Acid Arrow](#Acid_Arrow) [Acid Splash](#Acid_Splash) [Aid](#Aid) [Alarm](#Alarm) [Alter Self](#Alter_Self) [Animal Friendship](#Animal_Friendship) [Animal Messenger](#Animal_Messenger) [Animal Shapes](#Animal_Shapes) [Animate Dead](#Animate_Dead) [Animate Objects](#Animate_Objects) [Antilife Shell](#Antilife_Shell) [Antimagic Field](#Antimagic_Field) [Antipathy/Sympathy](#Antipathy_Sympathy) [Arcane Eye](#Arcane_Eye) [Arcane Hand](#Arcane_Hand) [Arcane Lock](#Arcane_Lock) [Arcane Sword](#Arcane_Sword) [Arcanist's Magic Aura](#Arcanist_s_Magic_Aura) [Astral Projection](#Astral_Projection) [Augury](#Augury) [Awaken](#Awaken)
+
+**B** [Bane](#Bane) [Banishment](#Banishment) [Barkskin](#Barkskin) [Beacon of Hope](#Beacon_of_Hope) [Bestow Curse](#Bestow_Curse) [Black Tentacles](#Black_Tentacles) [Blade Barrier](#Blade_Barrier) [Bless](#Bless) [Blight](#Blight) [Blindness/Deafness](#Blindness_Deafness) [Blink](#Blink) [Blur](#Blur) [Branding Smite](#Branding_Smite) [Burning Hands](#Burning_Hands)
+
+**C** [Call Lightning](#Call_Lightning) [Calm Emotions](#Calm_Emotions) [Chain Lightning](#Chain_Lightning) [Charm Person](#Charm_Person) [Chill Touch](#Chill_Touch) [Circle of Death](#Circle_of_Death) [Clairvoyance](#Clairvoyance) [Clone](#Clone) [Cloudkill](#Cloudkill) [Color Spray](#Color_Spray) [Command](#Command) [Commune](#Commune) [Commune with Nature](#Commune_with_Nature) [Comprehend Languages](#Comprehend_Languages) [Compulsion](#Compulsion) [Cone of Cold](#Cone_of_Cold) [Confusion](#Confusion) [Conjure Animals](#Conjure_Animals) [Conjure Celestial](#Conjure_Celestial) [Conjure Elemental](#Conjure_Elemental) [Conjure Fey](#Conjure_Fey) [Conjure Minor Elementals](#Conjure_Minor_Elementals) [Conjure Woodland Beings](#Conjure_Woodland_Beings) [Contact Other Plane](#Contact_Other_Plane) [Contagion](#Contagion) [Contingency](#Contingency) [Continual Flame](#Continual_Flame) [Control Water](#Control_Water) [Control Weather](#Control_Weather) [Counterspell](#Counterspell) [Create Food and Water](#Create_Food_and_Water) [Create Undead](#Create_Undead) [Create or Destroy Water](#Create_or_Destroy_Water) [Creation](#Creation) [Cure Wounds](#Cure_Wounds)
+
+**D** [Dancing Lights](#Dancing_Lights) [Darkness](#Darkness) [Darkvision](#Darkvision) [Daylight](#Daylight) [Death Ward](#Death_Ward) [Delayed Blast Fireball](#Delayed_Blast_Fireball) [Demiplane](#Demiplane) [Detect Evil and Good](#Detect_Evil_and_Good) [Detect Magic](#Detect_Magic) [Detect Poison and Disease](#Detect_Poison_and_Disease) [Detect Thoughts](#Detect_Thoughts) [Dimension Door](#Dimension_Door) [Disguise Self](#Disguise_Self) [Disintegrate](#Disintegrate) [Dispel Evil and Good](#Dispel_Evil_and_Good) [Dispel Magic](#Dispel_Magic) [Divination](#Divination) [Divine Favor](#Divine_Favor) [Divine Word](#Divine_Word) [Dominate Beast](#Dominate_Beast) [Dominate Monster](#Dominate_Monster) [Dominate Person](#Dominate_Person) [Dream](#Dream) [Druidcraft](#Druidcraft)
+
+**E** [Earthquake](#Earthquake) [Eldritch Blast](#Eldritch_Blast) [Enhance Ability](#Enhance_Ability) [Enlarge/Reduce](#Enlarge_Reduce) [Entangle](#Entangle) [Enthrall](#Enthrall) [Etherealness](#Etherealness) [Expeditious Retreat](#Expeditious_Retreat) [Eyebite](#Eyebite)
+
+**F** [Fabricate](#Fabricate) [Faerie Fire](#Faerie_Fire) [Faithful Hound](#Faithful_Hound) [False Life](#False_Life) [Fear](#Fear) [Feather Fall](#Feather_Fall) [Feeblemind](#Feeblemind) [Find Familiar](#Find_Familiar) [Find Steed](#Find_Steed) [Find Traps](#Find_Traps) [Find the Path](#Find_the_Path) [Finger of Death](#Finger_of_Death) [Fire Bolt](#Fire_Bolt) [Fire Shield](#Fire_Shield) [Fire Storm](#Fire_Storm) [Fireball](#Fireball) [Flame Blade](#Flame_Blade) [Flame Strike](#Flame_Strike) [Flaming Sphere](#Flaming_Sphere) [Flesh to Stone](#Flesh_to_Stone) [Floating Disk](#Floating_Disk) [Fly](#Fly) [Fog Cloud](#Fog_Cloud) [Forbiddance](#Forbiddance) [Forcecage](#Forcecage) [Foresight](#Foresight) [Freedom of Movement](#Freedom_of_Movement) [Freezing Sphere](#Freezing_Sphere)
+
+**G** [Gaseous Form](#Gaseous_Form) [Gate](#Gate) [Geas](#Geas) [Gentle Repose](#Gentle_Repose) [Giant Insect](#Giant_Insect) [Glibness](#Glibness) [Globe of Invulnerability](#Globe_of_Invulnerability) [Glyph of Warding](#Glyph_of_Warding) [Goodberry](#Goodberry) [Grease](#Grease) [Greater Invisibility](#Greater_Invisibility) [Greater Restoration](#Greater_Restoration) [Guardian of Faith](#Guardian_of_Faith) [Guards and Wards](#Guards_and_Wards) [Guidance](#Guidance) [Guiding Bolt](#Guiding_Bolt) [Gust of Wind](#Gust_of_Wind)
+
+**H** [Hallow](#Hallow) [Hallucinatory Terrain](#Hallucinatory_Terrain) [Harm](#Harm) [Haste](#Haste) [Heal](#Heal) [Healing Word](#Healing_Word) [Heat Metal](#Heat_Metal) [Hellish Rebuke](#Hellish_Rebuke) [Heroes' Feast](#Heroes__Feast) [Heroism](#Heroism) [Hideous Laughter](#Hideous_Laughter) [Hold Monster](#Hold_Monster) [Hold Person](#Hold_Person) [Holy Aura](#Holy_Aura) [Hunter's Mark](#Hunter_s_Mark) [Hypnotic Pattern](#Hypnotic_Pattern)
+
+**I** [Ice Storm](#Ice_Storm) [Identify](#Identify) [Illusory Script](#Illusory_Script) [Imprisonment](#Imprisonment) [Incendiary Cloud](#Incendiary_Cloud) [Inflict Wounds](#Inflict_Wounds) [Insect Plague](#Insect_Plague) [Instant Summons](#Instant_Summons) [Invisibility](#Invisibility) [Irresistible Dance](#Irresistible_Dance)
+
+**J** [Jump](#Jump)
+
+**K** [Knock](#Knock)
+
+**L** [Legend Lore](#Legend_Lore) [Lesser Restoration](#Lesser_Restoration) [Levitate](#Levitate) [Light](#Light) [Lightning Bolt](#Lightning_Bolt) [Locate Animals or Plants](#Locate_Animals_or_Plants) [Locate Creature](#Locate_Creature) [Locate Object](#Locate_Object) [Longstrider](#Longstrider)
+
+**M** [Mage Armor](#Mage_Armor) [Mage Hand](#Mage_Hand) [Magic Circle](#Magic_Circle) [Magic Jar](#Magic_Jar) [Magic Missile](#Magic_Missile) [Magic Mouth](#Magic_Mouth) [Magic Weapon](#Magic_Weapon) [Magnificent Mansion](#Magnificent_Mansion) [Major Image](#Major_Image) [Mass Cure Wounds](#Mass_Cure_Wounds) [Mass Heal](#Mass_Heal) [Mass Healing Word](#Mass_Healing_Word) [Mass Suggestion](#Mass_Suggestion) [Maze](#Maze) [Meld into Stone](#Meld_into_Stone) [Mending](#Mending) [Message](#Message) [Meteor Swarm](#Meteor_Swarm) [Mind Blank](#Mind_Blank) [Minor Illusion](#Minor_Illusion) [Mirage Arcane](#Mirage_Arcane) [Mirror Image](#Mirror_Image) [Mislead](#Mislead) [Misty Step](#Misty_Step) [Modify Memory](#Modify_Memory) [Moonbeam](#Moonbeam) [Move Earth](#Move_Earth)
+
+**N** [Nondetection](#Nondetection)
+
+**P** [Pass without Trace](#Pass_without_Trace) [Passwall](#Passwall) [Phantasmal Killer](#Phantasmal_Killer) [Phantom Steed](#Phantom_Steed) [Planar Ally](#Planar_Ally) [Planar Binding](#Planar_Binding) [Plane Shift](#Plane_Shift) [Plant Growth](#Plant_Growth) [Poison Spray](#Poison_Spray) [Polymorph](#Polymorph) [Power Word Kill](#Power_Word_Kill) [Power Word Stun](#Power_Word_Stun) [Prayer of Healing](#Prayer_of_Healing) [Prestidigitation](#Prestidigitation) [Prismatic Spray](#Prismatic_Spray) [Prismatic Wall](#Prismatic_Wall) [Private Sanctum](#Private_Sanctum) [Produce Flame](#Produce_Flame) [Programmed Illusion](#Programmed_Illusion) [Project Image](#Project_Image) [Protection from Energy](#Protection_from_Energy) [Protection from Evil and Good](#Protection_from_Evil_and_Good) [Protection from Poison](#Protection_from_Poison) [Purify Food and Drink](#Purify_Food_and_Drink)
+
+**R** [Raise Dead](#Raise_Dead) [Ray of Enfeeblement](#Ray_of_Enfeeblement) [Ray of Frost](#Ray_of_Frost) [Regenerate](#Regenerate) [Reincarnate](#Reincarnate) [Remove Curse](#Remove_Curse) [Resilient Sphere](#Resilient_Sphere) [Resistance](#Resistance) [Resurrection](#Resurrection) [Reverse Gravity](#Reverse_Gravity) [Revivify](#Revivify) [Rope Trick](#Rope_Trick)
+
+**S** [Sacred Flame](#Sacred_Flame) [Sanctuary](#Sanctuary) [Scorching Ray](#Scorching_Ray) [Scrying](#Scrying) [Secret Chest](#Secret_Chest) [See Invisibility](#See_Invisibility) [Seeming](#Seeming) [Sending](#Sending) [Sequester](#Sequester) [Shapechange](#Shapechange) [Shatter](#Shatter) [Shield](#Shield) [Shield of Faith](#Shield_of_Faith) [Shillelagh](#Shillelagh) [Shocking Grasp](#Shocking_Grasp) [Silence](#Silence) [Silent Image](#Silent_Image) [Simulacrum](#Simulacrum) [Sleep](#Sleep) [Sleet Storm](#Sleet_Storm) [Slow](#Slow) [Spare the Dying](#Spare_the_Dying) [Speak with Animals](#Speak_with_Animals) [Speak with Dead](#Speak_with_Dead) [Speak with Plants](#Speak_with_Plants) [Spider Climb](#Spider_Climb) [Spike Growth](#Spike_Growth) [Spirit Guardians](#Spirit_Guardians) [Spiritual Weapon](#Spiritual_Weapon) [Stinking Cloud](#Stinking_Cloud) [Stone Shape](#Stone_Shape) [Stoneskin](#Stoneskin) [Storm of Vengeance](#Storm_of_Vengeance) [Suggestion](#Suggestion) [Sunbeam](#Sunbeam) [Sunburst](#Sunburst) [Symbol](#Symbol)
+
+**T** [Telekinesis](#Telekinesis) [Telepathic Bond](#Telepathic_Bond) [Teleport](#Teleport) [Teleportation Circle](#Teleportation_Circle) [Thaumaturgy](#Thaumaturgy) [Thunderwave](#Thunderwave) [Time Stop](#Time_Stop) [Tiny Hut](#Tiny_Hut) [Tongues](#Tongues) [Transport via Plants](#Transport_via_Plants) [Tree Stride](#Tree_Stride) [True Polymorph](#True_Polymorph) [True Resurrection](#True_Resurrection) [True Seeing](#True_Seeing) [True Strike](#True_Strike)
+
+**U** [Unseen Servant](#Unseen_Servant)
+
+**V** [Vampiric Touch](#Vampiric_Touch) [Vicious Mockery](#Vicious_Mockery)
+
+**W** [Wall of Fire](#Wall_of_Fire) [Wall of Force](#Wall_of_Force) [Wall of Ice](#Wall_of_Ice) [Wall of Stone](#Wall_of_Stone) [Wall of Thorns](#Wall_of_Thorns) [Warding Bond](#Warding_Bond) [Water Breathing](#Water_Breathing) [Water Walk](#Water_Walk) [Web](#Web) [Weird](#Weird) [Wind Walk](#Wind_Walk) [Wind Wall](#Wind_Wall) [Wish](#Wish) [Word of Recall](#Word_of_Recall)
+
+**Z** [Zone of Truth](#Zone_of_Truth)
+
 ##Acid Arrow
 
 *2nd-level evocation*

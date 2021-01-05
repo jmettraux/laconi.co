@@ -70,6 +70,14 @@ def make_spells(source_dir)
 
     f.puts('# Spells')
     f.puts
+
+    by_name
+      .inject({}) { |h, (k, _)| (h[k[0,1]] ||= []) << k; h }
+      .each { |k, v|
+        f.print("**#{k}**")
+        v.each { |n| f.print(" [#{n}](##{neutralize_name(n)})") }
+        f.puts; f.puts }
+
     by_name.each do |k, v|
       s = extract_md_section(spells, 4, k).sub(/^#+ /, '##')
       s.sub!(/\n\*\*C/, "\n**Classes** #{by_name[k][1..-1].join(', ')}\n\n**C")
