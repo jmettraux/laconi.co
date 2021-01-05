@@ -44,11 +44,15 @@ def make_spells(source_dir)
 
     f.puts('# Spell Lists')
     f.puts
-    by_class.each do |k, v|
-      next unless %w[ Wizard ].include?(k)
+
+    cls = [ 'Wizard' ] + (classes - [ 'Wizard' ]).sort
+
+    cls.each do |k|
+
       f.puts("## #{k}")
       f.puts
-      v.each do |l, ns|
+
+      by_class[k].each do |l, ns|
         f.print("**#{l}**")
         ns.each do |name|
           n = neutralize_name(name)
