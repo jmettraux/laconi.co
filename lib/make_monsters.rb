@@ -303,7 +303,7 @@ def make_monsters(src_dir)
 
     f.puts '# MONSTERS'
 
-    f.puts "\n## Index"
+    #f.puts "\n## Index"
 
     f.puts "\n"
     azs

@@ -1,7 +1,5 @@
 # MONSTERS
 
-## Index
-
 
 **A** [Animated Armor](#Animated_Armor) [Ape](#Ape) [Ape, Giant](#Ape__Giant) [Archmage](#Archmage) [Axe Beak](#Axe_Beak) 
 
