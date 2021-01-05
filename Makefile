@@ -19,7 +19,7 @@ md_races:
 	ruby ${LI} -e "make_race('${SRC}', 'Elf')" > mds/elf.md
 	ruby ${LI} -e "make_race('${SRC}', 'Dwarf')" > mds/dwarf.md
 md_rules:
-	ruby ${LI} -e "make_rules('${SRC}')" > mds/rules.md
+	ruby ${LI} -e "make_rules('${SRC}')"
 md_ogl:
 	echo "# LEGAL INFORMATION" > mds/ogl.md
 	tail -52 ${SRC}/legal.md >> mds/ogl.md
@@ -45,7 +45,16 @@ html_races:
 	ruby ${LI} -e "make_html('Elf', 'elf.md')" > htmls/elf.html
 	ruby ${LI} -e "make_html('Dwarf', 'dwarf.md')" > htmls/dwarf.html
 html_rules:
-	ruby ${LI} -e "make_html('Rules', 'rules.md')" > htmls/rules.html
+	ruby ${LI} -e "make_html('Abilities', 'abilities.md')" \
+      > htmls/abilities.html
+	ruby ${LI} -e "make_html('Combat', 'combat.md')" \
+      > htmls/combat.html
+	ruby ${LI} -e "make_html('Equipment', 'equipment.md')" \
+      > htmls/equipment.html
+	ruby ${LI} -e "make_html('Adventuring', 'adventuring.md')" \
+      > htmls/adventuring.html
+	ruby ${LI} -e "make_html('Spellcasting', 'spellcasting.md')" \
+      > htmls/spellcasting.html
 html_ogl:
 	ruby ${LI} -e "make_html('Legal Information', 'ogl.md')" > htmls/ogl.html
 

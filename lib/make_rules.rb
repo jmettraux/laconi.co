@@ -22,29 +22,30 @@ def make_rules(source_dir)
   spellcasting = File.read(File.join(source_dir, '09.spellcasting.md'))
   mastering = File.read(File.join(source_dir, '11.gamemastering.md'))
 
-  puts; puts abilities
+  File.open('mds/abilities.md', 'wb') do |f|
+    f.puts abilities
+  end
 
-  puts; puts combat
+  File.open('mds/combat.md', 'wb') do |f|
+    f.puts combat
+    f.puts
+    f.puts extract_md_section(mastering, 1, 'Conditions')
+  end
 
-  puts; puts extract_md_section(mastering, 1, 'Conditions')
+  File.open('mds/adventuring.md', 'wb') do |f|
+    f.puts adventuring
+  end
 
-  puts; puts adventuring # short and long rest...
+  File.open('mds/equipment.md', 'wb') do |f|
+    f.puts extract_md_section(equipment, 1, 'EQUIPMENT')
+    f.puts extract_md_section(equipment, 2, 'Coinage')
+    f.puts extract_md_section(equipment, 1, 'Armor')
+    f.puts extract_md_section(equipment, 1, 'Weapons')
+    f.puts extract_md_section(equipment, 1, 'Adventuring Gear')
+  end
 
-  puts; puts extract_md_section(equipment, 1, 'EQUIPMENT')
-  puts; puts extract_md_section(equipment, 2, 'Coinage')
-  puts; puts extract_md_section(equipment, 1, 'Armor')
-  puts; puts extract_md_section(equipment, 1, 'Weapons')
-  puts; puts extract_md_section(equipment, 1, 'Adventuring Gear')
-
-  puts; puts spellcasting
-
-  #puts; puts extract_md_section(mastering, 1, 'GAMEMASTERING')
-  #puts; puts extract_md_section(mastering, 1, 'Conditions')
-  ##puts; puts extract_md_section(mastering, 1, 'Situational Rules')
-  #puts; puts '# Situational Rules'
-  #s = extract_md_section(mastering, 2, 'Traps')
-  #i = s.index("\n### Sample Traps")
-  #puts; puts s[0..i]
-  #puts; puts extract_md_section(mastering, 2, 'Objects')
+  File.open('mds/spellcasting.md', 'wb') do |f|
+    f.puts spellcasting
+  end
 end
 

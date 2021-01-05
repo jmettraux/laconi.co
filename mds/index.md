@@ -12,10 +12,15 @@
 <a class="major" href="rogue.html">Rogue</a>
 <a class="major" href="wizard.html">Wizard</a>
 
-<a class="major" href="rules.html">Rules</a>
+<a class="major" href="abilities.html">Abilities</a>
+<a class="major" href="combat.html">Combat</a>
+
+<a class="major" href="equipment.html">Equipment</a>
+<a class="major" href="adventuring.html">Adventuring</a>
 
 <a class="major" href="spell_lists.html">Spell Lists</a>
 <a class="major" href="spells.html">Spells</a>
+<a class="major" href="spellcasting.html">Spellcasting</a>
 
 <a class="major" href="monsters.html">Monsters</a>
 <a class="major" href="monster_statistics.html">Monster Statistics</a>
