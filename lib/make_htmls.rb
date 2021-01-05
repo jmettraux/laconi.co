@@ -67,33 +67,29 @@ class MonsterHtmlRender < HtmlRender
     @post_index = false
   end
 
-  def header(title, level)
-
-    if level == 1 && title == 'Index'
-      @post_index = true
-      return super
-    end
-    if level == 1 && title == 'Monster Statistics'
-      @post_index = false
-      return super
-    end
-
-    return super unless @post_index# && level == 2
-
-    a = []
-
-    if level == 1
-      a << "\n</section>" if @in_section; @in_section = true
-      a << "\n<section class=\"monster\">"
-      a << "<h1 id=\"#{neutralize_name(title)}\" class=\"monster\">"
-      a << title
-      a << "</h1>\n"
-    else
-      a << "<h2>#{title}</h2>\n"
-    end
-
-    a.join
-  end
+#  def header(title, level)
+#
+#    if level == 1 && title == 'Index'
+#      @post_index = true
+#      return super
+#    end
+#
+#    return super unless @post_index# && level == 2
+#
+#    a = []
+#
+#    if level == 1
+#      a << "\n</section>" if @in_section; @in_section = true
+#      a << "\n<section class=\"monster\">"
+#      a << "<h1 id=\"#{neutralize_name(title)}\" class=\"monster\">"
+#      a << title
+#      a << "</h1>\n"
+#    else
+#      a << "<h2>#{title}</h2>\n"
+#    end
+#
+#    a.join
+#  end
 
   def table(header, body)
 
@@ -103,9 +99,9 @@ class MonsterHtmlRender < HtmlRender
 
     #a << "<p><strong>Abilities</strong><span class=\"post-strong\"><span></p>\n" if c
 
-    a << (c ? "<table class=\"#{c}\">" : '<table>')
-    a << "<thead>#{header}</thead>"
-    a << "<tbody>#{body}</tbody>"
+    a << (c ? "<table class=\"#{c}\">\n" : "<table>\n")
+    a << "<thead>#{header}</thead>\n"
+    a << "<tbody>#{body}</tbody>\n"
     a << "</table>\n"
 
     a.join

@@ -10,6 +10,7 @@ th {
   text-align: left;
 }
 
+/*
 #article-monsters .section-index p.entry strong {
   font-size: 140%;
   margin-right: 0.21em;
@@ -37,6 +38,7 @@ th {
 #article-monsters h1 {
   cursor: pointer;
 }
+*/
 
 #article-legal-information h1 {
   font-size: 16pt;
@@ -57,6 +59,7 @@ th {
 @media (min-width: 760px) {
 }
 @media (max-width: 760px) {
+  /*
   .monster p.entry  {
     display: block;
   }
@@ -66,6 +69,7 @@ th {
   .monster p.entry > .post-key {
     display: block;
   }
+  */
 }
 
 #client-width {
