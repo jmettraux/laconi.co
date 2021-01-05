@@ -67,8 +67,9 @@ def make_spells(source_dir)
     f.puts('# Spells')
     f.puts
     by_name.each do |k, v|
-p k unless extract_md_section(spells, 4, k)
-      f.puts extract_md_section(spells, 4, k).sub(/^#+ /, '##')
+      s = extract_md_section(spells, 4, k).sub(/^#+ /, '##')
+      s.sub!(/\n\*\*C/, "\n**Classes** #{by_name[k][1..-1].join(', ')}\n\n**C")
+      f.puts s
     end
   end
 end
