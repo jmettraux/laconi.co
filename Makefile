@@ -34,7 +34,7 @@ html_monsters:
 html_spells:
 	ruby ${LI} -e "make_html('Spell Lists', 'spell_lists.md')" \
       > htmls/spell_lists.html
-	ruby ${LI} -e "make_html('Spells', 'spells.md')" \
+	ruby ${LI} -e "make_html('Spells', 'spells.md', SpellHtmlRender)" \
       > htmls/spells.html
 html_classes:
 	ruby ${LI} -e "make_html('Fighter', 'fighter.md')" > htmls/fighter.html

@@ -52,7 +52,7 @@ def make_spells(source_dir)
         f.print("**#{l}**")
         ns.each do |name|
           n = neutralize_name(name)
-          f.print(" [#{name}](spells.html#spell-#{n})")
+          f.print(" [#{name}](spells.html##{n})")
         end
         f.puts; f.puts
       end

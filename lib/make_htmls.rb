@@ -124,6 +124,16 @@ class MonsterHtmlRender < HtmlRender
   end
 end
 
+class SpellHtmlRender < HtmlRender
+
+  def header(title, level)
+
+    return super unless level == 2
+
+    "<h2 id=\"#{neutralize_name(title)}\">#{title}</h2>"
+  end
+end
+
 def make_html(title, md, render=HtmlRender)
 
   c = File.read(File.join('mds', md))
