@@ -42,7 +42,7 @@ def make_spells(source_dir)
 
   File.open('mds/spell_lists.md', 'wb') do |f|
 
-    f.puts('# Spell Lists')
+    f.puts('# SPELL LISTS')
     f.puts
 
     cls = [ 'Wizard' ] + (classes - [ 'Wizard' ]).sort
@@ -68,7 +68,7 @@ def make_spells(source_dir)
 
   File.open('mds/spells.md', 'wb') do |f|
 
-    f.puts('# Spells')
+    f.puts('# SPELLS')
     f.puts
 
     by_name
@@ -79,7 +79,7 @@ def make_spells(source_dir)
         f.puts; f.puts }
 
     by_name.each do |k, v|
-      s = extract_md_section(spells, 4, k).sub(/^#+ /, '##')
+      s = extract_md_section(spells, 4, k).sub(/^#+ /, '#')
       s.sub!(/\n\*\*C/, "\n**Classes** #{by_name[k][1..-1].join(', ')}\n\n**C")
       f.puts s
     end
