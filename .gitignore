@@ -9,4 +9,7 @@
 .vimgrep
 .todo.md
 
+tmp/*.yaml
+tmp/*.log
+
 
