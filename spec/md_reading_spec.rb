@@ -20,7 +20,7 @@ describe 'md_reading.rb' do
 
       expect(s).to match(/\A# Elf\n/)
       expect(s).to match(/\n\z/)
-      expect(s.length).to eq(2940)
+      expect(s.length).to eq(2939)
     end
 
     it 'stops when the section ends' do
