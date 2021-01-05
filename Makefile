@@ -66,9 +66,9 @@ publish:
 p: publish
 
 log:
-	ssh -t shooto cat /var/www/logs/laconico_access.log | ruby lib/log.rb
+	ssh -t shooto cat /var/www/logs/laconico_access.log | ruby26 lib/log.rb
 tail:
-	ssh -t shooto tail -f /var/www/logs/laconico_access.log | ruby lib/tail.rb
+	ssh -t shooto tail -f /var/www/logs/laconico_access.log | ruby26 lib/tail.rb
 
 .PHONY: md md_clear md_rules md_spells md_monsters html
 
