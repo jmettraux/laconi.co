@@ -30,5 +30,6 @@
 
 <a href="motivation.html">motivation</a>
 <a href="colophon.html">colophon</a>
+<a href="mailto:jmettraux+laconico@gmail.com">contact</a>
 <a href="ogl.html">license</a>
 
