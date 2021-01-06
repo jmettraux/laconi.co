@@ -81,8 +81,8 @@ def make_spells(source_dir)
     end
 
     by_name.each do |k, v|
-      s = extract_md_section(spells, 4, k).sub(/^#+ /, '#')
-      s.sub!(/\n\*\*C/, "\n**Classes** #{by_name[k][1..-1].join(', ')}\n\n**C")
+      s = extract_md_section(spells, 4, k).sub(/^#+ /, '# ')
+      s.sub!(/\n\*\*C/, "\n**Classes:** #{by_name[k][1..-1].join(', ')}\n\n**C")
       f.puts s
     end
   end
@@ -106,10 +106,10 @@ def make_spells(source_dir)
 
   by_name.each do |k, v|
 
-    s = extract_md_section(spells, 4, k).sub(/^#+ /, '#')
-    s.sub!(/\n\*\*C/, "\n**Classes** #{by_name[k][1..-1].join(', ')}\n\n**C")
+    s = extract_md_section(spells, 4, k).sub(/^#+ /, '# ')
+    s.sub!(/\n\*\*C/, "\n**Classes:** #{by_name[k][1..-1].join(', ')}\n\n**C")
 
-    File.open("mds/spells/#{neutralize_name(k)}.html", 'wb') do |f|
+    File.open("mds/spells/#{neutralize_name(k)}.md", 'wb') do |f|
       f.puts s
     end
   end

@@ -134,24 +134,27 @@ class SpellHtmlRender < HtmlRender
   end
 end
 
-def make_html(title, md, render=HtmlRender)
+def make_html(title, md, render=HtmlRender, out=$stdout)
 
-  c = File.read(File.join('mds', md))
+  c =
+    md.index("\n") ?
+    md :
+    File.read(File.join('mds', md))
 
   renderer =
     Redcarpet::Markdown.new(render.new({}), { tables: true })
 
-  puts make_html_head(title)
-  puts renderer.render(c)
+  out.puts make_html_head(title)
+  out.puts renderer.render(c)
 
   if ! %w[ ogl.md index.md motivation.md colophon.md ].include?(md)
     r = Redcarpet::Markdown.new(HtmlRender.new({}), { tables: true })
-    puts
-    puts r.render(File.read('mds/ogl.md'))
-    puts
+    out.puts
+    out.puts r.render(File.read('mds/ogl.md'))
+    out.puts
   end
 
-  puts make_html_foot
+  out.puts make_html_foot
 end
 
 def make_html_head(title)
@@ -166,5 +169,22 @@ def make_html_foot
 
   '<div id="client-width"></div>' +
   '</body></html>'
+end
+
+def make_html_dir(dir)
+
+  Dir["mds/#{dir}/*.md"].each do |pa|
+
+    c = File.read(pa)
+    title = c.split("\n", 2).first
+    next if title.nil? || title.match?(/^# [A-Z][A-Z]+/)
+p [ pa, title, title[2..-1] ]
+    title = title[2..-1]
+
+    File.open("htmls/spells/#{neutralize_name(title)}.html", 'wb') do |f|
+
+      make_html(title, c, HtmlRender, f)
+    end
+  end
 end
 
