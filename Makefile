@@ -36,6 +36,8 @@ html_spells:
       > htmls/spell_lists.html
 	ruby ${LI} -e "make_html('Spells', 'spells.md', SpellHtmlRender)" \
       > htmls/spells.html
+	ruby ${LI} -e "make_html('Spells', 'spell_index.md')" \
+      > htmls/spells/index.html
 html_classes:
 	ruby ${LI} -e "make_html('Fighter', 'fighter.md')" > htmls/fighter.html
 	ruby ${LI} -e "make_html('Rogue', 'rogue.md')" > htmls/rogue.html

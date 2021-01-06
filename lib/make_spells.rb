@@ -40,6 +40,9 @@ def make_spells(source_dir)
   by_class, by_name, classes =
     index_spells(source_dir)
 
+  by_a_and_name = by_name
+    .inject({}) { |h, (k, _)| (h[k[0,1]] ||= []) << k; h }
+
   File.open('mds/spell_lists.md', 'wb') do |f|
 
     f.puts('# SPELL LISTS')
@@ -71,16 +74,42 @@ def make_spells(source_dir)
     f.puts('# SPELLS')
     f.puts
 
-    by_name
-      .inject({}) { |h, (k, _)| (h[k[0,1]] ||= []) << k; h }
-      .each { |k, v|
-        f.print("**#{k}**")
-        v.each { |n| f.print(" [#{n}](##{neutralize_name(n)})") }
-        f.puts; f.puts }
+    by_a_and_name.each do |k, v|
+      f.print("**#{k}**")
+      v.each { |n| f.print(" [#{n}](##{neutralize_name(n)})") }
+      f.puts; f.puts
+    end
 
     by_name.each do |k, v|
       s = extract_md_section(spells, 4, k).sub(/^#+ /, '#')
       s.sub!(/\n\*\*C/, "\n**Classes** #{by_name[k][1..-1].join(', ')}\n\n**C")
+      f.puts s
+    end
+  end
+
+  File.open('mds/spells/index.md', 'wb') do |f|
+
+    f.puts('# SPELLS')
+    f.puts
+
+    by_a_and_name.each do |k, v|
+
+      f.print("**#{k}**")
+      v.each { |n| f.print(" [#{n}](#{neutralize_name(n)}.html)") }
+      f.puts; f.puts
+    end
+  end
+
+  # TODO
+  File.open('mds/spells/by_class.md', 'wb') do |f|
+  end
+
+  by_name.each do |k, v|
+
+    s = extract_md_section(spells, 4, k).sub(/^#+ /, '#')
+    s.sub!(/\n\*\*C/, "\n**Classes** #{by_name[k][1..-1].join(', ')}\n\n**C")
+
+    File.open("mds/spells/#{neutralize_name(k)}.html", 'wb') do |f|
       f.puts s
     end
   end
