@@ -1,4 +1,4 @@
-# Fighter
+# FIGHTER
 
 ### Class Features
 

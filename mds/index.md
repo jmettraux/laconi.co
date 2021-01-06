@@ -14,8 +14,11 @@
 
 <a class="major" href="abilities.html">Abilities</a>
 <a class="major" href="combat.html">Combat</a>
+<a class="major" href="conditions.html">Conditions</a>
 
-<a class="major" href="equipment.html">Equipment</a>
+<a class="major" href="weapons.html">Weapons</a>
+<a class="major" href="armor.html">Armor</a>
+<a class="major" href="gear.html">Gear</a>
 <a class="major" href="adventuring.html">Adventuring</a>
 
 <a class="major" href="spell_lists.html">Spell Lists</a>

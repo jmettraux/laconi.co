@@ -1,4 +1,4 @@
-# Rogue
+# ROGUE
 
 ### Class Features
 

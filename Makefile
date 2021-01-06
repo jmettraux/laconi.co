@@ -49,8 +49,14 @@ html_rules:
       > htmls/abilities.html
 	ruby ${LI} -e "make_html('Combat', 'combat.md')" \
       > htmls/combat.html
-	ruby ${LI} -e "make_html('Equipment', 'equipment.md')" \
-      > htmls/equipment.html
+	ruby ${LI} -e "make_html('Conditions', 'conditions.md')" \
+      > htmls/conditions.html
+	ruby ${LI} -e "make_html('Weapons', 'weapons.md')" \
+      > htmls/weapons.html
+	ruby ${LI} -e "make_html('Armor', 'armor.md')" \
+      > htmls/armor.html
+	ruby ${LI} -e "make_html('Gear', 'gear.md')" \
+      > htmls/gear.html
 	ruby ${LI} -e "make_html('Adventuring', 'adventuring.md')" \
       > htmls/adventuring.html
 	ruby ${LI} -e "make_html('Spellcasting', 'spellcasting.md')" \

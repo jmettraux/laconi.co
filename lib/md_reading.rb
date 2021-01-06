@@ -1,5 +1,5 @@
 
-def extract_md_section(path_or_content, level, title)
+def extract_md_section(path_or_content, level, title, capitalize=false)
 
   s =
     path_or_content.index("\n") ?
@@ -15,6 +15,11 @@ def extract_md_section(path_or_content, level, title)
     .min ||
       -1
 
-  s[i..j - 1].rstrip + "\n"
+  s = s[i..j - 1].rstrip + "\n"
+
+  s = s.gsub("#{'#' * level} #{title}\n", "#{'#' * level} #{title.upcase}\n") \
+    if capitalize
+
+  s
 end
 

@@ -1,4 +1,4 @@
-# Wizard
+# WIZARD
 
 ### Class Features
 

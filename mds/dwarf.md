@@ -1,4 +1,4 @@
-# Dwarf
+# DWARF
 
 ### Dwarf Traits
 

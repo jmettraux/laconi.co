@@ -1,4 +1,4 @@
-# Human
+# HUMAN
 
 ### Human Traits
 

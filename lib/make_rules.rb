@@ -3,14 +3,14 @@ def make_race(source_dir, name)
 
   races = File.read(File.join(source_dir, '01.races.md'))
 
-  puts extract_md_section(races, 1, name)
+  puts extract_md_section(races, 1, name, true)
 end
 
 def make_class(source_dir, name)
 
   classes = File.read(File.join(source_dir, '02.classes.md'))
 
-  puts extract_md_section(classes, 1, name)
+  puts extract_md_section(classes, 1, name, true)
 end
 
 def make_rules(source_dir)
@@ -28,20 +28,23 @@ def make_rules(source_dir)
 
   File.open('mds/combat.md', 'wb') do |f|
     f.puts combat
-    f.puts
-    f.puts extract_md_section(mastering, 1, 'Conditions')
+  end
+  File.open('mds/conditions.md', 'wb') do |f|
+    f.puts extract_md_section(mastering, 1, 'Conditions', true)
   end
 
   File.open('mds/adventuring.md', 'wb') do |f|
     f.puts adventuring
   end
 
-  File.open('mds/equipment.md', 'wb') do |f|
-    f.puts extract_md_section(equipment, 1, 'EQUIPMENT')
-    f.puts extract_md_section(equipment, 2, 'Coinage')
-    f.puts extract_md_section(equipment, 1, 'Armor')
-    f.puts extract_md_section(equipment, 1, 'Weapons')
-    f.puts extract_md_section(equipment, 1, 'Adventuring Gear')
+  File.open('mds/armor.md', 'wb') do |f|
+    f.puts extract_md_section(equipment, 1, 'Armor', true)
+  end
+  File.open('mds/weapons.md', 'wb') do |f|
+    f.puts extract_md_section(equipment, 1, 'Weapons', true)
+  end
+  File.open('mds/gear.md', 'wb') do |f|
+    f.puts extract_md_section(equipment, 1, 'Adventuring Gear', true)
   end
 
   File.open('mds/spellcasting.md', 'wb') do |f|
