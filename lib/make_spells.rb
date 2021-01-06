@@ -32,6 +32,8 @@ def index_spells(source_dir_or_source)
     end
   end
 
+  by_level.each { |_, v| v.sort!.uniq! }
+
   [ by_class,
     by_name.keys.sort.inject({}) { |h, k| h[k] = by_name[k]; h },
     by_level,
@@ -59,7 +61,7 @@ def make_spells(source_dir)
       f.puts
 
       by_class[k].each do |l, ns|
-        f.print("**#{l}**")
+        f.print("<strong class=\"key\">#{l}</strong>")
         ns.each do |name|
           n = neutralize_name(name)
           f.print(" [#{name}](spells.html##{n})")
@@ -78,7 +80,7 @@ def make_spells(source_dir)
     f.puts
 
     by_a_and_name.each do |k, v|
-      f.print("**#{k}**")
+      f.print("<strong class=\"key\">#{k}</strong>")
       v.each { |n| f.print(" [#{n}](##{neutralize_name(n)})") }
       f.puts; f.puts
     end
@@ -104,22 +106,50 @@ def make_spells(source_dir)
   File.open('mds/spells_by_name.md', 'wb') do |f|
 
     f.puts('# SPELLS')
+    f.puts('<p class="subtitle">by name</a>')
     f.puts
 
     by_a_and_name.each do |k, v|
 
-      f.print("**#{k}**")
-      v.each { |n| f.print(" [#{n}](#{neutralize_name(n)}.html)") }
+      f.print("<strong class=\"key\">#{k}</strong>")
+      v.each { |n| f.print(" [#{n}](spells/#{neutralize_name(n)}.html)") }
       f.puts; f.puts
     end
   end
 
   File.open('mds/spells_by_level.md', 'wb') do |f|
 
-pp by_level
+    f.puts('# SPELLS')
+    f.puts('<p class="subtitle">by level</a>')
+    f.puts
+
+    by_level.each do |k, v|
+
+      f.print("<strong class=\"key\">#{k}</strong>")
+      v.each { |n| f.print(" [#{n}](spells/#{neutralize_name(n)}.html)") }
+      f.puts; f.puts
+    end
   end
 
   File.open('mds/spells_by_class.md', 'wb') do |f|
+
+    f.puts('# SPELLS')
+    f.puts('<p class="subtitle">by class</a>')
+    f.puts
+
+    cls = [ 'Wizard' ] + (by_class.keys - [ 'Wizard' ])
+
+    cls.each do |c|
+
+      f.print("## #{c}\n")
+
+      by_class[c].each do |k, ns|
+
+        f.print("<strong class=\"key\">#{k}</strong>")
+        ns.each { |n| f.print(" [#{n}](spells/#{neutralize_name(n)}.html)") }
+        f.puts; f.puts
+      end
+    end
   end
 
   by_name.each do |k, v|

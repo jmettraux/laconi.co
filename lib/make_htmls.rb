@@ -100,7 +100,11 @@ def make_html(title, md, out=$stdout)
   out.puts make_html_head(title)
   out.puts renderer.render(c)
 
-  if ! %w[ ogl.md index.md motivation.md colophon.md ].include?(md)
+  if ! [
+    'LEGAL INFORMATION', 'LACONI.CO', 'laconi.co colophon',
+    'laconi.co motivation'
+  ].include?(title) then
+#p [ :ogl, title ]
     r = Redcarpet::Markdown.new(HtmlRender.new({}), { tables: true })
     out.puts
     out.puts r.render(File.read('mds/ogl.md'))
@@ -124,23 +128,6 @@ def make_html_foot
   '</body></html>'
 end
 
-#def make_html_dir(dir)
-#
-#  Dir["mds/#{dir}/*.md"].each do |pa|
-#
-#    c = File.read(pa)
-#    title = c.split("\n", 2).first
-#    next if title.nil? || title.match?(/^# [A-Z][A-Z]+/)
-##p [ pa, title, title[2..-1] ]
-#    title = title[2..-1]
-#
-#    File.open("htmls/spells/#{neutralize_name(title)}.html", 'wb') do |f|
-#
-#      make_html(title, c, HtmlRender, f)
-#    end
-#  end
-#end
-
 def make_htmls
 
   Dir['mds/**/*.md'].each do |pa|
@@ -149,7 +136,7 @@ def make_htmls
 
     content = File.read(pa)
 
-    title = content.split("\n", 2).first; next unless title
+    title = content.strip.split("\n", 2).first; next unless title
     title = title.gsub(/^#+ /, '')
 
     File.open(hpa, 'wb') do |f|

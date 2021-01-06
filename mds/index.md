@@ -26,8 +26,8 @@
 <a class="major" href="spellcasting.html">Spellcasting</a>
 <br />
 <a class="major" href="spells_by_name.html">Spells by Name</a>
-<a class="major" href="spells_by_class.html">Spells by Class</a>
 <a class="major" href="spells_by_level.html">Spells by Level</a>
+<a class="major" href="spells_by_class.html">Spells by Class</a>
 <br />
 <a class="major" href="spells.html">All Spells</a>
 
