@@ -25,7 +25,7 @@ class HtmlRender < Redcarpet::Render::HTML
       a << "<h#{level} id=\"#{t}\">#{title}</h#{level}>"
     else
       level = 3 if level > 3
-      i = level < 3 ? " id=\"t\"" : ''
+      i = level < 3 ? " id=\"#{t}\"" : ''
       a << "\n<section>" if ! @in_section; @in_section = true
       a << "<h#{level}#{i}>#{title}</h#{level}>"
     end
@@ -87,7 +87,7 @@ class HtmlRender < Redcarpet::Render::HTML
 end
 
 
-def make_html(title, md, render=HtmlRender, out=$stdout)
+def make_html(title, md, out=$stdout)
 
   c =
     md.index("\n") ?
@@ -95,7 +95,7 @@ def make_html(title, md, render=HtmlRender, out=$stdout)
     File.read(File.join('mds', md))
 
   renderer =
-    Redcarpet::Markdown.new(render.new({}), { tables: true })
+    Redcarpet::Markdown.new(HtmlRender.new({}), { tables: true })
 
   out.puts make_html_head(title)
   out.puts renderer.render(c)
@@ -124,19 +124,37 @@ def make_html_foot
   '</body></html>'
 end
 
-def make_html_dir(dir)
+#def make_html_dir(dir)
+#
+#  Dir["mds/#{dir}/*.md"].each do |pa|
+#
+#    c = File.read(pa)
+#    title = c.split("\n", 2).first
+#    next if title.nil? || title.match?(/^# [A-Z][A-Z]+/)
+##p [ pa, title, title[2..-1] ]
+#    title = title[2..-1]
+#
+#    File.open("htmls/spells/#{neutralize_name(title)}.html", 'wb') do |f|
+#
+#      make_html(title, c, HtmlRender, f)
+#    end
+#  end
+#end
 
-  Dir["mds/#{dir}/*.md"].each do |pa|
+def make_htmls
 
-    c = File.read(pa)
-    title = c.split("\n", 2).first
-    next if title.nil? || title.match?(/^# [A-Z][A-Z]+/)
-#p [ pa, title, title[2..-1] ]
-    title = title[2..-1]
+  Dir['mds/**/*.md'].each do |pa|
 
-    File.open("htmls/spells/#{neutralize_name(title)}.html", 'wb') do |f|
+    hpa = pa.gsub(/^mds\//, 'htmls/').gsub(/\.md$/, '.html')
 
-      make_html(title, c, HtmlRender, f)
+    content = File.read(pa)
+
+    title = content.split("\n", 2).first; next unless title
+    title = title.gsub(/^#+ /, '')
+
+    File.open(hpa, 'wb') do |f|
+
+      make_html(title, content, f)
     end
   end
 end

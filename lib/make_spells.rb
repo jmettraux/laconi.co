@@ -10,6 +10,7 @@ def index_spells(source_dir_or_source)
 
   by_class = {}
   by_name = {}
+  by_level = {}
   classes = []
     #
   cla = nil
@@ -25,6 +26,7 @@ def index_spells(source_dir_or_source)
     elsif l.match(/^- (.+)$/)
       ((by_class[cla] ||= {})[lev] ||= []) << $1
       (by_name[$1] ||= [ lev ]) << cla
+      (by_level[lev] ||= []) << $1
     #else
     #  p l
     end
@@ -32,12 +34,13 @@ def index_spells(source_dir_or_source)
 
   [ by_class,
     by_name.keys.sort.inject({}) { |h, k| h[k] = by_name[k]; h },
+    by_level,
     classes ]
 end
 
 def make_spells(source_dir)
 
-  by_class, by_name, classes =
+  by_class, by_name, by_level, classes =
     index_spells(source_dir)
 
   by_a_and_name = by_name
@@ -87,19 +90,18 @@ def make_spells(source_dir)
     end
   end
 
-  File.open('mds/spells/index.md', 'wb') do |f|
+  #File.open('mds/spells/index.md', 'wb') do |f|
+  #  f.puts('# SPELLS')
+  #  f.puts
+  #  f.puts('[Top](../index.html)')
+  #  f.puts
+  #  f.puts('[By Name](by_name.html)')
+  #  f.puts('[By Level](by_level.html)')
+  #  f.puts('[By Class](by_class.html)')
+  #  f.puts
+  #end
 
-    f.puts('# SPELLS')
-    f.puts
-    f.puts('[Top](../index.html)')
-    f.puts
-    f.puts('[By Name](by_name.html)')
-    f.puts('[By Level](by_level.html)')
-    f.puts('[By Class](by_class.html)')
-    f.puts
-  end
-
-  File.open('mds/spells/by_name.md', 'wb') do |f|
+  File.open('mds/spells_by_name.md', 'wb') do |f|
 
     f.puts('# SPELLS')
     f.puts
@@ -112,10 +114,12 @@ def make_spells(source_dir)
     end
   end
 
-  File.open('mds/spells/by_level.md', 'wb') do |f|
+  File.open('mds/spells_by_level.md', 'wb') do |f|
+
+pp by_level
   end
 
-  File.open('mds/spells/by_class.md', 'wb') do |f|
+  File.open('mds/spells_by_class.md', 'wb') do |f|
   end
 
   by_name.each do |k, v|

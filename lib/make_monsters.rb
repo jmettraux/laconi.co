@@ -322,7 +322,7 @@ def make_monsters(src_dir)
           f.puts(extract_md_monster(s, k, n, m)) } }
   end
 
-  File.open('mds/monster_statisticss.md', 'wb') do |f|
+  File.open('mds/monster_statistics.md', 'wb') do |f|
 
     f.puts extract_md_section(monsters, 1, 'Monster Statistics')
     f.puts extract_md_section(monsters, 1, 'Legendary Creatures')

@@ -26,56 +26,8 @@ md_ogl:
 
 md: md_ogl md_races md_classes md_rules md_spells md_monsters
 
-html_monsters:
-	ruby ${LI} -e "make_html('Monsters', 'monsters.md')" \
-      > htmls/monsters.html
-	ruby ${LI} -e "make_html('Monsters Statistics', 'monster_statisticss.md')" \
-      > htmls/monster_statistics.html
-html_spells:
-	ruby ${LI} -e "make_html('Spell Lists', 'spell_lists.md')" \
-      > htmls/spell_lists.html
-	ruby ${LI} -e "make_html('Spells', 'spells.md')" \
-      > htmls/spells.html
-	ruby ${LI} -e "make_html('Spells', 'spells/index.md')" \
-      > htmls/spells/index.html
-	ruby ${LI} -e "make_html_dir('spells')"
-html_classes:
-	ruby ${LI} -e "make_html('Fighter', 'fighter.md')" > htmls/fighter.html
-	ruby ${LI} -e "make_html('Rogue', 'rogue.md')" > htmls/rogue.html
-	ruby ${LI} -e "make_html('Wizard', 'wizard.md')" > htmls/wizard.html
-html_races:
-	ruby ${LI} -e "make_html('Human', 'human.md')" > htmls/human.html
-	ruby ${LI} -e "make_html('Elf', 'elf.md')" > htmls/elf.html
-	ruby ${LI} -e "make_html('Dwarf', 'dwarf.md')" > htmls/dwarf.html
-html_rules:
-	ruby ${LI} -e "make_html('Abilities', 'abilities.md')" \
-      > htmls/abilities.html
-	ruby ${LI} -e "make_html('Combat', 'combat.md')" \
-      > htmls/combat.html
-	ruby ${LI} -e "make_html('Conditions', 'conditions.md')" \
-      > htmls/conditions.html
-	ruby ${LI} -e "make_html('Weapons', 'weapons.md')" \
-      > htmls/weapons.html
-	ruby ${LI} -e "make_html('Armor', 'armor.md')" \
-      > htmls/armor.html
-	ruby ${LI} -e "make_html('Gear', 'gear.md')" \
-      > htmls/gear.html
-	ruby ${LI} -e "make_html('Adventuring', 'adventuring.md')" \
-      > htmls/adventuring.html
-	ruby ${LI} -e "make_html('Spellcasting', 'spellcasting.md')" \
-      > htmls/spellcasting.html
-html_ogl:
-	ruby ${LI} -e "make_html('Legal Information', 'ogl.md')" > htmls/ogl.html
-
-html_index:
-	ruby ${LI} -e "make_html('laconi.co', 'index.md')" \
-      > htmls/index.html
-	ruby ${LI} -e "make_html('laconi.co - motivation', 'motivation.md')" \
-      > htmls/motivation.html
-	ruby ${LI} -e "make_html('laconi.co - colophon', 'colophon.md')" \
-      > htmls/colophon.html
-
-html: html_index html_ogl html_races html_classes html_rules html_spells html_monsters
+html:
+	ruby ${LI} -e "make_htmls"
 
 s:
 	ruby -run -ehttpd htmls/ -p7003
