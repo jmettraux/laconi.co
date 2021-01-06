@@ -25,8 +25,9 @@ class HtmlRender < Redcarpet::Render::HTML
       a << "<h#{level} id=\"#{t}\">#{title}</h#{level}>"
     else
       level = 3 if level > 3
+      i = level < 3 ? " id=\"t\"" : ''
       a << "\n<section>" if ! @in_section; @in_section = true
-      a << "<h#{level}>#{title}</h#{level}>"
+      a << "<h#{level}#{i}>#{title}</h#{level}>"
     end
 
     a.join
@@ -41,6 +42,19 @@ class HtmlRender < Redcarpet::Render::HTML
 
     a.join
   end
+  #def paragraph(text)
+  #  return super unless @post_index
+  #  if m = text.match(/\A<strong>(.+)<\/strong>(.+)\z/)
+  #    "<p class=\"entry\"><strong>#{m[1]}</strong>" +
+  #    "<span class=\"post-key\">#{m[2]}</span>" +
+  #    "</p>"
+  #  elsif text.match(/\A<em>.+<\/em>\z/)
+  #    "<p>#{text}</p>"
+  #  else
+  #    "<p class=\"entry\"><strong></strong>" +
+  #    "<span class=\"post-key\">#{text}</span></p>"
+  #  end
+  #end
 
   def doc_footer
 
@@ -52,52 +66,11 @@ class HtmlRender < Redcarpet::Render::HTML
     a.join
   end
 
-  #def preprocess(full_doc)
-  #end
-  #def postprocess(full_doc)
-  #end
-end
-
-class MonsterHtmlRender < HtmlRender
-
-  def initialize(opts)
-
-    super
-
-    @post_index = false
-  end
-
-#  def header(title, level)
-#
-#    if level == 1 && title == 'Index'
-#      @post_index = true
-#      return super
-#    end
-#
-#    return super unless @post_index# && level == 2
-#
-#    a = []
-#
-#    if level == 1
-#      a << "\n</section>" if @in_section; @in_section = true
-#      a << "\n<section class=\"monster\">"
-#      a << "<h1 id=\"#{neutralize_name(title)}\" class=\"monster\">"
-#      a << title
-#      a << "</h1>\n"
-#    else
-#      a << "<h2>#{title}</h2>\n"
-#    end
-#
-#    a.join
-#  end
-
   def table(header, body)
 
     c = header.match?(/<th>STR<\/th>/) ? 'abilities' : nil
 
     a = []
-
-    #a << "<p><strong>Abilities</strong><span class=\"post-strong\"><span></p>\n" if c
 
     a << (c ? "<table class=\"#{c}\">\n" : "<table>\n")
     a << "<thead>#{header}</thead>\n"
@@ -107,32 +80,12 @@ class MonsterHtmlRender < HtmlRender
     a.join
   end
 
-  def paragraph(text)
-
-    return super unless @post_index
-
-    if m = text.match(/\A<strong>(.+)<\/strong>(.+)\z/)
-      "<p class=\"entry\"><strong>#{m[1]}</strong>" +
-      "<span class=\"post-key\">#{m[2]}</span>" +
-      "</p>"
-    elsif text.match(/\A<em>.+<\/em>\z/)
-      "<p>#{text}</p>"
-    else
-      "<p class=\"entry\"><strong></strong>" +
-      "<span class=\"post-key\">#{text}</span></p>"
-    end
-  end
+  #def preprocess(full_doc)
+  #end
+  #def postprocess(full_doc)
+  #end
 end
 
-class SpellHtmlRender < HtmlRender
-
-  def header(title, level)
-
-    return super unless level == 2
-
-    "<h2 id=\"#{neutralize_name(title)}\">#{title}</h2>"
-  end
-end
 
 def make_html(title, md, render=HtmlRender, out=$stdout)
 
@@ -178,7 +131,7 @@ def make_html_dir(dir)
     c = File.read(pa)
     title = c.split("\n", 2).first
     next if title.nil? || title.match?(/^# [A-Z][A-Z]+/)
-p [ pa, title, title[2..-1] ]
+#p [ pa, title, title[2..-1] ]
     title = title[2..-1]
 
     File.open("htmls/spells/#{neutralize_name(title)}.html", 'wb') do |f|

@@ -27,14 +27,14 @@ md_ogl:
 md: md_ogl md_races md_classes md_rules md_spells md_monsters
 
 html_monsters:
-	ruby ${LI} -e "make_html('Monsters', 'monsters.md', MonsterHtmlRender)" \
+	ruby ${LI} -e "make_html('Monsters', 'monsters.md')" \
       > htmls/monsters.html
 	ruby ${LI} -e "make_html('Monsters Statistics', 'monster_statisticss.md')" \
       > htmls/monster_statistics.html
 html_spells:
 	ruby ${LI} -e "make_html('Spell Lists', 'spell_lists.md')" \
       > htmls/spell_lists.html
-	ruby ${LI} -e "make_html('Spells', 'spells.md', SpellHtmlRender)" \
+	ruby ${LI} -e "make_html('Spells', 'spells.md')" \
       > htmls/spells.html
 	ruby ${LI} -e "make_html('Spells', 'spells/index.md')" \
       > htmls/spells/index.html
