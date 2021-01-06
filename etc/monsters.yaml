@@ -1,0 +1,403 @@
+---
+Animated Armor:
+- Animated Armor
+- 12
+Basilisk:
+- Basilisk
+- 9
+Behir:
+- Behir
+- 9
+Bugbear:
+- Bugbear
+- 9
+Centaur:
+- Centaur
+- 8
+Chimera:
+- Chimera
+- 9
+Cockatrice:
+- Cockatrice
+- 7
+Couatl:
+- Couatl
+- 12
+Devil, Barbed:
+- Barbed Devil
+- 10
+Erinyes:
+- Erinyes
+- 10
+Devil, Horned:
+- Horned Devil
+- 10
+Imp:
+- Imp
+- 7
+Lemure:
+- Lemure
+- 5
+Dragon Turtle:
+- Dragon Turtle
+- 10
+Dryad:
+- Dryad
+- 6
+Duergar:
+- Duergar
+- 8 (10 with leader)
+Elf, Drow:
+- Elf, Drow
+- 8 (10 with leader)
+Ettin:
+- Ettin
+- 11
+Gargoyle:
+- Gargoyle
+- 11
+Djinni:
+- Djinni
+- 12
+Efreeti:
+- Efreeti
+- 12
+Ghost:
+- Ghost
+- 9
+Ghast:
+- Ghast
+- 9
+Ghoul:
+- Ghoul
+- 9
+Giant, Cloud:
+- Cloud Giant
+- 10
+Giant, Fire:
+- Fire Giant
+- 9
+Giant, Frost:
+- Frost Giant
+- 9
+Giant, Hill:
+- Hill Giant
+- 9
+Giant, Stone:
+- Stone Giant
+- 9
+Giant, Storm:
+- Storm Giant
+- 10
+Svirfneblin:
+- Gnome, Deep (Svirfneblin)
+- 8 (10 with leader)
+Goblin:
+- Goblin
+- 7 (9 with leader)
+Golem, Clay:
+- Clay Golem
+- 12
+Golem, Flesh:
+- Flesh Golem
+- 12
+Golem, Iron:
+- Iron Golem
+- 12
+Golem, Stone:
+- Stone Golem
+- 12
+Gorgon:
+- Gorgon
+- 8
+Griffon:
+- Griffon
+- 8
+Hag, Green:
+- Green Hag
+- 12
+Harpy:
+- Harpy
+- 7
+Hell Hound:
+- Hell Hound
+- 9
+Hippogriff:
+- Hippogriff
+- 8
+Hobgoblin:
+- Hobgoblin
+- 8 (10 with leader)
+Homunculus:
+- Homunculus
+- 12
+Hydra:
+- Hydra
+- 9
+Invisible Stalker:
+- Invisible Stalker
+- 12
+Kobold:
+- Kobold
+- 6 (8 with leader)
+Kraken:
+- Kraken
+- 11
+Lamia:
+- Lamia
+- 12
+Lich:
+- Lich
+- 12
+Lizardfolk:
+- Lizardfolk
+- 12
+Werebear:
+- Werebear
+- 10
+Wereboar:
+- Wereboar
+- 9
+Wererat:
+- Wererat
+- 8
+Weretiger:
+- Weretiger
+- 9
+Werewolf:
+- Werewolf
+- 8
+Manticore:
+- Manticore
+- 9
+Medusa:
+- Medusa
+- 8
+Merfolk:
+- Merfolk
+- 8
+Minotaur:
+- Minotaur
+- 12
+Mummy:
+- Mummy
+- 12
+Naga, Guardian:
+- Guardian Naga
+- 12
+Naga, Spirit:
+- Spirit Naga
+- 11
+Nightmare:
+- Nightmare
+- 11
+Ogre:
+- Ogre
+- 10
+Oni:
+- Oni
+- 11
+Orc:
+- Orc
+- 6 (8 with leader)
+Pegasus:
+- Pegasus
+- 8
+Pseudodragon:
+- Pseudodragon
+- 11
+Worm, Purple:
+- Purple Worm
+- 10
+Rakshasa:
+- Rakshasa
+- 11
+Roc:
+- Roc
+- 10 (12 in lair)
+Salamander:
+- Salamander
+- 8
+Satyr:
+- Satyr
+- 8
+Shadow:
+- Shadow
+- 12
+Shambling Mound:
+- Shambling Mound
+- 9
+Skeleton:
+- Skeleton
+- 12
+Skeleton, Warhorse:
+- Warhorse Skeleton
+- 12
+Specter:
+- Specter
+- 11
+Sphinx, Androshpinx:
+- Androsphinx
+- 12
+Sphinx, Gynoshpinx:
+- Gynosphinx
+- 12
+Sprite:
+- Sprite
+- 7
+Succubus/Incubus:
+- Succubus/Incubus
+- 10
+Tarrasque:
+- Tarrasque
+- 10
+Treant:
+- Treant
+- 9
+Troll:
+- Troll
+- 10 (8 fear of fire)
+Unicorn:
+- Unicorn
+- 7
+Vampire:
+- Vampire
+- 11
+Vampire Spawn:
+- Vampire Spawn
+- 9
+Wight:
+- Wight
+- 12
+Will-o'-Wisp:
+- Will-o'-Wisp
+- 12
+Wraith:
+- Wraith
+- 12
+Wyvern:
+- Wyvern
+- 9
+Zombie:
+- Zombie
+- 12
+Dragon Black Ancient:
+- Ancient Black Dragon
+- 8
+Dragon Black Adult:
+- Adult Black Dragon
+- 8
+Dragon Black Young:
+- Young Black Dragon
+- 8
+Dragon Black Wyrmling:
+- Black Dragon Wyrmling
+- 8
+Dragon Blue Ancient:
+- Ancient Blue Dragon
+- 9
+Dragon Blue Adult:
+- Adult Blue Dragon
+- 9
+Dragon Blue Young:
+- Young Blue Dragon
+- 9
+Dragon Blue Wyrmling:
+- Blue Dragon Wyrmling
+- 9
+Dragon Green Ancient:
+- Ancient Green Dragon
+- 9
+Dragon Green Adult:
+- Adult Green Dragon
+- 9
+Dragon Green Young:
+- Young Green Dragon
+- 9
+Dragon Green Wyrmling:
+- Green Dragon Wyrmling
+- 9
+Dragon Red Ancient:
+- Ancient Red Dragon
+- 10
+Dragon Red Adult:
+- Adult Red Dragon
+- 10
+Dragon Red Young:
+- Young Red Dragon
+- 10
+Dragon Red Wyrmling:
+- Red Dragon Wyrmling
+- 10
+Dragon White Ancient:
+- Ancient White Dragon
+- 8
+Dragon White Adult:
+- Adult White Dragon
+- 8
+Dragon White Young:
+- Young White Dragon
+- 8
+Dragon White Wyrmling:
+- White Dragon Wyrmling
+- 8
+Dragon Brass Ancient:
+- Ancient Brass Dragon
+- 9
+Dragon Brass Adult:
+- Adult Brass Dragon
+- 9
+Dragon Brass Young:
+- Young Brass Dragon
+- 9
+Dragon Brass Wyrmling:
+- Brass Dragon Wyrmling
+- 9
+Dragon Bronze Ancient:
+- Ancient Bronze Dragon
+- 9
+Dragon Bronze Adult:
+- Adult Bronze Dragon
+- 9
+Dragon Bronze Young:
+- Young Bronze Dragon
+- 9
+Dragon Bronze Wyrmling:
+- Bronze Dragon Wyrmling
+- 9
+Dragon Copper Ancient:
+- Ancient Copper Dragon
+- 9
+Dragon Copper Adult:
+- Adult Copper Dragon
+- 9
+Dragon Copper Young:
+- Young Copper Dragon
+- 9
+Dragon Copper Wyrmling:
+- Copper Dragon Wyrmling
+- 9
+Dragon Gold Ancient:
+- Ancient Gold Dragon
+- 10
+Dragon Gold Adult:
+- Adult Gold Dragon
+- 10
+Dragon Gold Young:
+- Young Gold Dragon
+- 10
+Dragon Gold Wyrmling:
+- Gold Dragon Wyrmling
+- 10
+Dragon Silver Ancient:
+- Ancient Silver Dragon
+- 10
+Dragon Silver Adult:
+- Adult Silver Dragon
+- 10
+Dragon Silver Young:
+- Young Silver Dragon
+- 10
+Dragon Silver Wyrmling:
+- Silver Dragon Wyrmling
+- 10

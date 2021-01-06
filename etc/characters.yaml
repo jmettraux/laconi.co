@@ -1,0 +1,43 @@
+---
+Archmage:
+- Archmage
+- 10
+Bandit:
+- Bandit
+- 8
+Bandit Captain:
+- Bandit Captain
+- 9
+Commoner:
+- Commoner
+- 6
+Druid:
+- Druid
+- 9
+Gladiator:
+- Gladiator
+- 10
+Guard:
+- Guard
+- 8
+Knight:
+- Knight
+- 10
+Mage:
+- Mage
+- 9
+Noble:
+- Noble
+- 7
+Scout:
+- Scout
+- 6
+Thug:
+- Thug
+- 7
+Tribal Warrior:
+- Tribal Warrior
+- 8
+Veteran:
+- Veteran
+- 8
