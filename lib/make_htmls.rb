@@ -167,7 +167,7 @@ end
 
 def make_html_foot
 
-  '<div id="client-width"></div>' +
+  #'<div id="client-width"></div>' +
   '</body></html>'
 end
 

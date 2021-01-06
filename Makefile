@@ -36,7 +36,7 @@ html_spells:
       > htmls/spell_lists.html
 	ruby ${LI} -e "make_html('Spells', 'spells.md', SpellHtmlRender)" \
       > htmls/spells.html
-	ruby ${LI} -e "make_html('Spells', 'spell_index.md')" \
+	ruby ${LI} -e "make_html('Spells', 'spells/index.md')" \
       > htmls/spells/index.html
 	ruby ${LI} -e "make_html_dir('spells')"
 html_classes:

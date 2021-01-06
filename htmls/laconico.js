@@ -22,10 +22,6 @@ function onDocumentReady(f) {
     //
     // from https://github.com/jmettraux/h.js
 
-function fillClientWidth() {
-
-  elt('#client-width').textContent = '' + document.body.clientWidth + 'px';
-};
 
 onDocumentReady(function() {
 
@@ -39,7 +35,5 @@ onDocumentReady(function() {
     function() {
       var e = elt('#article-legal-information section');
       e.style.display = (e.style.display === 'none') ? 'block' : 'none'; });
-
-  fillClientWidth();
 });
 

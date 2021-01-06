@@ -91,6 +91,18 @@ def make_spells(source_dir)
 
     f.puts('# SPELLS')
     f.puts
+    f.puts('[Top](../index.html)')
+    f.puts
+    f.puts('[By Name](by_name.html)')
+    f.puts('[By Level](by_level.html)')
+    f.puts('[By Class](by_class.html)')
+    f.puts
+  end
+
+  File.open('mds/spells/by_name.md', 'wb') do |f|
+
+    f.puts('# SPELLS')
+    f.puts
 
     by_a_and_name.each do |k, v|
 
@@ -100,7 +112,9 @@ def make_spells(source_dir)
     end
   end
 
-  # TODO
+  File.open('mds/spells/by_level.md', 'wb') do |f|
+  end
+
   File.open('mds/spells/by_class.md', 'wb') do |f|
   end
 

@@ -22,13 +22,18 @@
 <a class="major" href="adventuring.html">Adventuring</a>
 
 <a class="major" href="spellcasting.html">Spellcasting</a>
-<a class="major" href="spell_lists.html">Spell Lists</a>
-<a class="major" href="spells.html">Spells</a>
-<a class="" href="spells/">spells/</a>
+<br />
+<a class="major" href="spells_by_name.html">Spells by Name</a>
+<a class="major" href="spells_by_class.html">Spells by Class</a>
+<a class="major" href="spells_by_level.html">Spells by Level</a>
+<br />
+<a class="major" href="spells.html">All Spells</a>
 
-<a class="major" href="monsters.html">Monsters</a>
 <a class="major" href="monster_statistics.html">Monster Statistics</a>
-
+<br />
+<a class="major" href="monsters_by_name.html">Monsters</a>
+<br />
+<a class="major" href="monsters.html">All Monsters</a>
 
 <br />
 
