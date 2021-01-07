@@ -30,12 +30,13 @@ CHARACTERS = YAML.load_file('etc/characters.yaml')
 
 def make_monsters(src_dir)
 
-  MONSTERS.each { |k, v|
-    v << File.read(File.join(src_dir, '13.monsters.md')) }
-  CREATURES.each { |k, v|
-    v << File.read(File.join(src_dir, '14.creatures.md')) }
-  CHARACTERS.each { |k, v|
-    v << File.read(File.join(src_dir, '15.npcs.md')) }
+  mos = File.read(File.join(src_dir, '13.monsters.md'))
+  crs = File.read(File.join(src_dir, '14.creatures.md'))
+  cas = File.read(File.join(src_dir, '15.npcs.md'))
+
+  MONSTERS.each { |k, v| n, m = v; v << extract_md_monster(mos, n, k, m) }
+  CREATURES.each { |k, v| n, m = v; v << extract_md_monster(crs, n, k, m) }
+  CHARACTERS.each { |k, v| n, m = v; v << extract_md_monster(cas, n, k, m) }
 
   cs = {}
     .merge(MONSTERS).merge(CREATURES).merge(CHARACTERS)
@@ -44,6 +45,10 @@ def make_monsters(src_dir)
       a = k[0]; h[a] << k; h[a].sort!; h }
     .select { |k, v|
       v.any? }
+  rs = cs.inject({}) { |h, (k, v)|
+    r = v.last.match(/\*\*Challenge\*\* ([^ ]+)/)[1]
+    h[r] = ((h[r] || []) << k).sort
+    h }
 
   File.open('mds/monsters.md', 'wb') do |f|
 
@@ -59,20 +64,14 @@ def make_monsters(src_dir)
         f.puts "\n" }
     f.puts
 
-    azs
-      .each { |k, ns|
-#$stderr.puts("* #{k} => #{ns[0, 2]}")
-        ns.each { |n|
-          k, m, s = cs[n]
-#$stderr.puts([ n, k, m ].inspect)
-          f.puts(extract_md_monster(s, k, n, m)) } }
+    azs.each { |k, ns| ns.each { |n| k, m, s = cs[n]; f.puts(s) } }
   end
 
   cs.each do |n, (k, m, s)|
 
     File.open("mds/monsters/#{neutralize_name(n)}.md", 'wb') do |f|
 
-      f.puts(extract_md_monster(s, k, n, m))
+      f.puts(s)
     end
   end
 
@@ -90,6 +89,20 @@ def make_monsters(src_dir)
     end
   end
 
+  File.open('mds/monsters_by_rating.md', 'wb') do |f|
+
+    f.puts('# MONSTERS')
+    f.puts('<p class="subtitle">by rating</a>')
+    f.puts
+
+    rs.keys
+      .sort_by { |v| m = v.match(/^1\/(\d+)$/); m ? (1.0 / m[1].to_f) : v.to_f }
+      .each { |k|
+        f.print "\n**#{k}** "
+        rs[k].each { |n|
+          f.print "[#{n}](monsters/#{neutralize_name(n)}.html) " }
+        f.puts "\n" }
+  end
 
   File.open('mds/monster_statistics.md', 'wb') do |f|
 

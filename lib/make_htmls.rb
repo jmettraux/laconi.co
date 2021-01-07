@@ -35,6 +35,8 @@ class HtmlRender < Redcarpet::Render::HTML
 
   def paragraph(text)
 
+    return text if text.match(/<p class="subtitle"/)
+
     a = []
 
     a << "\n<section>\n" if ! @in_section; @in_section = true
