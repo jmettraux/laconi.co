@@ -7,8 +7,8 @@
 <!-- nada -->
 
 <a class="major" href="human.html">Human</a>
-<a class="major" href="elf.html">Elf</a>
 <a class="major" href="dwarf.html">Dwarf</a>
+<a class="major" href="elf.html">Elf</a>
 
 <a class="major" href="fighter.html">Fighter</a>
 <a class="major" href="rogue.html">Rogue</a>
@@ -37,6 +37,10 @@
 <a class="major" href="monsters_by_rating.html">Monsters by Rating</a>
 <br />
 <a class="major" href="monsters.html">All Monsters</a>
+
+<!--
+<a class="major" href="document.html">Document</a>
+-->
 
 <br />
 

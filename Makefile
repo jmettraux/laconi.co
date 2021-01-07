@@ -23,8 +23,10 @@ md_rules:
 md_ogl:
 	echo "# LEGAL INFORMATION" > mds/ogl.md
 	tail -52 ${SRC}/legal.md >> mds/ogl.md
+md_document:
+	ruby ${LI} -e "make_document" > mds/document.md
 
-md: md_ogl md_races md_classes md_rules md_spells md_monsters
+md: md_ogl md_races md_classes md_rules md_spells md_monsters md_document
 
 html:
 	ruby ${LI} -e "make_htmls"
