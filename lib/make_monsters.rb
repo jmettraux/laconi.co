@@ -3,9 +3,9 @@ def extract_md_monster(path_or_content, name, key, morale)
 
 #$stderr.puts [ name, key, morale ].inspect
   s =
-    extract_md_section(path_or_content, 2, name) ||
-    extract_md_section(path_or_content, 3, name) ||
     extract_md_section(path_or_content, 4, name) ||
+    extract_md_section(path_or_content, 3, name) ||
+    extract_md_section(path_or_content, 2, name) ||
     extract_md_section(path_or_content, 1, name)
 
   i =

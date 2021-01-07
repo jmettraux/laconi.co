@@ -31,6 +31,15 @@ describe 'md_reading.rb' do
       expect(s).to match(/plus 3 \(1d6\) fire damage\.\n\z/)
       expect(s.length).to eq(1116)
     end
+
+    it 'stops when the section ends (Animated Armor)' do
+
+      s = extract_md_section('../ogl_srd5/13.monsters.md', 3, 'Animated Armor')
+
+      expect(s).to match(/\A### Animated Armor\n/)
+      expect(s).to match(/ The armor is incapacitated while in the area of an /)
+      expect(s.length).to eq(1131)
+    end
   end
 end
 
