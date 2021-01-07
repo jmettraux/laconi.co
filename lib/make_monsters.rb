@@ -68,6 +68,29 @@ def make_monsters(src_dir)
           f.puts(extract_md_monster(s, k, n, m)) } }
   end
 
+  cs.each do |n, (k, m, s)|
+
+    File.open("mds/monsters/#{neutralize_name(n)}.md", 'wb') do |f|
+
+      f.puts(extract_md_monster(s, k, n, m))
+    end
+  end
+
+  File.open('mds/monsters_by_name.md', 'wb') do |f|
+
+    f.puts('# MONSTERS')
+    f.puts('<p class="subtitle">by name</a>')
+    f.puts
+
+    azs.each do |k, ns|
+
+      f.print("<strong class=\"key\">#{k}</strong>")
+      ns.each { |n| f.print(" [#{n}](monsters/#{neutralize_name(n)}.html)") }
+      f.puts; f.puts
+    end
+  end
+
+
   File.open('mds/monster_statistics.md', 'wb') do |f|
 
     monsters = File.read(File.join(src_dir, '13.monsters.md'))

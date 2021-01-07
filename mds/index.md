@@ -33,7 +33,8 @@
 
 <a class="major" href="monster_statistics.html">Monster Statistics</a>
 <br />
-<a class="major" href="monsters_by_name.html">Monsters</a>
+<a class="major" href="monsters_by_name.html">Monsters by Name</a>
+<a class="major" href="monsters_by_rating.html">Monsters by Rating</a>
 <br />
 <a class="major" href="monsters.html">All Monsters</a>
 
