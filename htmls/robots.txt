@@ -4,6 +4,7 @@ User-agent: x28-job-bot
 User-agent: MJ12bot
 User-agent: NaverBot
 User-agent: SemrushBot
+User-agent: Barkrowler/0.9
 Disallow: /
 
 User-agent: *
