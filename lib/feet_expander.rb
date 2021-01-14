@@ -3,7 +3,7 @@ module FeetExpander
 
   class << self
 
-    def expand(s)
+    def expand(s, &block)
 
       s
         .gsub(
@@ -11,7 +11,10 @@ module FeetExpander
             (\d+\/)?
             (\d[.,]\d+|[.,]\d+|\d+)[- ]*
             (foot|feet|ft\.?)
-          }xi) { expand_feet($1, $2, $3) }
+          }xi) {
+            s = expand_feet($1, $2, $3)
+            block ? block.call(s) : s
+          }
     end
 
     protected

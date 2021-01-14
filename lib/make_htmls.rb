@@ -101,11 +101,20 @@ def make_html(title, md, out=$stdout)
 
   out.puts make_html_head(title)
 
-  body = renderer.render(c)
+  t =
+    "t is a thirty feet stick (6 squares)\n" +
+    "F is a fourty feet stick (8 squares)\n" +
+    "\n" +
+    "t-2 means '30 feet minus 2 squares' (20ft)\n" +
+    "FFt means '40 + 40 + 30 feet' (110ft)\n" +
+    "15F means '15 times 40 feet' (600ft)"
+
+  b = renderer.render(c)
   if c.match?(/^\*\*Armor Class\*\*\s/) && c.match?(/^| STR /)
-    body = FeetExpander.expand(body)
+    b = FeetExpander.expand(b) { |s|
+      "<span class=\"distance\" title=\"#{t}\">#{s}</span>" }
   end
-  out.puts body
+  out.puts b
 
   if ! [
     'LEGAL INFORMATION', 'LACONI.CO', 'laconi.co colophon',
