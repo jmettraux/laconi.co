@@ -110,7 +110,10 @@ def make_html(title, md, out=$stdout)
     "15F means '15 times 40 feet' (600ft)"
 
   b = renderer.render(c)
-  if c.match?(/^\*\*Armor Class\*\*\s/) && c.match?(/^| STR /)
+  if
+    (c.match?(/^\*\*Armor Class\*\*\s/) && c.match?(/^| STR /)) ||
+    (c.match?(/^\*\*Classes:\*\*\s/) && c.match?(/^\*\*Components:\*\*\s/))
+  then
     b = FeetExpander.expand(b) { |s|
       "<span class=\"distance\" title=\"#{t}\">#{s}</span>" }
   end
