@@ -100,7 +100,12 @@ def make_html(title, md, out=$stdout)
     Redcarpet::Markdown.new(HtmlRender.new({}), { tables: true })
 
   out.puts make_html_head(title)
-  out.puts renderer.render(c)
+
+  body = renderer.render(c)
+  if c.match?(/^\*\*Armor Class\*\*\s/) && c.match?(/^| STR /)
+    body = FeetExpander.expand(body)
+  end
+  out.puts body
 
   if ! [
     'LEGAL INFORMATION', 'LACONI.CO', 'laconi.co colophon',
