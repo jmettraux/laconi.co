@@ -346,7 +346,7 @@ An **axe beak** is a tall flightless bird with strong legs and a heavy, wedge-sh
 
 ***Scimitar.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6 + 1) slashing damage.
 
-***Light Crossbow.*** *Ranged Weapon Attack:* +3 to hit, range 80 ft./320 ft., one target. *Hit:* 5 (1d8 + 1) piercing damage.
+***Light Crossbow.*** *Ranged Weapon Attack:* +3 to hit, range 80/320 ft., one target. *Hit:* 5 (1d8 + 1) piercing damage.
 
 **Bandits** rove in gangs and are sometimes led by thugs, veterans, or spellcasters. Not all bandits are evil. Oppression, drought, disease, or famine can often drive otherwise honest folk to a life of banditry.
 
@@ -6859,7 +6859,7 @@ At will: *detect thoughts*, *disguise self*, *mage hand*, *minor illusion*
 
 ***Multiattack.*** The salamander makes two attacks: one with its spear and one with its tail.
 
-***Spear.*** *Melee or Ranged Weapon Attack:* +7 to hit, reach 5 ft. or range 20 ft./60 ft., one target. *Hit:* 11 (2d6+4) piercing damage, or 13 (2d8+4) piercing damage if used with two hands to make a melee attack, plus 3 (1d6) fire damage.
+***Spear.*** *Melee or Ranged Weapon Attack:* +7 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 11 (2d6+4) piercing damage, or 13 (2d8+4) piercing damage if used with two hands to make a melee attack, plus 3 (1d6) fire damage.
 
 ***Tail.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 11 (2d6+4) bludgeoning damage plus 7 (2d6) fire damage, and the target is grappled (escape DC 14). Until this grapple ends, the target is restrained, the salamander can automatically hit the target with its tail, and the salamander can't make tail attacks against other targets.
 
@@ -8294,7 +8294,7 @@ The vampire can take 3 legendary actions, choosing from the options below. Only 
 
 ***Heavy Crossbow.*** *Ranged Weapon Attack:* +3 to hit, range 100/400 ft., one target. *Hit:* 6 (1d10 + 1) piercing damage.
 
-**Veterans** are professional fighters that take up arms for pay or to protect something they believe in or value. Their ranks include soldiers retired from long service and warriors who never served anyone but themselves
+**Veterans** are professional fighters that take up arms for pay or to protect something they believe in or value. Their ranks include soldiers retired from long service and warriors who never served anyone but themselves.
 
 # Vulture
 
