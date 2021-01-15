@@ -12,8 +12,8 @@ module FeetExpander
             (\d[.,]\d+|[.,]\d+|\d+)[- ]*
             (foot|feet|ft\.?)
           }xi) {
-            s = expand_feet($1, $2, $3)
-            block ? block.call(s) : s
+            r = expand_feet($1, $2, $3)
+            block ? block.call(r) : r
           }
     end
 
@@ -36,41 +36,51 @@ module FeetExpander
 
     def do_expand_feet(range)
 
-      ft = range.to_f; return '0ft' if ft == 0.0
+      ft = range.to_i; return '0ft' if ft == 0
       m = ft * 0.3
       sq = ft * 0.2
 
-      st = to_sticks(ft); st = nil if st.match?(/\A\+\d\z/)
+      st =
+        tost(ft)
+      st =
+        case st
+        when '+5' then 't-1'
+        when '+4' then 't-2'
+        when /^\+/ then nil
+        else st
+        end
 
       [ "#{rtos(ft)}ft", "#{rtos(m)}m", "#{rtos(sq)}sq", st ]
         .compact
         .join('_')
     end
 
-    def to_sticks(ft, reduce=true)
+    def rework_tail(s)
 
-      s =
-        if ft == 150.0
-          'FFFt' # ;-)
-        elsif ft < 20
-          "+#{rtos(ft / 5.0)}"
-        elsif ft < 30
-          "t-#{rtos((30 - ft) / 5.0)}"
-        elsif ft % 40.0 == 0
-          'F' * (ft / 40.0).to_i
-        elsif ft % 30.0 == 0
-          't' * (ft / 30.0).to_i
-        elsif ft < 40
-          "F-#{rtos((40 - ft) / 5.0)}"
-        else
-          'F' + to_sticks(ft - 40, false)
-        end
+      m = s.match(/^([^+]*)(t)\+(\d+)$/); return nil unless m
+      b, t, n = m[1], m[2], m[3].to_i
 
-      return s unless reduce
+      return "#{b}F-1" if n == 1
+      return nil if n < 2
+
+      n = n - 2
+      "F#{b}#{n > 0 ? "+#{n}" : ''}"
+    end
+
+    def tost(ft)
+
+      return '' if ft == 0
+      return "+#{rtos(ft / 5.0)}" if ft < 30
+
+      t1 = ft / 30
+      t1r = ft % 30
+
+      s = "#{'t' * t1}#{tost(t1r)}"
+      while rs = rework_tail(s); s = rs; end
 
       s
-        .gsub(/F+/) { |fs| fs.length > 3 ? "#{fs.length}F" : fs }
-        .gsub(/t+/) { |ts| ts.length > 3 ? "#{ts.length}t" : ts }
+        .gsub(/tttt/, 'FFF')
+        .gsub(/F+/) { |s| s.length > 3 ? "#{s.length}F" : s }
     end
   end
 end
