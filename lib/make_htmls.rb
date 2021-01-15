@@ -115,7 +115,9 @@ def make_html(title, md, out=$stdout)
     (c.match?(/^\*\*Classes:\*\*\s/) && c.match?(/^\*\*Components:\*\*\s/))
   then
     b = FeetExpander.expand(b) { |s|
-      "<span class=\"distance\" title=\"#{t}\">#{s}</span>" }
+      s.match?(/\dsq_/) ?
+        "<span class=\"distance\" title=\"#{t}\">#{s}</span>" :
+        "<span class=\"distance\">#{s}</span>" }
   end
   out.puts b
 
