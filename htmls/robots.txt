@@ -6,6 +6,7 @@ User-agent: NaverBot
 User-agent: SemrushBot
 User-agent: Barkrowler/0.9
 User-agent: Kraken
+User-agent: oBot
 Disallow: /
 
 User-agent: *
