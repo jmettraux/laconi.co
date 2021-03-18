@@ -1,4 +1,5 @@
 User-agent: AhrefsBot
+User-agent: adsbot
 User-agent: Adsbot
 User-agent: x28-job-bot
 User-agent: MJ12bot
@@ -7,6 +8,8 @@ User-agent: SemrushBot
 User-agent: Barkrowler/0.9
 User-agent: Kraken
 User-agent: oBot
+User-agent: BLEXBot
+User-agent: BLEXBot/1.0
 Disallow: /
 
 User-agent: *

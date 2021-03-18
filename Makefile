@@ -35,7 +35,8 @@ s:
 	ruby -run -ehttpd htmls/ -p7003
 
 publish:
-	rsync -azv --delete --delete-excluded \
+	rsync -azv \
+      --delete-excluded \
       --exclude *.swp \
       htmls/ shooto:/var/www/htdocs/laconi.co/
 p: publish
